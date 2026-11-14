@@ -1,0 +1,188 @@
+{
+  "summaries": [
+    {
+      "window": "full",
+      "events": 375,
+      "outcomes": {
+        "transient": 109,
+        "persistent": 262,
+        "right_censored": 4
+      },
+      "clean_sameNa_controls": 375,
+      "full_event_phases": 370,
+      "fixed200_complete": 372
+    },
+    {
+      "window": "common0to20_available",
+      "events": 375,
+      "outcomes": {
+        "transient": 109,
+        "persistent": 262,
+        "right_censored": 4
+      },
+      "clean_sameNa_controls": 375,
+      "full_event_phases": 370,
+      "fixed200_complete": 372
+    },
+    {
+      "window": "after4",
+      "events": 309,
+      "outcomes": {
+        "persistent": 222,
+        "transient": 83,
+        "right_censored": 4
+      },
+      "clean_sameNa_controls": 309,
+      "full_event_phases": 303,
+      "fixed200_complete": 305
+    },
+    {
+      "window": "late10",
+      "events": 179,
+      "outcomes": {
+        "transient": 54,
+        "persistent": 121,
+        "right_censored": 4
+      },
+      "clean_sameNa_controls": 179,
+      "full_event_phases": 172,
+      "fixed200_complete": 174
+    }
+  ],
+  "threshold_sensitivity": [
+    {
+      "window": "full",
+      "threshold_A": 1.2,
+      "n_events": 516,
+      "outcomes": {
+        "persistent": 403,
+        "transient": 103,
+        "right_censored": 8,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.5,
+      "n_events": 375,
+      "outcomes": {
+        "transient": 109,
+        "persistent": 262,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.8,
+      "n_events": 201,
+      "outcomes": {
+        "persistent": 135,
+        "transient": 65,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.2,
+      "n_events": 516,
+      "outcomes": {
+        "persistent": 403,
+        "transient": 103,
+        "right_censored": 8,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.5,
+      "n_events": 375,
+      "outcomes": {
+        "transient": 109,
+        "persistent": 262,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.8,
+      "n_events": 201,
+      "outcomes": {
+        "persistent": 135,
+        "transient": 65,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.2,
+      "n_events": 421,
+      "outcomes": {
+        "persistent": 333,
+        "transient": 78,
+        "right_censored": 8,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.5,
+      "n_events": 309,
+      "outcomes": {
+        "persistent": 222,
+        "transient": 83,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.8,
+      "n_events": 162,
+      "outcomes": {
+        "persistent": 114,
+        "transient": 47,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.2,
+      "n_events": 249,
+      "outcomes": {
+        "transient": 53,
+        "persistent": 186,
+        "right_censored": 8,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.5,
+      "n_events": 179,
+      "outcomes": {
+        "transient": 54,
+        "persistent": 121,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.8,
+      "n_events": 91,
+      "outcomes": {
+        "persistent": 62,
+        "transient": 28,
+        "right_censored": 1
+      }
+    }
+  ],
+  "inherited_code_sha256": "cb67b183d51158d20a1715f21d79c0d1ea12d7adf81d641be3d4ab9c9b139b58",
+  "threshold": {
+    "net_A": 1.5,
+    "span_fs": 200,
+    "straightness_min": 0.7,
+    "post_fs": 200,
+    "pair_gap_fs": 800,
+    "pair_tol_A": 0.35
+  },
+  "rule_events_are_not_true_hop_counts": true
+}

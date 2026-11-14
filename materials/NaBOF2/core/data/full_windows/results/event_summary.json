@@ -1,0 +1,188 @@
+{
+  "summaries": [
+    {
+      "window": "full",
+      "events": 611,
+      "outcomes": {
+        "persistent": 446,
+        "transient": 157,
+        "right_censored": 8
+      },
+      "clean_sameNa_controls": 611,
+      "full_event_phases": 571,
+      "fixed200_complete": 571
+    },
+    {
+      "window": "common0to20_available",
+      "events": 611,
+      "outcomes": {
+        "persistent": 446,
+        "transient": 157,
+        "right_censored": 8
+      },
+      "clean_sameNa_controls": 611,
+      "full_event_phases": 571,
+      "fixed200_complete": 571
+    },
+    {
+      "window": "after4",
+      "events": 459,
+      "outcomes": {
+        "persistent": 326,
+        "transient": 125,
+        "right_censored": 8
+      },
+      "clean_sameNa_controls": 459,
+      "full_event_phases": 443,
+      "fixed200_complete": 443
+    },
+    {
+      "window": "late10",
+      "events": 276,
+      "outcomes": {
+        "persistent": 192,
+        "transient": 76,
+        "right_censored": 8
+      },
+      "clean_sameNa_controls": 276,
+      "full_event_phases": 260,
+      "fixed200_complete": 260
+    }
+  ],
+  "threshold_sensitivity": [
+    {
+      "window": "full",
+      "threshold_A": 1.2,
+      "n_events": 785,
+      "outcomes": {
+        "persistent": 606,
+        "transient": 162,
+        "back_forth": 4,
+        "right_censored": 13
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.5,
+      "n_events": 611,
+      "outcomes": {
+        "persistent": 446,
+        "transient": 157,
+        "right_censored": 8
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.8,
+      "n_events": 395,
+      "outcomes": {
+        "persistent": 276,
+        "transient": 115,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.2,
+      "n_events": 785,
+      "outcomes": {
+        "persistent": 606,
+        "transient": 162,
+        "back_forth": 4,
+        "right_censored": 13
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.5,
+      "n_events": 611,
+      "outcomes": {
+        "persistent": 446,
+        "transient": 157,
+        "right_censored": 8
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.8,
+      "n_events": 395,
+      "outcomes": {
+        "persistent": 276,
+        "transient": 115,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.2,
+      "n_events": 622,
+      "outcomes": {
+        "persistent": 474,
+        "transient": 131,
+        "back_forth": 4,
+        "right_censored": 13
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.5,
+      "n_events": 459,
+      "outcomes": {
+        "persistent": 326,
+        "transient": 125,
+        "right_censored": 8
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.8,
+      "n_events": 293,
+      "outcomes": {
+        "persistent": 197,
+        "transient": 92,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.2,
+      "n_events": 396,
+      "outcomes": {
+        "persistent": 298,
+        "transient": 83,
+        "right_censored": 13,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.5,
+      "n_events": 276,
+      "outcomes": {
+        "persistent": 192,
+        "transient": 76,
+        "right_censored": 8
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.8,
+      "n_events": 167,
+      "outcomes": {
+        "persistent": 108,
+        "transient": 55,
+        "right_censored": 4
+      }
+    }
+  ],
+  "inherited_code_sha256": "cb67b183d51158d20a1715f21d79c0d1ea12d7adf81d641be3d4ab9c9b139b58",
+  "threshold": {
+    "net_A": 1.5,
+    "span_fs": 200,
+    "straightness_min": 0.7,
+    "post_fs": 200,
+    "pair_gap_fs": 800,
+    "pair_tol_A": 0.35
+  },
+  "rule_events_are_not_true_hop_counts": true
+}

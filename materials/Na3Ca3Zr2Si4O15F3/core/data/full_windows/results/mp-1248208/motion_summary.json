@@ -1,0 +1,122 @@
+[
+  {
+    "window": "full",
+    "start_frame": 0,
+    "end_frame": 999,
+    "start_absolute_ps": 0.02,
+    "end_absolute_ps": 20.0,
+    "observed_span_ps": 19.98,
+    "endpoint_MSD_A2": 24.157089098116785,
+    "Na_gt2A": 21,
+    "mean_r90_A": 4.60300276746025,
+    "top1_share": 0.11433540633886045,
+    "top3_share": 0.3029149081990489,
+    "top3_Na_1based": [
+      11,
+      13,
+      10
+    ],
+    "departures": 65,
+    "returns": 43
+  },
+  {
+    "window": "common0to20_available",
+    "start_frame": 0,
+    "end_frame": 999,
+    "start_absolute_ps": 0.02,
+    "end_absolute_ps": 20.0,
+    "observed_span_ps": 19.98,
+    "endpoint_MSD_A2": 24.157089098116785,
+    "Na_gt2A": 21,
+    "mean_r90_A": 4.60300276746025,
+    "top1_share": 0.11433540633886045,
+    "top3_share": 0.3029149081990489,
+    "top3_Na_1based": [
+      11,
+      13,
+      10
+    ],
+    "departures": 65,
+    "returns": 43
+  },
+  {
+    "window": "after4",
+    "start_frame": 199,
+    "end_frame": 999,
+    "start_absolute_ps": 4.0,
+    "end_absolute_ps": 20.0,
+    "observed_span_ps": 16.0,
+    "endpoint_MSD_A2": 17.363204033780995,
+    "Na_gt2A": 19,
+    "mean_r90_A": 3.6030687499608156,
+    "top1_share": 0.16667115833122237,
+    "top3_share": 0.40702732822058524,
+    "top3_Na_1based": [
+      11,
+      10,
+      20
+    ],
+    "departures": 122,
+    "returns": 98
+  },
+  {
+    "window": "fixed4to14",
+    "start_frame": 199,
+    "end_frame": 699,
+    "start_absolute_ps": 4.0,
+    "end_absolute_ps": 14.0,
+    "observed_span_ps": 10.0,
+    "endpoint_MSD_A2": 8.247345958084964,
+    "Na_gt2A": 13,
+    "mean_r90_A": 2.737980713902134,
+    "top1_share": 0.18685940589542444,
+    "top3_share": 0.3989982887523101,
+    "top3_Na_1based": [
+      11,
+      20,
+      19
+    ],
+    "departures": 105,
+    "returns": 81
+  },
+  {
+    "window": "late10",
+    "start_frame": 499,
+    "end_frame": 999,
+    "start_absolute_ps": 10.0,
+    "end_absolute_ps": 20.0,
+    "observed_span_ps": 10.0,
+    "endpoint_MSD_A2": 12.465416313271875,
+    "Na_gt2A": 16,
+    "mean_r90_A": 3.183921272512641,
+    "top1_share": 0.16960578362602147,
+    "top3_share": 0.3743222434260938,
+    "top3_Na_1based": [
+      11,
+      13,
+      19
+    ],
+    "departures": 114,
+    "returns": 92
+  },
+  {
+    "window": "late15",
+    "start_frame": 749,
+    "end_frame": 999,
+    "start_absolute_ps": 15.0,
+    "end_absolute_ps": 20.0,
+    "observed_span_ps": 5.0,
+    "endpoint_MSD_A2": 7.847411528559571,
+    "Na_gt2A": 13,
+    "mean_r90_A": 2.4508487493232605,
+    "top1_share": 0.12234000890893221,
+    "top3_share": 0.34120502388686424,
+    "top3_Na_1based": [
+      22,
+      1,
+      11
+    ],
+    "departures": 85,
+    "returns": 64
+  }
+]

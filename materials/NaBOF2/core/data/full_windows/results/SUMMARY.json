@@ -1,0 +1,371 @@
+{
+  "formula": "NaBOF2",
+  "mp_id": "mp-1194338",
+  "run": "aimd_1200K",
+  "n_materials": 1,
+  "frames": 1000,
+  "atoms": 240,
+  "n_Na": 48,
+  "cell_A": [
+    [
+      13.834805,
+      0.0,
+      0.0
+    ],
+    [
+      6.84413,
+      12.023298,
+      0.0
+    ],
+    [
+      6.556663,
+      3.812223,
+      17.295472
+    ]
+  ],
+  "volume_A3": 2876.9285234188746,
+  "Na_density_Aminus3": 0.01668446039213999,
+  "volume_per_Na_A3": 59.936010904559886,
+  "first_absolute_ps": 0.02,
+  "last_absolute_ps": 20.0,
+  "elapsed_span_ps": 19.98,
+  "common20_complete": false,
+  "common20_available_ps": 19.98,
+  "dt_ps": 0.02,
+  "max_saved_increment_A": 0.9453674767531374,
+  "half_shortest_lattice_sufficient_bound_A": 4.917179472935018,
+  "saved_image_sufficient_certificate": true,
+  "PBC_enumeration": {
+    "complete_for_all_reduced_vectors": true,
+    "integer_extent": [
+      2,
+      2,
+      1
+    ],
+    "candidate_count": 75,
+    "candidate_radius_bound_A": 17.96993931167986
+  },
+  "temperature_blocks": [
+    {
+      "absolute_interval_ps": [
+        0,
+        0.2
+      ],
+      "n_steps": 100,
+      "mean_T_K": 1234.06,
+      "min": {
+        "md_step": 1,
+        "absolute_ps": 0.002,
+        "T_K": 0.0,
+        "E_eV": -1456.4156
+      },
+      "max": {
+        "md_step": 35,
+        "absolute_ps": 0.07,
+        "T_K": 13199.0,
+        "E_eV": -1495.9876
+      },
+      "E_last_minus_first_eV": -17.667599999999993
+    },
+    {
+      "absolute_interval_ps": [
+        0.2,
+        2
+      ],
+      "n_steps": 900,
+      "mean_T_K": 1192.1022222222223,
+      "min": {
+        "md_step": 105,
+        "absolute_ps": 0.21,
+        "T_K": 594.0,
+        "E_eV": -1473.9585
+      },
+      "max": {
+        "md_step": 371,
+        "absolute_ps": 0.742,
+        "T_K": 2420.0,
+        "E_eV": -1474.1855
+      },
+      "E_last_minus_first_eV": -0.21630000000004657
+    },
+    {
+      "absolute_interval_ps": [
+        2,
+        4
+      ],
+      "n_steps": 1000,
+      "mean_T_K": 1201.144,
+      "min": {
+        "md_step": 1043,
+        "absolute_ps": 2.086,
+        "T_K": 1066.0,
+        "E_eV": -1474.2227
+      },
+      "max": {
+        "md_step": 1914,
+        "absolute_ps": 3.828,
+        "T_K": 1385.0,
+        "E_eV": -1474.3841
+      },
+      "E_last_minus_first_eV": -0.09629999999992833
+    },
+    {
+      "absolute_interval_ps": [
+        4,
+        10
+      ],
+      "n_steps": 3000,
+      "mean_T_K": 1199.9286666666667,
+      "min": {
+        "md_step": 3707,
+        "absolute_ps": 7.414,
+        "T_K": 997.0,
+        "E_eV": -1474.5752
+      },
+      "max": {
+        "md_step": 3410,
+        "absolute_ps": 6.82,
+        "T_K": 1416.0,
+        "E_eV": -1474.6011
+      },
+      "E_last_minus_first_eV": -0.4229000000000269
+    },
+    {
+      "absolute_interval_ps": [
+        10,
+        15
+      ],
+      "n_steps": 2500,
+      "mean_T_K": 1199.902,
+      "min": {
+        "md_step": 6629,
+        "absolute_ps": 13.258,
+        "T_K": 1035.0,
+        "E_eV": -1474.865
+      },
+      "max": {
+        "md_step": 6612,
+        "absolute_ps": 13.224,
+        "T_K": 1400.0,
+        "E_eV": -1474.9341
+      },
+      "E_last_minus_first_eV": -0.25919999999996435
+    },
+    {
+      "absolute_interval_ps": [
+        15,
+        20
+      ],
+      "n_steps": 2500,
+      "mean_T_K": 1199.9056,
+      "min": {
+        "md_step": 8641,
+        "absolute_ps": 17.282,
+        "T_K": 996.0,
+        "E_eV": -1475.0744
+      },
+      "max": {
+        "md_step": 8874,
+        "absolute_ps": 17.748,
+        "T_K": 1420.0,
+        "E_eV": -1475.2003
+      },
+      "E_last_minus_first_eV": -0.2261999999998352
+    }
+  ],
+  "motion_windows": [
+    {
+      "window": "full",
+      "start_frame": 0,
+      "end_frame": 999,
+      "start_absolute_ps": 0.02,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 19.98,
+      "endpoint_MSD_A2": 52.04870247467451,
+      "Na_gt2A": 48,
+      "mean_r90_A": 7.244002153751334,
+      "top1_share": 0.05757824241199669,
+      "top3_share": 0.15972100791891283,
+      "top3_Na_1based": [
+        38,
+        26,
+        8
+      ],
+      "departures": 83,
+      "returns": 35
+    },
+    {
+      "window": "common0to20_available",
+      "start_frame": 0,
+      "end_frame": 999,
+      "start_absolute_ps": 0.02,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 19.98,
+      "endpoint_MSD_A2": 52.04870247467451,
+      "Na_gt2A": 48,
+      "mean_r90_A": 7.244002153751334,
+      "top1_share": 0.05757824241199669,
+      "top3_share": 0.15972100791891283,
+      "top3_Na_1based": [
+        38,
+        26,
+        8
+      ],
+      "departures": 83,
+      "returns": 35
+    },
+    {
+      "window": "after4",
+      "start_frame": 199,
+      "end_frame": 999,
+      "start_absolute_ps": 4.0,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 16.0,
+      "endpoint_MSD_A2": 30.6027134555673,
+      "Na_gt2A": 42,
+      "mean_r90_A": 5.3331289618380175,
+      "top1_share": 0.07769915953688376,
+      "top3_share": 0.20990447648890698,
+      "top3_Na_1based": [
+        32,
+        8,
+        19
+      ],
+      "departures": 187,
+      "returns": 139
+    },
+    {
+      "window": "fixed4to14",
+      "start_frame": 199,
+      "end_frame": 699,
+      "start_absolute_ps": 4.0,
+      "end_absolute_ps": 14.0,
+      "observed_span_ps": 10.0,
+      "endpoint_MSD_A2": 20.434332837605723,
+      "Na_gt2A": 38,
+      "mean_r90_A": 4.399386944302729,
+      "top1_share": 0.06641045381112039,
+      "top3_share": 0.18858158628943772,
+      "top3_Na_1based": [
+        8,
+        19,
+        18
+      ],
+      "departures": 171,
+      "returns": 123
+    },
+    {
+      "window": "late10",
+      "start_frame": 499,
+      "end_frame": 999,
+      "start_absolute_ps": 10.0,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 10.0,
+      "endpoint_MSD_A2": 18.743813327652088,
+      "Na_gt2A": 40,
+      "mean_r90_A": 4.231718590987865,
+      "top1_share": 0.0783624007262301,
+      "top3_share": 0.20225693739486586,
+      "top3_Na_1based": [
+        32,
+        38,
+        10
+      ],
+      "departures": 126,
+      "returns": 78
+    },
+    {
+      "window": "late15",
+      "start_frame": 749,
+      "end_frame": 999,
+      "start_absolute_ps": 15.0,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 5.0,
+      "endpoint_MSD_A2": 10.394442637355795,
+      "Na_gt2A": 37,
+      "mean_r90_A": 3.162965647285946,
+      "top1_share": 0.08709145408959268,
+      "top3_share": 0.18463881239625188,
+      "top3_Na_1based": [
+        32,
+        8,
+        23
+      ],
+      "departures": 96,
+      "returns": 49
+    }
+  ],
+  "events": [
+    {
+      "window": "full",
+      "events": 611,
+      "outcomes": {
+        "persistent": 446,
+        "transient": 157,
+        "right_censored": 8
+      },
+      "clean_sameNa_controls": 611,
+      "full_event_phases": 571,
+      "fixed200_complete": 571
+    },
+    {
+      "window": "common0to20_available",
+      "events": 611,
+      "outcomes": {
+        "persistent": 446,
+        "transient": 157,
+        "right_censored": 8
+      },
+      "clean_sameNa_controls": 611,
+      "full_event_phases": 571,
+      "fixed200_complete": 571
+    },
+    {
+      "window": "after4",
+      "events": 459,
+      "outcomes": {
+        "persistent": 326,
+        "transient": 125,
+        "right_censored": 8
+      },
+      "clean_sameNa_controls": 459,
+      "full_event_phases": 443,
+      "fixed200_complete": 443
+    },
+    {
+      "window": "late10",
+      "events": 276,
+      "outcomes": {
+        "persistent": 192,
+        "transient": 76,
+        "right_censored": 8
+      },
+      "clean_sameNa_controls": 276,
+      "full_event_phases": 260,
+      "fixed200_complete": 260
+    }
+  ],
+  "workbook_max_abs_differences_by_reference": {
+    "raw": 1.749030628070539,
+    "host_equal": 1.8849265683215073,
+    "host_mass": 1.8850965993335969,
+    "all_equal": 1.7773645141063845
+  },
+  "fixed_mass_convention_amu": {
+    "Na": 22.98976928,
+    "B": 10.81,
+    "O": 15.999,
+    "F": 18.998403163
+  },
+  "all_input_SHA_unchanged": true,
+  "runtime_s": 1582.5169330769859,
+  "scientific_state": "UNVERIFIED",
+  "publication_authorized": false,
+  "limitations": [
+    "one existing run at 1200K",
+    "initial occupied references not full site universe",
+    "geometry/observational correspondence not energy barriers or causal drive",
+    "no room-temperature extrapolation",
+    "no independently verified parent-site universe or element preference comparison in this worker"
+  ]
+}

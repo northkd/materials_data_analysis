@@ -1,0 +1,11078 @@
+{
+  "controls": [
+    {
+      "event_id": 0,
+      "na": 0,
+      "saved_control_start": 105,
+      "saved_control_end": 126,
+      "full_pre_body_post_range": [
+        95,
+        136
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          24,
+          94
+        ],
+        [
+          156,
+          188
+        ],
+        [
+          505,
+          536
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 1,
+      "na": 0,
+      "saved_control_start": 105,
+      "saved_control_end": 115,
+      "full_pre_body_post_range": [
+        95,
+        125
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          24,
+          94
+        ],
+        [
+          156,
+          188
+        ],
+        [
+          505,
+          536
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 2,
+      "na": 0,
+      "saved_control_start": 199,
+      "saved_control_end": 211,
+      "full_pre_body_post_range": [
+        189,
+        221
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          24,
+          94
+        ],
+        [
+          156,
+          188
+        ],
+        [
+          505,
+          536
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 3,
+      "na": 0,
+      "saved_control_start": 547,
+      "saved_control_end": 558,
+      "full_pre_body_post_range": [
+        537,
+        568
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          24,
+          94
+        ],
+        [
+          156,
+          188
+        ],
+        [
+          505,
+          536
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 4,
+      "na": 1,
+      "saved_control_start": 52,
+      "saved_control_end": 71,
+      "full_pre_body_post_range": [
+        42,
+        81
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 5,
+      "na": 1,
+      "saved_control_start": 150,
+      "saved_control_end": 161,
+      "full_pre_body_post_range": [
+        140,
+        171
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 6,
+      "na": 1,
+      "saved_control_start": 368,
+      "saved_control_end": 389,
+      "full_pre_body_post_range": [
+        358,
+        399
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 7,
+      "na": 1,
+      "saved_control_start": 368,
+      "saved_control_end": 381,
+      "full_pre_body_post_range": [
+        358,
+        391
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 8,
+      "na": 1,
+      "saved_control_start": 368,
+      "saved_control_end": 379,
+      "full_pre_body_post_range": [
+        358,
+        389
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 9,
+      "na": 1,
+      "saved_control_start": 368,
+      "saved_control_end": 380,
+      "full_pre_body_post_range": [
+        358,
+        390
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 10,
+      "na": 1,
+      "saved_control_start": 448,
+      "saved_control_end": 460,
+      "full_pre_body_post_range": [
+        438,
+        470
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 11,
+      "na": 1,
+      "saved_control_start": 670,
+      "saved_control_end": 695,
+      "full_pre_body_post_range": [
+        660,
+        705
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 12,
+      "na": 1,
+      "saved_control_start": 941,
+      "saved_control_end": 966,
+      "full_pre_body_post_range": [
+        931,
+        976
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          41
+        ],
+        [
+          108,
+          139
+        ],
+        [
+          175,
+          216
+        ],
+        [
+          231,
+          264
+        ],
+        [
+          277,
+          308
+        ],
+        [
+          325,
+          357
+        ],
+        [
+          405,
+          437
+        ],
+        [
+          614,
+          659
+        ],
+        [
+          885,
+          930
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 13,
+      "na": 2,
+      "saved_control_start": 340,
+      "saved_control_end": 352,
+      "full_pre_body_post_range": [
+        330,
+        362
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 14,
+      "na": 2,
+      "saved_control_start": 340,
+      "saved_control_end": 354,
+      "full_pre_body_post_range": [
+        330,
+        364
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 15,
+      "na": 2,
+      "saved_control_start": 340,
+      "saved_control_end": 353,
+      "full_pre_body_post_range": [
+        330,
+        363
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 16,
+      "na": 2,
+      "saved_control_start": 684,
+      "saved_control_end": 694,
+      "full_pre_body_post_range": [
+        674,
+        704
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 17,
+      "na": 2,
+      "saved_control_start": 684,
+      "saved_control_end": 695,
+      "full_pre_body_post_range": [
+        674,
+        705
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 18,
+      "na": 2,
+      "saved_control_start": 759,
+      "saved_control_end": 771,
+      "full_pre_body_post_range": [
+        749,
+        781
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 19,
+      "na": 2,
+      "saved_control_start": 859,
+      "saved_control_end": 869,
+      "full_pre_body_post_range": [
+        849,
+        879
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 20,
+      "na": 2,
+      "saved_control_start": 869,
+      "saved_control_end": 883,
+      "full_pre_body_post_range": [
+        859,
+        893
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 21,
+      "na": 2,
+      "saved_control_start": 866,
+      "saved_control_end": 883,
+      "full_pre_body_post_range": [
+        856,
+        893
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          209,
+          241
+        ],
+        [
+          274,
+          329
+        ],
+        [
+          624,
+          673
+        ],
+        [
+          716,
+          748
+        ],
+        [
+          818,
+          848
+        ],
+        [
+          894,
+          928
+        ],
+        [
+          951,
+          988
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 22,
+      "na": 3,
+      "saved_control_start": 87,
+      "saved_control_end": 97,
+      "full_pre_body_post_range": [
+        77,
+        107
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 23,
+      "na": 3,
+      "saved_control_start": 87,
+      "saved_control_end": 107,
+      "full_pre_body_post_range": [
+        77,
+        117
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 24,
+      "na": 3,
+      "saved_control_start": 301,
+      "saved_control_end": 317,
+      "full_pre_body_post_range": [
+        291,
+        327
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 25,
+      "na": 3,
+      "saved_control_start": 301,
+      "saved_control_end": 315,
+      "full_pre_body_post_range": [
+        291,
+        325
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 26,
+      "na": 3,
+      "saved_control_start": 301,
+      "saved_control_end": 312,
+      "full_pre_body_post_range": [
+        291,
+        322
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 27,
+      "na": 3,
+      "saved_control_start": 301,
+      "saved_control_end": 311,
+      "full_pre_body_post_range": [
+        291,
+        321
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 28,
+      "na": 3,
+      "saved_control_start": 301,
+      "saved_control_end": 311,
+      "full_pre_body_post_range": [
+        291,
+        321
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 29,
+      "na": 3,
+      "saved_control_start": 418,
+      "saved_control_end": 429,
+      "full_pre_body_post_range": [
+        408,
+        439
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 30,
+      "na": 3,
+      "saved_control_start": 418,
+      "saved_control_end": 430,
+      "full_pre_body_post_range": [
+        408,
+        440
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 31,
+      "na": 3,
+      "saved_control_start": 594,
+      "saved_control_end": 619,
+      "full_pre_body_post_range": [
+        584,
+        629
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 32,
+      "na": 3,
+      "saved_control_start": 594,
+      "saved_control_end": 616,
+      "full_pre_body_post_range": [
+        584,
+        626
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 33,
+      "na": 3,
+      "saved_control_start": 869,
+      "saved_control_end": 880,
+      "full_pre_body_post_range": [
+        859,
+        890
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 34,
+      "na": 3,
+      "saved_control_start": 869,
+      "saved_control_end": 880,
+      "full_pre_body_post_range": [
+        859,
+        890
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 35,
+      "na": 3,
+      "saved_control_start": 869,
+      "saved_control_end": 892,
+      "full_pre_body_post_range": [
+        859,
+        902
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 36,
+      "na": 3,
+      "saved_control_start": 953,
+      "saved_control_end": 964,
+      "full_pre_body_post_range": [
+        943,
+        974
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          25,
+          76
+        ],
+        [
+          139,
+          194
+        ],
+        [
+          214,
+          290
+        ],
+        [
+          342,
+          373
+        ],
+        [
+          375,
+          407
+        ],
+        [
+          476,
+          521
+        ],
+        [
+          541,
+          583
+        ],
+        [
+          780,
+          858
+        ],
+        [
+          975,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 37,
+      "na": 4,
+      "saved_control_start": 154,
+      "saved_control_end": 165,
+      "full_pre_body_post_range": [
+        144,
+        175
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          112,
+          143
+        ],
+        [
+          228,
+          258
+        ],
+        [
+          271,
+          301
+        ],
+        [
+          312,
+          343
+        ],
+        [
+          486,
+          517
+        ],
+        [
+          588,
+          619
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 38,
+      "na": 4,
+      "saved_control_start": 354,
+      "saved_control_end": 364,
+      "full_pre_body_post_range": [
+        344,
+        374
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          112,
+          143
+        ],
+        [
+          228,
+          258
+        ],
+        [
+          271,
+          301
+        ],
+        [
+          312,
+          343
+        ],
+        [
+          486,
+          517
+        ],
+        [
+          588,
+          619
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 39,
+      "na": 4,
+      "saved_control_start": 354,
+      "saved_control_end": 364,
+      "full_pre_body_post_range": [
+        344,
+        374
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          112,
+          143
+        ],
+        [
+          228,
+          258
+        ],
+        [
+          271,
+          301
+        ],
+        [
+          312,
+          343
+        ],
+        [
+          486,
+          517
+        ],
+        [
+          588,
+          619
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 40,
+      "na": 4,
+      "saved_control_start": 354,
+      "saved_control_end": 365,
+      "full_pre_body_post_range": [
+        344,
+        375
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          112,
+          143
+        ],
+        [
+          228,
+          258
+        ],
+        [
+          271,
+          301
+        ],
+        [
+          312,
+          343
+        ],
+        [
+          486,
+          517
+        ],
+        [
+          588,
+          619
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 41,
+      "na": 4,
+      "saved_control_start": 528,
+      "saved_control_end": 539,
+      "full_pre_body_post_range": [
+        518,
+        549
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          112,
+          143
+        ],
+        [
+          228,
+          258
+        ],
+        [
+          271,
+          301
+        ],
+        [
+          312,
+          343
+        ],
+        [
+          486,
+          517
+        ],
+        [
+          588,
+          619
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 42,
+      "na": 4,
+      "saved_control_start": 630,
+      "saved_control_end": 641,
+      "full_pre_body_post_range": [
+        620,
+        651
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          112,
+          143
+        ],
+        [
+          228,
+          258
+        ],
+        [
+          271,
+          301
+        ],
+        [
+          312,
+          343
+        ],
+        [
+          486,
+          517
+        ],
+        [
+          588,
+          619
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 43,
+      "na": 5,
+      "saved_control_start": 333,
+      "saved_control_end": 343,
+      "full_pre_body_post_range": [
+        323,
+        353
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 44,
+      "na": 5,
+      "saved_control_start": 333,
+      "saved_control_end": 343,
+      "full_pre_body_post_range": [
+        323,
+        353
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 45,
+      "na": 5,
+      "saved_control_start": 333,
+      "saved_control_end": 343,
+      "full_pre_body_post_range": [
+        323,
+        353
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 46,
+      "na": 5,
+      "saved_control_start": 464,
+      "saved_control_end": 474,
+      "full_pre_body_post_range": [
+        454,
+        484
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 47,
+      "na": 5,
+      "saved_control_start": 588,
+      "saved_control_end": 607,
+      "full_pre_body_post_range": [
+        578,
+        617
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 48,
+      "na": 5,
+      "saved_control_start": 783,
+      "saved_control_end": 812,
+      "full_pre_body_post_range": [
+        773,
+        822
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 49,
+      "na": 5,
+      "saved_control_start": 941,
+      "saved_control_end": 951,
+      "full_pre_body_post_range": [
+        931,
+        961
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 50,
+      "na": 5,
+      "saved_control_start": 941,
+      "saved_control_end": 953,
+      "full_pre_body_post_range": [
+        931,
+        963
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 51,
+      "na": 5,
+      "saved_control_start": 941,
+      "saved_control_end": 954,
+      "full_pre_body_post_range": [
+        931,
+        964
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          181,
+          211
+        ],
+        [
+          235,
+          265
+        ],
+        [
+          292,
+          322
+        ],
+        [
+          423,
+          453
+        ],
+        [
+          538,
+          577
+        ],
+        [
+          723,
+          772
+        ],
+        [
+          823,
+          878
+        ],
+        [
+          897,
+          930
+        ],
+        [
+          985,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 52,
+      "na": 6,
+      "saved_control_start": 110,
+      "saved_control_end": 130,
+      "full_pre_body_post_range": [
+        100,
+        140
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          59,
+          99
+        ],
+        [
+          191,
+          223
+        ],
+        [
+          556,
+          590
+        ],
+        [
+          678,
+          710
+        ],
+        [
+          742,
+          773
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 53,
+      "na": 6,
+      "saved_control_start": 234,
+      "saved_control_end": 246,
+      "full_pre_body_post_range": [
+        224,
+        256
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          59,
+          99
+        ],
+        [
+          191,
+          223
+        ],
+        [
+          556,
+          590
+        ],
+        [
+          678,
+          710
+        ],
+        [
+          742,
+          773
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 54,
+      "na": 6,
+      "saved_control_start": 601,
+      "saved_control_end": 615,
+      "full_pre_body_post_range": [
+        591,
+        625
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          59,
+          99
+        ],
+        [
+          191,
+          223
+        ],
+        [
+          556,
+          590
+        ],
+        [
+          678,
+          710
+        ],
+        [
+          742,
+          773
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 55,
+      "na": 6,
+      "saved_control_start": 784,
+      "saved_control_end": 796,
+      "full_pre_body_post_range": [
+        774,
+        806
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          59,
+          99
+        ],
+        [
+          191,
+          223
+        ],
+        [
+          556,
+          590
+        ],
+        [
+          678,
+          710
+        ],
+        [
+          742,
+          773
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 56,
+      "na": 6,
+      "saved_control_start": 784,
+      "saved_control_end": 795,
+      "full_pre_body_post_range": [
+        774,
+        805
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          59,
+          99
+        ],
+        [
+          191,
+          223
+        ],
+        [
+          556,
+          590
+        ],
+        [
+          678,
+          710
+        ],
+        [
+          742,
+          773
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 57,
+      "na": 7,
+      "saved_control_start": 80,
+      "saved_control_end": 91,
+      "full_pre_body_post_range": [
+        70,
+        101
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          38,
+          69
+        ],
+        [
+          308,
+          355
+        ],
+        [
+          420,
+          474
+        ],
+        [
+          586,
+          618
+        ],
+        [
+          958,
+          990
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 58,
+      "na": 7,
+      "saved_control_start": 366,
+      "saved_control_end": 378,
+      "full_pre_body_post_range": [
+        356,
+        388
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          38,
+          69
+        ],
+        [
+          308,
+          355
+        ],
+        [
+          420,
+          474
+        ],
+        [
+          586,
+          618
+        ],
+        [
+          958,
+          990
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 59,
+      "na": 7,
+      "saved_control_start": 366,
+      "saved_control_end": 378,
+      "full_pre_body_post_range": [
+        356,
+        388
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          38,
+          69
+        ],
+        [
+          308,
+          355
+        ],
+        [
+          420,
+          474
+        ],
+        [
+          586,
+          618
+        ],
+        [
+          958,
+          990
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 60,
+      "na": 7,
+      "saved_control_start": 485,
+      "saved_control_end": 497,
+      "full_pre_body_post_range": [
+        475,
+        507
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          38,
+          69
+        ],
+        [
+          308,
+          355
+        ],
+        [
+          420,
+          474
+        ],
+        [
+          586,
+          618
+        ],
+        [
+          958,
+          990
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 61,
+      "na": 7,
+      "saved_control_start": 485,
+      "saved_control_end": 497,
+      "full_pre_body_post_range": [
+        475,
+        507
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          38,
+          69
+        ],
+        [
+          308,
+          355
+        ],
+        [
+          420,
+          474
+        ],
+        [
+          586,
+          618
+        ],
+        [
+          958,
+          990
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 62,
+      "na": 7,
+      "saved_control_start": 629,
+      "saved_control_end": 641,
+      "full_pre_body_post_range": [
+        619,
+        651
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          38,
+          69
+        ],
+        [
+          308,
+          355
+        ],
+        [
+          420,
+          474
+        ],
+        [
+          586,
+          618
+        ],
+        [
+          958,
+          990
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 63,
+      "na": 7,
+      "saved_control_start": 935,
+      "saved_control_end": 947,
+      "full_pre_body_post_range": [
+        925,
+        957
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          38,
+          69
+        ],
+        [
+          308,
+          355
+        ],
+        [
+          420,
+          474
+        ],
+        [
+          586,
+          618
+        ],
+        [
+          958,
+          990
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 64,
+      "na": 8,
+      "saved_control_start": 62,
+      "saved_control_end": 73,
+      "full_pre_body_post_range": [
+        52,
+        83
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 65,
+      "na": 8,
+      "saved_control_start": 360,
+      "saved_control_end": 370,
+      "full_pre_body_post_range": [
+        350,
+        380
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 66,
+      "na": 8,
+      "saved_control_start": 360,
+      "saved_control_end": 371,
+      "full_pre_body_post_range": [
+        350,
+        381
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 67,
+      "na": 8,
+      "saved_control_start": 360,
+      "saved_control_end": 370,
+      "full_pre_body_post_range": [
+        350,
+        380
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 68,
+      "na": 8,
+      "saved_control_start": 360,
+      "saved_control_end": 374,
+      "full_pre_body_post_range": [
+        350,
+        384
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 69,
+      "na": 8,
+      "saved_control_start": 592,
+      "saved_control_end": 603,
+      "full_pre_body_post_range": [
+        582,
+        613
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 70,
+      "na": 8,
+      "saved_control_start": 726,
+      "saved_control_end": 736,
+      "full_pre_body_post_range": [
+        716,
+        746
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 71,
+      "na": 8,
+      "saved_control_start": 828,
+      "saved_control_end": 840,
+      "full_pre_body_post_range": [
+        818,
+        850
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 72,
+      "na": 8,
+      "saved_control_start": 926,
+      "saved_control_end": 938,
+      "full_pre_body_post_range": [
+        916,
+        948
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          20,
+          51
+        ],
+        [
+          184,
+          214
+        ],
+        [
+          239,
+          299
+        ],
+        [
+          315,
+          349
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          685,
+          715
+        ],
+        [
+          785,
+          817
+        ],
+        [
+          883,
+          915
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 73,
+      "na": 9,
+      "saved_control_start": 100,
+      "saved_control_end": 110,
+      "full_pre_body_post_range": [
+        90,
+        120
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 74,
+      "na": 9,
+      "saved_control_start": 100,
+      "saved_control_end": 110,
+      "full_pre_body_post_range": [
+        90,
+        120
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 75,
+      "na": 9,
+      "saved_control_start": 100,
+      "saved_control_end": 110,
+      "full_pre_body_post_range": [
+        90,
+        120
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 76,
+      "na": 9,
+      "saved_control_start": 164,
+      "saved_control_end": 174,
+      "full_pre_body_post_range": [
+        154,
+        184
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 77,
+      "na": 9,
+      "saved_control_start": 272,
+      "saved_control_end": 297,
+      "full_pre_body_post_range": [
+        262,
+        307
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 78,
+      "na": 9,
+      "saved_control_start": 272,
+      "saved_control_end": 284,
+      "full_pre_body_post_range": [
+        262,
+        294
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 79,
+      "na": 9,
+      "saved_control_start": 467,
+      "saved_control_end": 481,
+      "full_pre_body_post_range": [
+        457,
+        491
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 80,
+      "na": 9,
+      "saved_control_start": 467,
+      "saved_control_end": 486,
+      "full_pre_body_post_range": [
+        457,
+        496
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 81,
+      "na": 9,
+      "saved_control_start": 467,
+      "saved_control_end": 477,
+      "full_pre_body_post_range": [
+        457,
+        487
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 82,
+      "na": 9,
+      "saved_control_start": 467,
+      "saved_control_end": 477,
+      "full_pre_body_post_range": [
+        457,
+        487
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 83,
+      "na": 9,
+      "saved_control_start": 601,
+      "saved_control_end": 612,
+      "full_pre_body_post_range": [
+        591,
+        622
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 84,
+      "na": 9,
+      "saved_control_start": 677,
+      "saved_control_end": 697,
+      "full_pre_body_post_range": [
+        667,
+        707
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 85,
+      "na": 9,
+      "saved_control_start": 933,
+      "saved_control_end": 965,
+      "full_pre_body_post_range": [
+        923,
+        975
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          22,
+          89
+        ],
+        [
+          123,
+          153
+        ],
+        [
+          198,
+          261
+        ],
+        [
+          340,
+          422
+        ],
+        [
+          426,
+          456
+        ],
+        [
+          559,
+          590
+        ],
+        [
+          626,
+          666
+        ],
+        [
+          870,
+          922
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 86,
+      "na": 10,
+      "saved_control_start": 37,
+      "saved_control_end": 49,
+      "full_pre_body_post_range": [
+        27,
+        59
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          26
+        ],
+        [
+          151,
+          183
+        ],
+        [
+          440,
+          506
+        ],
+        [
+          778,
+          835
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 87,
+      "na": 10,
+      "saved_control_start": 194,
+      "saved_control_end": 206,
+      "full_pre_body_post_range": [
+        184,
+        216
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          26
+        ],
+        [
+          151,
+          183
+        ],
+        [
+          440,
+          506
+        ],
+        [
+          778,
+          835
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 88,
+      "na": 10,
+      "saved_control_start": 517,
+      "saved_control_end": 532,
+      "full_pre_body_post_range": [
+        507,
+        542
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          26
+        ],
+        [
+          151,
+          183
+        ],
+        [
+          440,
+          506
+        ],
+        [
+          778,
+          835
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 89,
+      "na": 10,
+      "saved_control_start": 517,
+      "saved_control_end": 527,
+      "full_pre_body_post_range": [
+        507,
+        537
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          26
+        ],
+        [
+          151,
+          183
+        ],
+        [
+          440,
+          506
+        ],
+        [
+          778,
+          835
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 90,
+      "na": 10,
+      "saved_control_start": 846,
+      "saved_control_end": 857,
+      "full_pre_body_post_range": [
+        836,
+        867
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          26
+        ],
+        [
+          151,
+          183
+        ],
+        [
+          440,
+          506
+        ],
+        [
+          778,
+          835
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 91,
+      "na": 10,
+      "saved_control_start": 846,
+      "saved_control_end": 857,
+      "full_pre_body_post_range": [
+        836,
+        867
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          26
+        ],
+        [
+          151,
+          183
+        ],
+        [
+          440,
+          506
+        ],
+        [
+          778,
+          835
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 92,
+      "na": 11,
+      "saved_control_start": 277,
+      "saved_control_end": 289,
+      "full_pre_body_post_range": [
+        267,
+        299
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 93,
+      "na": 11,
+      "saved_control_start": 572,
+      "saved_control_end": 583,
+      "full_pre_body_post_range": [
+        562,
+        593
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 94,
+      "na": 11,
+      "saved_control_start": 572,
+      "saved_control_end": 582,
+      "full_pre_body_post_range": [
+        562,
+        592
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 95,
+      "na": 11,
+      "saved_control_start": 707,
+      "saved_control_end": 717,
+      "full_pre_body_post_range": [
+        697,
+        727
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 96,
+      "na": 11,
+      "saved_control_start": 707,
+      "saved_control_end": 726,
+      "full_pre_body_post_range": [
+        697,
+        736
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 97,
+      "na": 11,
+      "saved_control_start": 947,
+      "saved_control_end": 958,
+      "full_pre_body_post_range": [
+        937,
+        968
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 98,
+      "na": 11,
+      "saved_control_start": 947,
+      "saved_control_end": 958,
+      "full_pre_body_post_range": [
+        937,
+        968
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 99,
+      "na": 11,
+      "saved_control_start": 947,
+      "saved_control_end": 958,
+      "full_pre_body_post_range": [
+        937,
+        968
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 100,
+      "na": 11,
+      "saved_control_start": 947,
+      "saved_control_end": 958,
+      "full_pre_body_post_range": [
+        937,
+        968
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 101,
+      "na": 11,
+      "saved_control_start": 947,
+      "saved_control_end": 961,
+      "full_pre_body_post_range": [
+        937,
+        971
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          234,
+          266
+        ],
+        [
+          481,
+          512
+        ],
+        [
+          531,
+          561
+        ],
+        [
+          611,
+          641
+        ],
+        [
+          657,
+          696
+        ],
+        [
+          740,
+          771
+        ],
+        [
+          791,
+          846
+        ],
+        [
+          851,
+          882
+        ],
+        [
+          902,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 102,
+      "na": 12,
+      "saved_control_start": 144,
+      "saved_control_end": 157,
+      "full_pre_body_post_range": [
+        134,
+        167
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          100,
+          133
+        ],
+        [
+          236,
+          267
+        ],
+        [
+          449,
+          501
+        ],
+        [
+          563,
+          596
+        ],
+        [
+          609,
+          641
+        ],
+        [
+          727,
+          759
+        ],
+        [
+          819,
+          852
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 103,
+      "na": 12,
+      "saved_control_start": 278,
+      "saved_control_end": 289,
+      "full_pre_body_post_range": [
+        268,
+        299
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          100,
+          133
+        ],
+        [
+          236,
+          267
+        ],
+        [
+          449,
+          501
+        ],
+        [
+          563,
+          596
+        ],
+        [
+          609,
+          641
+        ],
+        [
+          727,
+          759
+        ],
+        [
+          819,
+          852
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 104,
+      "na": 12,
+      "saved_control_start": 512,
+      "saved_control_end": 544,
+      "full_pre_body_post_range": [
+        502,
+        554
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          100,
+          133
+        ],
+        [
+          236,
+          267
+        ],
+        [
+          449,
+          501
+        ],
+        [
+          563,
+          596
+        ],
+        [
+          609,
+          641
+        ],
+        [
+          727,
+          759
+        ],
+        [
+          819,
+          852
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 105,
+      "na": 12,
+      "saved_control_start": 652,
+      "saved_control_end": 665,
+      "full_pre_body_post_range": [
+        642,
+        675
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          100,
+          133
+        ],
+        [
+          236,
+          267
+        ],
+        [
+          449,
+          501
+        ],
+        [
+          563,
+          596
+        ],
+        [
+          609,
+          641
+        ],
+        [
+          727,
+          759
+        ],
+        [
+          819,
+          852
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 106,
+      "na": 12,
+      "saved_control_start": 652,
+      "saved_control_end": 664,
+      "full_pre_body_post_range": [
+        642,
+        674
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          100,
+          133
+        ],
+        [
+          236,
+          267
+        ],
+        [
+          449,
+          501
+        ],
+        [
+          563,
+          596
+        ],
+        [
+          609,
+          641
+        ],
+        [
+          727,
+          759
+        ],
+        [
+          819,
+          852
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 107,
+      "na": 12,
+      "saved_control_start": 770,
+      "saved_control_end": 782,
+      "full_pre_body_post_range": [
+        760,
+        792
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          100,
+          133
+        ],
+        [
+          236,
+          267
+        ],
+        [
+          449,
+          501
+        ],
+        [
+          563,
+          596
+        ],
+        [
+          609,
+          641
+        ],
+        [
+          727,
+          759
+        ],
+        [
+          819,
+          852
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 108,
+      "na": 12,
+      "saved_control_start": 863,
+      "saved_control_end": 876,
+      "full_pre_body_post_range": [
+        853,
+        886
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          100,
+          133
+        ],
+        [
+          236,
+          267
+        ],
+        [
+          449,
+          501
+        ],
+        [
+          563,
+          596
+        ],
+        [
+          609,
+          641
+        ],
+        [
+          727,
+          759
+        ],
+        [
+          819,
+          852
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 109,
+      "na": 13,
+      "saved_control_start": 103,
+      "saved_control_end": 117,
+      "full_pre_body_post_range": [
+        93,
+        127
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 110,
+      "na": 13,
+      "saved_control_start": 103,
+      "saved_control_end": 113,
+      "full_pre_body_post_range": [
+        93,
+        123
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 111,
+      "na": 13,
+      "saved_control_start": 360,
+      "saved_control_end": 379,
+      "full_pre_body_post_range": [
+        350,
+        389
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 112,
+      "na": 13,
+      "saved_control_start": 360,
+      "saved_control_end": 370,
+      "full_pre_body_post_range": [
+        350,
+        380
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 113,
+      "na": 13,
+      "saved_control_start": 360,
+      "saved_control_end": 371,
+      "full_pre_body_post_range": [
+        350,
+        381
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 114,
+      "na": 13,
+      "saved_control_start": 360,
+      "saved_control_end": 373,
+      "full_pre_body_post_range": [
+        350,
+        383
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 115,
+      "na": 13,
+      "saved_control_start": 360,
+      "saved_control_end": 371,
+      "full_pre_body_post_range": [
+        350,
+        381
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 116,
+      "na": 13,
+      "saved_control_start": 511,
+      "saved_control_end": 532,
+      "full_pre_body_post_range": [
+        501,
+        542
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 117,
+      "na": 13,
+      "saved_control_start": 511,
+      "saved_control_end": 524,
+      "full_pre_body_post_range": [
+        501,
+        534
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 118,
+      "na": 13,
+      "saved_control_start": 675,
+      "saved_control_end": 694,
+      "full_pre_body_post_range": [
+        665,
+        704
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 119,
+      "na": 13,
+      "saved_control_start": 675,
+      "saved_control_end": 687,
+      "full_pre_body_post_range": [
+        665,
+        697
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 120,
+      "na": 13,
+      "saved_control_start": 675,
+      "saved_control_end": 690,
+      "full_pre_body_post_range": [
+        665,
+        700
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 121,
+      "na": 13,
+      "saved_control_start": 794,
+      "saved_control_end": 806,
+      "full_pre_body_post_range": [
+        784,
+        816
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 122,
+      "na": 13,
+      "saved_control_start": 936,
+      "saved_control_end": 947,
+      "full_pre_body_post_range": [
+        926,
+        957
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          32,
+          92
+        ],
+        [
+          141,
+          180
+        ],
+        [
+          182,
+          212
+        ],
+        [
+          228,
+          259
+        ],
+        [
+          290,
+          349
+        ],
+        [
+          409,
+          450
+        ],
+        [
+          467,
+          500
+        ],
+        [
+          573,
+          664
+        ],
+        [
+          751,
+          783
+        ],
+        [
+          894,
+          925
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 123,
+      "na": 14,
+      "saved_control_start": 68,
+      "saved_control_end": 93,
+      "full_pre_body_post_range": [
+        58,
+        103
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          57
+        ],
+        [
+          286,
+          329
+        ],
+        [
+          473,
+          503
+        ],
+        [
+          623,
+          698
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 124,
+      "na": 14,
+      "saved_control_start": 68,
+      "saved_control_end": 78,
+      "full_pre_body_post_range": [
+        58,
+        88
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          57
+        ],
+        [
+          286,
+          329
+        ],
+        [
+          473,
+          503
+        ],
+        [
+          623,
+          698
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 125,
+      "na": 14,
+      "saved_control_start": 340,
+      "saved_control_end": 363,
+      "full_pre_body_post_range": [
+        330,
+        373
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          57
+        ],
+        [
+          286,
+          329
+        ],
+        [
+          473,
+          503
+        ],
+        [
+          623,
+          698
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 126,
+      "na": 14,
+      "saved_control_start": 514,
+      "saved_control_end": 524,
+      "full_pre_body_post_range": [
+        504,
+        534
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          57
+        ],
+        [
+          286,
+          329
+        ],
+        [
+          473,
+          503
+        ],
+        [
+          623,
+          698
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 127,
+      "na": 14,
+      "saved_control_start": 709,
+      "saved_control_end": 732,
+      "full_pre_body_post_range": [
+        699,
+        742
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          57
+        ],
+        [
+          286,
+          329
+        ],
+        [
+          473,
+          503
+        ],
+        [
+          623,
+          698
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 128,
+      "na": 14,
+      "saved_control_start": 709,
+      "saved_control_end": 720,
+      "full_pre_body_post_range": [
+        699,
+        730
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          57
+        ],
+        [
+          286,
+          329
+        ],
+        [
+          473,
+          503
+        ],
+        [
+          623,
+          698
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 129,
+      "na": 14,
+      "saved_control_start": 709,
+      "saved_control_end": 723,
+      "full_pre_body_post_range": [
+        699,
+        733
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          57
+        ],
+        [
+          286,
+          329
+        ],
+        [
+          473,
+          503
+        ],
+        [
+          623,
+          698
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 130,
+      "na": 15,
+      "saved_control_start": 48,
+      "saved_control_end": 71,
+      "full_pre_body_post_range": [
+        38,
+        81
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          37
+        ],
+        [
+          343,
+          377
+        ],
+        [
+          500,
+          533
+        ],
+        [
+          694,
+          726
+        ],
+        [
+          776,
+          807
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 131,
+      "na": 15,
+      "saved_control_start": 388,
+      "saved_control_end": 402,
+      "full_pre_body_post_range": [
+        378,
+        412
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          37
+        ],
+        [
+          343,
+          377
+        ],
+        [
+          500,
+          533
+        ],
+        [
+          694,
+          726
+        ],
+        [
+          776,
+          807
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 132,
+      "na": 15,
+      "saved_control_start": 544,
+      "saved_control_end": 557,
+      "full_pre_body_post_range": [
+        534,
+        567
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          37
+        ],
+        [
+          343,
+          377
+        ],
+        [
+          500,
+          533
+        ],
+        [
+          694,
+          726
+        ],
+        [
+          776,
+          807
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 133,
+      "na": 15,
+      "saved_control_start": 737,
+      "saved_control_end": 749,
+      "full_pre_body_post_range": [
+        727,
+        759
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          37
+        ],
+        [
+          343,
+          377
+        ],
+        [
+          500,
+          533
+        ],
+        [
+          694,
+          726
+        ],
+        [
+          776,
+          807
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 134,
+      "na": 15,
+      "saved_control_start": 818,
+      "saved_control_end": 829,
+      "full_pre_body_post_range": [
+        808,
+        839
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          37
+        ],
+        [
+          343,
+          377
+        ],
+        [
+          500,
+          533
+        ],
+        [
+          694,
+          726
+        ],
+        [
+          776,
+          807
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 135,
+      "na": 16,
+      "saved_control_start": 123,
+      "saved_control_end": 135,
+      "full_pre_body_post_range": [
+        113,
+        145
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 136,
+      "na": 16,
+      "saved_control_start": 123,
+      "saved_control_end": 137,
+      "full_pre_body_post_range": [
+        113,
+        147
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 137,
+      "na": 16,
+      "saved_control_start": 123,
+      "saved_control_end": 134,
+      "full_pre_body_post_range": [
+        113,
+        144
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 138,
+      "na": 16,
+      "saved_control_start": 218,
+      "saved_control_end": 230,
+      "full_pre_body_post_range": [
+        208,
+        240
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 139,
+      "na": 16,
+      "saved_control_start": 424,
+      "saved_control_end": 444,
+      "full_pre_body_post_range": [
+        414,
+        454
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 140,
+      "na": 16,
+      "saved_control_start": 773,
+      "saved_control_end": 784,
+      "full_pre_body_post_range": [
+        763,
+        794
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 141,
+      "na": 16,
+      "saved_control_start": 761,
+      "saved_control_end": 784,
+      "full_pre_body_post_range": [
+        751,
+        794
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 142,
+      "na": 16,
+      "saved_control_start": 773,
+      "saved_control_end": 784,
+      "full_pre_body_post_range": [
+        763,
+        794
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 143,
+      "na": 16,
+      "saved_control_start": 774,
+      "saved_control_end": 784,
+      "full_pre_body_post_range": [
+        764,
+        794
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 144,
+      "na": 16,
+      "saved_control_start": 767,
+      "saved_control_end": 784,
+      "full_pre_body_post_range": [
+        757,
+        794
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 145,
+      "na": 16,
+      "saved_control_start": 774,
+      "saved_control_end": 784,
+      "full_pre_body_post_range": [
+        764,
+        794
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          23,
+          112
+        ],
+        [
+          175,
+          207
+        ],
+        [
+          373,
+          413
+        ],
+        [
+          795,
+          860
+        ],
+        [
+          866,
+          897
+        ],
+        [
+          901,
+          989
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 146,
+      "na": 17,
+      "saved_control_start": 295,
+      "saved_control_end": 328,
+      "full_pre_body_post_range": [
+        285,
+        338
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 147,
+      "na": 17,
+      "saved_control_start": 295,
+      "saved_control_end": 305,
+      "full_pre_body_post_range": [
+        285,
+        315
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 148,
+      "na": 17,
+      "saved_control_start": 536,
+      "saved_control_end": 553,
+      "full_pre_body_post_range": [
+        526,
+        563
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 149,
+      "na": 17,
+      "saved_control_start": 536,
+      "saved_control_end": 555,
+      "full_pre_body_post_range": [
+        526,
+        565
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 150,
+      "na": 17,
+      "saved_control_start": 536,
+      "saved_control_end": 562,
+      "full_pre_body_post_range": [
+        526,
+        572
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 151,
+      "na": 17,
+      "saved_control_start": 665,
+      "saved_control_end": 677,
+      "full_pre_body_post_range": [
+        655,
+        687
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 152,
+      "na": 17,
+      "saved_control_start": 704,
+      "saved_control_end": 715,
+      "full_pre_body_post_range": [
+        694,
+        725
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 153,
+      "na": 17,
+      "saved_control_start": 703,
+      "saved_control_end": 715,
+      "full_pre_body_post_range": [
+        693,
+        725
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 154,
+      "na": 17,
+      "saved_control_start": 704,
+      "saved_control_end": 715,
+      "full_pre_body_post_range": [
+        694,
+        725
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 155,
+      "na": 17,
+      "saved_control_start": 705,
+      "saved_control_end": 715,
+      "full_pre_body_post_range": [
+        695,
+        725
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 156,
+      "na": 17,
+      "saved_control_start": 703,
+      "saved_control_end": 715,
+      "full_pre_body_post_range": [
+        693,
+        725
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 157,
+      "na": 17,
+      "saved_control_start": 685,
+      "saved_control_end": 715,
+      "full_pre_body_post_range": [
+        675,
+        725
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 158,
+      "na": 17,
+      "saved_control_start": 704,
+      "saved_control_end": 715,
+      "full_pre_body_post_range": [
+        694,
+        725
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          210,
+          284
+        ],
+        [
+          392,
+          429
+        ],
+        [
+          454,
+          525
+        ],
+        [
+          622,
+          654
+        ],
+        [
+          726,
+          757
+        ],
+        [
+          762,
+          794
+        ],
+        [
+          805,
+          867
+        ],
+        [
+          884,
+          952
+        ],
+        [
+          978,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 159,
+      "na": 18,
+      "saved_control_start": 318,
+      "saved_control_end": 343,
+      "full_pre_body_post_range": [
+        308,
+        353
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          182,
+          261
+        ],
+        [
+          276,
+          307
+        ],
+        [
+          420,
+          498
+        ],
+        [
+          503,
+          561
+        ],
+        [
+          830,
+          862
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 160,
+      "na": 18,
+      "saved_control_start": 318,
+      "saved_control_end": 333,
+      "full_pre_body_post_range": [
+        308,
+        343
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          182,
+          261
+        ],
+        [
+          276,
+          307
+        ],
+        [
+          420,
+          498
+        ],
+        [
+          503,
+          561
+        ],
+        [
+          830,
+          862
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 161,
+      "na": 18,
+      "saved_control_start": 318,
+      "saved_control_end": 329,
+      "full_pre_body_post_range": [
+        308,
+        339
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          182,
+          261
+        ],
+        [
+          276,
+          307
+        ],
+        [
+          420,
+          498
+        ],
+        [
+          503,
+          561
+        ],
+        [
+          830,
+          862
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 162,
+      "na": 18,
+      "saved_control_start": 572,
+      "saved_control_end": 587,
+      "full_pre_body_post_range": [
+        562,
+        597
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          182,
+          261
+        ],
+        [
+          276,
+          307
+        ],
+        [
+          420,
+          498
+        ],
+        [
+          503,
+          561
+        ],
+        [
+          830,
+          862
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 163,
+      "na": 18,
+      "saved_control_start": 572,
+      "saved_control_end": 598,
+      "full_pre_body_post_range": [
+        562,
+        608
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          182,
+          261
+        ],
+        [
+          276,
+          307
+        ],
+        [
+          420,
+          498
+        ],
+        [
+          503,
+          561
+        ],
+        [
+          830,
+          862
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 164,
+      "na": 18,
+      "saved_control_start": 572,
+      "saved_control_end": 583,
+      "full_pre_body_post_range": [
+        562,
+        593
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          182,
+          261
+        ],
+        [
+          276,
+          307
+        ],
+        [
+          420,
+          498
+        ],
+        [
+          503,
+          561
+        ],
+        [
+          830,
+          862
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 165,
+      "na": 18,
+      "saved_control_start": 572,
+      "saved_control_end": 584,
+      "full_pre_body_post_range": [
+        562,
+        594
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          182,
+          261
+        ],
+        [
+          276,
+          307
+        ],
+        [
+          420,
+          498
+        ],
+        [
+          503,
+          561
+        ],
+        [
+          830,
+          862
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 166,
+      "na": 18,
+      "saved_control_start": 873,
+      "saved_control_end": 885,
+      "full_pre_body_post_range": [
+        863,
+        895
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          182,
+          261
+        ],
+        [
+          276,
+          307
+        ],
+        [
+          420,
+          498
+        ],
+        [
+          503,
+          561
+        ],
+        [
+          830,
+          862
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 167,
+      "na": 19,
+      "saved_control_start": 532,
+      "saved_control_end": 544,
+      "full_pre_body_post_range": [
+        522,
+        554
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          427,
+          459
+        ],
+        [
+          477,
+          521
+        ],
+        [
+          615,
+          657
+        ],
+        [
+          743,
+          844
+        ],
+        [
+          919,
+          951
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 168,
+      "na": 19,
+      "saved_control_start": 532,
+      "saved_control_end": 556,
+      "full_pre_body_post_range": [
+        522,
+        566
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          427,
+          459
+        ],
+        [
+          477,
+          521
+        ],
+        [
+          615,
+          657
+        ],
+        [
+          743,
+          844
+        ],
+        [
+          919,
+          951
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 169,
+      "na": 19,
+      "saved_control_start": 668,
+      "saved_control_end": 690,
+      "full_pre_body_post_range": [
+        658,
+        700
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          427,
+          459
+        ],
+        [
+          477,
+          521
+        ],
+        [
+          615,
+          657
+        ],
+        [
+          743,
+          844
+        ],
+        [
+          919,
+          951
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 170,
+      "na": 19,
+      "saved_control_start": 855,
+      "saved_control_end": 866,
+      "full_pre_body_post_range": [
+        845,
+        876
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          427,
+          459
+        ],
+        [
+          477,
+          521
+        ],
+        [
+          615,
+          657
+        ],
+        [
+          743,
+          844
+        ],
+        [
+          919,
+          951
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 171,
+      "na": 19,
+      "saved_control_start": 855,
+      "saved_control_end": 868,
+      "full_pre_body_post_range": [
+        845,
+        878
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          427,
+          459
+        ],
+        [
+          477,
+          521
+        ],
+        [
+          615,
+          657
+        ],
+        [
+          743,
+          844
+        ],
+        [
+          919,
+          951
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 172,
+      "na": 19,
+      "saved_control_start": 855,
+      "saved_control_end": 896,
+      "full_pre_body_post_range": [
+        845,
+        906
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          427,
+          459
+        ],
+        [
+          477,
+          521
+        ],
+        [
+          615,
+          657
+        ],
+        [
+          743,
+          844
+        ],
+        [
+          919,
+          951
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 173,
+      "na": 19,
+      "saved_control_start": 962,
+      "saved_control_end": 974,
+      "full_pre_body_post_range": [
+        952,
+        984
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          427,
+          459
+        ],
+        [
+          477,
+          521
+        ],
+        [
+          615,
+          657
+        ],
+        [
+          743,
+          844
+        ],
+        [
+          919,
+          951
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 174,
+      "na": 20,
+      "saved_control_start": 341,
+      "saved_control_end": 361,
+      "full_pre_body_post_range": [
+        331,
+        371
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          247,
+          287
+        ],
+        [
+          298,
+          330
+        ],
+        [
+          875,
+          914
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 175,
+      "na": 20,
+      "saved_control_start": 341,
+      "saved_control_end": 353,
+      "full_pre_body_post_range": [
+        331,
+        363
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          247,
+          287
+        ],
+        [
+          298,
+          330
+        ],
+        [
+          875,
+          914
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 176,
+      "na": 20,
+      "saved_control_start": 925,
+      "saved_control_end": 944,
+      "full_pre_body_post_range": [
+        915,
+        954
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          247,
+          287
+        ],
+        [
+          298,
+          330
+        ],
+        [
+          875,
+          914
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 177,
+      "na": 21,
+      "saved_control_start": 188,
+      "saved_control_end": 198,
+      "full_pre_body_post_range": [
+        178,
+        208
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          147,
+          177
+        ],
+        [
+          475,
+          507
+        ],
+        [
+          847,
+          880
+        ],
+        [
+          983,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 178,
+      "na": 21,
+      "saved_control_start": 518,
+      "saved_control_end": 530,
+      "full_pre_body_post_range": [
+        508,
+        540
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          147,
+          177
+        ],
+        [
+          475,
+          507
+        ],
+        [
+          847,
+          880
+        ],
+        [
+          983,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 179,
+      "na": 21,
+      "saved_control_start": 891,
+      "saved_control_end": 904,
+      "full_pre_body_post_range": [
+        881,
+        914
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          147,
+          177
+        ],
+        [
+          475,
+          507
+        ],
+        [
+          847,
+          880
+        ],
+        [
+          983,
+          999
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 180,
+      "na": 22,
+      "saved_control_start": 500,
+      "saved_control_end": 512,
+      "full_pre_body_post_range": [
+        490,
+        522
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          383,
+          489
+        ],
+        [
+          641,
+          671
+        ],
+        [
+          689,
+          720
+        ],
+        [
+          764,
+          794
+        ],
+        [
+          799,
+          831
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 181,
+      "na": 22,
+      "saved_control_start": 500,
+      "saved_control_end": 510,
+      "full_pre_body_post_range": [
+        490,
+        520
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          383,
+          489
+        ],
+        [
+          641,
+          671
+        ],
+        [
+          689,
+          720
+        ],
+        [
+          764,
+          794
+        ],
+        [
+          799,
+          831
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 182,
+      "na": 22,
+      "saved_control_start": 500,
+      "saved_control_end": 512,
+      "full_pre_body_post_range": [
+        490,
+        522
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          383,
+          489
+        ],
+        [
+          641,
+          671
+        ],
+        [
+          689,
+          720
+        ],
+        [
+          764,
+          794
+        ],
+        [
+          799,
+          831
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 183,
+      "na": 22,
+      "saved_control_start": 500,
+      "saved_control_end": 521,
+      "full_pre_body_post_range": [
+        490,
+        531
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          383,
+          489
+        ],
+        [
+          641,
+          671
+        ],
+        [
+          689,
+          720
+        ],
+        [
+          764,
+          794
+        ],
+        [
+          799,
+          831
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 184,
+      "na": 22,
+      "saved_control_start": 731,
+      "saved_control_end": 741,
+      "full_pre_body_post_range": [
+        721,
+        751
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          383,
+          489
+        ],
+        [
+          641,
+          671
+        ],
+        [
+          689,
+          720
+        ],
+        [
+          764,
+          794
+        ],
+        [
+          799,
+          831
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 185,
+      "na": 22,
+      "saved_control_start": 731,
+      "saved_control_end": 742,
+      "full_pre_body_post_range": [
+        721,
+        752
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          383,
+          489
+        ],
+        [
+          641,
+          671
+        ],
+        [
+          689,
+          720
+        ],
+        [
+          764,
+          794
+        ],
+        [
+          799,
+          831
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 186,
+      "na": 22,
+      "saved_control_start": 842,
+      "saved_control_end": 852,
+      "full_pre_body_post_range": [
+        832,
+        862
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          383,
+          489
+        ],
+        [
+          641,
+          671
+        ],
+        [
+          689,
+          720
+        ],
+        [
+          764,
+          794
+        ],
+        [
+          799,
+          831
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 187,
+      "na": 22,
+      "saved_control_start": 842,
+      "saved_control_end": 854,
+      "full_pre_body_post_range": [
+        832,
+        864
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          383,
+          489
+        ],
+        [
+          641,
+          671
+        ],
+        [
+          689,
+          720
+        ],
+        [
+          764,
+          794
+        ],
+        [
+          799,
+          831
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 188,
+      "na": 23,
+      "saved_control_start": 43,
+      "saved_control_end": 53,
+      "full_pre_body_post_range": [
+        33,
+        63
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          32
+        ],
+        [
+          152,
+          182
+        ],
+        [
+          267,
+          298
+        ],
+        [
+          465,
+          509
+        ],
+        [
+          514,
+          547
+        ],
+        [
+          635,
+          666
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 189,
+      "na": 23,
+      "saved_control_start": 193,
+      "saved_control_end": 203,
+      "full_pre_body_post_range": [
+        183,
+        213
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          32
+        ],
+        [
+          152,
+          182
+        ],
+        [
+          267,
+          298
+        ],
+        [
+          465,
+          509
+        ],
+        [
+          514,
+          547
+        ],
+        [
+          635,
+          666
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 190,
+      "na": 23,
+      "saved_control_start": 309,
+      "saved_control_end": 320,
+      "full_pre_body_post_range": [
+        299,
+        330
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          32
+        ],
+        [
+          152,
+          182
+        ],
+        [
+          267,
+          298
+        ],
+        [
+          465,
+          509
+        ],
+        [
+          514,
+          547
+        ],
+        [
+          635,
+          666
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 191,
+      "na": 23,
+      "saved_control_start": 558,
+      "saved_control_end": 582,
+      "full_pre_body_post_range": [
+        548,
+        592
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          32
+        ],
+        [
+          152,
+          182
+        ],
+        [
+          267,
+          298
+        ],
+        [
+          465,
+          509
+        ],
+        [
+          514,
+          547
+        ],
+        [
+          635,
+          666
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 192,
+      "na": 23,
+      "saved_control_start": 558,
+      "saved_control_end": 571,
+      "full_pre_body_post_range": [
+        548,
+        581
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          32
+        ],
+        [
+          152,
+          182
+        ],
+        [
+          267,
+          298
+        ],
+        [
+          465,
+          509
+        ],
+        [
+          514,
+          547
+        ],
+        [
+          635,
+          666
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 193,
+      "na": 23,
+      "saved_control_start": 677,
+      "saved_control_end": 688,
+      "full_pre_body_post_range": [
+        667,
+        698
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          2,
+          32
+        ],
+        [
+          152,
+          182
+        ],
+        [
+          267,
+          298
+        ],
+        [
+          465,
+          509
+        ],
+        [
+          514,
+          547
+        ],
+        [
+          635,
+          666
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 194,
+      "na": 24,
+      "saved_control_start": 79,
+      "saved_control_end": 90,
+      "full_pre_body_post_range": [
+        69,
+        100
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          37,
+          68
+        ],
+        [
+          653,
+          684
+        ],
+        [
+          695,
+          726
+        ],
+        [
+          737,
+          768
+        ],
+        [
+          849,
+          880
+        ],
+        [
+          892,
+          944
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 195,
+      "na": 24,
+      "saved_control_start": 779,
+      "saved_control_end": 790,
+      "full_pre_body_post_range": [
+        769,
+        800
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          37,
+          68
+        ],
+        [
+          653,
+          684
+        ],
+        [
+          695,
+          726
+        ],
+        [
+          737,
+          768
+        ],
+        [
+          849,
+          880
+        ],
+        [
+          892,
+          944
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 196,
+      "na": 24,
+      "saved_control_start": 779,
+      "saved_control_end": 790,
+      "full_pre_body_post_range": [
+        769,
+        800
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          37,
+          68
+        ],
+        [
+          653,
+          684
+        ],
+        [
+          695,
+          726
+        ],
+        [
+          737,
+          768
+        ],
+        [
+          849,
+          880
+        ],
+        [
+          892,
+          944
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 197,
+      "na": 24,
+      "saved_control_start": 779,
+      "saved_control_end": 790,
+      "full_pre_body_post_range": [
+        769,
+        800
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          37,
+          68
+        ],
+        [
+          653,
+          684
+        ],
+        [
+          695,
+          726
+        ],
+        [
+          737,
+          768
+        ],
+        [
+          849,
+          880
+        ],
+        [
+          892,
+          944
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 198,
+      "na": 24,
+      "saved_control_start": 955,
+      "saved_control_end": 966,
+      "full_pre_body_post_range": [
+        945,
+        976
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          37,
+          68
+        ],
+        [
+          653,
+          684
+        ],
+        [
+          695,
+          726
+        ],
+        [
+          737,
+          768
+        ],
+        [
+          849,
+          880
+        ],
+        [
+          892,
+          944
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 199,
+      "na": 24,
+      "saved_control_start": 955,
+      "saved_control_end": 968,
+      "full_pre_body_post_range": [
+        945,
+        978
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          37,
+          68
+        ],
+        [
+          653,
+          684
+        ],
+        [
+          695,
+          726
+        ],
+        [
+          737,
+          768
+        ],
+        [
+          849,
+          880
+        ],
+        [
+          892,
+          944
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 200,
+      "na": 24,
+      "saved_control_start": 955,
+      "saved_control_end": 967,
+      "full_pre_body_post_range": [
+        945,
+        977
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          37,
+          68
+        ],
+        [
+          653,
+          684
+        ],
+        [
+          695,
+          726
+        ],
+        [
+          737,
+          768
+        ],
+        [
+          849,
+          880
+        ],
+        [
+          892,
+          944
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 201,
+      "na": 25,
+      "saved_control_start": 97,
+      "saved_control_end": 108,
+      "full_pre_body_post_range": [
+        87,
+        118
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 202,
+      "na": 25,
+      "saved_control_start": 97,
+      "saved_control_end": 109,
+      "full_pre_body_post_range": [
+        87,
+        119
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 203,
+      "na": 25,
+      "saved_control_start": 97,
+      "saved_control_end": 108,
+      "full_pre_body_post_range": [
+        87,
+        118
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 204,
+      "na": 25,
+      "saved_control_start": 184,
+      "saved_control_end": 194,
+      "full_pre_body_post_range": [
+        174,
+        204
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 205,
+      "na": 25,
+      "saved_control_start": 442,
+      "saved_control_end": 452,
+      "full_pre_body_post_range": [
+        432,
+        462
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 206,
+      "na": 25,
+      "saved_control_start": 442,
+      "saved_control_end": 454,
+      "full_pre_body_post_range": [
+        432,
+        464
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 207,
+      "na": 25,
+      "saved_control_start": 710,
+      "saved_control_end": 736,
+      "full_pre_body_post_range": [
+        700,
+        746
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 208,
+      "na": 25,
+      "saved_control_start": 710,
+      "saved_control_end": 721,
+      "full_pre_body_post_range": [
+        700,
+        731
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 209,
+      "na": 25,
+      "saved_control_start": 879,
+      "saved_control_end": 891,
+      "full_pre_body_post_range": [
+        869,
+        901
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 210,
+      "na": 25,
+      "saved_control_start": 879,
+      "saved_control_end": 891,
+      "full_pre_body_post_range": [
+        869,
+        901
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          30
+        ],
+        [
+          36,
+          86
+        ],
+        [
+          143,
+          173
+        ],
+        [
+          377,
+          431
+        ],
+        [
+          640,
+          699
+        ],
+        [
+          902,
+          934
+        ],
+        [
+          941,
+          973
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 211,
+      "na": 26,
+      "saved_control_start": 84,
+      "saved_control_end": 95,
+      "full_pre_body_post_range": [
+        74,
+        105
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 212,
+      "na": 26,
+      "saved_control_start": 209,
+      "saved_control_end": 244,
+      "full_pre_body_post_range": [
+        199,
+        254
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 213,
+      "na": 26,
+      "saved_control_start": 679,
+      "saved_control_end": 689,
+      "full_pre_body_post_range": [
+        669,
+        699
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 214,
+      "na": 26,
+      "saved_control_start": 679,
+      "saved_control_end": 689,
+      "full_pre_body_post_range": [
+        669,
+        699
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 215,
+      "na": 26,
+      "saved_control_start": 679,
+      "saved_control_end": 690,
+      "full_pre_body_post_range": [
+        669,
+        700
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 216,
+      "na": 26,
+      "saved_control_start": 679,
+      "saved_control_end": 692,
+      "full_pre_body_post_range": [
+        669,
+        702
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 217,
+      "na": 26,
+      "saved_control_start": 679,
+      "saved_control_end": 714,
+      "full_pre_body_post_range": [
+        669,
+        724
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 218,
+      "na": 26,
+      "saved_control_start": 808,
+      "saved_control_end": 818,
+      "full_pre_body_post_range": [
+        798,
+        828
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 219,
+      "na": 26,
+      "saved_control_start": 947,
+      "saved_control_end": 959,
+      "full_pre_body_post_range": [
+        937,
+        969
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          42,
+          73
+        ],
+        [
+          143,
+          198
+        ],
+        [
+          471,
+          528
+        ],
+        [
+          550,
+          581
+        ],
+        [
+          597,
+          668
+        ],
+        [
+          767,
+          797
+        ],
+        [
+          904,
+          936
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 220,
+      "na": 27,
+      "saved_control_start": 115,
+      "saved_control_end": 125,
+      "full_pre_body_post_range": [
+        105,
+        135
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 221,
+      "na": 27,
+      "saved_control_start": 196,
+      "saved_control_end": 221,
+      "full_pre_body_post_range": [
+        186,
+        231
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 222,
+      "na": 27,
+      "saved_control_start": 513,
+      "saved_control_end": 527,
+      "full_pre_body_post_range": [
+        503,
+        537
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 223,
+      "na": 27,
+      "saved_control_start": 513,
+      "saved_control_end": 525,
+      "full_pre_body_post_range": [
+        503,
+        535
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 224,
+      "na": 27,
+      "saved_control_start": 869,
+      "saved_control_end": 881,
+      "full_pre_body_post_range": [
+        859,
+        891
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 225,
+      "na": 27,
+      "saved_control_start": 869,
+      "saved_control_end": 881,
+      "full_pre_body_post_range": [
+        859,
+        891
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 226,
+      "na": 27,
+      "saved_control_start": 869,
+      "saved_control_end": 880,
+      "full_pre_body_post_range": [
+        859,
+        890
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 227,
+      "na": 27,
+      "saved_control_start": 869,
+      "saved_control_end": 879,
+      "full_pre_body_post_range": [
+        859,
+        889
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 228,
+      "na": 27,
+      "saved_control_start": 869,
+      "saved_control_end": 885,
+      "full_pre_body_post_range": [
+        859,
+        895
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 229,
+      "na": 27,
+      "saved_control_start": 923,
+      "saved_control_end": 934,
+      "full_pre_body_post_range": [
+        913,
+        944
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          74,
+          104
+        ],
+        [
+          140,
+          185
+        ],
+        [
+          439,
+          502
+        ],
+        [
+          672,
+          760
+        ],
+        [
+          769,
+          799
+        ],
+        [
+          822,
+          858
+        ],
+        [
+          945,
+          976
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 230,
+      "na": 28,
+      "saved_control_start": 36,
+      "saved_control_end": 48,
+      "full_pre_body_post_range": [
+        26,
+        58
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          25
+        ],
+        [
+          91,
+          122
+        ],
+        [
+          232,
+          263
+        ],
+        [
+          584,
+          614
+        ],
+        [
+          733,
+          769
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 231,
+      "na": 28,
+      "saved_control_start": 133,
+      "saved_control_end": 144,
+      "full_pre_body_post_range": [
+        123,
+        154
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          25
+        ],
+        [
+          91,
+          122
+        ],
+        [
+          232,
+          263
+        ],
+        [
+          584,
+          614
+        ],
+        [
+          733,
+          769
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 232,
+      "na": 28,
+      "saved_control_start": 274,
+      "saved_control_end": 285,
+      "full_pre_body_post_range": [
+        264,
+        295
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          25
+        ],
+        [
+          91,
+          122
+        ],
+        [
+          232,
+          263
+        ],
+        [
+          584,
+          614
+        ],
+        [
+          733,
+          769
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 233,
+      "na": 28,
+      "saved_control_start": 625,
+      "saved_control_end": 635,
+      "full_pre_body_post_range": [
+        615,
+        645
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          25
+        ],
+        [
+          91,
+          122
+        ],
+        [
+          232,
+          263
+        ],
+        [
+          584,
+          614
+        ],
+        [
+          733,
+          769
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 234,
+      "na": 28,
+      "saved_control_start": 780,
+      "saved_control_end": 796,
+      "full_pre_body_post_range": [
+        770,
+        806
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          0,
+          25
+        ],
+        [
+          91,
+          122
+        ],
+        [
+          232,
+          263
+        ],
+        [
+          584,
+          614
+        ],
+        [
+          733,
+          769
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 235,
+      "na": 29,
+      "saved_control_start": 114,
+      "saved_control_end": 127,
+      "full_pre_body_post_range": [
+        104,
+        137
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          70,
+          103
+        ],
+        [
+          321,
+          355
+        ],
+        [
+          662,
+          692
+        ],
+        [
+          700,
+          732
+        ],
+        [
+          768,
+          805
+        ],
+        [
+          867,
+          900
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 236,
+      "na": 29,
+      "saved_control_start": 366,
+      "saved_control_end": 380,
+      "full_pre_body_post_range": [
+        356,
+        390
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          70,
+          103
+        ],
+        [
+          321,
+          355
+        ],
+        [
+          662,
+          692
+        ],
+        [
+          700,
+          732
+        ],
+        [
+          768,
+          805
+        ],
+        [
+          867,
+          900
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 237,
+      "na": 29,
+      "saved_control_start": 743,
+      "saved_control_end": 753,
+      "full_pre_body_post_range": [
+        733,
+        763
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          70,
+          103
+        ],
+        [
+          321,
+          355
+        ],
+        [
+          662,
+          692
+        ],
+        [
+          700,
+          732
+        ],
+        [
+          768,
+          805
+        ],
+        [
+          867,
+          900
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 238,
+      "na": 29,
+      "saved_control_start": 743,
+      "saved_control_end": 755,
+      "full_pre_body_post_range": [
+        733,
+        765
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          70,
+          103
+        ],
+        [
+          321,
+          355
+        ],
+        [
+          662,
+          692
+        ],
+        [
+          700,
+          732
+        ],
+        [
+          768,
+          805
+        ],
+        [
+          867,
+          900
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 239,
+      "na": 29,
+      "saved_control_start": 816,
+      "saved_control_end": 833,
+      "full_pre_body_post_range": [
+        806,
+        843
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          70,
+          103
+        ],
+        [
+          321,
+          355
+        ],
+        [
+          662,
+          692
+        ],
+        [
+          700,
+          732
+        ],
+        [
+          768,
+          805
+        ],
+        [
+          867,
+          900
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 240,
+      "na": 29,
+      "saved_control_start": 911,
+      "saved_control_end": 924,
+      "full_pre_body_post_range": [
+        901,
+        934
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          70,
+          103
+        ],
+        [
+          321,
+          355
+        ],
+        [
+          662,
+          692
+        ],
+        [
+          700,
+          732
+        ],
+        [
+          768,
+          805
+        ],
+        [
+          867,
+          900
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 241,
+      "na": 30,
+      "saved_control_start": 85,
+      "saved_control_end": 95,
+      "full_pre_body_post_range": [
+        75,
+        105
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 242,
+      "na": 30,
+      "saved_control_start": 200,
+      "saved_control_end": 211,
+      "full_pre_body_post_range": [
+        190,
+        221
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 243,
+      "na": 30,
+      "saved_control_start": 302,
+      "saved_control_end": 318,
+      "full_pre_body_post_range": [
+        292,
+        328
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 244,
+      "na": 30,
+      "saved_control_start": 543,
+      "saved_control_end": 555,
+      "full_pre_body_post_range": [
+        533,
+        565
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 245,
+      "na": 30,
+      "saved_control_start": 741,
+      "saved_control_end": 752,
+      "full_pre_body_post_range": [
+        731,
+        762
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 246,
+      "na": 30,
+      "saved_control_start": 735,
+      "saved_control_end": 752,
+      "full_pre_body_post_range": [
+        725,
+        762
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 247,
+      "na": 30,
+      "saved_control_start": 730,
+      "saved_control_end": 752,
+      "full_pre_body_post_range": [
+        720,
+        762
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 248,
+      "na": 30,
+      "saved_control_start": 731,
+      "saved_control_end": 752,
+      "full_pre_body_post_range": [
+        721,
+        762
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 249,
+      "na": 30,
+      "saved_control_start": 738,
+      "saved_control_end": 752,
+      "full_pre_body_post_range": [
+        728,
+        762
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          44,
+          74
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          255,
+          291
+        ],
+        [
+          500,
+          532
+        ],
+        [
+          763,
+          794
+        ],
+        [
+          826,
+          863
+        ],
+        [
+          889,
+          993
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 250,
+      "na": 31,
+      "saved_control_start": 101,
+      "saved_control_end": 111,
+      "full_pre_body_post_range": [
+        91,
+        121
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 251,
+      "na": 31,
+      "saved_control_start": 200,
+      "saved_control_end": 211,
+      "full_pre_body_post_range": [
+        190,
+        221
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 252,
+      "na": 31,
+      "saved_control_start": 389,
+      "saved_control_end": 403,
+      "full_pre_body_post_range": [
+        379,
+        413
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 253,
+      "na": 31,
+      "saved_control_start": 389,
+      "saved_control_end": 401,
+      "full_pre_body_post_range": [
+        379,
+        411
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 254,
+      "na": 31,
+      "saved_control_start": 389,
+      "saved_control_end": 401,
+      "full_pre_body_post_range": [
+        379,
+        411
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 255,
+      "na": 31,
+      "saved_control_start": 490,
+      "saved_control_end": 501,
+      "full_pre_body_post_range": [
+        480,
+        511
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 256,
+      "na": 31,
+      "saved_control_start": 824,
+      "saved_control_end": 838,
+      "full_pre_body_post_range": [
+        814,
+        848
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 257,
+      "na": 31,
+      "saved_control_start": 823,
+      "saved_control_end": 838,
+      "full_pre_body_post_range": [
+        813,
+        848
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    },
+    {
+      "event_id": 258,
+      "na": 31,
+      "saved_control_start": 825,
+      "saved_control_end": 838,
+      "full_pre_body_post_range": [
+        815,
+        848
+      ],
+      "all_old_full_windows_and_strict_union": [
+        [
+          60,
+          90
+        ],
+        [
+          158,
+          189
+        ],
+        [
+          282,
+          316
+        ],
+        [
+          320,
+          378
+        ],
+        [
+          448,
+          479
+        ],
+        [
+          849,
+          883
+        ],
+        [
+          900,
+          935
+        ],
+        [
+          941,
+          974
+        ]
+      ],
+      "issues": [],
+      "valid": true,
+      "reselected": false
+    }
+  ],
+  "invalid_ids": [],
+  "n_saved_controls": 259,
+  "no_control_reselected": true,
+  "source_union_equals_saved": true,
+  "independent_sample_count": null
+}

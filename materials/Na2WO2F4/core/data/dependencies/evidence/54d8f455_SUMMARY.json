@@ -1,0 +1,145 @@
+{
+  "formula": "Na2WO2F4",
+  "mp_id": "mp-505382",
+  "event_records": 1705,
+  "control_valid": 1692,
+  "invalid_union_count": 4,
+  "invalid_union_rows_index0": [
+    1303,
+    1305,
+    1466,
+    1467
+  ],
+  "invalid_union_records": [
+    {
+      "event_row_index0": 1303,
+      "event_row1": 1304,
+      "window": "fixed4to14",
+      "Na_1based": 37,
+      "original_control": 465,
+      "complete_control_phase": true,
+      "control_phase_global_closed": [
+        654,
+        698
+      ],
+      "valid": false,
+      "reason": "cross_window_union_overlap",
+      "conflicting_bans": [
+        [
+          694,
+          726
+        ]
+      ]
+    },
+    {
+      "event_row_index0": 1305,
+      "event_row1": 1306,
+      "window": "fixed4to14",
+      "Na_1based": 37,
+      "original_control": 465,
+      "complete_control_phase": true,
+      "control_phase_global_closed": [
+        654,
+        698
+      ],
+      "valid": false,
+      "reason": "cross_window_union_overlap",
+      "conflicting_bans": [
+        [
+          694,
+          726
+        ]
+      ]
+    },
+    {
+      "event_row_index0": 1466,
+      "event_row1": 1467,
+      "window": "tail10",
+      "Na_1based": 25,
+      "original_control": 13,
+      "complete_control_phase": true,
+      "control_phase_global_closed": [
+        502,
+        535
+      ],
+      "valid": false,
+      "reason": "cross_window_union_overlap",
+      "conflicting_bans": [
+        [
+          483,
+          514
+        ]
+      ]
+    },
+    {
+      "event_row_index0": 1467,
+      "event_row1": 1468,
+      "window": "tail10",
+      "Na_1based": 25,
+      "original_control": 13,
+      "complete_control_phase": true,
+      "control_phase_global_closed": [
+        502,
+        535
+      ],
+      "valid": false,
+      "reason": "cross_window_union_overlap",
+      "conflicting_bans": [
+        [
+          483,
+          514
+        ]
+      ]
+    }
+  ],
+  "missing_original": 9,
+  "incomplete_control_phase": 0,
+  "dwell_mismatch_count": 0,
+  "dwell_mismatches": [],
+  "stored_event_phase_mismatch": 0,
+  "persistent_singlepoint_not_continuous_full": 76,
+  "per_window": {
+    "full": {
+      "events": 406,
+      "valid_controls": 406,
+      "complete_five_point_phase": 399,
+      "complete_halfopen_dwell200": 399
+    },
+    "common0to20_available": {
+      "events": 406,
+      "valid_controls": 406,
+      "complete_five_point_phase": 399,
+      "complete_halfopen_dwell200": 399
+    },
+    "after4": {
+      "events": 344,
+      "valid_controls": 344,
+      "complete_five_point_phase": 332,
+      "complete_halfopen_dwell200": 332
+    },
+    "fixed4to14": {
+      "events": 200,
+      "valid_controls": 198,
+      "complete_five_point_phase": 191,
+      "complete_halfopen_dwell200": 191
+    },
+    "tail10": {
+      "events": 230,
+      "valid_controls": 228,
+      "complete_five_point_phase": 218,
+      "complete_halfopen_dwell200": 218
+    },
+    "tail5": {
+      "events": 119,
+      "valid_controls": 110,
+      "complete_five_point_phase": 104,
+      "complete_halfopen_dwell200": 104
+    }
+  },
+  "no_replacement_control": true,
+  "raw_trajectory_read": false,
+  "event_redetection": false,
+  "no_original_model_or_blocked_test_operation": true,
+  "scientific_state": "UNVERIFIED",
+  "publication_authorized": false
+}

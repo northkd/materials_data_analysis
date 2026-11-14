@@ -1,0 +1,104 @@
+{
+  "schema": "sb-north1-claims.v1",
+  "claims": [
+    {
+      "id": "Sb-NORTH-C1",
+      "statement": "严格窗为绝对0.02至20.00ps的1000帧，跨度19.98ps；没有物理t=0帧。",
+      "status": "已支持",
+      "source": "results/SUMMARY.json;../Na3Sb5F18_two1/INPUT_PREFLIGHT.json",
+      "location": "frames/start_absolute_ps/end_absolute_ps/span_ps及历史time_evidence",
+      "conditions": "mp-28286/aimd_1200K/20fs派生Na流；旧prepare复用，raw未读"
+    },
+    {
+      "id": "Sb-NORTH-C2",
+      "statement": "现有north真实包含科学代码使用的NumPy/SciPy依赖，且原九测试有真边界RED与全GREEN。",
+      "status": "已支持",
+      "source": "NORTH_CHECK.json;runs/synthetic_north1/manifest.json;runs/synthetic_north1/0_stderr.log;runs/synthetic_north1/1_stderr.log",
+      "location": "observed版本、两个命令退出及Ran9tests",
+      "conditions": "Python3.11.15/NumPy2.4.6/SciPy1.17.1；RED唯一1001!=1000失败，GREEN9项通过；无安装或测试变更"
+    },
+    {
+      "id": "Sb-NORTH-C3",
+      "statement": "严格窗Na运动由多个Na共同贡献，终点MSD15.01188749A2，12/24超过3A，前三贡献28.0919%。",
+      "status": "已支持",
+      "source": "results/SUMMARY.json;results/PER_NA.csv",
+      "location": "contribution/mean_endpoint_A及24行",
+      "conditions": "宿主平均平移扣除，单一首原点端点；阈值和观察窗固定，不当扩散系数"
+    },
+    {
+      "id": "Sb-NORTH-C4",
+      "statement": "严格窗与旧1001窗运动总体相近，但边界20fs改变Na7跨3A计数及Na15尾段事件起止。",
+      "status": "已支持",
+      "source": "results/ARCHIVED_WINDOW_COMPARISON.json;results/SUMMARY.json;REPORT.md",
+      "location": "old/new contribution、old_intervals_removed_or_changed/new_intervals_added_or_changed及第一节",
+      "conditions": "旧1001截止20.02ps只读复用；新MSD较旧低0.155565%，13至12个Na，Na15frame989..1000改989..999"
+    },
+    {
+      "id": "Sb-NORTH-C5",
+      "statement": "291个strict候选的对照使用同Na旧full1500、old1001和newstrict全部事件联合闭禁区。",
+      "status": "已支持",
+      "source": "results/JOINT_EVENT_INTERVALS.json;results/EVENTS.json;correct_saved.py",
+      "location": "459个去重区间及每事件control.banned_same_na_intervals",
+      "conditions": "等时长完整前后10帧闭相位，边缘相接非法；291控制/254唯一/最多复用4，不当独立样本"
+    },
+    {
+      "id": "Sb-NORTH-C6",
+      "statement": "严格窗固定200fs前中心1A球返回为41末端已返、212后来返、34右删失、4缺窗。",
+      "status": "已支持",
+      "source": "results/SUMMARY.json;results/EVENTS.json",
+      "location": "global_return200_states及global_dwell.200.0",
+      "conditions": "十个样本中心跨度180fs；20ps后返回不进入strict，缺中心保持null；与起点312对离返分列"
+    },
+    {
+      "id": "Sb-NORTH-C7",
+      "statement": "完整相位包含287个完整事件与291个完整对照，20107行逐帧同Na环境对应。",
+      "status": "已支持",
+      "source": "results/PHASE_SAMPLES.csv;results/PHASE_AGGREGATES.csv;results/SUMMARY.json",
+      "location": "complete_closed_event_phases/phase_sample_rows及582汇总行",
+      "conditions": "另4事件闭相位截断；24Na乘1000为24000输入环境，重复相位不是独立帧或样本"
+    },
+    {
+      "id": "Sb-NORTH-C8",
+      "statement": "290个同间隔事件可裁剪复用旧局部摘要，改变尾段Na15事件及全部新控制的固定配体局部几何为null。",
+      "status": "已支持",
+      "source": "results/EVENTS.json;results/SUMMARY.json",
+      "location": "local_fixed_ligand_dwell/local_geometry_status/control_local_dwell",
+      "conditions": "未重建F轨迹；局部200fs81末端已返184后来返22右删失3缺中心，分母290不同于291"
+    },
+    {
+      "id": "Sb-NORTH-C9",
+      "statement": "环境变化充分保证持续Na位移。",
+      "status": "反例否定",
+      "source": "results/EVENTS.json;REPORT.md",
+      "location": "event_id0/Na1绝对0.98至1.22ps及第二节",
+      "conditions": "F配位5到3到5而固定200fs中心仅0.31467A，结束在前球；环境与运动同现非驱动因果"
+    },
+    {
+      "id": "Sb-NORTH-C10",
+      "statement": "旧全程Na/Sb/F同时显著活动，固定不动骨架不能描述此轨迹。",
+      "status": "部分支持",
+      "source": "../../materials/Na3Sb5F18/REPORT.md;REPORT.md",
+      "location": "旧第二节宿主末端残差8.73A和10ps所有原点MSD及本叶第二节",
+      "conditions": "历史结果只读复用；高温相态与启动后结构重排未唯一判定"
+    },
+    {
+      "id": "Sb-NORTH-C11",
+      "statement": "现有MSD与参考球足以给室温器件资格、可靠空位率或长时稳定输运。",
+      "status": "不足",
+      "source": "results/MSD_FITS.csv;REPORT.md",
+      "location": "transport_qualified=false及第一二四节",
+      "conditions": "单温短窗、位点全集和多温重复缺失；不将几何球或高温D直接外推"
+    },
+    {
+      "id": "Sb-NORTH-C12",
+      "statement": "Ca@Na和Sn@Sb为仅Na空缺补偿前提下的条件计量路线。",
+      "status": "部分支持",
+      "source": "../../materials/Na3Sb5F18/REPORT.md;REPORT.md",
+      "location": "第三节两补偿式",
+      "conditions": "需实际价态占位和同相稳定；无元素优选或B06模型，H01H02H03未执行"
+    }
+  ],
+  "scientific_acceptance": "UNVERIFIED",
+  "independent_review_completed": false,
+  "publication_authorized": false
+}

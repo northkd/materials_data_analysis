@@ -1,0 +1,26 @@
+event_id,Na_0based,start_ps,end_ps,start_F6,end_F6,CN2p8_start,CN2p8_end,F6_unchanged,counterexample
+0,0,1.8,2.0,"[117, 126, 127, 151, 165, 174]","[93, 117, 126, 151, 165, 168]",4,4,False,Equal CN does not mean same ligands
+1,0,3.44,3.78,"[93, 117, 126, 141, 143, 165]","[93, 96, 147, 165, 168, 201]",4,4,False,Equal CN does not mean same ligands
+2,0,4.42,4.7,"[93, 96, 147, 165, 168, 187]","[96, 147, 160, 165, 168, 201]",4,4,False,Equal CN does not mean same ligands
+3,0,4.96,5.22,"[108, 160, 168, 187, 199, 201]","[97, 108, 160, 165, 193, 201]",4,4,False,Equal CN does not mean same ligands
+6,0,17.44,17.68,"[93, 117, 141, 163, 193, 203]","[93, 117, 149, 160, 193, 203]",5,5,False,Equal CN does not mean same ligands
+12,0,29.58,29.82,"[84, 99, 110, 125, 147, 193]","[84, 91, 99, 110, 121, 153]",5,5,False,Equal CN does not mean same ligands
+16,1,7.0,7.26,"[97, 118, 146, 156, 194, 199]","[97, 110, 152, 156, 194, 199]",4,4,False,Equal CN does not mean same ligands
+19,1,17.32,17.52,"[91, 97, 114, 115, 118, 199]","[94, 97, 98, 113, 118, 199]",4,4,False,Equal CN does not mean same ligands
+35,2,21.32,21.56,"[125, 137, 140, 142, 147, 170]","[125, 137, 140, 142, 147, 170]",5,4,True,F6 change is not necessary for event
+36,2,23.22,23.46,"[89, 93, 115, 142, 151, 192]","[89, 93, 115, 142, 151, 192]",4,4,True,F6 change is not necessary for event
+135,8,1.78,2.0,"[86, 98, 102, 104, 176, 198]","[86, 98, 102, 104, 176, 198]",6,5,True,F6 change is not necessary for event
+290,17,3.76,4.0,"[124, 142, 160, 166, 169, 185]","[124, 142, 160, 166, 169, 185]",5,5,True,F6 change is not necessary for event
+321,18,9.22,9.44,"[86, 98, 126, 180, 183, 198]","[86, 98, 126, 180, 183, 198]",5,4,True,F6 change is not necessary for event
+392,22,0.8,1.2,"[88, 93, 112, 159, 190, 203]","[88, 93, 112, 159, 190, 203]",4,4,True,F6 change is not necessary for event
+394,22,3.74,3.94,"[88, 97, 135, 184, 190, 193]","[88, 97, 135, 184, 190, 193]",6,4,True,F6 change is not necessary for event
+405,22,23.02,23.46,"[100, 110, 129, 152, 169, 174]","[100, 110, 129, 152, 169, 174]",5,5,True,F6 change is not necessary for event
+441,24,26.38,26.62,"[84, 112, 134, 148, 170, 174]","[84, 112, 134, 148, 170, 174]",6,3,True,F6 change is not necessary for event
+459,25,20.24,20.44,"[95, 103, 126, 134, 150, 154]","[95, 103, 126, 134, 150, 154]",3,4,True,F6 change is not necessary for event
+567,32,2.98,3.2,"[116, 140, 182, 188, 197, 198]","[116, 140, 182, 188, 197, 198]",5,4,True,F6 change is not necessary for event
+602,34,5.82,6.08,"[88, 97, 110, 125, 165, 166]","[88, 97, 110, 125, 165, 166]",5,5,True,F6 change is not necessary for event
+636,36,9.16,9.36,"[90, 97, 114, 126, 151, 192]","[90, 97, 114, 126, 151, 192]",5,6,True,F6 change is not necessary for event
+694,39,16.48,17.04,"[87, 104, 145, 162, 177, 202]","[87, 104, 145, 162, 177, 202]",6,6,True,F6 change is not necessary for event
+697,39,19.0,19.22,"[104, 111, 133, 158, 177, 202]","[104, 111, 133, 158, 177, 202]",6,4,True,F6 change is not necessary for event
+798,46,1.44,1.86,"[135, 142, 148, 154, 184, 190]","[135, 142, 148, 154, 184, 190]",3,4,True,F6 change is not necessary for event
+828,47,24.12,24.32,"[112, 117, 121, 159, 179, 190]","[112, 117, 121, 159, 179, 190]",5,4,True,F6 change is not necessary for event

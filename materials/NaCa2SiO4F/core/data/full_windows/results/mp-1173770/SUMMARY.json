@@ -1,0 +1,458 @@
+{
+  "formula": "NaCa2SiO4F",
+  "mp_id": "mp-1173770",
+  "run": "aimd_1200K",
+  "frames": 1500,
+  "atoms": 144,
+  "n_Na": 16,
+  "first_absolute_ps": 0.02,
+  "last_absolute_ps": 30.0,
+  "elapsed_span_ps": 29.98,
+  "dt_ps": 0.02,
+  "cell_A": [
+    [
+      15.591674,
+      0.0,
+      0.0
+    ],
+    [
+      0.777337,
+      9.31126,
+      0.0
+    ],
+    [
+      0.181348,
+      -2.011426,
+      14.588911
+    ]
+  ],
+  "volume_A3": 2117.9908242703523,
+  "Na_density_Aminus3": 0.007554329233466816,
+  "volume_per_Na_A3": 132.37442651689702,
+  "common20_complete": false,
+  "common20_available_ps": 19.98,
+  "common20_available_interval_ps": [
+    0.02,
+    20.0
+  ],
+  "max_saved_increment_A": 1.1812140856385709,
+  "half_shortest_lattice_sufficient_bound_A": 4.5751119733409755,
+  "saved_image_sufficient_certificate": true,
+  "PBC_enumeration": {
+    "complete_for_all_reduced_vectors": true,
+    "integer_extent": [
+      1,
+      1,
+      1
+    ],
+    "candidate_count": 27,
+    "candidate_radius_bound_A": 12.278843347625278
+  },
+  "temperature_blocks": {
+    "blocks": [
+      {
+        "absolute_interval_ps": [
+          0,
+          0.2
+        ],
+        "n_steps": 100,
+        "mean_T_K": 1160.24,
+        "min": {
+          "source_line": 44,
+          "md_step": 1,
+          "absolute_ps": 0.002,
+          "T_K": 0.0,
+          "E_eV": -921.4681
+        },
+        "max": {
+          "source_line": 347,
+          "md_step": 37,
+          "absolute_ps": 0.074,
+          "T_K": 14255.0,
+          "E_eV": -959.50813
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          0.2,
+          2
+        ],
+        "n_steps": 900,
+        "mean_T_K": 1199.6977777777777,
+        "min": {
+          "source_line": 4236,
+          "md_step": 289,
+          "absolute_ps": 0.578,
+          "T_K": 827.0,
+          "E_eV": -939.81352
+        },
+        "max": {
+          "source_line": 3930,
+          "md_step": 269,
+          "absolute_ps": 0.538,
+          "T_K": 1506.0,
+          "E_eV": -939.86065
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          2,
+          4
+        ],
+        "n_steps": 1000,
+        "mean_T_K": 1198.999,
+        "min": {
+          "source_line": 16426,
+          "md_step": 1042,
+          "absolute_ps": 2.084,
+          "T_K": 979.0,
+          "E_eV": -939.37554
+        },
+        "max": {
+          "source_line": 31316,
+          "md_step": 1957,
+          "absolute_ps": 3.914,
+          "T_K": 1456.0,
+          "E_eV": -938.85072
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          4,
+          10
+        ],
+        "n_steps": 3000,
+        "mean_T_K": 1200.1933333333334,
+        "min": {
+          "source_line": 34765,
+          "md_step": 2170,
+          "absolute_ps": 4.34,
+          "T_K": 979.0,
+          "E_eV": -938.65728
+        },
+        "max": {
+          "source_line": 64491,
+          "md_step": 4023,
+          "absolute_ps": 8.046,
+          "T_K": 1468.0,
+          "E_eV": -937.63399
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          10,
+          15
+        ],
+        "n_steps": 2500,
+        "mean_T_K": 1199.7304,
+        "min": {
+          "source_line": 93517,
+          "md_step": 5826,
+          "absolute_ps": 11.652,
+          "T_K": 928.0,
+          "E_eV": -936.42664
+        },
+        "max": {
+          "source_line": 118534,
+          "md_step": 7373,
+          "absolute_ps": 14.746,
+          "T_K": 1560.0,
+          "E_eV": -935.57817
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          15,
+          20
+        ],
+        "n_steps": 2500,
+        "mean_T_K": 1200.332,
+        "min": {
+          "source_line": 124562,
+          "md_step": 7744,
+          "absolute_ps": 15.488,
+          "T_K": 940.0,
+          "E_eV": -935.26942
+        },
+        "max": {
+          "source_line": 159833,
+          "md_step": 9920,
+          "absolute_ps": 19.84,
+          "T_K": 1481.0,
+          "E_eV": -933.96001
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          20,
+          25
+        ],
+        "n_steps": 2500,
+        "mean_T_K": 1199.7472,
+        "min": {
+          "source_line": 201510,
+          "md_step": 12488,
+          "absolute_ps": 24.976,
+          "T_K": 986.0,
+          "E_eV": -932.30404
+        },
+        "max": {
+          "source_line": 185843,
+          "md_step": 11526,
+          "absolute_ps": 23.052,
+          "T_K": 1518.0,
+          "E_eV": -932.95985
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          25,
+          30
+        ],
+        "n_steps": 2500,
+        "mean_T_K": 1200.4212,
+        "min": {
+          "source_line": 212258,
+          "md_step": 13155,
+          "absolute_ps": 26.31,
+          "T_K": 929.0,
+          "E_eV": -931.88395
+        },
+        "max": {
+          "source_line": 202428,
+          "md_step": 12544,
+          "absolute_ps": 25.088,
+          "T_K": 1457.0,
+          "E_eV": -932.33641
+        }
+      }
+    ],
+    "n_steps": 15000,
+    "first_md_step": 1,
+    "last_md_step": 15000,
+    "all_max": {
+      "source_line": 347,
+      "md_step": 37,
+      "absolute_ps": 0.074,
+      "T_K": 14255.0,
+      "E_eV": -959.50813
+    },
+    "all_min": {
+      "source_line": 44,
+      "md_step": 1,
+      "absolute_ps": 0.002,
+      "T_K": 0.0,
+      "E_eV": -921.4681
+    },
+    "restart_or_reset": false
+  },
+  "motion_windows": [
+    {
+      "window": "full",
+      "start_frame": 0,
+      "end_frame": 1499,
+      "start_absolute_ps": 0.02,
+      "end_absolute_ps": 30.0,
+      "observed_span_ps": 29.98,
+      "endpoint_MSD_A2": 11.534031151282953,
+      "Na_gt2A": 9,
+      "mean_r90_A": 3.7046998774754973,
+      "top1_share": 0.26009052841577196,
+      "top3_share": 0.5454983612423853,
+      "top3_Na_1based": [
+        16,
+        3,
+        12
+      ],
+      "departures": 112,
+      "returns": 97
+    },
+    {
+      "window": "common0to20_available",
+      "start_frame": 0,
+      "end_frame": 999,
+      "start_absolute_ps": 0.02,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 19.98,
+      "endpoint_MSD_A2": 12.952913215786314,
+      "Na_gt2A": 11,
+      "mean_r90_A": 3.4027776207936435,
+      "top1_share": 0.30928832724159383,
+      "top3_share": 0.5257306236480147,
+      "top3_Na_1based": [
+        16,
+        15,
+        12
+      ],
+      "departures": 89,
+      "returns": 74
+    },
+    {
+      "window": "after4",
+      "start_frame": 199,
+      "end_frame": 1499,
+      "start_absolute_ps": 4.0,
+      "end_absolute_ps": 30.0,
+      "observed_span_ps": 26.0,
+      "endpoint_MSD_A2": 9.002462136475522,
+      "Na_gt2A": 12,
+      "mean_r90_A": 2.859650511446154,
+      "top1_share": 0.14317833461422286,
+      "top3_share": 0.4197043780643515,
+      "top3_Na_1based": [
+        16,
+        14,
+        3
+      ],
+      "departures": 217,
+      "returns": 201
+    },
+    {
+      "window": "fixed4to14",
+      "start_frame": 199,
+      "end_frame": 699,
+      "start_absolute_ps": 4.0,
+      "end_absolute_ps": 14.0,
+      "observed_span_ps": 10.0,
+      "endpoint_MSD_A2": 5.464019356228487,
+      "Na_gt2A": 4,
+      "mean_r90_A": 2.3677865732498864,
+      "top1_share": 0.3436736305456201,
+      "top3_share": 0.7645992747120869,
+      "top3_Na_1based": [
+        15,
+        16,
+        10
+      ],
+      "departures": 111,
+      "returns": 96
+    },
+    {
+      "window": "tail10",
+      "start_frame": 999,
+      "end_frame": 1499,
+      "start_absolute_ps": 20.0,
+      "end_absolute_ps": 30.0,
+      "observed_span_ps": 10.0,
+      "endpoint_MSD_A2": 5.937392936888271,
+      "Na_gt2A": 8,
+      "mean_r90_A": 2.0135504349065485,
+      "top1_share": 0.21368276347561327,
+      "top3_share": 0.4512040046881019,
+      "top3_Na_1based": [
+        4,
+        14,
+        10
+      ],
+      "departures": 127,
+      "returns": 112
+    },
+    {
+      "window": "tail5",
+      "start_frame": 1249,
+      "end_frame": 1499,
+      "start_absolute_ps": 25.0,
+      "end_absolute_ps": 30.0,
+      "observed_span_ps": 5.0,
+      "endpoint_MSD_A2": 5.344550274660653,
+      "Na_gt2A": 6,
+      "mean_r90_A": 2.1725807938949884,
+      "top1_share": 0.21239198539208598,
+      "top3_share": 0.4659011055331574,
+      "top3_Na_1based": [
+        4,
+        10,
+        11
+      ],
+      "departures": 54,
+      "returns": 38
+    }
+  ],
+  "events": [
+    {
+      "window": "full",
+      "events": 234,
+      "outcomes": {
+        "transient": 92,
+        "persistent": 140,
+        "right_censored": 2
+      },
+      "clean_sameNa_controls": 234,
+      "full_event_phases": 230,
+      "fixed200_complete": 230
+    },
+    {
+      "window": "common0to20_available",
+      "events": 158,
+      "outcomes": {
+        "transient": 59,
+        "persistent": 95,
+        "right_censored": 4
+      },
+      "clean_sameNa_controls": 158,
+      "full_event_phases": 152,
+      "fixed200_complete": 153
+    },
+    {
+      "window": "after4",
+      "events": 198,
+      "outcomes": {
+        "persistent": 120,
+        "transient": 76,
+        "right_censored": 2
+      },
+      "clean_sameNa_controls": 198,
+      "full_event_phases": 195,
+      "fixed200_complete": 195
+    },
+    {
+      "window": "fixed4to14",
+      "events": 76,
+      "outcomes": {
+        "persistent": 50,
+        "transient": 25,
+        "right_censored": 1
+      },
+      "clean_sameNa_controls": 76,
+      "full_event_phases": 74,
+      "fixed200_complete": 74
+    },
+    {
+      "window": "tail10",
+      "events": 74,
+      "outcomes": {
+        "transient": 31,
+        "persistent": 41,
+        "right_censored": 2
+      },
+      "clean_sameNa_controls": 74,
+      "full_event_phases": 69,
+      "fixed200_complete": 69
+    },
+    {
+      "window": "tail5",
+      "events": 32,
+      "outcomes": {
+        "persistent": 16,
+        "transient": 14,
+        "right_censored": 2
+      },
+      "clean_sameNa_controls": 32,
+      "full_event_phases": 28,
+      "fixed200_complete": 28
+    }
+  ],
+  "B06": [],
+  "all_input_SHA_unchanged": true,
+  "runtime_s": 1105.0320838420012,
+  "network_frame_coverage": "every saved20fs frame; main and +/-0.1A thresholds; canonical shared-edge lifetimes retained",
+  "coordination_frame_coverage": "all saved20fs frames and all actual cations",
+  "limitations": [
+    "single1200K run per structure",
+    "initial regions not complete site universe",
+    "initial selected shells and uniform geometric probes remain model definitions",
+    "no path barrier/causality or room-temperature inference"
+  ],
+  "scientific_state": "UNVERIFIED",
+  "publication_authorized": false
+}

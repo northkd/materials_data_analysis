@@ -1,0 +1,5 @@
+window,first_frame,frames,first_ps,last_ps,event_labels,baseline200_candidates,strict200_candidates,strict200_selected_changes,strict400_selected_changes,source_id
+full_saved,0,1000,0.02,20.0,174,92634,92634,0,0,phase_coverage
+absolute_0_20_available,0,1000,0.02,20.0,174,92634,92634,0,0,phase_coverage
+after_4ps,199,801,4.0,20.0,129,53517,53407,0,0,phase_coverage
+late_half,500,500,10.02,20.0,85,20780,20696,0,2,phase_coverage

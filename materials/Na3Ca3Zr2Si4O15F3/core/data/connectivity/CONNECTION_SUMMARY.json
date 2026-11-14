@@ -1,0 +1,553 @@
+[
+  {
+    "mp_id": "mp-1248208",
+    "environment_frames": 1000,
+    "dt_fs": 20,
+    "absolute_time_ps": [
+      0.02,
+      20.0
+    ],
+    "geometry_sample_frames": 819,
+    "geometry_sample_gap_fs_counts": {
+      "60": 21,
+      "40": 107,
+      "100": 5,
+      "20": 681,
+      "80": 4
+    },
+    "accepted_geometry_records_crosschecked": 142235,
+    "contact_identities": 3032,
+    "stats": [
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "corner",
+        "spells": 16165,
+        "ge_100fs": 5286,
+        "ge_200fs": 2726,
+        "max_span_ps": 15.22,
+        "identities": 1042
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "edge",
+        "spells": 9212,
+        "ge_100fs": 2516,
+        "ge_200fs": 1190,
+        "max_span_ps": 5.36,
+        "identities": 907
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "face",
+        "spells": 2185,
+        "ge_100fs": 433,
+        "ge_200fs": 161,
+        "max_span_ps": 1.72,
+        "identities": 394
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "corner",
+        "spells": 26471,
+        "ge_100fs": 4005,
+        "ge_200fs": 949,
+        "max_span_ps": 0.68,
+        "identities": 1042
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "edge",
+        "spells": 12878,
+        "ge_100fs": 1705,
+        "ge_200fs": 387,
+        "max_span_ps": 0.68,
+        "identities": 907
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "face",
+        "spells": 2615,
+        "ge_100fs": 230,
+        "ge_200fs": 40,
+        "max_span_ps": 0.64,
+        "identities": 394
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "corner",
+        "spells": 15562,
+        "ge_100fs": 4397,
+        "ge_200fs": 2171,
+        "max_span_ps": 15.22,
+        "identities": 1042
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "edge",
+        "spells": 8273,
+        "ge_100fs": 2235,
+        "ge_200fs": 1074,
+        "max_span_ps": 2.82,
+        "identities": 907
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "face",
+        "spells": 1916,
+        "ge_100fs": 375,
+        "ge_200fs": 141,
+        "max_span_ps": 1.62,
+        "identities": 394
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "corner",
+        "spells": 3362,
+        "ge_100fs": 797,
+        "ge_200fs": 258,
+        "max_span_ps": 2.42,
+        "identities": 395
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "edge",
+        "spells": 945,
+        "ge_100fs": 118,
+        "ge_200fs": 25,
+        "max_span_ps": 0.6,
+        "identities": 254
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "face",
+        "spells": 71,
+        "ge_100fs": 3,
+        "ge_200fs": 0,
+        "max_span_ps": 0.12,
+        "identities": 40
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "corner",
+        "spells": 3241,
+        "ge_100fs": 156,
+        "ge_200fs": 23,
+        "max_span_ps": 0.54,
+        "identities": 395
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "edge",
+        "spells": 949,
+        "ge_100fs": 27,
+        "ge_200fs": 2,
+        "max_span_ps": 0.3,
+        "identities": 254
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "face",
+        "spells": 76,
+        "ge_100fs": 1,
+        "ge_200fs": 0,
+        "max_span_ps": 0.12,
+        "identities": 40
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "corner",
+        "spells": 2662,
+        "ge_100fs": 290,
+        "ge_200fs": 98,
+        "max_span_ps": 2.4,
+        "identities": 395
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "edge",
+        "spells": 821,
+        "ge_100fs": 67,
+        "ge_200fs": 11,
+        "max_span_ps": 0.5,
+        "identities": 254
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "face",
+        "spells": 65,
+        "ge_100fs": 4,
+        "ge_200fs": 0,
+        "max_span_ps": 0.14,
+        "identities": 40
+      }
+    ],
+    "selected_transition_rule": "minimum unassigned frame gap; tie mode then Na index",
+    "all_original_transitions": [
+      {
+        "reference_mode": "host_translation",
+        "Na_1based": "1",
+        "from_reference_1based": "1",
+        "to_reference_1based": "5",
+        "departure_frame": "15",
+        "arrival_frame": "804",
+        "unassigned_gap_ps": "15.780000000000001",
+        "observed_candidate_region_exchange": "True",
+        "proven_lattice_site_exchange": "False"
+      },
+      {
+        "reference_mode": "local_ZrSi_translation",
+        "Na_1based": "1",
+        "from_reference_1based": "1",
+        "to_reference_1based": "5",
+        "departure_frame": "16",
+        "arrival_frame": "914",
+        "unassigned_gap_ps": "17.96",
+        "observed_candidate_region_exchange": "True",
+        "proven_lattice_site_exchange": "False"
+      },
+      {
+        "reference_mode": "local_ZrSi_translation",
+        "Na_1based": "8",
+        "from_reference_1based": "8",
+        "to_reference_1based": "12",
+        "departure_frame": "586",
+        "arrival_frame": "894",
+        "unassigned_gap_ps": "6.16",
+        "observed_candidate_region_exchange": "True",
+        "proven_lattice_site_exchange": "False"
+      },
+      {
+        "reference_mode": "local_ZrSi_translation",
+        "Na_1based": "14",
+        "from_reference_1based": "14",
+        "to_reference_1based": "6",
+        "departure_frame": "12",
+        "arrival_frame": "163",
+        "unassigned_gap_ps": "3.02",
+        "observed_candidate_region_exchange": "True",
+        "proven_lattice_site_exchange": "False"
+      }
+    ],
+    "selected_transition": {
+      "reference_mode": "local_ZrSi_translation",
+      "Na_1based": "14",
+      "from_reference_1based": "14",
+      "to_reference_1based": "6",
+      "departure_frame": "12",
+      "arrival_frame": "163",
+      "unassigned_gap_ps": "3.02",
+      "observed_candidate_region_exchange": "True",
+      "proven_lattice_site_exchange": "False"
+    },
+    "context_start_frame": 2,
+    "context_end_frame": 173,
+    "saved_motion_departure_to_arrival_A": 3.716160257676268,
+    "selected_correspondence_records": 236,
+    "selected_host_edge_face_correspondence_records": 0,
+    "real_crossing_verified": false,
+    "source_SHA_before": {
+      "anonymized_source_7c23d56771a5c42cacee": "f4c66c39b6dfa21cbe78e6ddfcc8e595d54d5ddc46d035669bc611793e049d6c",
+      "anonymized_source_730d82aa2dc6fed74832": "af8e6dd688f07d8960826b3ac0faccf2ce0ea3c16ac5168fdd9dcd945b2b2058",
+      "anonymized_source_ea922e123e7c129afb13": "657436816f2eb245fb6e33d3d81f4e68b595a829f69637f212aa3b95c42b5f40",
+      "anonymized_source_f9b8f15d7651c6295ac1": "b50fb0ba10e080e001f042e69c4ae8fcdfb9656fe60d5ebebafd714137ee5f67",
+      "anonymized_source_958775bfe10a9c572d31": "219227c68606e5f3953388570e9fa1321e19e3541069ef309fee4adf651d93f0"
+    },
+    "source_SHA_after": {
+      "anonymized_source_7c23d56771a5c42cacee": "f4c66c39b6dfa21cbe78e6ddfcc8e595d54d5ddc46d035669bc611793e049d6c",
+      "anonymized_source_730d82aa2dc6fed74832": "af8e6dd688f07d8960826b3ac0faccf2ce0ea3c16ac5168fdd9dcd945b2b2058",
+      "anonymized_source_ea922e123e7c129afb13": "657436816f2eb245fb6e33d3d81f4e68b595a829f69637f212aa3b95c42b5f40",
+      "anonymized_source_f9b8f15d7651c6295ac1": "b50fb0ba10e080e001f042e69c4ae8fcdfb9656fe60d5ebebafd714137ee5f67",
+      "anonymized_source_958775bfe10a9c572d31": "219227c68606e5f3953388570e9fa1321e19e3541069ef309fee4adf651d93f0"
+    },
+    "scientific_acceptance": "UNVERIFIED",
+    "publicationAuthorized": false
+  },
+  {
+    "mp_id": "mp-705559",
+    "environment_frames": 1000,
+    "dt_fs": 20,
+    "absolute_time_ps": [
+      0.02,
+      20.0
+    ],
+    "geometry_sample_frames": 774,
+    "geometry_sample_gap_fs_counts": {
+      "60": 27,
+      "20": 595,
+      "80": 9,
+      "40": 141,
+      "100": 1
+    },
+    "accepted_geometry_records_crosschecked": 147371,
+    "contact_identities": 2921,
+    "stats": [
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "corner",
+        "spells": 12997,
+        "ge_100fs": 5262,
+        "ge_200fs": 3118,
+        "max_span_ps": 15.36,
+        "identities": 1076
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "edge",
+        "spells": 7425,
+        "ge_100fs": 2467,
+        "ge_200fs": 1162,
+        "max_span_ps": 6.640000000000001,
+        "identities": 892
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "face",
+        "spells": 1166,
+        "ge_100fs": 260,
+        "ge_200fs": 90,
+        "max_span_ps": 0.7000000000000001,
+        "identities": 306
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "corner",
+        "spells": 31061,
+        "ge_100fs": 3830,
+        "ge_200fs": 847,
+        "max_span_ps": 0.86,
+        "identities": 1076
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "edge",
+        "spells": 12911,
+        "ge_100fs": 1274,
+        "ge_200fs": 267,
+        "max_span_ps": 0.86,
+        "identities": 892
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "face",
+        "spells": 1552,
+        "ge_100fs": 102,
+        "ge_200fs": 12,
+        "max_span_ps": 0.44,
+        "identities": 306
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "corner",
+        "spells": 12407,
+        "ge_100fs": 4929,
+        "ge_200fs": 2858,
+        "max_span_ps": 9.94,
+        "identities": 1076
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "edge",
+        "spells": 6627,
+        "ge_100fs": 2182,
+        "ge_200fs": 1081,
+        "max_span_ps": 6.94,
+        "identities": 892
+      },
+      {
+        "network": "CaZrSi_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "face",
+        "spells": 1065,
+        "ge_100fs": 241,
+        "ge_200fs": 89,
+        "max_span_ps": 0.78,
+        "identities": 306
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "corner",
+        "spells": 3411,
+        "ge_100fs": 783,
+        "ge_200fs": 265,
+        "max_span_ps": 1.96,
+        "identities": 335
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "edge",
+        "spells": 1115,
+        "ge_100fs": 115,
+        "ge_200fs": 22,
+        "max_span_ps": 0.3,
+        "identities": 246
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "contact_20fs",
+        "geometry": "face",
+        "spells": 124,
+        "ge_100fs": 3,
+        "ge_200fs": 0,
+        "max_span_ps": 0.12,
+        "identities": 66
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "corner",
+        "spells": 3673,
+        "ge_100fs": 90,
+        "ge_200fs": 7,
+        "max_span_ps": 0.42,
+        "identities": 335
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "edge",
+        "spells": 1096,
+        "ge_100fs": 17,
+        "ge_200fs": 1,
+        "max_span_ps": 0.22,
+        "identities": 246
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_contiguous_20fs",
+        "geometry": "face",
+        "spells": 117,
+        "ge_100fs": 1,
+        "ge_200fs": 0,
+        "max_span_ps": 0.12,
+        "identities": 66
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "corner",
+        "spells": 2956,
+        "ge_100fs": 294,
+        "ge_200fs": 62,
+        "max_span_ps": 1.3800000000000001,
+        "identities": 335
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "edge",
+        "spells": 934,
+        "ge_100fs": 68,
+        "ge_200fs": 11,
+        "max_span_ps": 0.34,
+        "identities": 246
+      },
+      {
+        "network": "Na_shared_ligands",
+        "level": "geometry_sampled_only",
+        "geometry": "face",
+        "spells": 109,
+        "ge_100fs": 4,
+        "ge_200fs": 0,
+        "max_span_ps": 0.12,
+        "identities": 66
+      }
+    ],
+    "selected_transition_rule": "minimum unassigned frame gap; tie mode then Na index",
+    "all_original_transitions": [
+      {
+        "reference_mode": "host_translation",
+        "Na_1based": "19",
+        "from_reference_1based": "19",
+        "to_reference_1based": "21",
+        "departure_frame": "12",
+        "arrival_frame": "680",
+        "unassigned_gap_ps": "13.36",
+        "observed_candidate_region_exchange": "True",
+        "proven_lattice_site_exchange": "False"
+      },
+      {
+        "reference_mode": "local_ZrSi_translation",
+        "Na_1based": "20",
+        "from_reference_1based": "20",
+        "to_reference_1based": "24",
+        "departure_frame": "491",
+        "arrival_frame": "543",
+        "unassigned_gap_ps": "1.04",
+        "observed_candidate_region_exchange": "True",
+        "proven_lattice_site_exchange": "False"
+      },
+      {
+        "reference_mode": "local_ZrSi_translation",
+        "Na_1based": "21",
+        "from_reference_1based": "21",
+        "to_reference_1based": "13",
+        "departure_frame": "17",
+        "arrival_frame": "101",
+        "unassigned_gap_ps": "1.68",
+        "observed_candidate_region_exchange": "True",
+        "proven_lattice_site_exchange": "False"
+      }
+    ],
+    "selected_transition": {
+      "reference_mode": "local_ZrSi_translation",
+      "Na_1based": "20",
+      "from_reference_1based": "20",
+      "to_reference_1based": "24",
+      "departure_frame": "491",
+      "arrival_frame": "543",
+      "unassigned_gap_ps": "1.04",
+      "observed_candidate_region_exchange": "True",
+      "proven_lattice_site_exchange": "False"
+    },
+    "context_start_frame": 481,
+    "context_end_frame": 553,
+    "saved_motion_departure_to_arrival_A": 2.4427142460883626,
+    "selected_correspondence_records": 75,
+    "selected_host_edge_face_correspondence_records": 1,
+    "real_crossing_verified": false,
+    "source_SHA_before": {
+      "anonymized_source_ad4db1d28940d093de64": "80763182f9be44074475d0719c26931633473f204173e39a1ec5c81124903f6b",
+      "anonymized_source_6edc6c210bc79bbb8593": "704d1ce45fb09a702e6993a37f8d9eb2ee7f370663266be91247517e2bcd802d",
+      "anonymized_source_b542374a4e2668320806": "c89b95bcff9a741a95fd9bd859a4bcedead9c398ba465e5643a03a5a79aca722",
+      "anonymized_source_177de85c45ae1d05dae2": "56d1fa30632a34eb346b879bf22b6376ae7c4a4e211b66df5101e0865a095be7",
+      "anonymized_source_7ba5588caf95d0882a3c": "5282b9a4fabe540c1eac4269d662be19b08aa16c1863975c717068a7ff6ff18c"
+    },
+    "source_SHA_after": {
+      "anonymized_source_ad4db1d28940d093de64": "80763182f9be44074475d0719c26931633473f204173e39a1ec5c81124903f6b",
+      "anonymized_source_6edc6c210bc79bbb8593": "704d1ce45fb09a702e6993a37f8d9eb2ee7f370663266be91247517e2bcd802d",
+      "anonymized_source_b542374a4e2668320806": "c89b95bcff9a741a95fd9bd859a4bcedead9c398ba465e5643a03a5a79aca722",
+      "anonymized_source_177de85c45ae1d05dae2": "56d1fa30632a34eb346b879bf22b6376ae7c4a4e211b66df5101e0865a095be7",
+      "anonymized_source_7ba5588caf95d0882a3c": "5282b9a4fabe540c1eac4269d662be19b08aa16c1863975c717068a7ff6ff18c"
+    },
+    "scientific_acceptance": "UNVERIFIED",
+    "publicationAuthorized": false
+  }
+]

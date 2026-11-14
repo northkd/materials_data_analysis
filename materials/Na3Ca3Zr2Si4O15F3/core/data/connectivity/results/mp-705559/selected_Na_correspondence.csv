@@ -1,0 +1,76 @@
+frame,absolute_ps,Na_1based,relation,geometry,network,a_1based,b_1based,canonical_image,ligands_with_images,real_crossing_verified
+481,9.64,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,12,20,"[0, 0, 0]","[[232, [0, 0, 0]]]",False
+481,9.64,20,selected_Na_shared_ligand_edge,edge,Na_shared_ligands,15,20,"[0, 0, 0]","[[175, [0, 0, 0]], [232, [0, 0, 0]]]",False
+484,9.7,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,79,"[0, 0, 0]","[[175, [0, 0, 0]]]",False
+485,9.72,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,79,"[0, 0, 0]","[[175, [0, 0, 0]]]",False
+485,9.72,20,selected_Na_shared_ligand_edge,face,Na_shared_ligands,15,20,"[0, 0, 0]","[[175, [0, 0, 0]], [232, [0, 0, 0]], [236, [0, 0, 0]]]",False
+485,9.72,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,20,24,"[0, 0, 0]","[[200, [0, 0, 0]]]",False
+486,9.74,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,79,"[0, 0, 0]","[[175, [0, 0, 0]]]",False
+486,9.74,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,12,20,"[0, 0, 0]","[[232, [0, 0, 0]]]",False
+486,9.74,20,selected_Na_shared_ligand_edge,face,Na_shared_ligands,15,20,"[0, 0, 0]","[[175, [0, 0, 0]], [232, [0, 0, 0]], [236, [0, 0, 0]]]",False
+488,9.78,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,79,"[0, 0, 0]","[[175, [0, 0, 0]]]",False
+488,9.78,20,selected_Na_shared_ligand_edge,face,Na_shared_ligands,15,20,"[0, 0, 0]","[[175, [0, 0, 0]], [180, [0, 0, 0]], [236, [0, 0, 0]]]",False
+489,9.799999999999999,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,79,"[0, 0, 0]","[[175, [0, 0, 0]]]",False
+490,9.82,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,79,"[0, 0, 0]","[[175, [0, 0, 0]]]",False
+490,9.82,20,selected_Na_shared_ligand_edge,edge,Na_shared_ligands,15,20,"[0, 0, 0]","[[175, [0, 0, 0]], [180, [0, 0, 0]]]",False
+491,9.84,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,15,20,"[0, 0, 0]","[[180, [0, 0, 0]]]",False
+495,9.92,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,60,"[0, 0, 0]","[[148, [0, 0, 0]]]",False
+495,9.92,20,selected_Na_shared_ligand_edge,edge,Na_shared_ligands,15,20,"[0, 0, 0]","[[148, [0, 0, 0]], [180, [0, 0, 0]]]",False
+496,9.94,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,60,"[0, 0, 0]","[[148, [0, 0, 0]]]",False
+496,9.94,20,selected_Na_shared_ligand_edge,edge,Na_shared_ligands,15,20,"[0, 0, 0]","[[148, [0, 0, 0]], [180, [0, 0, 0]]]",False
+499,10.0,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+499,10.0,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,64,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+499,10.0,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,2,20,"[0, 0, -1]","[[218, [0, 0, -1]]]",False
+499,10.0,20,selected_Na_shared_ligand_edge,edge,Na_shared_ligands,15,20,"[0, 0, 0]","[[148, [0, 0, 0]], [180, [0, 0, 0]]]",False
+500,10.02,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,60,"[0, 0, 0]","[[148, [0, 0, 0]]]",False
+501,10.04,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,60,"[0, 0, 0]","[[148, [0, 0, 0]]]",False
+501,10.04,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,15,20,"[0, 0, 0]","[[180, [0, 0, 0]]]",False
+502,10.06,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,44,60,"[0, 0, 0]","[[148, [0, 0, 0]]]",False
+502,10.06,20,selected_Na_shared_ligand_edge,edge,Na_shared_ligands,15,20,"[0, 0, 0]","[[180, [0, 0, 0]], [236, [0, 0, 0]]]",False
+503,10.08,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,15,20,"[0, 0, 0]","[[180, [0, 0, 0]]]",False
+504,10.1,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,15,20,"[0, 0, 0]","[[180, [0, 0, 0]]]",False
+505,10.12,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,15,20,"[0, 0, 0]","[[236, [0, 0, 0]]]",False
+509,10.2,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+509,10.2,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+509,10.2,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,15,20,"[0, 0, 0]","[[236, [0, 0, 0]]]",False
+511,10.24,20,selected_Na_shared_ligand_edge,edge,Na_shared_ligands,20,24,"[0, 0, 0]","[[188, [0, 0, 0]], [200, [0, 0, 0]]]",False
+512,10.26,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+512,10.26,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+512,10.26,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,20,24,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+513,10.28,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+513,10.28,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+513,10.28,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,20,24,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+517,10.36,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+518,10.379999999999999,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+518,10.379999999999999,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+520,10.42,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+520,10.42,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+522,10.459999999999999,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+522,10.459999999999999,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+523,10.48,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+525,10.52,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,82,"[0, 0, 0]","[[118, [0, 0, 0]]]",False
+532,10.66,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+534,10.7,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+535,10.72,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+536,10.74,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+542,10.86,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+542,10.86,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,64,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+543,10.879999999999999,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+543,10.879999999999999,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,64,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+546,10.94,20,selected_Na_contacts_complete_host_shared_set,edge,CaZrSi_shared_ligands,44,60,"[0, 0, 0]","[[148, [0, 0, 0]], [180, [0, 0, 0]]]",False
+546,10.94,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,12,20,"[0, 0, 0]","[[180, [0, 0, 0]]]",False
+550,11.02,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+550,11.02,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,64,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+551,11.04,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,34,80,"[0, 0, 0]","[[190, [0, 0, 0]]]",False
+551,11.04,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+551,11.04,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,64,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+551,11.04,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,64,80,"[0, 0, 0]","[[176, [0, 0, 0]]]",False
+551,11.04,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,2,20,"[0, 0, -1]","[[190, [0, 0, -1]]]",False
+551,11.04,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,20,24,"[0, 0, 0]","[[200, [0, 0, 0]]]",False
+552,11.06,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,26,34,"[0, 0, 0]","[[218, [0, 0, 0]]]",False
+552,11.06,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,34,80,"[0, 0, 0]","[[190, [0, 0, 0]]]",False
+552,11.06,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,60,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+552,11.06,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,48,64,"[0, 0, 0]","[[188, [0, 0, 0]]]",False
+552,11.06,20,selected_Na_contacts_complete_host_shared_set,corner,CaZrSi_shared_ligands,64,80,"[0, 0, 0]","[[176, [0, 0, 0]]]",False
+552,11.06,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,2,20,"[0, 0, -1]","[[190, [0, 0, -1]]]",False
+552,11.06,20,selected_Na_shared_ligand_edge,corner,Na_shared_ligands,20,24,"[0, 0, 0]","[[200, [0, 0, 0]]]",False

@@ -1,0 +1,197 @@
+{
+  "schema": "sisn.claim-ledger.v1",
+  "scientific_acceptance": "UNVERIFIED",
+  "publicationAuthorized": false,
+  "claims": [
+    {
+      "id": "C01",
+      "statement": "保存1000帧对应绝对0.02至20ps，全程与可用共同窗同帧集",
+      "support": "已支持",
+      "source_ids": [
+        "old_identity",
+        "old_summary"
+      ],
+      "location": "MD_runs;absolute_first_ps/absolute_last_ps",
+      "conditions": "一个run、无第0帧，不增加样本"
+    },
+    {
+      "id": "C02",
+      "statement": "多数Na局部活动，少数晚段Na6/21/24走远，Na17亦有中等端点",
+      "support": "已支持",
+      "source_ids": [
+        "old_report",
+        "summary_data"
+      ],
+      "location": "section1;per_Na.*.motion_windows",
+      "conditions": "相对首保存帧，五Na是预选例子"
+    },
+    {
+      "id": "C03",
+      "statement": "同Na全部全程闭禁区与完整相位已核，200fs selected保持，400fs是新选择",
+      "support": "已支持",
+      "source_ids": [
+        "phase_coverage",
+        "phase_report"
+      ],
+      "location": "window_summary;phase_width_selection_sensitivity",
+      "conditions": "174全局候选的重复窗标签不相加"
+    },
+    {
+      "id": "C04",
+      "statement": "最宽已存完整档54端点入球/101后来返回/9删失/10missing",
+      "support": "已支持",
+      "source_ids": [
+        "return_summary",
+        "return_aggregate"
+      ],
+      "location": "full_saved_widest_counts;waits_widest_full_saved",
+      "conditions": "事件pre参考球，不是226对首参考离返"
+    },
+    {
+      "id": "C05",
+      "statement": "Na6/Na24永久不返回",
+      "support": "反例否定",
+      "source_ids": [
+        "summary_data",
+        "return_summary"
+      ],
+      "location": "per_Na.6/24.motion_windows;examples",
+      "conditions": "已有返回对和窗末删失，Na6:9对宽度敏感"
+    },
+    {
+      "id": "C06",
+      "statement": "整体宿主漂移足以解释数埃Na远移",
+      "support": "反例否定",
+      "source_ids": [
+        "old_report",
+        "old_summary"
+      ],
+      "location": "section2;host_max_translation_A",
+      "conditions": "几何参考诊断，未证明驱动因果"
+    },
+    {
+      "id": "C07",
+      "statement": "五Na同时间环境对应已成，可用于限定描述",
+      "support": "部分支持",
+      "source_ids": [
+        "summary_data",
+        "summary_checks",
+        "parent_disposition"
+      ],
+      "location": "per_Na;source_fidelity_same_Na;disposition",
+      "conditions": "保存两JSON虽在exit1前产出，父只限定接收，不当全B01完成"
+    },
+    {
+      "id": "C08",
+      "statement": "换壳本身足以证明不可逆迁移",
+      "support": "反例否定",
+      "source_ids": [
+        "summary_data",
+        "parent_disposition"
+      ],
+      "location": "merged_body_net_below_1p5_all;scientific_observations",
+      "conditions": "Na13:1/Na24:3合并体净移小且非persistent；不重建候选网"
+    },
+    {
+      "id": "C09",
+      "statement": "control Jaccard表示对照自身换壳速度",
+      "support": "反例否定",
+      "source_ids": [
+        "summary_checks",
+        "parent_disposition"
+      ],
+      "location": "label_corrections.control_jaccard_reading",
+      "conditions": "两者均对同一event起点壳，非随机干预"
+    },
+    {
+      "id": "C10",
+      "statement": "全程Na/Si/Sn短程配位与201帧周期共享骨架已保存",
+      "support": "已支持",
+      "source_ids": [
+        "old_report",
+        "old_summary",
+        "old_handoff"
+      ],
+      "location": "section2;n_graph_frames;actual_coverage",
+      "conditions": "定义下描述，NN缺失不抹旧计算"
+    },
+    {
+      "id": "C11",
+      "statement": "几何共享线/周期秩已证明低能垒实际通过",
+      "support": "不足",
+      "source_ids": [
+        "old_report",
+        "old_coverage"
+      ],
+      "location": "S3;section2",
+      "conditions": "完整持续图和逐转移匹配null，未新增归约"
+    },
+    {
+      "id": "C12",
+      "statement": "存在可靠位点全集和已知空位率",
+      "support": "不足",
+      "source_ids": [
+        "old_summary",
+        "old_report"
+      ],
+      "location": "complete_site_universe;section2",
+      "conditions": "初始参考球不是位点全集，vacancy_fraction=null"
+    },
+    {
+      "id": "C13",
+      "statement": "启动冲击或观察长度不影响输运解释",
+      "support": "不足",
+      "source_ids": [
+        "old_identity",
+        "old_summary"
+      ],
+      "location": "actual_temperature_max_K;motion_windows",
+      "conditions": "13178K峰与窗口敏感性保留，未建立因果"
+    },
+    {
+      "id": "C14",
+      "statement": "初始NN/半NN与本材A/B/C已可判",
+      "support": "不足",
+      "source_ids": [
+        "nn_command",
+        "nn_manifest",
+        "definition_report"
+      ],
+      "location": "scope;input_read_count/error;G1/G2",
+      "conditions": "单次已耗exit1，三量null；不读raw或修常量"
+    },
+    {
+      "id": "C15",
+      "statement": "具体D或E元素及替代位置已优选、能稳定增导",
+      "support": "不足",
+      "source_ids": [
+        "old_report",
+        "old_abh"
+      ],
+      "location": "section3;B06",
+      "conditions": "仅D2+替Na/E5+替Sn条件配平，未生成模型/新能量"
+    },
+    {
+      "id": "C16",
+      "statement": "已满足室温包覆/主体电解质/电极性能",
+      "support": "不足",
+      "source_ids": [
+        "old_report"
+      ],
+      "location": "section4",
+      "conditions": "用途目标非本材测量，电位和机械压力分开"
+    },
+    {
+      "id": "C17",
+      "statement": "五Na摘要runner整体PASS，唯一旧FAIL可删除",
+      "support": "反例否定",
+      "source_ids": [
+        "summary_manifest",
+        "summary_checks",
+        "parent_disposition"
+      ],
+      "location": "exit_code;n_fails;sole_recorded_FAIL_adjudication",
+      "conditions": "exit1/n_fails1和False误判原样保留，不修重跑"
+    }
+  ]
+}

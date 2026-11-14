@@ -1,0 +1,446 @@
+{
+  "schema": "fof-selected-existing-environment.v1",
+  "provenance": "本次逐行直接读取旧attempt-2/coordination_center_time.csv和per_Na_behavior.csv的确切记录；不是新轨迹计算或全程环境复现",
+  "source": "research/tasks/fof-dynamics-family-ml-20261105/families/O_II/remaining_four_r4_v1/materials/31_Na2MgMnP2O7F3_mp-2232789/attempt-2/coordination_center_time.csv",
+  "indexing": "所有原子编号为旧文件零基全局编号；elapsed_ps以首保存帧=0，绝对时刻加0.02ps；身份含周期像时保留原列表",
+  "observations": [
+    {
+      "center": 15,
+      "element": "Na",
+      "frame": 0,
+      "elapsed_ps": 0.0,
+      "absolute_ps": 0.02,
+      "O_CN": 4,
+      "F_CN": 3,
+      "mean_bond_A": 2.5588844974135716,
+      "ligand_atoms": [
+        156,
+        75,
+        178,
+        143,
+        84,
+        98,
+        170
+      ],
+      "ligand_elements": [
+        "F",
+        "O",
+        "F",
+        "O",
+        "O",
+        "O",
+        "F"
+      ],
+      "images": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          -1,
+          0,
+          -1
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "source_line": 17
+    },
+    {
+      "center": 15,
+      "element": "Na",
+      "frame": 999,
+      "elapsed_ps": 19.98,
+      "absolute_ps": 20.0,
+      "O_CN": 6,
+      "F_CN": 0,
+      "mean_bond_A": 2.652003198023285,
+      "ligand_atoms": [
+        87,
+        76,
+        134,
+        132,
+        144,
+        110
+      ],
+      "ligand_elements": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ],
+      "images": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "source_line": 14417,
+      "full_run_host_relative_endpoint_A": 11.260192441863836
+    },
+    {
+      "center": 21,
+      "element": "Na",
+      "frame": 0,
+      "elapsed_ps": 0.0,
+      "absolute_ps": 0.02,
+      "O_CN": 4,
+      "F_CN": 3,
+      "mean_bond_A": 2.5591905226345553,
+      "ligand_atoms": [
+        166,
+        81,
+        172,
+        137,
+        94,
+        104,
+        176
+      ],
+      "ligand_elements": [
+        "F",
+        "O",
+        "F",
+        "O",
+        "O",
+        "O",
+        "F"
+      ],
+      "images": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "source_line": 23
+    },
+    {
+      "center": 21,
+      "element": "Na",
+      "frame": 999,
+      "elapsed_ps": 19.98,
+      "absolute_ps": 20.0,
+      "O_CN": 2,
+      "F_CN": 4,
+      "mean_bond_A": 2.5916712273319003,
+      "ligand_atoms": [
+        104,
+        178,
+        185,
+        172,
+        191,
+        94
+      ],
+      "ligand_elements": [
+        "O",
+        "F",
+        "F",
+        "F",
+        "F",
+        "O"
+      ],
+      "images": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "source_line": 14423,
+      "full_run_host_relative_endpoint_A": 0.48272544439763104,
+      "full_run_leave_return_pairs": 12
+    },
+    {
+      "center": 24,
+      "element": "Mg",
+      "frame": 0,
+      "elapsed_ps": 0.0,
+      "absolute_ps": 0.02,
+      "O_CN": 3,
+      "F_CN": 1,
+      "mean_bond_A": 1.9846587806128029,
+      "ligand_atoms": [
+        108,
+        144,
+        180,
+        72
+      ],
+      "ligand_elements": [
+        "O",
+        "O",
+        "F",
+        "O"
+      ],
+      "images": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "source_line": 26
+    },
+    {
+      "center": 24,
+      "element": "Mg",
+      "frame": 999,
+      "elapsed_ps": 19.98,
+      "absolute_ps": 20.0,
+      "O_CN": 3,
+      "F_CN": 1,
+      "mean_bond_A": 2.0524332342636136,
+      "ligand_atoms": [
+        108,
+        156,
+        144,
+        120
+      ],
+      "ligand_elements": [
+        "O",
+        "F",
+        "O",
+        "O"
+      ],
+      "images": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "source_line": 14426
+    },
+    {
+      "center": 48,
+      "element": "P",
+      "frame": 0,
+      "elapsed_ps": 0.0,
+      "absolute_ps": 0.02,
+      "O_CN": 3,
+      "F_CN": 1,
+      "mean_bond_A": 1.5630377106161084,
+      "ligand_atoms": [
+        134,
+        85,
+        76,
+        180
+      ],
+      "ligand_elements": [
+        "O",
+        "O",
+        "O",
+        "F"
+      ],
+      "images": [
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "source_line": 50
+    },
+    {
+      "center": 48,
+      "element": "P",
+      "frame": 999,
+      "elapsed_ps": 19.98,
+      "absolute_ps": 20.0,
+      "O_CN": 3,
+      "F_CN": 1,
+      "mean_bond_A": 1.5626587056455326,
+      "ligand_atoms": [
+        76,
+        85,
+        134,
+        180
+      ],
+      "ligand_elements": [
+        "O",
+        "O",
+        "O",
+        "F"
+      ],
+      "images": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "source_line": 14450
+    }
+  ],
+  "interpretation": "同初始CN不决定不同Na结局；Na21回参考邻域不等原配体环境恢复；Mg24同CN仍换配体，P48首末同身份不保证中途未动或完全刚性。只给观察对应，不作因果或位点迁移真值。",
+  "coverage": "8条实际旧首末记录，不能替代1000保存帧全环境与后段六窗",
+  "hash_recomputed": false,
+  "scientificStatus": "UNVERIFIED",
+  "publicationAuthorized": false
+}

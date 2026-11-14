@@ -1,0 +1,268 @@
+{
+  "summaries": [
+    {
+      "window": "full",
+      "events": 50,
+      "outcomes": {
+        "transient": 26,
+        "persistent": 23,
+        "right_censored": 1
+      },
+      "clean_sameNa_controls": 50,
+      "full_event_phases": 45,
+      "fixed200_complete": 45
+    },
+    {
+      "window": "common0to20_available",
+      "events": 50,
+      "outcomes": {
+        "transient": 26,
+        "persistent": 23,
+        "right_censored": 1
+      },
+      "clean_sameNa_controls": 50,
+      "full_event_phases": 45,
+      "fixed200_complete": 45
+    },
+    {
+      "window": "after4",
+      "events": 38,
+      "outcomes": {
+        "transient": 19,
+        "persistent": 18,
+        "right_censored": 1
+      },
+      "clean_sameNa_controls": 38,
+      "full_event_phases": 37,
+      "fixed200_complete": 37
+    },
+    {
+      "window": "fixed4to14",
+      "events": 24,
+      "outcomes": {
+        "transient": 12,
+        "persistent": 11,
+        "right_censored": 1
+      },
+      "clean_sameNa_controls": 24,
+      "full_event_phases": 23,
+      "fixed200_complete": 24
+    },
+    {
+      "window": "tail10",
+      "events": 22,
+      "outcomes": {
+        "transient": 13,
+        "persistent": 8,
+        "right_censored": 1
+      },
+      "clean_sameNa_controls": 22,
+      "full_event_phases": 20,
+      "fixed200_complete": 20
+    },
+    {
+      "window": "tail5",
+      "events": 13,
+      "outcomes": {
+        "persistent": 6,
+        "right_censored": 1,
+        "transient": 6
+      },
+      "clean_sameNa_controls": 13,
+      "full_event_phases": 11,
+      "fixed200_complete": 11
+    }
+  ],
+  "threshold_sensitivity": [
+    {
+      "window": "full",
+      "threshold_A": 1.2,
+      "n_events": 84,
+      "outcomes": {
+        "transient": 37,
+        "persistent": 46,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.5,
+      "n_events": 50,
+      "outcomes": {
+        "transient": 26,
+        "persistent": 23,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.8,
+      "n_events": 26,
+      "outcomes": {
+        "transient": 15,
+        "right_censored": 1,
+        "persistent": 10
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.2,
+      "n_events": 84,
+      "outcomes": {
+        "transient": 37,
+        "persistent": 46,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.5,
+      "n_events": 50,
+      "outcomes": {
+        "transient": 26,
+        "persistent": 23,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.8,
+      "n_events": 26,
+      "outcomes": {
+        "transient": 15,
+        "right_censored": 1,
+        "persistent": 10
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.2,
+      "n_events": 65,
+      "outcomes": {
+        "transient": 26,
+        "persistent": 38,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.5,
+      "n_events": 38,
+      "outcomes": {
+        "transient": 19,
+        "persistent": 18,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.8,
+      "n_events": 23,
+      "outcomes": {
+        "transient": 13,
+        "right_censored": 1,
+        "persistent": 9
+      }
+    },
+    {
+      "window": "fixed4to14",
+      "threshold_A": 1.2,
+      "n_events": 36,
+      "outcomes": {
+        "transient": 16,
+        "persistent": 19,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "fixed4to14",
+      "threshold_A": 1.5,
+      "n_events": 24,
+      "outcomes": {
+        "transient": 12,
+        "persistent": 11,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "fixed4to14",
+      "threshold_A": 1.8,
+      "n_events": 16,
+      "outcomes": {
+        "transient": 8,
+        "persistent": 7,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "tail10",
+      "threshold_A": 1.2,
+      "n_events": 43,
+      "outcomes": {
+        "transient": 17,
+        "persistent": 25,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "tail10",
+      "threshold_A": 1.5,
+      "n_events": 22,
+      "outcomes": {
+        "transient": 13,
+        "persistent": 8,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "tail10",
+      "threshold_A": 1.8,
+      "n_events": 12,
+      "outcomes": {
+        "transient": 8,
+        "right_censored": 1,
+        "persistent": 3
+      }
+    },
+    {
+      "window": "tail5",
+      "threshold_A": 1.2,
+      "n_events": 21,
+      "outcomes": {
+        "persistent": 14,
+        "right_censored": 1,
+        "transient": 6
+      }
+    },
+    {
+      "window": "tail5",
+      "threshold_A": 1.5,
+      "n_events": 13,
+      "outcomes": {
+        "persistent": 6,
+        "right_censored": 1,
+        "transient": 6
+      }
+    },
+    {
+      "window": "tail5",
+      "threshold_A": 1.8,
+      "n_events": 7,
+      "outcomes": {
+        "transient": 4,
+        "right_censored": 1,
+        "persistent": 2
+      }
+    }
+  ],
+  "inherited_code_sha256": "cb67b183d51158d20a1715f21d79c0d1ea12d7adf81d641be3d4ab9c9b139b58",
+  "threshold": {
+    "net_A": 1.5,
+    "span_fs": 200,
+    "straightness_min": 0.7,
+    "post_fs": 200,
+    "pair_gap_fs": 800,
+    "pair_tol_A": 0.35
+  },
+  "rule_events_are_not_true_hop_counts": true
+}

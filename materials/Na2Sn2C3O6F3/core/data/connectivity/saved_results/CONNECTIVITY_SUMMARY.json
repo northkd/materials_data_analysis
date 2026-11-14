@@ -1,0 +1,5927 @@
+{
+  "formula": "Na2Sn2C3O6F3",
+  "mp_id": "mp-560327",
+  "frames": 1000,
+  "absolute_window_ps": [
+    0.02,
+    20.0
+  ],
+  "dt_ps": 0.02,
+  "nonNa_atoms": 112,
+  "row_counts": {
+    "frames": 1000,
+    "edges": 121435,
+    "CC_edges": 11978,
+    "units": 12000,
+    "Sn_rows": 16000
+  },
+  "histograms": {
+    "components_with_CC": {
+      "8": 15,
+      "16": 2,
+      "12": 8,
+      "2": 345,
+      "4": 72,
+      "14": 1,
+      "10": 7,
+      "20": 1,
+      "6": 8,
+      "11": 2,
+      "13": 1,
+      "3": 228,
+      "1": 279,
+      "5": 27,
+      "7": 3,
+      "9": 1
+    },
+    "components_without_CC": {
+      "8": 172,
+      "16": 4,
+      "12": 28,
+      "20": 4,
+      "4": 71,
+      "22": 1,
+      "10": 57,
+      "24": 1,
+      "11": 33,
+      "17": 1,
+      "18": 1,
+      "14": 2,
+      "9": 110,
+      "6": 166,
+      "7": 202,
+      "5": 115,
+      "2": 2,
+      "3": 23,
+      "13": 6,
+      "15": 1
+    },
+    "largest_component_atoms": {
+      "16": 15,
+      "8": 2,
+      "12": 8,
+      "56": 3,
+      "28": 1,
+      "26": 1,
+      "52": 6,
+      "10": 1,
+      "24": 4,
+      "22": 1,
+      "37": 1,
+      "27": 1,
+      "44": 1,
+      "55": 2,
+      "66": 2,
+      "111": 86,
+      "112": 279,
+      "83": 9,
+      "100": 24,
+      "68": 3,
+      "109": 13,
+      "80": 2,
+      "101": 9,
+      "53": 1,
+      "81": 2,
+      "75": 1,
+      "95": 26,
+      "98": 29,
+      "73": 3,
+      "105": 34,
+      "91": 8,
+      "85": 4,
+      "110": 14,
+      "108": 57,
+      "54": 2,
+      "64": 1,
+      "48": 2,
+      "96": 11,
+      "94": 18,
+      "106": 83,
+      "103": 37,
+      "84": 2,
+      "107": 18,
+      "79": 2,
+      "88": 10,
+      "99": 14,
+      "92": 11,
+      "97": 16,
+      "90": 7,
+      "86": 6,
+      "89": 9,
+      "104": 38,
+      "67": 3,
+      "76": 2,
+      "102": 20,
+      "87": 6,
+      "93": 5,
+      "78": 4,
+      "62": 1,
+      "70": 6,
+      "61": 1,
+      "77": 4,
+      "69": 1,
+      "63": 1,
+      "82": 1,
+      "43": 1,
+      "58": 2,
+      "74": 1,
+      "71": 1
+    },
+    "CC_edges": {
+      "12": 984,
+      "8": 2,
+      "11": 14
+    },
+    "CC_component_reduction": {
+      "0": 16,
+      "4": 207,
+      "8": 39,
+      "2": 59,
+      "1": 11,
+      "6": 173,
+      "5": 256,
+      "7": 92,
+      "3": 129,
+      "9": 16,
+      "10": 2
+    },
+    "Sn_units_per_center": {
+      "2": 5704,
+      "1": 6597,
+      "3": 1613,
+      "0": 1911,
+      "4": 170,
+      "5": 5
+    },
+    "O_Sn_degree": {
+      "1": 24190,
+      "0": 21823,
+      "2": 1983,
+      "3": 4
+    },
+    "F_Sn_degree": {
+      "1": 14530,
+      "2": 8593,
+      "0": 344,
+      "3": 529,
+      "4": 4
+    }
+  },
+  "C2O4_units": [
+    {
+      "unit_id": "C33_C53",
+      "C_pair": [
+        33,
+        53
+      ],
+      "initial_O_ids": [
+        77,
+        81,
+        89,
+        93
+      ],
+      "frames": 1000,
+      "CC_present_frames": 999,
+      "CO_all_four_frames": 998,
+      "Sn_neighbor_count_hist": {
+        "2": 496,
+        "1": 305,
+        "3": 134,
+        "4": 13,
+        "0": 51,
+        "5": 1
+      },
+      "Sn_union": [
+        17,
+        19,
+        21,
+        23,
+        24,
+        25,
+        27,
+        29,
+        31
+      ]
+    },
+    {
+      "unit_id": "C34_C54",
+      "C_pair": [
+        34,
+        54
+      ],
+      "initial_O_ids": [
+        78,
+        82,
+        90,
+        94
+      ],
+      "frames": 1000,
+      "CC_present_frames": 1000,
+      "CO_all_four_frames": 995,
+      "Sn_neighbor_count_hist": {
+        "2": 488,
+        "1": 203,
+        "3": 283,
+        "4": 21,
+        "0": 5
+      },
+      "Sn_union": [
+        18,
+        19,
+        20,
+        22,
+        23,
+        25,
+        26,
+        28,
+        30,
+        32
+      ]
+    },
+    {
+      "unit_id": "C35_C55",
+      "C_pair": [
+        35,
+        55
+      ],
+      "initial_O_ids": [
+        79,
+        83,
+        91,
+        95
+      ],
+      "frames": 1000,
+      "CC_present_frames": 999,
+      "CO_all_four_frames": 995,
+      "Sn_neighbor_count_hist": {
+        "2": 463,
+        "1": 253,
+        "3": 235,
+        "4": 31,
+        "0": 18
+      },
+      "Sn_union": [
+        17,
+        19,
+        21,
+        23,
+        25,
+        26,
+        27,
+        29,
+        31,
+        32
+      ]
+    },
+    {
+      "unit_id": "C36_C56",
+      "C_pair": [
+        36,
+        56
+      ],
+      "initial_O_ids": [
+        80,
+        84,
+        92,
+        96
+      ],
+      "frames": 1000,
+      "CC_present_frames": 998,
+      "CO_all_four_frames": 997,
+      "Sn_neighbor_count_hist": {
+        "2": 579,
+        "1": 212,
+        "3": 185,
+        "0": 5,
+        "4": 19
+      },
+      "Sn_union": [
+        18,
+        19,
+        20,
+        24,
+        25,
+        26,
+        27,
+        28,
+        30,
+        32
+      ]
+    },
+    {
+      "unit_id": "C37_C49",
+      "C_pair": [
+        37,
+        49
+      ],
+      "initial_O_ids": [
+        57,
+        61,
+        97,
+        101
+      ],
+      "frames": 1000,
+      "CC_present_frames": 1000,
+      "CO_all_four_frames": 998,
+      "Sn_neighbor_count_hist": {
+        "2": 495,
+        "1": 240,
+        "3": 230,
+        "4": 23,
+        "0": 12
+      },
+      "Sn_union": [
+        17,
+        19,
+        20,
+        21,
+        25,
+        26,
+        29,
+        32
+      ]
+    },
+    {
+      "unit_id": "C38_C50",
+      "C_pair": [
+        38,
+        50
+      ],
+      "initial_O_ids": [
+        58,
+        62,
+        98,
+        102
+      ],
+      "frames": 1000,
+      "CC_present_frames": 999,
+      "CO_all_four_frames": 998,
+      "Sn_neighbor_count_hist": {
+        "2": 491,
+        "1": 210,
+        "3": 233,
+        "4": 60,
+        "0": 1,
+        "5": 5
+      },
+      "Sn_union": [
+        18,
+        20,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        30,
+        32
+      ]
+    },
+    {
+      "unit_id": "C39_C51",
+      "C_pair": [
+        39,
+        51
+      ],
+      "initial_O_ids": [
+        59,
+        63,
+        99,
+        103
+      ],
+      "frames": 1000,
+      "CC_present_frames": 999,
+      "CO_all_four_frames": 998,
+      "Sn_neighbor_count_hist": {
+        "2": 486,
+        "1": 252,
+        "3": 211,
+        "4": 20,
+        "0": 31
+      },
+      "Sn_union": [
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        27,
+        31
+      ]
+    },
+    {
+      "unit_id": "C40_C52",
+      "C_pair": [
+        40,
+        52
+      ],
+      "initial_O_ids": [
+        60,
+        64,
+        100,
+        104
+      ],
+      "frames": 1000,
+      "CC_present_frames": 998,
+      "CO_all_four_frames": 995,
+      "Sn_neighbor_count_hist": {
+        "2": 466,
+        "1": 346,
+        "3": 146,
+        "0": 17,
+        "4": 24,
+        "5": 1
+      },
+      "Sn_union": [
+        18,
+        19,
+        20,
+        22,
+        24,
+        25,
+        26,
+        27,
+        28,
+        30,
+        32
+      ]
+    },
+    {
+      "unit_id": "C41_C46",
+      "C_pair": [
+        41,
+        46
+      ],
+      "initial_O_ids": [
+        66,
+        69,
+        74,
+        85
+      ],
+      "frames": 1000,
+      "CC_present_frames": 997,
+      "CO_all_four_frames": 997,
+      "Sn_neighbor_count_hist": {
+        "2": 513,
+        "3": 122,
+        "4": 26,
+        "1": 331,
+        "0": 8
+      },
+      "Sn_union": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        25,
+        26,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "unit_id": "C42_C45",
+      "C_pair": [
+        42,
+        45
+      ],
+      "initial_O_ids": [
+        65,
+        70,
+        73,
+        86
+      ],
+      "frames": 1000,
+      "CC_present_frames": 994,
+      "CO_all_four_frames": 999,
+      "Sn_neighbor_count_hist": {
+        "2": 411,
+        "4": 102,
+        "1": 109,
+        "3": 356,
+        "0": 10,
+        "5": 12
+      },
+      "Sn_union": [
+        17,
+        18,
+        20,
+        22,
+        24,
+        25,
+        27,
+        28,
+        30,
+        31
+      ]
+    },
+    {
+      "unit_id": "C43_C48",
+      "C_pair": [
+        43,
+        48
+      ],
+      "initial_O_ids": [
+        68,
+        71,
+        76,
+        87
+      ],
+      "frames": 1000,
+      "CC_present_frames": 998,
+      "CO_all_four_frames": 1000,
+      "Sn_neighbor_count_hist": {
+        "2": 436,
+        "3": 130,
+        "4": 15,
+        "1": 350,
+        "0": 69
+      },
+      "Sn_union": [
+        17,
+        19,
+        20,
+        21,
+        23,
+        26,
+        28,
+        29,
+        31,
+        32
+      ]
+    },
+    {
+      "unit_id": "C44_C47",
+      "C_pair": [
+        44,
+        47
+      ],
+      "initial_O_ids": [
+        67,
+        72,
+        75,
+        88
+      ],
+      "frames": 1000,
+      "CC_present_frames": 997,
+      "CO_all_four_frames": 1000,
+      "Sn_neighbor_count_hist": {
+        "2": 485,
+        "4": 15,
+        "1": 328,
+        "3": 142,
+        "0": 30
+      },
+      "Sn_union": [
+        18,
+        19,
+        22,
+        24,
+        25,
+        27,
+        29,
+        30,
+        31,
+        32
+      ]
+    }
+  ],
+  "ID_contact_persistence": {
+    "Sn-O": {
+      "observed_runs": 2925,
+      "ge200fs": 763,
+      "longest_ps": 3.38,
+      "right_censored": 33
+    },
+    "Sn-F": {
+      "observed_runs": 1352,
+      "ge200fs": 609,
+      "longest_ps": 7.66,
+      "right_censored": 37
+    },
+    "C-C": {
+      "observed_runs": 30,
+      "ge200fs": 23,
+      "longest_ps": 19.98,
+      "right_censored": 12
+    },
+    "C-O": {
+      "observed_runs": 78,
+      "ge200fs": 75,
+      "longest_ps": 19.98,
+      "right_censored": 48
+    }
+  },
+  "snapshots": [
+    {
+      "frame": 0,
+      "absolute_ps": 0.02,
+      "components": {
+        "frame": 0,
+        "absolute_ps": 0.02,
+        "edges": 124,
+        "CC_edges": 12,
+        "components_with_CC": 8,
+        "components_without_CC": 8,
+        "largest_component_atoms": 16,
+        "isolated_atoms": [],
+        "component_members": [
+          [
+            17,
+            19,
+            37,
+            39,
+            49,
+            51,
+            57,
+            59,
+            61,
+            63,
+            97,
+            99,
+            101,
+            103,
+            109,
+            111
+          ],
+          [
+            18,
+            20,
+            38,
+            40,
+            50,
+            52,
+            58,
+            60,
+            62,
+            64,
+            98,
+            100,
+            102,
+            104,
+            110,
+            112
+          ],
+          [
+            29,
+            31,
+            33,
+            35,
+            53,
+            55,
+            77,
+            79,
+            81,
+            83,
+            89,
+            91,
+            93,
+            95,
+            105,
+            107
+          ],
+          [
+            30,
+            32,
+            34,
+            36,
+            54,
+            56,
+            78,
+            80,
+            82,
+            84,
+            90,
+            92,
+            94,
+            96,
+            106,
+            108
+          ],
+          [
+            21,
+            26,
+            41,
+            46,
+            66,
+            69,
+            74,
+            85,
+            115,
+            120,
+            122,
+            125
+          ],
+          [
+            22,
+            25,
+            42,
+            45,
+            65,
+            70,
+            73,
+            86,
+            116,
+            119,
+            121,
+            126
+          ],
+          [
+            23,
+            28,
+            43,
+            48,
+            68,
+            71,
+            76,
+            87,
+            113,
+            118,
+            124,
+            127
+          ],
+          [
+            24,
+            27,
+            44,
+            47,
+            67,
+            72,
+            75,
+            88,
+            114,
+            117,
+            123,
+            128
+          ]
+        ]
+      },
+      "units": [
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C33_C53",
+          "C_pair": [
+            33,
+            53
+          ],
+          "initial_O_ids": [
+            77,
+            81,
+            89,
+            93
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 31,
+              "O": 77,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 29,
+              "O": 89,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 29,
+              "O": 93,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            29,
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            105,
+            107
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C34_C54",
+          "C_pair": [
+            34,
+            54
+          ],
+          "initial_O_ids": [
+            78,
+            82,
+            90,
+            94
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 32,
+              "O": 78,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 30,
+              "O": 90,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 30,
+              "O": 94,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            30,
+            32
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            106,
+            108
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C35_C55",
+          "C_pair": [
+            35,
+            55
+          ],
+          "initial_O_ids": [
+            79,
+            83,
+            91,
+            95
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 29,
+              "O": 79,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 31,
+              "O": 91,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 31,
+              "O": 95,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            29,
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            105,
+            107
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C36_C56",
+          "C_pair": [
+            36,
+            56
+          ],
+          "initial_O_ids": [
+            80,
+            84,
+            92,
+            96
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 30,
+              "O": 80,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 32,
+              "O": 92,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 32,
+              "O": 96,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            30,
+            32
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            106,
+            108
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C37_C49",
+          "C_pair": [
+            37,
+            49
+          ],
+          "initial_O_ids": [
+            57,
+            61,
+            97,
+            101
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 17,
+              "O": 57,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 17,
+              "O": 61,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 19,
+              "O": 97,
+              "image_Sn_to_O": [
+                1,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            17,
+            19
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            109,
+            111
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C38_C50",
+          "C_pair": [
+            38,
+            50
+          ],
+          "initial_O_ids": [
+            58,
+            62,
+            98,
+            102
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 18,
+              "O": 58,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 18,
+              "O": 62,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 20,
+              "O": 98,
+              "image_Sn_to_O": [
+                1,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            18,
+            20
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            110,
+            112
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C39_C51",
+          "C_pair": [
+            39,
+            51
+          ],
+          "initial_O_ids": [
+            59,
+            63,
+            99,
+            103
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 19,
+              "O": 59,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 19,
+              "O": 63,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 17,
+              "O": 99,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            17,
+            19
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            109,
+            111
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C40_C52",
+          "C_pair": [
+            40,
+            52
+          ],
+          "initial_O_ids": [
+            60,
+            64,
+            100,
+            104
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 20,
+              "O": 60,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 20,
+              "O": 64,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 18,
+              "O": 100,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            18,
+            20
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            110,
+            112
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C41_C46",
+          "C_pair": [
+            41,
+            46
+          ],
+          "initial_O_ids": [
+            66,
+            69,
+            74,
+            85
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 21,
+              "O": 66,
+              "image_Sn_to_O": [
+                0,
+                -1,
+                0
+              ]
+            },
+            {
+              "Sn": 21,
+              "O": 69,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 26,
+              "O": 74,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 26,
+              "O": 85,
+              "image_Sn_to_O": [
+                0,
+                1,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            21,
+            26
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            115,
+            120,
+            122,
+            125
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C42_C45",
+          "C_pair": [
+            42,
+            45
+          ],
+          "initial_O_ids": [
+            65,
+            70,
+            73,
+            86
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 22,
+              "O": 65,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 22,
+              "O": 70,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 25,
+              "O": 73,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 25,
+              "O": 86,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            22,
+            25
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            116,
+            119,
+            121,
+            126
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C43_C48",
+          "C_pair": [
+            43,
+            48
+          ],
+          "initial_O_ids": [
+            68,
+            71,
+            76,
+            87
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 23,
+              "O": 68,
+              "image_Sn_to_O": [
+                0,
+                -1,
+                0
+              ]
+            },
+            {
+              "Sn": 23,
+              "O": 71,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 76,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 87,
+              "image_Sn_to_O": [
+                0,
+                1,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            23,
+            28
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            113,
+            118,
+            124,
+            127
+          ]
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "unit_id": "C44_C47",
+          "C_pair": [
+            44,
+            47
+          ],
+          "initial_O_ids": [
+            67,
+            72,
+            75,
+            88
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 24,
+              "O": 67,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 24,
+              "O": 72,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 75,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 88,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            24,
+            27
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            114,
+            117,
+            123,
+            128
+          ]
+        }
+      ],
+      "Sn_links": [
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 17,
+          "C2O4_initial_unit_ids": [
+            "C37_C49",
+            "C39_C51"
+          ],
+          "O_ids": [
+            57,
+            61,
+            99
+          ],
+          "F_ids": [
+            109
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 18,
+          "C2O4_initial_unit_ids": [
+            "C38_C50",
+            "C40_C52"
+          ],
+          "O_ids": [
+            58,
+            62,
+            100
+          ],
+          "F_ids": [
+            110
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 19,
+          "C2O4_initial_unit_ids": [
+            "C37_C49",
+            "C39_C51"
+          ],
+          "O_ids": [
+            59,
+            63,
+            97
+          ],
+          "F_ids": [
+            111
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 20,
+          "C2O4_initial_unit_ids": [
+            "C38_C50",
+            "C40_C52"
+          ],
+          "O_ids": [
+            60,
+            64,
+            98
+          ],
+          "F_ids": [
+            112
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 21,
+          "C2O4_initial_unit_ids": [
+            "C41_C46"
+          ],
+          "O_ids": [
+            66,
+            69
+          ],
+          "F_ids": [
+            120,
+            125
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 22,
+          "C2O4_initial_unit_ids": [
+            "C42_C45"
+          ],
+          "O_ids": [
+            65,
+            70
+          ],
+          "F_ids": [
+            119,
+            126
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 23,
+          "C2O4_initial_unit_ids": [
+            "C43_C48"
+          ],
+          "O_ids": [
+            68,
+            71
+          ],
+          "F_ids": [
+            118,
+            127
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 24,
+          "C2O4_initial_unit_ids": [
+            "C44_C47"
+          ],
+          "O_ids": [
+            67,
+            72
+          ],
+          "F_ids": [
+            117,
+            128
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 25,
+          "C2O4_initial_unit_ids": [
+            "C42_C45"
+          ],
+          "O_ids": [
+            73,
+            86
+          ],
+          "F_ids": [
+            116,
+            121
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 26,
+          "C2O4_initial_unit_ids": [
+            "C41_C46"
+          ],
+          "O_ids": [
+            74,
+            85
+          ],
+          "F_ids": [
+            115,
+            122
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 27,
+          "C2O4_initial_unit_ids": [
+            "C44_C47"
+          ],
+          "O_ids": [
+            75,
+            88
+          ],
+          "F_ids": [
+            114,
+            123
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 28,
+          "C2O4_initial_unit_ids": [
+            "C43_C48"
+          ],
+          "O_ids": [
+            76,
+            87
+          ],
+          "F_ids": [
+            113,
+            124
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 29,
+          "C2O4_initial_unit_ids": [
+            "C33_C53",
+            "C35_C55"
+          ],
+          "O_ids": [
+            79,
+            89,
+            93
+          ],
+          "F_ids": [
+            105
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 30,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C36_C56"
+          ],
+          "O_ids": [
+            80,
+            90,
+            94
+          ],
+          "F_ids": [
+            106
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 31,
+          "C2O4_initial_unit_ids": [
+            "C33_C53",
+            "C35_C55"
+          ],
+          "O_ids": [
+            77,
+            91,
+            95
+          ],
+          "F_ids": [
+            107
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 0,
+          "absolute_ps": 0.02,
+          "Sn_1based": 32,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C36_C56"
+          ],
+          "O_ids": [
+            78,
+            92,
+            96
+          ],
+          "F_ids": [
+            108
+          ],
+          "links_two_or_more_units": true
+        }
+      ]
+    },
+    {
+      "frame": 199,
+      "absolute_ps": 4.0,
+      "components": {
+        "frame": 199,
+        "absolute_ps": 4.0,
+        "edges": 126,
+        "CC_edges": 12,
+        "components_with_CC": 1,
+        "components_without_CC": 4,
+        "largest_component_atoms": 112,
+        "isolated_atoms": [],
+        "component_members": [
+          [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128
+          ]
+        ]
+      },
+      "units": [
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C33_C53",
+          "C_pair": [
+            33,
+            53
+          ],
+          "initial_O_ids": [
+            77,
+            81,
+            89,
+            93
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 29,
+              "O": 89,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 21,
+              "O": 93,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            21,
+            29
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            107,
+            115,
+            117
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C34_C54",
+          "C_pair": [
+            34,
+            54
+          ],
+          "initial_O_ids": [
+            78,
+            82,
+            90,
+            94
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 32,
+              "O": 78,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 30,
+              "O": 90,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 18,
+              "O": 94,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 30,
+              "O": 94,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            18,
+            30,
+            32
+          ],
+          "bridging_O_count": 1,
+          "F_on_attached_Sn": [
+            108,
+            110,
+            114,
+            120,
+            123,
+            126
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C35_C55",
+          "C_pair": [
+            35,
+            55
+          ],
+          "initial_O_ids": [
+            79,
+            83,
+            91,
+            95
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 25,
+              "O": 79,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 31,
+              "O": 91,
+              "image_Sn_to_O": [
+                0,
+                0,
+                -1
+              ]
+            },
+            {
+              "Sn": 23,
+              "O": 95,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            23,
+            25,
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            105,
+            109,
+            111,
+            113,
+            115,
+            116,
+            119
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C36_C56",
+          "C_pair": [
+            36,
+            56
+          ],
+          "initial_O_ids": [
+            80,
+            84,
+            92,
+            96
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 30,
+              "O": 80,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 84,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 30,
+              "O": 96,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            28,
+            30
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            124,
+            125,
+            126,
+            127
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C37_C49",
+          "C_pair": [
+            37,
+            49
+          ],
+          "initial_O_ids": [
+            57,
+            61,
+            97,
+            101
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 17,
+              "O": 57,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 17,
+              "O": 61,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 29,
+              "O": 61,
+              "image_Sn_to_O": [
+                0,
+                0,
+                -1
+              ]
+            },
+            {
+              "Sn": 19,
+              "O": 97,
+              "image_Sn_to_O": [
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 21,
+              "O": 101,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            17,
+            19,
+            21,
+            29
+          ],
+          "bridging_O_count": 1,
+          "F_on_attached_Sn": [
+            105,
+            107,
+            112,
+            113,
+            115,
+            117
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C38_C50",
+          "C_pair": [
+            38,
+            50
+          ],
+          "initial_O_ids": [
+            58,
+            62,
+            98,
+            102
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 18,
+              "O": 62,
+              "image_Sn_to_O": [
+                0,
+                0,
+                -1
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 102,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            18,
+            27
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            110,
+            114,
+            123
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C39_C51",
+          "C_pair": [
+            39,
+            51
+          ],
+          "initial_O_ids": [
+            59,
+            63,
+            99,
+            103
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 23,
+              "O": 59,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            23
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            105,
+            115
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C40_C52",
+          "C_pair": [
+            40,
+            52
+          ],
+          "initial_O_ids": [
+            60,
+            64,
+            100,
+            104
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 20,
+              "O": 60,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 20,
+              "O": 64,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            20
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            112,
+            122
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C41_C46",
+          "C_pair": [
+            41,
+            46
+          ],
+          "initial_O_ids": [
+            66,
+            69,
+            74,
+            85
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 21,
+              "O": 74,
+              "image_Sn_to_O": [
+                0,
+                -1,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            21
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            107
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C42_C45",
+          "C_pair": [
+            42,
+            45
+          ],
+          "initial_O_ids": [
+            65,
+            70,
+            73,
+            86
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 31,
+              "O": 65,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 22,
+              "O": 70,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 73,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            22,
+            27,
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            106,
+            113,
+            119,
+            121,
+            123
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C43_C48",
+          "C_pair": [
+            43,
+            48
+          ],
+          "initial_O_ids": [
+            68,
+            71,
+            76,
+            87
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 19,
+              "O": 68,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 19,
+              "O": 76,
+              "image_Sn_to_O": [
+                0,
+                0,
+                1
+              ]
+            }
+          ],
+          "Sn_ids": [
+            19
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            105,
+            112
+          ]
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "unit_id": "C44_C47",
+          "C_pair": [
+            44,
+            47
+          ],
+          "initial_O_ids": [
+            67,
+            72,
+            75,
+            88
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 24,
+              "O": 67,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 72,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 25,
+              "O": 88,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            24,
+            25,
+            27
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            106,
+            108,
+            109,
+            111,
+            116,
+            123,
+            128
+          ]
+        }
+      ],
+      "Sn_links": [
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 17,
+          "C2O4_initial_unit_ids": [
+            "C37_C49"
+          ],
+          "O_ids": [
+            57,
+            61
+          ],
+          "F_ids": [
+            113,
+            117
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 18,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C38_C50"
+          ],
+          "O_ids": [
+            62,
+            94
+          ],
+          "F_ids": [
+            110,
+            114
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 19,
+          "C2O4_initial_unit_ids": [
+            "C37_C49",
+            "C43_C48"
+          ],
+          "O_ids": [
+            68,
+            76,
+            97
+          ],
+          "F_ids": [
+            105,
+            112
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 20,
+          "C2O4_initial_unit_ids": [
+            "C40_C52"
+          ],
+          "O_ids": [
+            60,
+            64
+          ],
+          "F_ids": [
+            112,
+            122
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 21,
+          "C2O4_initial_unit_ids": [
+            "C33_C53",
+            "C37_C49",
+            "C41_C46"
+          ],
+          "O_ids": [
+            74,
+            93,
+            101
+          ],
+          "F_ids": [
+            107
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 22,
+          "C2O4_initial_unit_ids": [
+            "C42_C45"
+          ],
+          "O_ids": [
+            70
+          ],
+          "F_ids": [
+            106,
+            121
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 23,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C39_C51"
+          ],
+          "O_ids": [
+            59,
+            95
+          ],
+          "F_ids": [
+            105,
+            115
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 24,
+          "C2O4_initial_unit_ids": [
+            "C44_C47"
+          ],
+          "O_ids": [
+            67
+          ],
+          "F_ids": [
+            106,
+            108,
+            128
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 25,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C44_C47"
+          ],
+          "O_ids": [
+            79,
+            88
+          ],
+          "F_ids": [
+            109,
+            111,
+            116
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 26,
+          "C2O4_initial_unit_ids": [],
+          "O_ids": [],
+          "F_ids": [
+            107,
+            110,
+            118,
+            125
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 27,
+          "C2O4_initial_unit_ids": [
+            "C38_C50",
+            "C42_C45",
+            "C44_C47"
+          ],
+          "O_ids": [
+            72,
+            73,
+            102
+          ],
+          "F_ids": [
+            123
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 28,
+          "C2O4_initial_unit_ids": [
+            "C36_C56"
+          ],
+          "O_ids": [
+            84
+          ],
+          "F_ids": [
+            124,
+            125,
+            127
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 29,
+          "C2O4_initial_unit_ids": [
+            "C33_C53",
+            "C37_C49"
+          ],
+          "O_ids": [
+            61,
+            89
+          ],
+          "F_ids": [
+            115,
+            117
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 30,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C36_C56"
+          ],
+          "O_ids": [
+            80,
+            90,
+            94,
+            96
+          ],
+          "F_ids": [
+            126
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 31,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C42_C45"
+          ],
+          "O_ids": [
+            65,
+            91
+          ],
+          "F_ids": [
+            113,
+            119
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 199,
+          "absolute_ps": 4.0,
+          "Sn_1based": 32,
+          "C2O4_initial_unit_ids": [
+            "C34_C54"
+          ],
+          "O_ids": [
+            78
+          ],
+          "F_ids": [
+            108,
+            120,
+            123
+          ],
+          "links_two_or_more_units": false
+        }
+      ]
+    },
+    {
+      "frame": 499,
+      "absolute_ps": 10.0,
+      "components": {
+        "frame": 499,
+        "absolute_ps": 10.0,
+        "edges": 122,
+        "CC_edges": 12,
+        "components_with_CC": 2,
+        "components_without_CC": 7,
+        "largest_component_atoms": 111,
+        "isolated_atoms": [
+          128
+        ],
+        "component_members": [
+          [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+          ],
+          [
+            128
+          ]
+        ]
+      },
+      "units": [
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C33_C53",
+          "C_pair": [
+            33,
+            53
+          ],
+          "initial_O_ids": [
+            77,
+            81,
+            89,
+            93
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 29,
+              "O": 89,
+              "image_Sn_to_O": [
+                0,
+                0,
+                1
+              ]
+            }
+          ],
+          "Sn_ids": [
+            29
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            111,
+            119
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C34_C54",
+          "C_pair": [
+            34,
+            54
+          ],
+          "initial_O_ids": [
+            78,
+            82,
+            90,
+            94
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 20,
+              "O": 82,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 26,
+              "O": 90,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 94,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            20,
+            26,
+            28
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            110,
+            118,
+            122,
+            124,
+            125,
+            127
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C35_C55",
+          "C_pair": [
+            35,
+            55
+          ],
+          "initial_O_ids": [
+            79,
+            83,
+            91,
+            95
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 19,
+              "O": 79,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 31,
+              "O": 91,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 23,
+              "O": 95,
+              "image_Sn_to_O": [
+                0,
+                0,
+                -1
+              ]
+            }
+          ],
+          "Sn_ids": [
+            19,
+            23,
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            107,
+            112,
+            115,
+            119,
+            122,
+            124
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C36_C56",
+          "C_pair": [
+            36,
+            56
+          ],
+          "initial_O_ids": [
+            80,
+            84,
+            92,
+            96
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 32,
+              "O": 80,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 30,
+              "O": 84,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            30,
+            32
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            120,
+            125,
+            126
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C37_C49",
+          "C_pair": [
+            37,
+            49
+          ],
+          "initial_O_ids": [
+            57,
+            61,
+            97,
+            101
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 19,
+              "O": 97,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            19
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            122,
+            124
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C38_C50",
+          "C_pair": [
+            38,
+            50
+          ],
+          "initial_O_ids": [
+            58,
+            62,
+            98,
+            102
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 18,
+              "O": 62,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 26,
+              "O": 98,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 32,
+              "O": 102,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            18,
+            26,
+            32
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            108,
+            110,
+            114,
+            120,
+            125
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C39_C51",
+          "C_pair": [
+            39,
+            51
+          ],
+          "initial_O_ids": [
+            59,
+            63,
+            99,
+            103
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 27,
+              "O": 99,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 103,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            27
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            114,
+            123
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C40_C52",
+          "C_pair": [
+            40,
+            52
+          ],
+          "initial_O_ids": [
+            60,
+            64,
+            100,
+            104
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 20,
+              "O": 60,
+              "image_Sn_to_O": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "Sn": 32,
+              "O": 100,
+              "image_Sn_to_O": [
+                0,
+                0,
+                -1
+              ]
+            },
+            {
+              "Sn": 32,
+              "O": 104,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            20,
+            32
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            118,
+            120
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C41_C46",
+          "C_pair": [
+            41,
+            46
+          ],
+          "initial_O_ids": [
+            66,
+            69,
+            74,
+            85
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 26,
+              "O": 66,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            26
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            110,
+            125
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C42_C45",
+          "C_pair": [
+            42,
+            45
+          ],
+          "initial_O_ids": [
+            65,
+            70,
+            73,
+            86
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 22,
+              "O": 73,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 17,
+              "O": 86,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            17,
+            22
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            106,
+            107,
+            109,
+            117,
+            118,
+            121,
+            125
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C43_C48",
+          "C_pair": [
+            43,
+            48
+          ],
+          "initial_O_ids": [
+            68,
+            71,
+            76,
+            87
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 21,
+              "O": 71,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 23,
+              "O": 76,
+              "image_Sn_to_O": [
+                0,
+                0,
+                -1
+              ]
+            },
+            {
+              "Sn": 21,
+              "O": 87,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 23,
+              "O": 87,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            21,
+            23
+          ],
+          "bridging_O_count": 1,
+          "F_on_attached_Sn": [
+            105,
+            112,
+            113,
+            115
+          ]
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "unit_id": "C44_C47",
+          "C_pair": [
+            44,
+            47
+          ],
+          "initial_O_ids": [
+            67,
+            72,
+            75,
+            88
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 31,
+              "O": 72,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            107,
+            119
+          ]
+        }
+      ],
+      "Sn_links": [
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 17,
+          "C2O4_initial_unit_ids": [
+            "C42_C45"
+          ],
+          "O_ids": [
+            86
+          ],
+          "F_ids": [
+            107,
+            109,
+            117
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 18,
+          "C2O4_initial_unit_ids": [
+            "C38_C50"
+          ],
+          "O_ids": [
+            62
+          ],
+          "F_ids": [
+            108,
+            110,
+            114
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 19,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C37_C49"
+          ],
+          "O_ids": [
+            79,
+            97
+          ],
+          "F_ids": [
+            122,
+            124
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 20,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C40_C52"
+          ],
+          "O_ids": [
+            60,
+            82
+          ],
+          "F_ids": [
+            118
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 21,
+          "C2O4_initial_unit_ids": [
+            "C43_C48"
+          ],
+          "O_ids": [
+            71,
+            87
+          ],
+          "F_ids": [
+            105,
+            113
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 22,
+          "C2O4_initial_unit_ids": [
+            "C42_C45"
+          ],
+          "O_ids": [
+            73
+          ],
+          "F_ids": [
+            106,
+            118,
+            121,
+            125
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 23,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C43_C48"
+          ],
+          "O_ids": [
+            76,
+            87,
+            95
+          ],
+          "F_ids": [
+            112,
+            115
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 24,
+          "C2O4_initial_unit_ids": [],
+          "O_ids": [],
+          "F_ids": [
+            116,
+            121
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 25,
+          "C2O4_initial_unit_ids": [],
+          "O_ids": [],
+          "F_ids": [
+            106,
+            109,
+            126
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 26,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C38_C50",
+            "C41_C46"
+          ],
+          "O_ids": [
+            66,
+            90,
+            98
+          ],
+          "F_ids": [
+            110,
+            125
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 27,
+          "C2O4_initial_unit_ids": [
+            "C39_C51"
+          ],
+          "O_ids": [
+            99,
+            103
+          ],
+          "F_ids": [
+            114,
+            123
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 28,
+          "C2O4_initial_unit_ids": [
+            "C34_C54"
+          ],
+          "O_ids": [
+            94
+          ],
+          "F_ids": [
+            122,
+            124,
+            127
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 29,
+          "C2O4_initial_unit_ids": [
+            "C33_C53"
+          ],
+          "O_ids": [
+            89
+          ],
+          "F_ids": [
+            111,
+            119
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 30,
+          "C2O4_initial_unit_ids": [
+            "C36_C56"
+          ],
+          "O_ids": [
+            84
+          ],
+          "F_ids": [
+            125,
+            126
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 31,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C44_C47"
+          ],
+          "O_ids": [
+            72,
+            91
+          ],
+          "F_ids": [
+            107,
+            119
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 499,
+          "absolute_ps": 10.0,
+          "Sn_1based": 32,
+          "C2O4_initial_unit_ids": [
+            "C36_C56",
+            "C38_C50",
+            "C40_C52"
+          ],
+          "O_ids": [
+            80,
+            100,
+            102,
+            104
+          ],
+          "F_ids": [
+            120
+          ],
+          "links_two_or_more_units": true
+        }
+      ]
+    },
+    {
+      "frame": 749,
+      "absolute_ps": 15.0,
+      "components": {
+        "frame": 749,
+        "absolute_ps": 15.0,
+        "edges": 116,
+        "CC_edges": 12,
+        "components_with_CC": 4,
+        "components_without_CC": 10,
+        "largest_component_atoms": 104,
+        "isolated_atoms": [
+          119,
+          123
+        ],
+        "component_members": [
+          [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            42,
+            43,
+            44,
+            45,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            67,
+            68,
+            70,
+            71,
+            72,
+            73,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            120,
+            121,
+            122,
+            124,
+            125,
+            126,
+            127,
+            128
+          ],
+          [
+            41,
+            46,
+            66,
+            69,
+            74,
+            85
+          ],
+          [
+            119
+          ],
+          [
+            123
+          ]
+        ]
+      },
+      "units": [
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C33_C53",
+          "C_pair": [
+            33,
+            53
+          ],
+          "initial_O_ids": [
+            77,
+            81,
+            89,
+            93
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 23,
+              "O": 89,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 24,
+              "O": 93,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            23,
+            24
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            115,
+            117,
+            121,
+            128
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C34_C54",
+          "C_pair": [
+            34,
+            54
+          ],
+          "initial_O_ids": [
+            78,
+            82,
+            90,
+            94
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 28,
+              "O": 78,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 25,
+              "O": 90,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            25,
+            28
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            118,
+            127
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C35_C55",
+          "C_pair": [
+            35,
+            55
+          ],
+          "initial_O_ids": [
+            79,
+            83,
+            91,
+            95
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 31,
+              "O": 79,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 31,
+              "O": 91,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            113
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C36_C56",
+          "C_pair": [
+            36,
+            56
+          ],
+          "initial_O_ids": [
+            80,
+            84,
+            92,
+            96
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 20,
+              "O": 92,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 19,
+              "O": 96,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            19,
+            20
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            110,
+            112,
+            122
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C37_C49",
+          "C_pair": [
+            37,
+            49
+          ],
+          "initial_O_ids": [
+            57,
+            61,
+            97,
+            101
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 32,
+              "O": 61,
+              "image_Sn_to_O": [
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "Sn": 29,
+              "O": 97,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            29,
+            32
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            105,
+            111,
+            120,
+            124
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C38_C50",
+          "C_pair": [
+            38,
+            50
+          ],
+          "initial_O_ids": [
+            58,
+            62,
+            98,
+            102
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 22,
+              "O": 62,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 62,
+              "image_Sn_to_O": [
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 102,
+              "image_Sn_to_O": [
+                0,
+                0,
+                1
+              ]
+            }
+          ],
+          "Sn_ids": [
+            22,
+            28
+          ],
+          "bridging_O_count": 1,
+          "F_on_attached_Sn": [
+            106,
+            121,
+            127
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C39_C51",
+          "C_pair": [
+            39,
+            51
+          ],
+          "initial_O_ids": [
+            59,
+            63,
+            99,
+            103
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 31,
+              "O": 59,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 63,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            27,
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            113,
+            114
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C40_C52",
+          "C_pair": [
+            40,
+            52
+          ],
+          "initial_O_ids": [
+            60,
+            64,
+            100,
+            104
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 20,
+              "O": 60,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 25,
+              "O": 60,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 25,
+              "O": 64,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 100,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 26,
+              "O": 104,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            20,
+            25,
+            26,
+            28
+          ],
+          "bridging_O_count": 1,
+          "F_on_attached_Sn": [
+            105,
+            110,
+            118,
+            125,
+            127
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C41_C46",
+          "C_pair": [
+            41,
+            46
+          ],
+          "initial_O_ids": [
+            66,
+            69,
+            74,
+            85
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [],
+          "Sn_ids": [],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": []
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C42_C45",
+          "C_pair": [
+            42,
+            45
+          ],
+          "initial_O_ids": [
+            65,
+            70,
+            73,
+            86
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 22,
+              "O": 65,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 18,
+              "O": 70,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 73,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 31,
+              "O": 86,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            18,
+            22,
+            27,
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            106,
+            108,
+            113,
+            114,
+            121,
+            126
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C43_C48",
+          "C_pair": [
+            43,
+            48
+          ],
+          "initial_O_ids": [
+            68,
+            71,
+            76,
+            87
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 21,
+              "O": 87,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            21
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            113,
+            116,
+            120
+          ]
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "unit_id": "C44_C47",
+          "C_pair": [
+            44,
+            47
+          ],
+          "initial_O_ids": [
+            67,
+            72,
+            75,
+            88
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 30,
+              "O": 72,
+              "image_Sn_to_O": [
+                -1,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            30
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            106,
+            109,
+            110
+          ]
+        }
+      ],
+      "Sn_links": [
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 17,
+          "C2O4_initial_unit_ids": [],
+          "O_ids": [],
+          "F_ids": [
+            107,
+            117
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 18,
+          "C2O4_initial_unit_ids": [
+            "C42_C45"
+          ],
+          "O_ids": [
+            70
+          ],
+          "F_ids": [
+            108,
+            126
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 19,
+          "C2O4_initial_unit_ids": [
+            "C36_C56"
+          ],
+          "O_ids": [
+            96
+          ],
+          "F_ids": [
+            112,
+            122
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 20,
+          "C2O4_initial_unit_ids": [
+            "C36_C56",
+            "C40_C52"
+          ],
+          "O_ids": [
+            60,
+            92
+          ],
+          "F_ids": [
+            110
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 21,
+          "C2O4_initial_unit_ids": [
+            "C43_C48"
+          ],
+          "O_ids": [
+            87
+          ],
+          "F_ids": [
+            113,
+            116,
+            120
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 22,
+          "C2O4_initial_unit_ids": [
+            "C38_C50",
+            "C42_C45"
+          ],
+          "O_ids": [
+            62,
+            65
+          ],
+          "F_ids": [
+            106,
+            121
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 23,
+          "C2O4_initial_unit_ids": [
+            "C33_C53"
+          ],
+          "O_ids": [
+            89
+          ],
+          "F_ids": [
+            115
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 24,
+          "C2O4_initial_unit_ids": [
+            "C33_C53"
+          ],
+          "O_ids": [
+            93
+          ],
+          "F_ids": [
+            117,
+            121,
+            128
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 25,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C40_C52"
+          ],
+          "O_ids": [
+            60,
+            64,
+            90
+          ],
+          "F_ids": [
+            118
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 26,
+          "C2O4_initial_unit_ids": [
+            "C40_C52"
+          ],
+          "O_ids": [
+            104
+          ],
+          "F_ids": [
+            105,
+            125,
+            127
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 27,
+          "C2O4_initial_unit_ids": [
+            "C39_C51",
+            "C42_C45"
+          ],
+          "O_ids": [
+            63,
+            73
+          ],
+          "F_ids": [
+            114
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 28,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C38_C50",
+            "C40_C52"
+          ],
+          "O_ids": [
+            62,
+            78,
+            100,
+            102
+          ],
+          "F_ids": [
+            127
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 29,
+          "C2O4_initial_unit_ids": [
+            "C37_C49"
+          ],
+          "O_ids": [
+            97
+          ],
+          "F_ids": [
+            111
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 30,
+          "C2O4_initial_unit_ids": [
+            "C44_C47"
+          ],
+          "O_ids": [
+            72
+          ],
+          "F_ids": [
+            106,
+            109,
+            110
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 31,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C39_C51",
+            "C42_C45"
+          ],
+          "O_ids": [
+            59,
+            79,
+            86,
+            91
+          ],
+          "F_ids": [
+            113
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 749,
+          "absolute_ps": 15.0,
+          "Sn_1based": 32,
+          "C2O4_initial_unit_ids": [
+            "C37_C49"
+          ],
+          "O_ids": [
+            61
+          ],
+          "F_ids": [
+            105,
+            120,
+            124
+          ],
+          "links_two_or_more_units": false
+        }
+      ]
+    },
+    {
+      "frame": 999,
+      "absolute_ps": 20.0,
+      "components": {
+        "frame": 999,
+        "absolute_ps": 20.0,
+        "edges": 130,
+        "CC_edges": 12,
+        "components_with_CC": 2,
+        "components_without_CC": 3,
+        "largest_component_atoms": 111,
+        "isolated_atoms": [
+          116
+        ],
+        "component_members": [
+          [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128
+          ],
+          [
+            116
+          ]
+        ]
+      },
+      "units": [
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C33_C53",
+          "C_pair": [
+            33,
+            53
+          ],
+          "initial_O_ids": [
+            77,
+            81,
+            89,
+            93
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 23,
+              "O": 77,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 81,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            23,
+            27
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            114,
+            115,
+            120,
+            121
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C34_C54",
+          "C_pair": [
+            34,
+            54
+          ],
+          "initial_O_ids": [
+            78,
+            82,
+            90,
+            94
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 26,
+              "O": 78,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 20,
+              "O": 90,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 20,
+              "O": 94,
+              "image_Sn_to_O": [
+                0,
+                0,
+                -1
+              ]
+            },
+            {
+              "Sn": 26,
+              "O": 94,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            20,
+            26
+          ],
+          "bridging_O_count": 1,
+          "F_on_attached_Sn": [
+            105,
+            109,
+            110,
+            122
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C35_C55",
+          "C_pair": [
+            35,
+            55
+          ],
+          "initial_O_ids": [
+            79,
+            83,
+            91,
+            95
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 19,
+              "O": 83,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 31,
+              "O": 91,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 21,
+              "O": 95,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            19,
+            21,
+            31
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            107,
+            113,
+            120,
+            121,
+            124
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C36_C56",
+          "C_pair": [
+            36,
+            56
+          ],
+          "initial_O_ids": [
+            80,
+            84,
+            92,
+            96
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 25,
+              "O": 80,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 30,
+              "O": 92,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            25,
+            30
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            117,
+            124,
+            126
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C37_C49",
+          "C_pair": [
+            37,
+            49
+          ],
+          "initial_O_ids": [
+            57,
+            61,
+            97,
+            101
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 29,
+              "O": 97,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 17,
+              "O": 101,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            17,
+            29
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            106,
+            107,
+            111,
+            119,
+            128
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C38_C50",
+          "C_pair": [
+            38,
+            50
+          ],
+          "initial_O_ids": [
+            58,
+            62,
+            98,
+            102
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 26,
+              "O": 58,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 62,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 102,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            26,
+            28
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            105,
+            122,
+            125
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C39_C51",
+          "C_pair": [
+            39,
+            51
+          ],
+          "initial_O_ids": [
+            59,
+            63,
+            99,
+            103
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 17,
+              "O": 99,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 27,
+              "O": 103,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 31,
+              "O": 103,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            17,
+            27,
+            31
+          ],
+          "bridging_O_count": 1,
+          "F_on_attached_Sn": [
+            106,
+            113,
+            114,
+            119,
+            121
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C40_C52",
+          "C_pair": [
+            40,
+            52
+          ],
+          "initial_O_ids": [
+            60,
+            64,
+            100,
+            104
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 25,
+              "O": 60,
+              "image_Sn_to_O": [
+                1,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 25,
+              "O": 64,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 22,
+              "O": 104,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            22,
+            25
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            108,
+            117,
+            118,
+            124
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C41_C46",
+          "C_pair": [
+            41,
+            46
+          ],
+          "initial_O_ids": [
+            66,
+            69,
+            74,
+            85
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 19,
+              "O": 66,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 23,
+              "O": 66,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 25,
+              "O": 69,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 23,
+              "O": 74,
+              "image_Sn_to_O": [
+                0,
+                -1,
+                0
+              ]
+            },
+            {
+              "Sn": 19,
+              "O": 85,
+              "image_Sn_to_O": [
+                1,
+                -1,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            19,
+            23,
+            25
+          ],
+          "bridging_O_count": 1,
+          "F_on_attached_Sn": [
+            115,
+            120,
+            124
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C42_C45",
+          "C_pair": [
+            42,
+            45
+          ],
+          "initial_O_ids": [
+            65,
+            70,
+            73,
+            86
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 27,
+              "O": 65,
+              "image_Sn_to_O": [
+                0,
+                0,
+                -1
+              ]
+            },
+            {
+              "Sn": 18,
+              "O": 73,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "Sn": 28,
+              "O": 86,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            18,
+            27,
+            28
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            108,
+            114,
+            121,
+            122,
+            125
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C43_C48",
+          "C_pair": [
+            43,
+            48
+          ],
+          "initial_O_ids": [
+            68,
+            71,
+            76,
+            87
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 26,
+              "O": 71,
+              "image_Sn_to_O": [
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "Sn": 21,
+              "O": 76,
+              "image_Sn_to_O": [
+                0,
+                0,
+                1
+              ]
+            }
+          ],
+          "Sn_ids": [
+            21,
+            26
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            105,
+            107,
+            113,
+            120,
+            122
+          ]
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "unit_id": "C44_C47",
+          "C_pair": [
+            44,
+            47
+          ],
+          "initial_O_ids": [
+            67,
+            72,
+            75,
+            88
+          ],
+          "CC_present_lt1p9A": true,
+          "retained_initial_CO_edges": 4,
+          "Sn_O_links": [
+            {
+              "Sn": 30,
+              "O": 67,
+              "image_Sn_to_O": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
+          "Sn_ids": [
+            30
+          ],
+          "bridging_O_count": 0,
+          "F_on_attached_Sn": [
+            117,
+            126
+          ]
+        }
+      ],
+      "Sn_links": [
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 17,
+          "C2O4_initial_unit_ids": [
+            "C37_C49",
+            "C39_C51"
+          ],
+          "O_ids": [
+            99,
+            101
+          ],
+          "F_ids": [
+            106,
+            119
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 18,
+          "C2O4_initial_unit_ids": [
+            "C42_C45"
+          ],
+          "O_ids": [
+            73
+          ],
+          "F_ids": [
+            108,
+            122,
+            125
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 19,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C41_C46"
+          ],
+          "O_ids": [
+            66,
+            83,
+            85
+          ],
+          "F_ids": [
+            124
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 20,
+          "C2O4_initial_unit_ids": [
+            "C34_C54"
+          ],
+          "O_ids": [
+            90,
+            94
+          ],
+          "F_ids": [
+            109,
+            110
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 21,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C43_C48"
+          ],
+          "O_ids": [
+            76,
+            95
+          ],
+          "F_ids": [
+            107,
+            113,
+            120
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 22,
+          "C2O4_initial_unit_ids": [
+            "C40_C52"
+          ],
+          "O_ids": [
+            104
+          ],
+          "F_ids": [
+            108,
+            117,
+            118
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 23,
+          "C2O4_initial_unit_ids": [
+            "C33_C53",
+            "C41_C46"
+          ],
+          "O_ids": [
+            66,
+            74,
+            77
+          ],
+          "F_ids": [
+            115,
+            120
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 24,
+          "C2O4_initial_unit_ids": [],
+          "O_ids": [],
+          "F_ids": [
+            106,
+            123,
+            128
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 25,
+          "C2O4_initial_unit_ids": [
+            "C36_C56",
+            "C40_C52",
+            "C41_C46"
+          ],
+          "O_ids": [
+            60,
+            64,
+            69,
+            80
+          ],
+          "F_ids": [
+            124
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 26,
+          "C2O4_initial_unit_ids": [
+            "C34_C54",
+            "C38_C50",
+            "C43_C48"
+          ],
+          "O_ids": [
+            58,
+            71,
+            78,
+            94
+          ],
+          "F_ids": [
+            105,
+            122
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 27,
+          "C2O4_initial_unit_ids": [
+            "C33_C53",
+            "C39_C51",
+            "C42_C45"
+          ],
+          "O_ids": [
+            65,
+            81,
+            103
+          ],
+          "F_ids": [
+            114,
+            121
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 28,
+          "C2O4_initial_unit_ids": [
+            "C38_C50",
+            "C42_C45"
+          ],
+          "O_ids": [
+            62,
+            86,
+            102
+          ],
+          "F_ids": [
+            125
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 29,
+          "C2O4_initial_unit_ids": [
+            "C37_C49"
+          ],
+          "O_ids": [
+            97
+          ],
+          "F_ids": [
+            107,
+            111,
+            119,
+            128
+          ],
+          "links_two_or_more_units": false
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 30,
+          "C2O4_initial_unit_ids": [
+            "C36_C56",
+            "C44_C47"
+          ],
+          "O_ids": [
+            67,
+            92
+          ],
+          "F_ids": [
+            117,
+            126
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 31,
+          "C2O4_initial_unit_ids": [
+            "C35_C55",
+            "C39_C51"
+          ],
+          "O_ids": [
+            91,
+            103
+          ],
+          "F_ids": [
+            113,
+            121
+          ],
+          "links_two_or_more_units": true
+        },
+        {
+          "frame": 999,
+          "absolute_ps": 20.0,
+          "Sn_1based": 32,
+          "C2O4_initial_unit_ids": [],
+          "O_ids": [],
+          "F_ids": [
+            112,
+            122,
+            124,
+            127
+          ],
+          "links_two_or_more_units": false
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "event": "Na1_293_305",
+      "source_window": "after4",
+      "source_event_id": 0,
+      "start_global_frame": 293,
+      "end_global_frame": 305,
+      "separation200_A": 2.3645138744422547,
+      "return_frame_within_window": null,
+      "return_global_frame": null,
+      "return_absolute_ps": null,
+      "return_followup_ps": 13.88,
+      "right_censored_no_return": true,
+      "rule_outcome": "persistent",
+      "sameNa_closed_control_phase_checked_from_saved_bans": true,
+      "control_is_independent_sample": false
+    },
+    {
+      "event": "Na1_318_343",
+      "source_window": "after4",
+      "source_event_id": 1,
+      "start_global_frame": 318,
+      "end_global_frame": 343,
+      "separation200_A": 0.3882422348636715,
+      "return_frame_within_window": 144,
+      "return_global_frame": 343,
+      "return_absolute_ps": 6.88,
+      "return_followup_ps": 13.120000000000001,
+      "right_censored_no_return": false,
+      "rule_outcome": "persistent",
+      "sameNa_closed_control_phase_checked_from_saved_bans": true,
+      "control_is_independent_sample": false
+    }
+  ],
+  "definitions": {
+    "complete_within_saved_edge_rules": "112 nonNa vertices with all saved Sn/C-O/F main-shell contacts plus C-C <1.9A; missing Sn-Sn/O-O/F-F/other contact types are not invented",
+    "image": "directed wrapped fractional-cell image of b relative to a; no reconstructed host Cartesian positions",
+    "components": "finite quotient components with integer image labels retained separately; not geometry shape or migration dimension",
+    "ID_lifetime": "consecutive saved frames for fixed atom IDs irrespective of changing wrapped image; not fixed physical image lifetime",
+    "wrapped_image_lifetime": "fixed atom IDs and wrapped image; wrapping gauge changes can split an intact contact",
+    "canonical_CC_images": null,
+    "physical_passage": null,
+    "barrier_eV": null
+  },
+  "scientific_acceptance": "UNVERIFIED",
+  "publication_authorized": false
+}

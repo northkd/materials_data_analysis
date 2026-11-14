@@ -1,0 +1,7859 @@
+{
+  "source_event_counts": {
+    "old_full": 471,
+    "old_common_0_20": 325,
+    "new_strict1000": 325
+  },
+  "events": [
+    {
+      "na": 0,
+      "start_frame": 30,
+      "end_frame": 52,
+      "source": "old_full",
+      "source_event_id": 0
+    },
+    {
+      "na": 0,
+      "start_frame": 60,
+      "end_frame": 71,
+      "source": "old_full",
+      "source_event_id": 1
+    },
+    {
+      "na": 0,
+      "start_frame": 80,
+      "end_frame": 90,
+      "source": "old_full",
+      "source_event_id": 2
+    },
+    {
+      "na": 0,
+      "start_frame": 119,
+      "end_frame": 132,
+      "source": "old_full",
+      "source_event_id": 3
+    },
+    {
+      "na": 0,
+      "start_frame": 154,
+      "end_frame": 164,
+      "source": "old_full",
+      "source_event_id": 4
+    },
+    {
+      "na": 0,
+      "start_frame": 170,
+      "end_frame": 181,
+      "source": "old_full",
+      "source_event_id": 5
+    },
+    {
+      "na": 0,
+      "start_frame": 279,
+      "end_frame": 289,
+      "source": "old_full",
+      "source_event_id": 6
+    },
+    {
+      "na": 0,
+      "start_frame": 318,
+      "end_frame": 330,
+      "source": "old_full",
+      "source_event_id": 7
+    },
+    {
+      "na": 0,
+      "start_frame": 353,
+      "end_frame": 375,
+      "source": "old_full",
+      "source_event_id": 8
+    },
+    {
+      "na": 0,
+      "start_frame": 447,
+      "end_frame": 460,
+      "source": "old_full",
+      "source_event_id": 9
+    },
+    {
+      "na": 0,
+      "start_frame": 606,
+      "end_frame": 616,
+      "source": "old_full",
+      "source_event_id": 10
+    },
+    {
+      "na": 0,
+      "start_frame": 687,
+      "end_frame": 699,
+      "source": "old_full",
+      "source_event_id": 11
+    },
+    {
+      "na": 0,
+      "start_frame": 710,
+      "end_frame": 720,
+      "source": "old_full",
+      "source_event_id": 12
+    },
+    {
+      "na": 0,
+      "start_frame": 837,
+      "end_frame": 849,
+      "source": "old_full",
+      "source_event_id": 13
+    },
+    {
+      "na": 0,
+      "start_frame": 859,
+      "end_frame": 875,
+      "source": "old_full",
+      "source_event_id": 14
+    },
+    {
+      "na": 0,
+      "start_frame": 881,
+      "end_frame": 892,
+      "source": "old_full",
+      "source_event_id": 15
+    },
+    {
+      "na": 0,
+      "start_frame": 945,
+      "end_frame": 957,
+      "source": "old_full",
+      "source_event_id": 16
+    },
+    {
+      "na": 0,
+      "start_frame": 989,
+      "end_frame": 1003,
+      "source": "old_full",
+      "source_event_id": 17
+    },
+    {
+      "na": 0,
+      "start_frame": 1016,
+      "end_frame": 1029,
+      "source": "old_full",
+      "source_event_id": 18
+    },
+    {
+      "na": 0,
+      "start_frame": 1146,
+      "end_frame": 1162,
+      "source": "old_full",
+      "source_event_id": 19
+    },
+    {
+      "na": 0,
+      "start_frame": 1177,
+      "end_frame": 1194,
+      "source": "old_full",
+      "source_event_id": 20
+    },
+    {
+      "na": 0,
+      "start_frame": 1402,
+      "end_frame": 1413,
+      "source": "old_full",
+      "source_event_id": 21
+    },
+    {
+      "na": 0,
+      "start_frame": 1469,
+      "end_frame": 1484,
+      "source": "old_full",
+      "source_event_id": 22
+    },
+    {
+      "na": 1,
+      "start_frame": 361,
+      "end_frame": 371,
+      "source": "old_full",
+      "source_event_id": 23
+    },
+    {
+      "na": 1,
+      "start_frame": 428,
+      "end_frame": 438,
+      "source": "old_full",
+      "source_event_id": 24
+    },
+    {
+      "na": 1,
+      "start_frame": 450,
+      "end_frame": 469,
+      "source": "old_full",
+      "source_event_id": 25
+    },
+    {
+      "na": 1,
+      "start_frame": 504,
+      "end_frame": 514,
+      "source": "old_full",
+      "source_event_id": 26
+    },
+    {
+      "na": 1,
+      "start_frame": 532,
+      "end_frame": 545,
+      "source": "old_full",
+      "source_event_id": 27
+    },
+    {
+      "na": 1,
+      "start_frame": 575,
+      "end_frame": 587,
+      "source": "old_full",
+      "source_event_id": 28
+    },
+    {
+      "na": 1,
+      "start_frame": 633,
+      "end_frame": 643,
+      "source": "old_full",
+      "source_event_id": 29
+    },
+    {
+      "na": 1,
+      "start_frame": 914,
+      "end_frame": 929,
+      "source": "old_full",
+      "source_event_id": 30
+    },
+    {
+      "na": 1,
+      "start_frame": 981,
+      "end_frame": 994,
+      "source": "old_full",
+      "source_event_id": 31
+    },
+    {
+      "na": 1,
+      "start_frame": 1278,
+      "end_frame": 1293,
+      "source": "old_full",
+      "source_event_id": 32
+    },
+    {
+      "na": 1,
+      "start_frame": 1294,
+      "end_frame": 1306,
+      "source": "old_full",
+      "source_event_id": 33
+    },
+    {
+      "na": 1,
+      "start_frame": 1346,
+      "end_frame": 1356,
+      "source": "old_full",
+      "source_event_id": 34
+    },
+    {
+      "na": 1,
+      "start_frame": 1362,
+      "end_frame": 1384,
+      "source": "old_full",
+      "source_event_id": 35
+    },
+    {
+      "na": 1,
+      "start_frame": 1409,
+      "end_frame": 1432,
+      "source": "old_full",
+      "source_event_id": 36
+    },
+    {
+      "na": 2,
+      "start_frame": 5,
+      "end_frame": 52,
+      "source": "old_full",
+      "source_event_id": 37
+    },
+    {
+      "na": 2,
+      "start_frame": 99,
+      "end_frame": 111,
+      "source": "old_full",
+      "source_event_id": 38
+    },
+    {
+      "na": 2,
+      "start_frame": 113,
+      "end_frame": 123,
+      "source": "old_full",
+      "source_event_id": 39
+    },
+    {
+      "na": 2,
+      "start_frame": 238,
+      "end_frame": 248,
+      "source": "old_full",
+      "source_event_id": 40
+    },
+    {
+      "na": 2,
+      "start_frame": 295,
+      "end_frame": 306,
+      "source": "old_full",
+      "source_event_id": 41
+    },
+    {
+      "na": 2,
+      "start_frame": 362,
+      "end_frame": 372,
+      "source": "old_full",
+      "source_event_id": 42
+    },
+    {
+      "na": 2,
+      "start_frame": 385,
+      "end_frame": 399,
+      "source": "old_full",
+      "source_event_id": 43
+    },
+    {
+      "na": 2,
+      "start_frame": 410,
+      "end_frame": 421,
+      "source": "old_full",
+      "source_event_id": 44
+    },
+    {
+      "na": 2,
+      "start_frame": 486,
+      "end_frame": 496,
+      "source": "old_full",
+      "source_event_id": 45
+    },
+    {
+      "na": 2,
+      "start_frame": 528,
+      "end_frame": 541,
+      "source": "old_full",
+      "source_event_id": 46
+    },
+    {
+      "na": 2,
+      "start_frame": 548,
+      "end_frame": 559,
+      "source": "old_full",
+      "source_event_id": 47
+    },
+    {
+      "na": 2,
+      "start_frame": 607,
+      "end_frame": 624,
+      "source": "old_full",
+      "source_event_id": 48
+    },
+    {
+      "na": 2,
+      "start_frame": 632,
+      "end_frame": 644,
+      "source": "old_full",
+      "source_event_id": 49
+    },
+    {
+      "na": 2,
+      "start_frame": 647,
+      "end_frame": 657,
+      "source": "old_full",
+      "source_event_id": 50
+    },
+    {
+      "na": 2,
+      "start_frame": 745,
+      "end_frame": 756,
+      "source": "old_full",
+      "source_event_id": 51
+    },
+    {
+      "na": 2,
+      "start_frame": 770,
+      "end_frame": 786,
+      "source": "old_full",
+      "source_event_id": 52
+    },
+    {
+      "na": 2,
+      "start_frame": 886,
+      "end_frame": 898,
+      "source": "old_full",
+      "source_event_id": 53
+    },
+    {
+      "na": 2,
+      "start_frame": 919,
+      "end_frame": 937,
+      "source": "old_full",
+      "source_event_id": 54
+    },
+    {
+      "na": 2,
+      "start_frame": 952,
+      "end_frame": 962,
+      "source": "old_full",
+      "source_event_id": 55
+    },
+    {
+      "na": 2,
+      "start_frame": 982,
+      "end_frame": 1005,
+      "source": "old_full",
+      "source_event_id": 56
+    },
+    {
+      "na": 2,
+      "start_frame": 1009,
+      "end_frame": 1030,
+      "source": "old_full",
+      "source_event_id": 57
+    },
+    {
+      "na": 2,
+      "start_frame": 1045,
+      "end_frame": 1055,
+      "source": "old_full",
+      "source_event_id": 58
+    },
+    {
+      "na": 2,
+      "start_frame": 1145,
+      "end_frame": 1157,
+      "source": "old_full",
+      "source_event_id": 59
+    },
+    {
+      "na": 2,
+      "start_frame": 1161,
+      "end_frame": 1176,
+      "source": "old_full",
+      "source_event_id": 60
+    },
+    {
+      "na": 2,
+      "start_frame": 1207,
+      "end_frame": 1220,
+      "source": "old_full",
+      "source_event_id": 61
+    },
+    {
+      "na": 2,
+      "start_frame": 1323,
+      "end_frame": 1334,
+      "source": "old_full",
+      "source_event_id": 62
+    },
+    {
+      "na": 2,
+      "start_frame": 1468,
+      "end_frame": 1494,
+      "source": "old_full",
+      "source_event_id": 63
+    },
+    {
+      "na": 3,
+      "start_frame": 4,
+      "end_frame": 18,
+      "source": "old_full",
+      "source_event_id": 64
+    },
+    {
+      "na": 3,
+      "start_frame": 26,
+      "end_frame": 37,
+      "source": "old_full",
+      "source_event_id": 65
+    },
+    {
+      "na": 3,
+      "start_frame": 42,
+      "end_frame": 53,
+      "source": "old_full",
+      "source_event_id": 66
+    },
+    {
+      "na": 3,
+      "start_frame": 54,
+      "end_frame": 67,
+      "source": "old_full",
+      "source_event_id": 67
+    },
+    {
+      "na": 3,
+      "start_frame": 73,
+      "end_frame": 101,
+      "source": "old_full",
+      "source_event_id": 68
+    },
+    {
+      "na": 3,
+      "start_frame": 106,
+      "end_frame": 121,
+      "source": "old_full",
+      "source_event_id": 69
+    },
+    {
+      "na": 3,
+      "start_frame": 262,
+      "end_frame": 275,
+      "source": "old_full",
+      "source_event_id": 70
+    },
+    {
+      "na": 3,
+      "start_frame": 306,
+      "end_frame": 375,
+      "source": "old_full",
+      "source_event_id": 71
+    },
+    {
+      "na": 3,
+      "start_frame": 433,
+      "end_frame": 444,
+      "source": "old_full",
+      "source_event_id": 72
+    },
+    {
+      "na": 3,
+      "start_frame": 445,
+      "end_frame": 456,
+      "source": "old_full",
+      "source_event_id": 73
+    },
+    {
+      "na": 3,
+      "start_frame": 465,
+      "end_frame": 489,
+      "source": "old_full",
+      "source_event_id": 74
+    },
+    {
+      "na": 3,
+      "start_frame": 554,
+      "end_frame": 566,
+      "source": "old_full",
+      "source_event_id": 75
+    },
+    {
+      "na": 3,
+      "start_frame": 592,
+      "end_frame": 610,
+      "source": "old_full",
+      "source_event_id": 76
+    },
+    {
+      "na": 3,
+      "start_frame": 733,
+      "end_frame": 743,
+      "source": "old_full",
+      "source_event_id": 77
+    },
+    {
+      "na": 3,
+      "start_frame": 788,
+      "end_frame": 808,
+      "source": "old_full",
+      "source_event_id": 78
+    },
+    {
+      "na": 3,
+      "start_frame": 905,
+      "end_frame": 917,
+      "source": "old_full",
+      "source_event_id": 79
+    },
+    {
+      "na": 3,
+      "start_frame": 943,
+      "end_frame": 955,
+      "source": "old_full",
+      "source_event_id": 80
+    },
+    {
+      "na": 3,
+      "start_frame": 956,
+      "end_frame": 971,
+      "source": "old_full",
+      "source_event_id": 81
+    },
+    {
+      "na": 3,
+      "start_frame": 995,
+      "end_frame": 1016,
+      "source": "old_full",
+      "source_event_id": 82
+    },
+    {
+      "na": 3,
+      "start_frame": 1072,
+      "end_frame": 1085,
+      "source": "old_full",
+      "source_event_id": 83
+    },
+    {
+      "na": 3,
+      "start_frame": 1109,
+      "end_frame": 1120,
+      "source": "old_full",
+      "source_event_id": 84
+    },
+    {
+      "na": 3,
+      "start_frame": 1316,
+      "end_frame": 1327,
+      "source": "old_full",
+      "source_event_id": 85
+    },
+    {
+      "na": 3,
+      "start_frame": 1427,
+      "end_frame": 1438,
+      "source": "old_full",
+      "source_event_id": 86
+    },
+    {
+      "na": 4,
+      "start_frame": 4,
+      "end_frame": 38,
+      "source": "old_full",
+      "source_event_id": 87
+    },
+    {
+      "na": 4,
+      "start_frame": 61,
+      "end_frame": 73,
+      "source": "old_full",
+      "source_event_id": 88
+    },
+    {
+      "na": 4,
+      "start_frame": 132,
+      "end_frame": 142,
+      "source": "old_full",
+      "source_event_id": 89
+    },
+    {
+      "na": 4,
+      "start_frame": 155,
+      "end_frame": 166,
+      "source": "old_full",
+      "source_event_id": 90
+    },
+    {
+      "na": 4,
+      "start_frame": 251,
+      "end_frame": 261,
+      "source": "old_full",
+      "source_event_id": 91
+    },
+    {
+      "na": 4,
+      "start_frame": 395,
+      "end_frame": 405,
+      "source": "old_full",
+      "source_event_id": 92
+    },
+    {
+      "na": 4,
+      "start_frame": 456,
+      "end_frame": 468,
+      "source": "old_full",
+      "source_event_id": 93
+    },
+    {
+      "na": 4,
+      "start_frame": 666,
+      "end_frame": 676,
+      "source": "old_full",
+      "source_event_id": 94
+    },
+    {
+      "na": 4,
+      "start_frame": 933,
+      "end_frame": 943,
+      "source": "old_full",
+      "source_event_id": 95
+    },
+    {
+      "na": 4,
+      "start_frame": 1046,
+      "end_frame": 1059,
+      "source": "old_full",
+      "source_event_id": 96
+    },
+    {
+      "na": 4,
+      "start_frame": 1067,
+      "end_frame": 1078,
+      "source": "old_full",
+      "source_event_id": 97
+    },
+    {
+      "na": 4,
+      "start_frame": 1101,
+      "end_frame": 1114,
+      "source": "old_full",
+      "source_event_id": 98
+    },
+    {
+      "na": 4,
+      "start_frame": 1250,
+      "end_frame": 1263,
+      "source": "old_full",
+      "source_event_id": 99
+    },
+    {
+      "na": 4,
+      "start_frame": 1402,
+      "end_frame": 1423,
+      "source": "old_full",
+      "source_event_id": 100
+    },
+    {
+      "na": 4,
+      "start_frame": 1485,
+      "end_frame": 1496,
+      "source": "old_full",
+      "source_event_id": 101
+    },
+    {
+      "na": 5,
+      "start_frame": 5,
+      "end_frame": 15,
+      "source": "old_full",
+      "source_event_id": 102
+    },
+    {
+      "na": 5,
+      "start_frame": 307,
+      "end_frame": 317,
+      "source": "old_full",
+      "source_event_id": 103
+    },
+    {
+      "na": 5,
+      "start_frame": 489,
+      "end_frame": 500,
+      "source": "old_full",
+      "source_event_id": 104
+    },
+    {
+      "na": 5,
+      "start_frame": 556,
+      "end_frame": 567,
+      "source": "old_full",
+      "source_event_id": 105
+    },
+    {
+      "na": 5,
+      "start_frame": 645,
+      "end_frame": 656,
+      "source": "old_full",
+      "source_event_id": 106
+    },
+    {
+      "na": 5,
+      "start_frame": 780,
+      "end_frame": 791,
+      "source": "old_full",
+      "source_event_id": 107
+    },
+    {
+      "na": 5,
+      "start_frame": 941,
+      "end_frame": 952,
+      "source": "old_full",
+      "source_event_id": 108
+    },
+    {
+      "na": 5,
+      "start_frame": 995,
+      "end_frame": 1027,
+      "source": "old_full",
+      "source_event_id": 109
+    },
+    {
+      "na": 5,
+      "start_frame": 1248,
+      "end_frame": 1258,
+      "source": "old_full",
+      "source_event_id": 110
+    },
+    {
+      "na": 6,
+      "start_frame": 16,
+      "end_frame": 28,
+      "source": "old_full",
+      "source_event_id": 111
+    },
+    {
+      "na": 6,
+      "start_frame": 74,
+      "end_frame": 97,
+      "source": "old_full",
+      "source_event_id": 112
+    },
+    {
+      "na": 6,
+      "start_frame": 123,
+      "end_frame": 135,
+      "source": "old_full",
+      "source_event_id": 113
+    },
+    {
+      "na": 6,
+      "start_frame": 139,
+      "end_frame": 152,
+      "source": "old_full",
+      "source_event_id": 114
+    },
+    {
+      "na": 6,
+      "start_frame": 180,
+      "end_frame": 213,
+      "source": "old_full",
+      "source_event_id": 115
+    },
+    {
+      "na": 6,
+      "start_frame": 221,
+      "end_frame": 255,
+      "source": "old_full",
+      "source_event_id": 116
+    },
+    {
+      "na": 6,
+      "start_frame": 305,
+      "end_frame": 334,
+      "source": "old_full",
+      "source_event_id": 117
+    },
+    {
+      "na": 6,
+      "start_frame": 364,
+      "end_frame": 374,
+      "source": "old_full",
+      "source_event_id": 118
+    },
+    {
+      "na": 6,
+      "start_frame": 615,
+      "end_frame": 641,
+      "source": "old_full",
+      "source_event_id": 119
+    },
+    {
+      "na": 6,
+      "start_frame": 703,
+      "end_frame": 713,
+      "source": "old_full",
+      "source_event_id": 120
+    },
+    {
+      "na": 6,
+      "start_frame": 829,
+      "end_frame": 839,
+      "source": "old_full",
+      "source_event_id": 121
+    },
+    {
+      "na": 6,
+      "start_frame": 1021,
+      "end_frame": 1032,
+      "source": "old_full",
+      "source_event_id": 122
+    },
+    {
+      "na": 6,
+      "start_frame": 1066,
+      "end_frame": 1076,
+      "source": "old_full",
+      "source_event_id": 123
+    },
+    {
+      "na": 6,
+      "start_frame": 1175,
+      "end_frame": 1197,
+      "source": "old_full",
+      "source_event_id": 124
+    },
+    {
+      "na": 6,
+      "start_frame": 1251,
+      "end_frame": 1263,
+      "source": "old_full",
+      "source_event_id": 125
+    },
+    {
+      "na": 6,
+      "start_frame": 1288,
+      "end_frame": 1299,
+      "source": "old_full",
+      "source_event_id": 126
+    },
+    {
+      "na": 6,
+      "start_frame": 1333,
+      "end_frame": 1344,
+      "source": "old_full",
+      "source_event_id": 127
+    },
+    {
+      "na": 6,
+      "start_frame": 1381,
+      "end_frame": 1391,
+      "source": "old_full",
+      "source_event_id": 128
+    },
+    {
+      "na": 6,
+      "start_frame": 1454,
+      "end_frame": 1464,
+      "source": "old_full",
+      "source_event_id": 129
+    },
+    {
+      "na": 7,
+      "start_frame": 57,
+      "end_frame": 69,
+      "source": "old_full",
+      "source_event_id": 130
+    },
+    {
+      "na": 7,
+      "start_frame": 86,
+      "end_frame": 96,
+      "source": "old_full",
+      "source_event_id": 131
+    },
+    {
+      "na": 7,
+      "start_frame": 220,
+      "end_frame": 243,
+      "source": "old_full",
+      "source_event_id": 132
+    },
+    {
+      "na": 7,
+      "start_frame": 248,
+      "end_frame": 264,
+      "source": "old_full",
+      "source_event_id": 133
+    },
+    {
+      "na": 7,
+      "start_frame": 304,
+      "end_frame": 327,
+      "source": "old_full",
+      "source_event_id": 134
+    },
+    {
+      "na": 7,
+      "start_frame": 407,
+      "end_frame": 419,
+      "source": "old_full",
+      "source_event_id": 135
+    },
+    {
+      "na": 7,
+      "start_frame": 481,
+      "end_frame": 495,
+      "source": "old_full",
+      "source_event_id": 136
+    },
+    {
+      "na": 7,
+      "start_frame": 528,
+      "end_frame": 543,
+      "source": "old_full",
+      "source_event_id": 137
+    },
+    {
+      "na": 7,
+      "start_frame": 570,
+      "end_frame": 597,
+      "source": "old_full",
+      "source_event_id": 138
+    },
+    {
+      "na": 7,
+      "start_frame": 609,
+      "end_frame": 625,
+      "source": "old_full",
+      "source_event_id": 139
+    },
+    {
+      "na": 7,
+      "start_frame": 641,
+      "end_frame": 656,
+      "source": "old_full",
+      "source_event_id": 140
+    },
+    {
+      "na": 7,
+      "start_frame": 722,
+      "end_frame": 753,
+      "source": "old_full",
+      "source_event_id": 141
+    },
+    {
+      "na": 7,
+      "start_frame": 771,
+      "end_frame": 793,
+      "source": "old_full",
+      "source_event_id": 142
+    },
+    {
+      "na": 7,
+      "start_frame": 896,
+      "end_frame": 906,
+      "source": "old_full",
+      "source_event_id": 143
+    },
+    {
+      "na": 7,
+      "start_frame": 931,
+      "end_frame": 943,
+      "source": "old_full",
+      "source_event_id": 144
+    },
+    {
+      "na": 7,
+      "start_frame": 984,
+      "end_frame": 995,
+      "source": "old_full",
+      "source_event_id": 145
+    },
+    {
+      "na": 7,
+      "start_frame": 1074,
+      "end_frame": 1084,
+      "source": "old_full",
+      "source_event_id": 146
+    },
+    {
+      "na": 7,
+      "start_frame": 1138,
+      "end_frame": 1150,
+      "source": "old_full",
+      "source_event_id": 147
+    },
+    {
+      "na": 7,
+      "start_frame": 1199,
+      "end_frame": 1219,
+      "source": "old_full",
+      "source_event_id": 148
+    },
+    {
+      "na": 7,
+      "start_frame": 1311,
+      "end_frame": 1325,
+      "source": "old_full",
+      "source_event_id": 149
+    },
+    {
+      "na": 7,
+      "start_frame": 1340,
+      "end_frame": 1351,
+      "source": "old_full",
+      "source_event_id": 150
+    },
+    {
+      "na": 7,
+      "start_frame": 1367,
+      "end_frame": 1381,
+      "source": "old_full",
+      "source_event_id": 151
+    },
+    {
+      "na": 7,
+      "start_frame": 1486,
+      "end_frame": 1497,
+      "source": "old_full",
+      "source_event_id": 152
+    },
+    {
+      "na": 8,
+      "start_frame": 48,
+      "end_frame": 72,
+      "source": "old_full",
+      "source_event_id": 153
+    },
+    {
+      "na": 8,
+      "start_frame": 237,
+      "end_frame": 248,
+      "source": "old_full",
+      "source_event_id": 154
+    },
+    {
+      "na": 8,
+      "start_frame": 263,
+      "end_frame": 279,
+      "source": "old_full",
+      "source_event_id": 155
+    },
+    {
+      "na": 8,
+      "start_frame": 300,
+      "end_frame": 312,
+      "source": "old_full",
+      "source_event_id": 156
+    },
+    {
+      "na": 8,
+      "start_frame": 457,
+      "end_frame": 470,
+      "source": "old_full",
+      "source_event_id": 157
+    },
+    {
+      "na": 8,
+      "start_frame": 516,
+      "end_frame": 526,
+      "source": "old_full",
+      "source_event_id": 158
+    },
+    {
+      "na": 8,
+      "start_frame": 571,
+      "end_frame": 592,
+      "source": "old_full",
+      "source_event_id": 159
+    },
+    {
+      "na": 8,
+      "start_frame": 644,
+      "end_frame": 667,
+      "source": "old_full",
+      "source_event_id": 160
+    },
+    {
+      "na": 8,
+      "start_frame": 702,
+      "end_frame": 714,
+      "source": "old_full",
+      "source_event_id": 161
+    },
+    {
+      "na": 8,
+      "start_frame": 715,
+      "end_frame": 725,
+      "source": "old_full",
+      "source_event_id": 162
+    },
+    {
+      "na": 8,
+      "start_frame": 777,
+      "end_frame": 789,
+      "source": "old_full",
+      "source_event_id": 163
+    },
+    {
+      "na": 8,
+      "start_frame": 809,
+      "end_frame": 822,
+      "source": "old_full",
+      "source_event_id": 164
+    },
+    {
+      "na": 8,
+      "start_frame": 863,
+      "end_frame": 879,
+      "source": "old_full",
+      "source_event_id": 165
+    },
+    {
+      "na": 8,
+      "start_frame": 905,
+      "end_frame": 915,
+      "source": "old_full",
+      "source_event_id": 166
+    },
+    {
+      "na": 8,
+      "start_frame": 1000,
+      "end_frame": 1013,
+      "source": "old_full",
+      "source_event_id": 167
+    },
+    {
+      "na": 8,
+      "start_frame": 1070,
+      "end_frame": 1085,
+      "source": "old_full",
+      "source_event_id": 168
+    },
+    {
+      "na": 8,
+      "start_frame": 1123,
+      "end_frame": 1133,
+      "source": "old_full",
+      "source_event_id": 169
+    },
+    {
+      "na": 8,
+      "start_frame": 1220,
+      "end_frame": 1231,
+      "source": "old_full",
+      "source_event_id": 170
+    },
+    {
+      "na": 8,
+      "start_frame": 1385,
+      "end_frame": 1396,
+      "source": "old_full",
+      "source_event_id": 171
+    },
+    {
+      "na": 9,
+      "start_frame": 53,
+      "end_frame": 63,
+      "source": "old_full",
+      "source_event_id": 172
+    },
+    {
+      "na": 9,
+      "start_frame": 110,
+      "end_frame": 126,
+      "source": "old_full",
+      "source_event_id": 173
+    },
+    {
+      "na": 9,
+      "start_frame": 214,
+      "end_frame": 228,
+      "source": "old_full",
+      "source_event_id": 174
+    },
+    {
+      "na": 9,
+      "start_frame": 314,
+      "end_frame": 325,
+      "source": "old_full",
+      "source_event_id": 175
+    },
+    {
+      "na": 9,
+      "start_frame": 379,
+      "end_frame": 391,
+      "source": "old_full",
+      "source_event_id": 176
+    },
+    {
+      "na": 9,
+      "start_frame": 406,
+      "end_frame": 419,
+      "source": "old_full",
+      "source_event_id": 177
+    },
+    {
+      "na": 9,
+      "start_frame": 428,
+      "end_frame": 438,
+      "source": "old_full",
+      "source_event_id": 178
+    },
+    {
+      "na": 9,
+      "start_frame": 467,
+      "end_frame": 477,
+      "source": "old_full",
+      "source_event_id": 179
+    },
+    {
+      "na": 9,
+      "start_frame": 486,
+      "end_frame": 513,
+      "source": "old_full",
+      "source_event_id": 180
+    },
+    {
+      "na": 9,
+      "start_frame": 641,
+      "end_frame": 674,
+      "source": "old_full",
+      "source_event_id": 181
+    },
+    {
+      "na": 9,
+      "start_frame": 934,
+      "end_frame": 945,
+      "source": "old_full",
+      "source_event_id": 182
+    },
+    {
+      "na": 9,
+      "start_frame": 998,
+      "end_frame": 1010,
+      "source": "old_full",
+      "source_event_id": 183
+    },
+    {
+      "na": 9,
+      "start_frame": 1261,
+      "end_frame": 1271,
+      "source": "old_full",
+      "source_event_id": 184
+    },
+    {
+      "na": 9,
+      "start_frame": 1296,
+      "end_frame": 1308,
+      "source": "old_full",
+      "source_event_id": 185
+    },
+    {
+      "na": 9,
+      "start_frame": 1370,
+      "end_frame": 1384,
+      "source": "old_full",
+      "source_event_id": 186
+    },
+    {
+      "na": 9,
+      "start_frame": 1396,
+      "end_frame": 1406,
+      "source": "old_full",
+      "source_event_id": 187
+    },
+    {
+      "na": 9,
+      "start_frame": 1417,
+      "end_frame": 1440,
+      "source": "old_full",
+      "source_event_id": 188
+    },
+    {
+      "na": 9,
+      "start_frame": 1485,
+      "end_frame": 1496,
+      "source": "old_full",
+      "source_event_id": 189
+    },
+    {
+      "na": 10,
+      "start_frame": 4,
+      "end_frame": 48,
+      "source": "old_full",
+      "source_event_id": 190
+    },
+    {
+      "na": 10,
+      "start_frame": 98,
+      "end_frame": 109,
+      "source": "old_full",
+      "source_event_id": 191
+    },
+    {
+      "na": 10,
+      "start_frame": 162,
+      "end_frame": 172,
+      "source": "old_full",
+      "source_event_id": 192
+    },
+    {
+      "na": 10,
+      "start_frame": 241,
+      "end_frame": 253,
+      "source": "old_full",
+      "source_event_id": 193
+    },
+    {
+      "na": 10,
+      "start_frame": 389,
+      "end_frame": 399,
+      "source": "old_full",
+      "source_event_id": 194
+    },
+    {
+      "na": 10,
+      "start_frame": 408,
+      "end_frame": 418,
+      "source": "old_full",
+      "source_event_id": 195
+    },
+    {
+      "na": 10,
+      "start_frame": 561,
+      "end_frame": 572,
+      "source": "old_full",
+      "source_event_id": 196
+    },
+    {
+      "na": 10,
+      "start_frame": 886,
+      "end_frame": 896,
+      "source": "old_full",
+      "source_event_id": 197
+    },
+    {
+      "na": 10,
+      "start_frame": 969,
+      "end_frame": 980,
+      "source": "old_full",
+      "source_event_id": 198
+    },
+    {
+      "na": 10,
+      "start_frame": 1093,
+      "end_frame": 1104,
+      "source": "old_full",
+      "source_event_id": 199
+    },
+    {
+      "na": 10,
+      "start_frame": 1185,
+      "end_frame": 1196,
+      "source": "old_full",
+      "source_event_id": 200
+    },
+    {
+      "na": 10,
+      "start_frame": 1392,
+      "end_frame": 1415,
+      "source": "old_full",
+      "source_event_id": 201
+    },
+    {
+      "na": 11,
+      "start_frame": 5,
+      "end_frame": 17,
+      "source": "old_full",
+      "source_event_id": 202
+    },
+    {
+      "na": 11,
+      "start_frame": 156,
+      "end_frame": 167,
+      "source": "old_full",
+      "source_event_id": 203
+    },
+    {
+      "na": 11,
+      "start_frame": 286,
+      "end_frame": 298,
+      "source": "old_full",
+      "source_event_id": 204
+    },
+    {
+      "na": 11,
+      "start_frame": 468,
+      "end_frame": 478,
+      "source": "old_full",
+      "source_event_id": 205
+    },
+    {
+      "na": 11,
+      "start_frame": 550,
+      "end_frame": 560,
+      "source": "old_full",
+      "source_event_id": 206
+    },
+    {
+      "na": 11,
+      "start_frame": 654,
+      "end_frame": 664,
+      "source": "old_full",
+      "source_event_id": 207
+    },
+    {
+      "na": 11,
+      "start_frame": 914,
+      "end_frame": 937,
+      "source": "old_full",
+      "source_event_id": 208
+    },
+    {
+      "na": 11,
+      "start_frame": 968,
+      "end_frame": 981,
+      "source": "old_full",
+      "source_event_id": 209
+    },
+    {
+      "na": 11,
+      "start_frame": 1069,
+      "end_frame": 1080,
+      "source": "old_full",
+      "source_event_id": 210
+    },
+    {
+      "na": 11,
+      "start_frame": 1181,
+      "end_frame": 1196,
+      "source": "old_full",
+      "source_event_id": 211
+    },
+    {
+      "na": 11,
+      "start_frame": 1226,
+      "end_frame": 1237,
+      "source": "old_full",
+      "source_event_id": 212
+    },
+    {
+      "na": 12,
+      "start_frame": 62,
+      "end_frame": 74,
+      "source": "old_full",
+      "source_event_id": 213
+    },
+    {
+      "na": 12,
+      "start_frame": 98,
+      "end_frame": 121,
+      "source": "old_full",
+      "source_event_id": 214
+    },
+    {
+      "na": 12,
+      "start_frame": 193,
+      "end_frame": 212,
+      "source": "old_full",
+      "source_event_id": 215
+    },
+    {
+      "na": 12,
+      "start_frame": 258,
+      "end_frame": 271,
+      "source": "old_full",
+      "source_event_id": 216
+    },
+    {
+      "na": 12,
+      "start_frame": 443,
+      "end_frame": 463,
+      "source": "old_full",
+      "source_event_id": 217
+    },
+    {
+      "na": 12,
+      "start_frame": 472,
+      "end_frame": 482,
+      "source": "old_full",
+      "source_event_id": 218
+    },
+    {
+      "na": 12,
+      "start_frame": 569,
+      "end_frame": 580,
+      "source": "old_full",
+      "source_event_id": 219
+    },
+    {
+      "na": 12,
+      "start_frame": 614,
+      "end_frame": 638,
+      "source": "old_full",
+      "source_event_id": 220
+    },
+    {
+      "na": 12,
+      "start_frame": 725,
+      "end_frame": 736,
+      "source": "old_full",
+      "source_event_id": 221
+    },
+    {
+      "na": 12,
+      "start_frame": 788,
+      "end_frame": 798,
+      "source": "old_full",
+      "source_event_id": 222
+    },
+    {
+      "na": 12,
+      "start_frame": 843,
+      "end_frame": 853,
+      "source": "old_full",
+      "source_event_id": 223
+    },
+    {
+      "na": 12,
+      "start_frame": 918,
+      "end_frame": 928,
+      "source": "old_full",
+      "source_event_id": 224
+    },
+    {
+      "na": 12,
+      "start_frame": 1134,
+      "end_frame": 1154,
+      "source": "old_full",
+      "source_event_id": 225
+    },
+    {
+      "na": 12,
+      "start_frame": 1172,
+      "end_frame": 1203,
+      "source": "old_full",
+      "source_event_id": 226
+    },
+    {
+      "na": 12,
+      "start_frame": 1369,
+      "end_frame": 1380,
+      "source": "old_full",
+      "source_event_id": 227
+    },
+    {
+      "na": 12,
+      "start_frame": 1424,
+      "end_frame": 1434,
+      "source": "old_full",
+      "source_event_id": 228
+    },
+    {
+      "na": 13,
+      "start_frame": 51,
+      "end_frame": 62,
+      "source": "old_full",
+      "source_event_id": 229
+    },
+    {
+      "na": 13,
+      "start_frame": 113,
+      "end_frame": 126,
+      "source": "old_full",
+      "source_event_id": 230
+    },
+    {
+      "na": 13,
+      "start_frame": 234,
+      "end_frame": 246,
+      "source": "old_full",
+      "source_event_id": 231
+    },
+    {
+      "na": 13,
+      "start_frame": 304,
+      "end_frame": 322,
+      "source": "old_full",
+      "source_event_id": 232
+    },
+    {
+      "na": 13,
+      "start_frame": 445,
+      "end_frame": 468,
+      "source": "old_full",
+      "source_event_id": 233
+    },
+    {
+      "na": 13,
+      "start_frame": 515,
+      "end_frame": 525,
+      "source": "old_full",
+      "source_event_id": 234
+    },
+    {
+      "na": 13,
+      "start_frame": 721,
+      "end_frame": 733,
+      "source": "old_full",
+      "source_event_id": 235
+    },
+    {
+      "na": 13,
+      "start_frame": 798,
+      "end_frame": 810,
+      "source": "old_full",
+      "source_event_id": 236
+    },
+    {
+      "na": 13,
+      "start_frame": 1106,
+      "end_frame": 1118,
+      "source": "old_full",
+      "source_event_id": 237
+    },
+    {
+      "na": 13,
+      "start_frame": 1232,
+      "end_frame": 1242,
+      "source": "old_full",
+      "source_event_id": 238
+    },
+    {
+      "na": 13,
+      "start_frame": 1316,
+      "end_frame": 1328,
+      "source": "old_full",
+      "source_event_id": 239
+    },
+    {
+      "na": 14,
+      "start_frame": 18,
+      "end_frame": 40,
+      "source": "old_full",
+      "source_event_id": 240
+    },
+    {
+      "na": 14,
+      "start_frame": 82,
+      "end_frame": 93,
+      "source": "old_full",
+      "source_event_id": 241
+    },
+    {
+      "na": 14,
+      "start_frame": 113,
+      "end_frame": 124,
+      "source": "old_full",
+      "source_event_id": 242
+    },
+    {
+      "na": 14,
+      "start_frame": 133,
+      "end_frame": 153,
+      "source": "old_full",
+      "source_event_id": 243
+    },
+    {
+      "na": 14,
+      "start_frame": 204,
+      "end_frame": 214,
+      "source": "old_full",
+      "source_event_id": 244
+    },
+    {
+      "na": 14,
+      "start_frame": 320,
+      "end_frame": 343,
+      "source": "old_full",
+      "source_event_id": 245
+    },
+    {
+      "na": 14,
+      "start_frame": 389,
+      "end_frame": 402,
+      "source": "old_full",
+      "source_event_id": 246
+    },
+    {
+      "na": 14,
+      "start_frame": 439,
+      "end_frame": 449,
+      "source": "old_full",
+      "source_event_id": 247
+    },
+    {
+      "na": 14,
+      "start_frame": 452,
+      "end_frame": 462,
+      "source": "old_full",
+      "source_event_id": 248
+    },
+    {
+      "na": 14,
+      "start_frame": 517,
+      "end_frame": 528,
+      "source": "old_full",
+      "source_event_id": 249
+    },
+    {
+      "na": 14,
+      "start_frame": 615,
+      "end_frame": 629,
+      "source": "old_full",
+      "source_event_id": 250
+    },
+    {
+      "na": 14,
+      "start_frame": 688,
+      "end_frame": 708,
+      "source": "old_full",
+      "source_event_id": 251
+    },
+    {
+      "na": 14,
+      "start_frame": 726,
+      "end_frame": 748,
+      "source": "old_full",
+      "source_event_id": 252
+    },
+    {
+      "na": 14,
+      "start_frame": 786,
+      "end_frame": 800,
+      "source": "old_full",
+      "source_event_id": 253
+    },
+    {
+      "na": 14,
+      "start_frame": 1018,
+      "end_frame": 1039,
+      "source": "old_full",
+      "source_event_id": 254
+    },
+    {
+      "na": 14,
+      "start_frame": 1050,
+      "end_frame": 1062,
+      "source": "old_full",
+      "source_event_id": 255
+    },
+    {
+      "na": 14,
+      "start_frame": 1076,
+      "end_frame": 1086,
+      "source": "old_full",
+      "source_event_id": 256
+    },
+    {
+      "na": 14,
+      "start_frame": 1126,
+      "end_frame": 1141,
+      "source": "old_full",
+      "source_event_id": 257
+    },
+    {
+      "na": 14,
+      "start_frame": 1163,
+      "end_frame": 1178,
+      "source": "old_full",
+      "source_event_id": 258
+    },
+    {
+      "na": 14,
+      "start_frame": 1181,
+      "end_frame": 1194,
+      "source": "old_full",
+      "source_event_id": 259
+    },
+    {
+      "na": 14,
+      "start_frame": 1195,
+      "end_frame": 1205,
+      "source": "old_full",
+      "source_event_id": 260
+    },
+    {
+      "na": 14,
+      "start_frame": 1206,
+      "end_frame": 1216,
+      "source": "old_full",
+      "source_event_id": 261
+    },
+    {
+      "na": 14,
+      "start_frame": 1221,
+      "end_frame": 1232,
+      "source": "old_full",
+      "source_event_id": 262
+    },
+    {
+      "na": 14,
+      "start_frame": 1455,
+      "end_frame": 1472,
+      "source": "old_full",
+      "source_event_id": 263
+    },
+    {
+      "na": 15,
+      "start_frame": 212,
+      "end_frame": 222,
+      "source": "old_full",
+      "source_event_id": 264
+    },
+    {
+      "na": 15,
+      "start_frame": 232,
+      "end_frame": 244,
+      "source": "old_full",
+      "source_event_id": 265
+    },
+    {
+      "na": 15,
+      "start_frame": 271,
+      "end_frame": 283,
+      "source": "old_full",
+      "source_event_id": 266
+    },
+    {
+      "na": 15,
+      "start_frame": 358,
+      "end_frame": 368,
+      "source": "old_full",
+      "source_event_id": 267
+    },
+    {
+      "na": 15,
+      "start_frame": 501,
+      "end_frame": 514,
+      "source": "old_full",
+      "source_event_id": 268
+    },
+    {
+      "na": 15,
+      "start_frame": 523,
+      "end_frame": 535,
+      "source": "old_full",
+      "source_event_id": 269
+    },
+    {
+      "na": 15,
+      "start_frame": 568,
+      "end_frame": 583,
+      "source": "old_full",
+      "source_event_id": 270
+    },
+    {
+      "na": 15,
+      "start_frame": 615,
+      "end_frame": 626,
+      "source": "old_full",
+      "source_event_id": 271
+    },
+    {
+      "na": 15,
+      "start_frame": 638,
+      "end_frame": 657,
+      "source": "old_full",
+      "source_event_id": 272
+    },
+    {
+      "na": 15,
+      "start_frame": 800,
+      "end_frame": 811,
+      "source": "old_full",
+      "source_event_id": 273
+    },
+    {
+      "na": 15,
+      "start_frame": 822,
+      "end_frame": 834,
+      "source": "old_full",
+      "source_event_id": 274
+    },
+    {
+      "na": 15,
+      "start_frame": 837,
+      "end_frame": 849,
+      "source": "old_full",
+      "source_event_id": 275
+    },
+    {
+      "na": 15,
+      "start_frame": 872,
+      "end_frame": 882,
+      "source": "old_full",
+      "source_event_id": 276
+    },
+    {
+      "na": 15,
+      "start_frame": 894,
+      "end_frame": 911,
+      "source": "old_full",
+      "source_event_id": 277
+    },
+    {
+      "na": 15,
+      "start_frame": 1003,
+      "end_frame": 1024,
+      "source": "old_full",
+      "source_event_id": 278
+    },
+    {
+      "na": 15,
+      "start_frame": 1031,
+      "end_frame": 1042,
+      "source": "old_full",
+      "source_event_id": 279
+    },
+    {
+      "na": 15,
+      "start_frame": 1078,
+      "end_frame": 1090,
+      "source": "old_full",
+      "source_event_id": 280
+    },
+    {
+      "na": 15,
+      "start_frame": 1098,
+      "end_frame": 1110,
+      "source": "old_full",
+      "source_event_id": 281
+    },
+    {
+      "na": 15,
+      "start_frame": 1136,
+      "end_frame": 1150,
+      "source": "old_full",
+      "source_event_id": 282
+    },
+    {
+      "na": 15,
+      "start_frame": 1156,
+      "end_frame": 1170,
+      "source": "old_full",
+      "source_event_id": 283
+    },
+    {
+      "na": 15,
+      "start_frame": 1172,
+      "end_frame": 1185,
+      "source": "old_full",
+      "source_event_id": 284
+    },
+    {
+      "na": 15,
+      "start_frame": 1197,
+      "end_frame": 1210,
+      "source": "old_full",
+      "source_event_id": 285
+    },
+    {
+      "na": 15,
+      "start_frame": 1335,
+      "end_frame": 1349,
+      "source": "old_full",
+      "source_event_id": 286
+    },
+    {
+      "na": 15,
+      "start_frame": 1434,
+      "end_frame": 1448,
+      "source": "old_full",
+      "source_event_id": 287
+    },
+    {
+      "na": 16,
+      "start_frame": 47,
+      "end_frame": 62,
+      "source": "old_full",
+      "source_event_id": 288
+    },
+    {
+      "na": 16,
+      "start_frame": 64,
+      "end_frame": 84,
+      "source": "old_full",
+      "source_event_id": 289
+    },
+    {
+      "na": 16,
+      "start_frame": 92,
+      "end_frame": 104,
+      "source": "old_full",
+      "source_event_id": 290
+    },
+    {
+      "na": 16,
+      "start_frame": 111,
+      "end_frame": 128,
+      "source": "old_full",
+      "source_event_id": 291
+    },
+    {
+      "na": 16,
+      "start_frame": 160,
+      "end_frame": 174,
+      "source": "old_full",
+      "source_event_id": 292
+    },
+    {
+      "na": 16,
+      "start_frame": 196,
+      "end_frame": 209,
+      "source": "old_full",
+      "source_event_id": 293
+    },
+    {
+      "na": 16,
+      "start_frame": 265,
+      "end_frame": 276,
+      "source": "old_full",
+      "source_event_id": 294
+    },
+    {
+      "na": 16,
+      "start_frame": 290,
+      "end_frame": 306,
+      "source": "old_full",
+      "source_event_id": 295
+    },
+    {
+      "na": 16,
+      "start_frame": 312,
+      "end_frame": 326,
+      "source": "old_full",
+      "source_event_id": 296
+    },
+    {
+      "na": 16,
+      "start_frame": 357,
+      "end_frame": 368,
+      "source": "old_full",
+      "source_event_id": 297
+    },
+    {
+      "na": 16,
+      "start_frame": 371,
+      "end_frame": 394,
+      "source": "old_full",
+      "source_event_id": 298
+    },
+    {
+      "na": 16,
+      "start_frame": 443,
+      "end_frame": 455,
+      "source": "old_full",
+      "source_event_id": 299
+    },
+    {
+      "na": 16,
+      "start_frame": 462,
+      "end_frame": 482,
+      "source": "old_full",
+      "source_event_id": 300
+    },
+    {
+      "na": 16,
+      "start_frame": 517,
+      "end_frame": 528,
+      "source": "old_full",
+      "source_event_id": 301
+    },
+    {
+      "na": 16,
+      "start_frame": 533,
+      "end_frame": 561,
+      "source": "old_full",
+      "source_event_id": 302
+    },
+    {
+      "na": 16,
+      "start_frame": 613,
+      "end_frame": 626,
+      "source": "old_full",
+      "source_event_id": 303
+    },
+    {
+      "na": 16,
+      "start_frame": 628,
+      "end_frame": 643,
+      "source": "old_full",
+      "source_event_id": 304
+    },
+    {
+      "na": 16,
+      "start_frame": 680,
+      "end_frame": 691,
+      "source": "old_full",
+      "source_event_id": 305
+    },
+    {
+      "na": 16,
+      "start_frame": 779,
+      "end_frame": 789,
+      "source": "old_full",
+      "source_event_id": 306
+    },
+    {
+      "na": 16,
+      "start_frame": 793,
+      "end_frame": 805,
+      "source": "old_full",
+      "source_event_id": 307
+    },
+    {
+      "na": 16,
+      "start_frame": 818,
+      "end_frame": 833,
+      "source": "old_full",
+      "source_event_id": 308
+    },
+    {
+      "na": 16,
+      "start_frame": 890,
+      "end_frame": 903,
+      "source": "old_full",
+      "source_event_id": 309
+    },
+    {
+      "na": 16,
+      "start_frame": 997,
+      "end_frame": 1007,
+      "source": "old_full",
+      "source_event_id": 310
+    },
+    {
+      "na": 16,
+      "start_frame": 1009,
+      "end_frame": 1036,
+      "source": "old_full",
+      "source_event_id": 311
+    },
+    {
+      "na": 16,
+      "start_frame": 1041,
+      "end_frame": 1053,
+      "source": "old_full",
+      "source_event_id": 312
+    },
+    {
+      "na": 16,
+      "start_frame": 1130,
+      "end_frame": 1148,
+      "source": "old_full",
+      "source_event_id": 313
+    },
+    {
+      "na": 16,
+      "start_frame": 1160,
+      "end_frame": 1171,
+      "source": "old_full",
+      "source_event_id": 314
+    },
+    {
+      "na": 16,
+      "start_frame": 1312,
+      "end_frame": 1325,
+      "source": "old_full",
+      "source_event_id": 315
+    },
+    {
+      "na": 16,
+      "start_frame": 1363,
+      "end_frame": 1376,
+      "source": "old_full",
+      "source_event_id": 316
+    },
+    {
+      "na": 16,
+      "start_frame": 1408,
+      "end_frame": 1432,
+      "source": "old_full",
+      "source_event_id": 317
+    },
+    {
+      "na": 17,
+      "start_frame": 330,
+      "end_frame": 341,
+      "source": "old_full",
+      "source_event_id": 318
+    },
+    {
+      "na": 17,
+      "start_frame": 389,
+      "end_frame": 400,
+      "source": "old_full",
+      "source_event_id": 319
+    },
+    {
+      "na": 17,
+      "start_frame": 446,
+      "end_frame": 459,
+      "source": "old_full",
+      "source_event_id": 320
+    },
+    {
+      "na": 17,
+      "start_frame": 470,
+      "end_frame": 508,
+      "source": "old_full",
+      "source_event_id": 321
+    },
+    {
+      "na": 17,
+      "start_frame": 522,
+      "end_frame": 536,
+      "source": "old_full",
+      "source_event_id": 322
+    },
+    {
+      "na": 17,
+      "start_frame": 559,
+      "end_frame": 569,
+      "source": "old_full",
+      "source_event_id": 323
+    },
+    {
+      "na": 17,
+      "start_frame": 608,
+      "end_frame": 627,
+      "source": "old_full",
+      "source_event_id": 324
+    },
+    {
+      "na": 17,
+      "start_frame": 635,
+      "end_frame": 649,
+      "source": "old_full",
+      "source_event_id": 325
+    },
+    {
+      "na": 17,
+      "start_frame": 689,
+      "end_frame": 702,
+      "source": "old_full",
+      "source_event_id": 326
+    },
+    {
+      "na": 17,
+      "start_frame": 731,
+      "end_frame": 742,
+      "source": "old_full",
+      "source_event_id": 327
+    },
+    {
+      "na": 17,
+      "start_frame": 838,
+      "end_frame": 852,
+      "source": "old_full",
+      "source_event_id": 328
+    },
+    {
+      "na": 17,
+      "start_frame": 959,
+      "end_frame": 974,
+      "source": "old_full",
+      "source_event_id": 329
+    },
+    {
+      "na": 17,
+      "start_frame": 978,
+      "end_frame": 990,
+      "source": "old_full",
+      "source_event_id": 330
+    },
+    {
+      "na": 17,
+      "start_frame": 995,
+      "end_frame": 1019,
+      "source": "old_full",
+      "source_event_id": 331
+    },
+    {
+      "na": 17,
+      "start_frame": 1069,
+      "end_frame": 1093,
+      "source": "old_full",
+      "source_event_id": 332
+    },
+    {
+      "na": 17,
+      "start_frame": 1119,
+      "end_frame": 1130,
+      "source": "old_full",
+      "source_event_id": 333
+    },
+    {
+      "na": 17,
+      "start_frame": 1135,
+      "end_frame": 1148,
+      "source": "old_full",
+      "source_event_id": 334
+    },
+    {
+      "na": 17,
+      "start_frame": 1215,
+      "end_frame": 1226,
+      "source": "old_full",
+      "source_event_id": 335
+    },
+    {
+      "na": 17,
+      "start_frame": 1290,
+      "end_frame": 1302,
+      "source": "old_full",
+      "source_event_id": 336
+    },
+    {
+      "na": 17,
+      "start_frame": 1312,
+      "end_frame": 1322,
+      "source": "old_full",
+      "source_event_id": 337
+    },
+    {
+      "na": 17,
+      "start_frame": 1323,
+      "end_frame": 1336,
+      "source": "old_full",
+      "source_event_id": 338
+    },
+    {
+      "na": 18,
+      "start_frame": 17,
+      "end_frame": 30,
+      "source": "old_full",
+      "source_event_id": 339
+    },
+    {
+      "na": 18,
+      "start_frame": 59,
+      "end_frame": 71,
+      "source": "old_full",
+      "source_event_id": 340
+    },
+    {
+      "na": 18,
+      "start_frame": 77,
+      "end_frame": 90,
+      "source": "old_full",
+      "source_event_id": 341
+    },
+    {
+      "na": 18,
+      "start_frame": 165,
+      "end_frame": 178,
+      "source": "old_full",
+      "source_event_id": 342
+    },
+    {
+      "na": 18,
+      "start_frame": 184,
+      "end_frame": 216,
+      "source": "old_full",
+      "source_event_id": 343
+    },
+    {
+      "na": 18,
+      "start_frame": 217,
+      "end_frame": 227,
+      "source": "old_full",
+      "source_event_id": 344
+    },
+    {
+      "na": 18,
+      "start_frame": 288,
+      "end_frame": 304,
+      "source": "old_full",
+      "source_event_id": 345
+    },
+    {
+      "na": 18,
+      "start_frame": 530,
+      "end_frame": 545,
+      "source": "old_full",
+      "source_event_id": 346
+    },
+    {
+      "na": 18,
+      "start_frame": 560,
+      "end_frame": 580,
+      "source": "old_full",
+      "source_event_id": 347
+    },
+    {
+      "na": 18,
+      "start_frame": 624,
+      "end_frame": 641,
+      "source": "old_full",
+      "source_event_id": 348
+    },
+    {
+      "na": 18,
+      "start_frame": 646,
+      "end_frame": 669,
+      "source": "old_full",
+      "source_event_id": 349
+    },
+    {
+      "na": 18,
+      "start_frame": 681,
+      "end_frame": 708,
+      "source": "old_full",
+      "source_event_id": 350
+    },
+    {
+      "na": 18,
+      "start_frame": 822,
+      "end_frame": 838,
+      "source": "old_full",
+      "source_event_id": 351
+    },
+    {
+      "na": 18,
+      "start_frame": 922,
+      "end_frame": 933,
+      "source": "old_full",
+      "source_event_id": 352
+    },
+    {
+      "na": 18,
+      "start_frame": 949,
+      "end_frame": 974,
+      "source": "old_full",
+      "source_event_id": 353
+    },
+    {
+      "na": 18,
+      "start_frame": 1070,
+      "end_frame": 1083,
+      "source": "old_full",
+      "source_event_id": 354
+    },
+    {
+      "na": 18,
+      "start_frame": 1124,
+      "end_frame": 1135,
+      "source": "old_full",
+      "source_event_id": 355
+    },
+    {
+      "na": 18,
+      "start_frame": 1168,
+      "end_frame": 1192,
+      "source": "old_full",
+      "source_event_id": 356
+    },
+    {
+      "na": 18,
+      "start_frame": 1203,
+      "end_frame": 1223,
+      "source": "old_full",
+      "source_event_id": 357
+    },
+    {
+      "na": 18,
+      "start_frame": 1414,
+      "end_frame": 1424,
+      "source": "old_full",
+      "source_event_id": 358
+    },
+    {
+      "na": 18,
+      "start_frame": 1428,
+      "end_frame": 1440,
+      "source": "old_full",
+      "source_event_id": 359
+    },
+    {
+      "na": 18,
+      "start_frame": 1456,
+      "end_frame": 1475,
+      "source": "old_full",
+      "source_event_id": 360
+    },
+    {
+      "na": 19,
+      "start_frame": 4,
+      "end_frame": 14,
+      "source": "old_full",
+      "source_event_id": 361
+    },
+    {
+      "na": 19,
+      "start_frame": 28,
+      "end_frame": 39,
+      "source": "old_full",
+      "source_event_id": 362
+    },
+    {
+      "na": 19,
+      "start_frame": 87,
+      "end_frame": 97,
+      "source": "old_full",
+      "source_event_id": 363
+    },
+    {
+      "na": 19,
+      "start_frame": 121,
+      "end_frame": 138,
+      "source": "old_full",
+      "source_event_id": 364
+    },
+    {
+      "na": 19,
+      "start_frame": 173,
+      "end_frame": 187,
+      "source": "old_full",
+      "source_event_id": 365
+    },
+    {
+      "na": 19,
+      "start_frame": 232,
+      "end_frame": 248,
+      "source": "old_full",
+      "source_event_id": 366
+    },
+    {
+      "na": 19,
+      "start_frame": 275,
+      "end_frame": 291,
+      "source": "old_full",
+      "source_event_id": 367
+    },
+    {
+      "na": 19,
+      "start_frame": 300,
+      "end_frame": 313,
+      "source": "old_full",
+      "source_event_id": 368
+    },
+    {
+      "na": 19,
+      "start_frame": 348,
+      "end_frame": 361,
+      "source": "old_full",
+      "source_event_id": 369
+    },
+    {
+      "na": 19,
+      "start_frame": 372,
+      "end_frame": 383,
+      "source": "old_full",
+      "source_event_id": 370
+    },
+    {
+      "na": 19,
+      "start_frame": 486,
+      "end_frame": 500,
+      "source": "old_full",
+      "source_event_id": 371
+    },
+    {
+      "na": 19,
+      "start_frame": 505,
+      "end_frame": 518,
+      "source": "old_full",
+      "source_event_id": 372
+    },
+    {
+      "na": 19,
+      "start_frame": 541,
+      "end_frame": 555,
+      "source": "old_full",
+      "source_event_id": 373
+    },
+    {
+      "na": 19,
+      "start_frame": 561,
+      "end_frame": 576,
+      "source": "old_full",
+      "source_event_id": 374
+    },
+    {
+      "na": 19,
+      "start_frame": 756,
+      "end_frame": 766,
+      "source": "old_full",
+      "source_event_id": 375
+    },
+    {
+      "na": 19,
+      "start_frame": 824,
+      "end_frame": 835,
+      "source": "old_full",
+      "source_event_id": 376
+    },
+    {
+      "na": 19,
+      "start_frame": 843,
+      "end_frame": 873,
+      "source": "old_full",
+      "source_event_id": 377
+    },
+    {
+      "na": 19,
+      "start_frame": 901,
+      "end_frame": 915,
+      "source": "old_full",
+      "source_event_id": 378
+    },
+    {
+      "na": 19,
+      "start_frame": 982,
+      "end_frame": 994,
+      "source": "old_full",
+      "source_event_id": 379
+    },
+    {
+      "na": 19,
+      "start_frame": 1004,
+      "end_frame": 1020,
+      "source": "old_full",
+      "source_event_id": 380
+    },
+    {
+      "na": 19,
+      "start_frame": 1042,
+      "end_frame": 1052,
+      "source": "old_full",
+      "source_event_id": 381
+    },
+    {
+      "na": 19,
+      "start_frame": 1054,
+      "end_frame": 1067,
+      "source": "old_full",
+      "source_event_id": 382
+    },
+    {
+      "na": 19,
+      "start_frame": 1099,
+      "end_frame": 1109,
+      "source": "old_full",
+      "source_event_id": 383
+    },
+    {
+      "na": 19,
+      "start_frame": 1116,
+      "end_frame": 1127,
+      "source": "old_full",
+      "source_event_id": 384
+    },
+    {
+      "na": 19,
+      "start_frame": 1180,
+      "end_frame": 1211,
+      "source": "old_full",
+      "source_event_id": 385
+    },
+    {
+      "na": 19,
+      "start_frame": 1240,
+      "end_frame": 1267,
+      "source": "old_full",
+      "source_event_id": 386
+    },
+    {
+      "na": 19,
+      "start_frame": 1376,
+      "end_frame": 1388,
+      "source": "old_full",
+      "source_event_id": 387
+    },
+    {
+      "na": 19,
+      "start_frame": 1408,
+      "end_frame": 1423,
+      "source": "old_full",
+      "source_event_id": 388
+    },
+    {
+      "na": 19,
+      "start_frame": 1428,
+      "end_frame": 1464,
+      "source": "old_full",
+      "source_event_id": 389
+    },
+    {
+      "na": 19,
+      "start_frame": 1488,
+      "end_frame": 1499,
+      "source": "old_full",
+      "source_event_id": 390
+    },
+    {
+      "na": 20,
+      "start_frame": 14,
+      "end_frame": 26,
+      "source": "old_full",
+      "source_event_id": 391
+    },
+    {
+      "na": 20,
+      "start_frame": 32,
+      "end_frame": 78,
+      "source": "old_full",
+      "source_event_id": 392
+    },
+    {
+      "na": 20,
+      "start_frame": 96,
+      "end_frame": 109,
+      "source": "old_full",
+      "source_event_id": 393
+    },
+    {
+      "na": 20,
+      "start_frame": 126,
+      "end_frame": 138,
+      "source": "old_full",
+      "source_event_id": 394
+    },
+    {
+      "na": 20,
+      "start_frame": 253,
+      "end_frame": 265,
+      "source": "old_full",
+      "source_event_id": 395
+    },
+    {
+      "na": 20,
+      "start_frame": 285,
+      "end_frame": 317,
+      "source": "old_full",
+      "source_event_id": 396
+    },
+    {
+      "na": 20,
+      "start_frame": 364,
+      "end_frame": 375,
+      "source": "old_full",
+      "source_event_id": 397
+    },
+    {
+      "na": 20,
+      "start_frame": 470,
+      "end_frame": 481,
+      "source": "old_full",
+      "source_event_id": 398
+    },
+    {
+      "na": 20,
+      "start_frame": 519,
+      "end_frame": 533,
+      "source": "old_full",
+      "source_event_id": 399
+    },
+    {
+      "na": 20,
+      "start_frame": 554,
+      "end_frame": 566,
+      "source": "old_full",
+      "source_event_id": 400
+    },
+    {
+      "na": 20,
+      "start_frame": 632,
+      "end_frame": 643,
+      "source": "old_full",
+      "source_event_id": 401
+    },
+    {
+      "na": 20,
+      "start_frame": 691,
+      "end_frame": 711,
+      "source": "old_full",
+      "source_event_id": 402
+    },
+    {
+      "na": 20,
+      "start_frame": 884,
+      "end_frame": 897,
+      "source": "old_full",
+      "source_event_id": 403
+    },
+    {
+      "na": 20,
+      "start_frame": 947,
+      "end_frame": 961,
+      "source": "old_full",
+      "source_event_id": 404
+    },
+    {
+      "na": 20,
+      "start_frame": 1040,
+      "end_frame": 1054,
+      "source": "old_full",
+      "source_event_id": 405
+    },
+    {
+      "na": 20,
+      "start_frame": 1060,
+      "end_frame": 1084,
+      "source": "old_full",
+      "source_event_id": 406
+    },
+    {
+      "na": 20,
+      "start_frame": 1099,
+      "end_frame": 1115,
+      "source": "old_full",
+      "source_event_id": 407
+    },
+    {
+      "na": 20,
+      "start_frame": 1135,
+      "end_frame": 1148,
+      "source": "old_full",
+      "source_event_id": 408
+    },
+    {
+      "na": 20,
+      "start_frame": 1156,
+      "end_frame": 1167,
+      "source": "old_full",
+      "source_event_id": 409
+    },
+    {
+      "na": 20,
+      "start_frame": 1234,
+      "end_frame": 1250,
+      "source": "old_full",
+      "source_event_id": 410
+    },
+    {
+      "na": 20,
+      "start_frame": 1367,
+      "end_frame": 1383,
+      "source": "old_full",
+      "source_event_id": 411
+    },
+    {
+      "na": 20,
+      "start_frame": 1402,
+      "end_frame": 1425,
+      "source": "old_full",
+      "source_event_id": 412
+    },
+    {
+      "na": 20,
+      "start_frame": 1452,
+      "end_frame": 1463,
+      "source": "old_full",
+      "source_event_id": 413
+    },
+    {
+      "na": 20,
+      "start_frame": 1480,
+      "end_frame": 1491,
+      "source": "old_full",
+      "source_event_id": 414
+    },
+    {
+      "na": 21,
+      "start_frame": 58,
+      "end_frame": 70,
+      "source": "old_full",
+      "source_event_id": 415
+    },
+    {
+      "na": 21,
+      "start_frame": 158,
+      "end_frame": 171,
+      "source": "old_full",
+      "source_event_id": 416
+    },
+    {
+      "na": 21,
+      "start_frame": 188,
+      "end_frame": 202,
+      "source": "old_full",
+      "source_event_id": 417
+    },
+    {
+      "na": 21,
+      "start_frame": 220,
+      "end_frame": 233,
+      "source": "old_full",
+      "source_event_id": 418
+    },
+    {
+      "na": 21,
+      "start_frame": 369,
+      "end_frame": 404,
+      "source": "old_full",
+      "source_event_id": 419
+    },
+    {
+      "na": 21,
+      "start_frame": 428,
+      "end_frame": 480,
+      "source": "old_full",
+      "source_event_id": 420
+    },
+    {
+      "na": 21,
+      "start_frame": 535,
+      "end_frame": 546,
+      "source": "old_full",
+      "source_event_id": 421
+    },
+    {
+      "na": 21,
+      "start_frame": 596,
+      "end_frame": 609,
+      "source": "old_full",
+      "source_event_id": 422
+    },
+    {
+      "na": 21,
+      "start_frame": 696,
+      "end_frame": 706,
+      "source": "old_full",
+      "source_event_id": 423
+    },
+    {
+      "na": 21,
+      "start_frame": 762,
+      "end_frame": 773,
+      "source": "old_full",
+      "source_event_id": 424
+    },
+    {
+      "na": 21,
+      "start_frame": 816,
+      "end_frame": 831,
+      "source": "old_full",
+      "source_event_id": 425
+    },
+    {
+      "na": 21,
+      "start_frame": 868,
+      "end_frame": 879,
+      "source": "old_full",
+      "source_event_id": 426
+    },
+    {
+      "na": 21,
+      "start_frame": 889,
+      "end_frame": 907,
+      "source": "old_full",
+      "source_event_id": 427
+    },
+    {
+      "na": 21,
+      "start_frame": 944,
+      "end_frame": 956,
+      "source": "old_full",
+      "source_event_id": 428
+    },
+    {
+      "na": 21,
+      "start_frame": 961,
+      "end_frame": 973,
+      "source": "old_full",
+      "source_event_id": 429
+    },
+    {
+      "na": 21,
+      "start_frame": 1013,
+      "end_frame": 1037,
+      "source": "old_full",
+      "source_event_id": 430
+    },
+    {
+      "na": 21,
+      "start_frame": 1115,
+      "end_frame": 1125,
+      "source": "old_full",
+      "source_event_id": 431
+    },
+    {
+      "na": 21,
+      "start_frame": 1264,
+      "end_frame": 1278,
+      "source": "old_full",
+      "source_event_id": 432
+    },
+    {
+      "na": 21,
+      "start_frame": 1322,
+      "end_frame": 1335,
+      "source": "old_full",
+      "source_event_id": 433
+    },
+    {
+      "na": 22,
+      "start_frame": 13,
+      "end_frame": 36,
+      "source": "old_full",
+      "source_event_id": 434
+    },
+    {
+      "na": 22,
+      "start_frame": 92,
+      "end_frame": 103,
+      "source": "old_full",
+      "source_event_id": 435
+    },
+    {
+      "na": 22,
+      "start_frame": 198,
+      "end_frame": 208,
+      "source": "old_full",
+      "source_event_id": 436
+    },
+    {
+      "na": 22,
+      "start_frame": 229,
+      "end_frame": 241,
+      "source": "old_full",
+      "source_event_id": 437
+    },
+    {
+      "na": 22,
+      "start_frame": 267,
+      "end_frame": 278,
+      "source": "old_full",
+      "source_event_id": 438
+    },
+    {
+      "na": 22,
+      "start_frame": 337,
+      "end_frame": 350,
+      "source": "old_full",
+      "source_event_id": 439
+    },
+    {
+      "na": 22,
+      "start_frame": 400,
+      "end_frame": 411,
+      "source": "old_full",
+      "source_event_id": 440
+    },
+    {
+      "na": 22,
+      "start_frame": 602,
+      "end_frame": 627,
+      "source": "old_full",
+      "source_event_id": 441
+    },
+    {
+      "na": 22,
+      "start_frame": 641,
+      "end_frame": 652,
+      "source": "old_full",
+      "source_event_id": 442
+    },
+    {
+      "na": 22,
+      "start_frame": 686,
+      "end_frame": 700,
+      "source": "old_full",
+      "source_event_id": 443
+    },
+    {
+      "na": 22,
+      "start_frame": 733,
+      "end_frame": 745,
+      "source": "old_full",
+      "source_event_id": 444
+    },
+    {
+      "na": 22,
+      "start_frame": 747,
+      "end_frame": 759,
+      "source": "old_full",
+      "source_event_id": 445
+    },
+    {
+      "na": 22,
+      "start_frame": 780,
+      "end_frame": 790,
+      "source": "old_full",
+      "source_event_id": 446
+    },
+    {
+      "na": 22,
+      "start_frame": 814,
+      "end_frame": 837,
+      "source": "old_full",
+      "source_event_id": 447
+    },
+    {
+      "na": 22,
+      "start_frame": 902,
+      "end_frame": 924,
+      "source": "old_full",
+      "source_event_id": 448
+    },
+    {
+      "na": 22,
+      "start_frame": 1042,
+      "end_frame": 1055,
+      "source": "old_full",
+      "source_event_id": 449
+    },
+    {
+      "na": 22,
+      "start_frame": 1148,
+      "end_frame": 1161,
+      "source": "old_full",
+      "source_event_id": 450
+    },
+    {
+      "na": 22,
+      "start_frame": 1163,
+      "end_frame": 1184,
+      "source": "old_full",
+      "source_event_id": 451
+    },
+    {
+      "na": 22,
+      "start_frame": 1191,
+      "end_frame": 1204,
+      "source": "old_full",
+      "source_event_id": 452
+    },
+    {
+      "na": 22,
+      "start_frame": 1322,
+      "end_frame": 1334,
+      "source": "old_full",
+      "source_event_id": 453
+    },
+    {
+      "na": 22,
+      "start_frame": 1338,
+      "end_frame": 1349,
+      "source": "old_full",
+      "source_event_id": 454
+    },
+    {
+      "na": 22,
+      "start_frame": 1388,
+      "end_frame": 1400,
+      "source": "old_full",
+      "source_event_id": 455
+    },
+    {
+      "na": 23,
+      "start_frame": 100,
+      "end_frame": 111,
+      "source": "old_full",
+      "source_event_id": 456
+    },
+    {
+      "na": 23,
+      "start_frame": 257,
+      "end_frame": 268,
+      "source": "old_full",
+      "source_event_id": 457
+    },
+    {
+      "na": 23,
+      "start_frame": 293,
+      "end_frame": 303,
+      "source": "old_full",
+      "source_event_id": 458
+    },
+    {
+      "na": 23,
+      "start_frame": 311,
+      "end_frame": 322,
+      "source": "old_full",
+      "source_event_id": 459
+    },
+    {
+      "na": 23,
+      "start_frame": 368,
+      "end_frame": 379,
+      "source": "old_full",
+      "source_event_id": 460
+    },
+    {
+      "na": 23,
+      "start_frame": 429,
+      "end_frame": 441,
+      "source": "old_full",
+      "source_event_id": 461
+    },
+    {
+      "na": 23,
+      "start_frame": 447,
+      "end_frame": 469,
+      "source": "old_full",
+      "source_event_id": 462
+    },
+    {
+      "na": 23,
+      "start_frame": 527,
+      "end_frame": 539,
+      "source": "old_full",
+      "source_event_id": 463
+    },
+    {
+      "na": 23,
+      "start_frame": 574,
+      "end_frame": 585,
+      "source": "old_full",
+      "source_event_id": 464
+    },
+    {
+      "na": 23,
+      "start_frame": 643,
+      "end_frame": 664,
+      "source": "old_full",
+      "source_event_id": 465
+    },
+    {
+      "na": 23,
+      "start_frame": 695,
+      "end_frame": 709,
+      "source": "old_full",
+      "source_event_id": 466
+    },
+    {
+      "na": 23,
+      "start_frame": 710,
+      "end_frame": 723,
+      "source": "old_full",
+      "source_event_id": 467
+    },
+    {
+      "na": 23,
+      "start_frame": 873,
+      "end_frame": 883,
+      "source": "old_full",
+      "source_event_id": 468
+    },
+    {
+      "na": 23,
+      "start_frame": 889,
+      "end_frame": 901,
+      "source": "old_full",
+      "source_event_id": 469
+    },
+    {
+      "na": 23,
+      "start_frame": 1159,
+      "end_frame": 1171,
+      "source": "old_full",
+      "source_event_id": 470
+    },
+    {
+      "na": 0,
+      "start_frame": 30,
+      "end_frame": 52,
+      "source": "old_common_0_20",
+      "source_event_id": 0
+    },
+    {
+      "na": 0,
+      "start_frame": 60,
+      "end_frame": 71,
+      "source": "old_common_0_20",
+      "source_event_id": 1
+    },
+    {
+      "na": 0,
+      "start_frame": 80,
+      "end_frame": 90,
+      "source": "old_common_0_20",
+      "source_event_id": 2
+    },
+    {
+      "na": 0,
+      "start_frame": 119,
+      "end_frame": 132,
+      "source": "old_common_0_20",
+      "source_event_id": 3
+    },
+    {
+      "na": 0,
+      "start_frame": 154,
+      "end_frame": 164,
+      "source": "old_common_0_20",
+      "source_event_id": 4
+    },
+    {
+      "na": 0,
+      "start_frame": 170,
+      "end_frame": 181,
+      "source": "old_common_0_20",
+      "source_event_id": 5
+    },
+    {
+      "na": 0,
+      "start_frame": 279,
+      "end_frame": 289,
+      "source": "old_common_0_20",
+      "source_event_id": 6
+    },
+    {
+      "na": 0,
+      "start_frame": 318,
+      "end_frame": 330,
+      "source": "old_common_0_20",
+      "source_event_id": 7
+    },
+    {
+      "na": 0,
+      "start_frame": 353,
+      "end_frame": 375,
+      "source": "old_common_0_20",
+      "source_event_id": 8
+    },
+    {
+      "na": 0,
+      "start_frame": 447,
+      "end_frame": 460,
+      "source": "old_common_0_20",
+      "source_event_id": 9
+    },
+    {
+      "na": 0,
+      "start_frame": 606,
+      "end_frame": 616,
+      "source": "old_common_0_20",
+      "source_event_id": 10
+    },
+    {
+      "na": 0,
+      "start_frame": 687,
+      "end_frame": 699,
+      "source": "old_common_0_20",
+      "source_event_id": 11
+    },
+    {
+      "na": 0,
+      "start_frame": 710,
+      "end_frame": 720,
+      "source": "old_common_0_20",
+      "source_event_id": 12
+    },
+    {
+      "na": 0,
+      "start_frame": 837,
+      "end_frame": 849,
+      "source": "old_common_0_20",
+      "source_event_id": 13
+    },
+    {
+      "na": 0,
+      "start_frame": 859,
+      "end_frame": 875,
+      "source": "old_common_0_20",
+      "source_event_id": 14
+    },
+    {
+      "na": 0,
+      "start_frame": 881,
+      "end_frame": 892,
+      "source": "old_common_0_20",
+      "source_event_id": 15
+    },
+    {
+      "na": 0,
+      "start_frame": 945,
+      "end_frame": 957,
+      "source": "old_common_0_20",
+      "source_event_id": 16
+    },
+    {
+      "na": 0,
+      "start_frame": 989,
+      "end_frame": 1000,
+      "source": "old_common_0_20",
+      "source_event_id": 17
+    },
+    {
+      "na": 1,
+      "start_frame": 361,
+      "end_frame": 371,
+      "source": "old_common_0_20",
+      "source_event_id": 18
+    },
+    {
+      "na": 1,
+      "start_frame": 428,
+      "end_frame": 438,
+      "source": "old_common_0_20",
+      "source_event_id": 19
+    },
+    {
+      "na": 1,
+      "start_frame": 450,
+      "end_frame": 469,
+      "source": "old_common_0_20",
+      "source_event_id": 20
+    },
+    {
+      "na": 1,
+      "start_frame": 504,
+      "end_frame": 514,
+      "source": "old_common_0_20",
+      "source_event_id": 21
+    },
+    {
+      "na": 1,
+      "start_frame": 532,
+      "end_frame": 545,
+      "source": "old_common_0_20",
+      "source_event_id": 22
+    },
+    {
+      "na": 1,
+      "start_frame": 575,
+      "end_frame": 587,
+      "source": "old_common_0_20",
+      "source_event_id": 23
+    },
+    {
+      "na": 1,
+      "start_frame": 633,
+      "end_frame": 643,
+      "source": "old_common_0_20",
+      "source_event_id": 24
+    },
+    {
+      "na": 1,
+      "start_frame": 914,
+      "end_frame": 929,
+      "source": "old_common_0_20",
+      "source_event_id": 25
+    },
+    {
+      "na": 1,
+      "start_frame": 981,
+      "end_frame": 994,
+      "source": "old_common_0_20",
+      "source_event_id": 26
+    },
+    {
+      "na": 2,
+      "start_frame": 5,
+      "end_frame": 52,
+      "source": "old_common_0_20",
+      "source_event_id": 27
+    },
+    {
+      "na": 2,
+      "start_frame": 99,
+      "end_frame": 111,
+      "source": "old_common_0_20",
+      "source_event_id": 28
+    },
+    {
+      "na": 2,
+      "start_frame": 113,
+      "end_frame": 123,
+      "source": "old_common_0_20",
+      "source_event_id": 29
+    },
+    {
+      "na": 2,
+      "start_frame": 238,
+      "end_frame": 248,
+      "source": "old_common_0_20",
+      "source_event_id": 30
+    },
+    {
+      "na": 2,
+      "start_frame": 295,
+      "end_frame": 306,
+      "source": "old_common_0_20",
+      "source_event_id": 31
+    },
+    {
+      "na": 2,
+      "start_frame": 362,
+      "end_frame": 372,
+      "source": "old_common_0_20",
+      "source_event_id": 32
+    },
+    {
+      "na": 2,
+      "start_frame": 385,
+      "end_frame": 399,
+      "source": "old_common_0_20",
+      "source_event_id": 33
+    },
+    {
+      "na": 2,
+      "start_frame": 410,
+      "end_frame": 421,
+      "source": "old_common_0_20",
+      "source_event_id": 34
+    },
+    {
+      "na": 2,
+      "start_frame": 486,
+      "end_frame": 496,
+      "source": "old_common_0_20",
+      "source_event_id": 35
+    },
+    {
+      "na": 2,
+      "start_frame": 528,
+      "end_frame": 541,
+      "source": "old_common_0_20",
+      "source_event_id": 36
+    },
+    {
+      "na": 2,
+      "start_frame": 548,
+      "end_frame": 559,
+      "source": "old_common_0_20",
+      "source_event_id": 37
+    },
+    {
+      "na": 2,
+      "start_frame": 607,
+      "end_frame": 624,
+      "source": "old_common_0_20",
+      "source_event_id": 38
+    },
+    {
+      "na": 2,
+      "start_frame": 632,
+      "end_frame": 644,
+      "source": "old_common_0_20",
+      "source_event_id": 39
+    },
+    {
+      "na": 2,
+      "start_frame": 647,
+      "end_frame": 657,
+      "source": "old_common_0_20",
+      "source_event_id": 40
+    },
+    {
+      "na": 2,
+      "start_frame": 745,
+      "end_frame": 756,
+      "source": "old_common_0_20",
+      "source_event_id": 41
+    },
+    {
+      "na": 2,
+      "start_frame": 770,
+      "end_frame": 786,
+      "source": "old_common_0_20",
+      "source_event_id": 42
+    },
+    {
+      "na": 2,
+      "start_frame": 886,
+      "end_frame": 898,
+      "source": "old_common_0_20",
+      "source_event_id": 43
+    },
+    {
+      "na": 2,
+      "start_frame": 919,
+      "end_frame": 937,
+      "source": "old_common_0_20",
+      "source_event_id": 44
+    },
+    {
+      "na": 2,
+      "start_frame": 952,
+      "end_frame": 962,
+      "source": "old_common_0_20",
+      "source_event_id": 45
+    },
+    {
+      "na": 2,
+      "start_frame": 982,
+      "end_frame": 993,
+      "source": "old_common_0_20",
+      "source_event_id": 46
+    },
+    {
+      "na": 3,
+      "start_frame": 4,
+      "end_frame": 18,
+      "source": "old_common_0_20",
+      "source_event_id": 47
+    },
+    {
+      "na": 3,
+      "start_frame": 26,
+      "end_frame": 37,
+      "source": "old_common_0_20",
+      "source_event_id": 48
+    },
+    {
+      "na": 3,
+      "start_frame": 42,
+      "end_frame": 53,
+      "source": "old_common_0_20",
+      "source_event_id": 49
+    },
+    {
+      "na": 3,
+      "start_frame": 54,
+      "end_frame": 67,
+      "source": "old_common_0_20",
+      "source_event_id": 50
+    },
+    {
+      "na": 3,
+      "start_frame": 73,
+      "end_frame": 101,
+      "source": "old_common_0_20",
+      "source_event_id": 51
+    },
+    {
+      "na": 3,
+      "start_frame": 106,
+      "end_frame": 121,
+      "source": "old_common_0_20",
+      "source_event_id": 52
+    },
+    {
+      "na": 3,
+      "start_frame": 262,
+      "end_frame": 275,
+      "source": "old_common_0_20",
+      "source_event_id": 53
+    },
+    {
+      "na": 3,
+      "start_frame": 306,
+      "end_frame": 375,
+      "source": "old_common_0_20",
+      "source_event_id": 54
+    },
+    {
+      "na": 3,
+      "start_frame": 433,
+      "end_frame": 444,
+      "source": "old_common_0_20",
+      "source_event_id": 55
+    },
+    {
+      "na": 3,
+      "start_frame": 445,
+      "end_frame": 456,
+      "source": "old_common_0_20",
+      "source_event_id": 56
+    },
+    {
+      "na": 3,
+      "start_frame": 465,
+      "end_frame": 489,
+      "source": "old_common_0_20",
+      "source_event_id": 57
+    },
+    {
+      "na": 3,
+      "start_frame": 554,
+      "end_frame": 566,
+      "source": "old_common_0_20",
+      "source_event_id": 58
+    },
+    {
+      "na": 3,
+      "start_frame": 592,
+      "end_frame": 610,
+      "source": "old_common_0_20",
+      "source_event_id": 59
+    },
+    {
+      "na": 3,
+      "start_frame": 733,
+      "end_frame": 743,
+      "source": "old_common_0_20",
+      "source_event_id": 60
+    },
+    {
+      "na": 3,
+      "start_frame": 788,
+      "end_frame": 808,
+      "source": "old_common_0_20",
+      "source_event_id": 61
+    },
+    {
+      "na": 3,
+      "start_frame": 905,
+      "end_frame": 917,
+      "source": "old_common_0_20",
+      "source_event_id": 62
+    },
+    {
+      "na": 3,
+      "start_frame": 943,
+      "end_frame": 955,
+      "source": "old_common_0_20",
+      "source_event_id": 63
+    },
+    {
+      "na": 3,
+      "start_frame": 956,
+      "end_frame": 971,
+      "source": "old_common_0_20",
+      "source_event_id": 64
+    },
+    {
+      "na": 4,
+      "start_frame": 4,
+      "end_frame": 38,
+      "source": "old_common_0_20",
+      "source_event_id": 65
+    },
+    {
+      "na": 4,
+      "start_frame": 61,
+      "end_frame": 73,
+      "source": "old_common_0_20",
+      "source_event_id": 66
+    },
+    {
+      "na": 4,
+      "start_frame": 132,
+      "end_frame": 142,
+      "source": "old_common_0_20",
+      "source_event_id": 67
+    },
+    {
+      "na": 4,
+      "start_frame": 155,
+      "end_frame": 166,
+      "source": "old_common_0_20",
+      "source_event_id": 68
+    },
+    {
+      "na": 4,
+      "start_frame": 251,
+      "end_frame": 261,
+      "source": "old_common_0_20",
+      "source_event_id": 69
+    },
+    {
+      "na": 4,
+      "start_frame": 395,
+      "end_frame": 405,
+      "source": "old_common_0_20",
+      "source_event_id": 70
+    },
+    {
+      "na": 4,
+      "start_frame": 456,
+      "end_frame": 468,
+      "source": "old_common_0_20",
+      "source_event_id": 71
+    },
+    {
+      "na": 4,
+      "start_frame": 666,
+      "end_frame": 676,
+      "source": "old_common_0_20",
+      "source_event_id": 72
+    },
+    {
+      "na": 4,
+      "start_frame": 933,
+      "end_frame": 943,
+      "source": "old_common_0_20",
+      "source_event_id": 73
+    },
+    {
+      "na": 5,
+      "start_frame": 5,
+      "end_frame": 15,
+      "source": "old_common_0_20",
+      "source_event_id": 74
+    },
+    {
+      "na": 5,
+      "start_frame": 307,
+      "end_frame": 317,
+      "source": "old_common_0_20",
+      "source_event_id": 75
+    },
+    {
+      "na": 5,
+      "start_frame": 489,
+      "end_frame": 500,
+      "source": "old_common_0_20",
+      "source_event_id": 76
+    },
+    {
+      "na": 5,
+      "start_frame": 556,
+      "end_frame": 567,
+      "source": "old_common_0_20",
+      "source_event_id": 77
+    },
+    {
+      "na": 5,
+      "start_frame": 645,
+      "end_frame": 656,
+      "source": "old_common_0_20",
+      "source_event_id": 78
+    },
+    {
+      "na": 5,
+      "start_frame": 780,
+      "end_frame": 791,
+      "source": "old_common_0_20",
+      "source_event_id": 79
+    },
+    {
+      "na": 5,
+      "start_frame": 941,
+      "end_frame": 952,
+      "source": "old_common_0_20",
+      "source_event_id": 80
+    },
+    {
+      "na": 6,
+      "start_frame": 16,
+      "end_frame": 28,
+      "source": "old_common_0_20",
+      "source_event_id": 81
+    },
+    {
+      "na": 6,
+      "start_frame": 74,
+      "end_frame": 97,
+      "source": "old_common_0_20",
+      "source_event_id": 82
+    },
+    {
+      "na": 6,
+      "start_frame": 123,
+      "end_frame": 135,
+      "source": "old_common_0_20",
+      "source_event_id": 83
+    },
+    {
+      "na": 6,
+      "start_frame": 139,
+      "end_frame": 152,
+      "source": "old_common_0_20",
+      "source_event_id": 84
+    },
+    {
+      "na": 6,
+      "start_frame": 180,
+      "end_frame": 213,
+      "source": "old_common_0_20",
+      "source_event_id": 85
+    },
+    {
+      "na": 6,
+      "start_frame": 221,
+      "end_frame": 255,
+      "source": "old_common_0_20",
+      "source_event_id": 86
+    },
+    {
+      "na": 6,
+      "start_frame": 305,
+      "end_frame": 334,
+      "source": "old_common_0_20",
+      "source_event_id": 87
+    },
+    {
+      "na": 6,
+      "start_frame": 364,
+      "end_frame": 374,
+      "source": "old_common_0_20",
+      "source_event_id": 88
+    },
+    {
+      "na": 6,
+      "start_frame": 615,
+      "end_frame": 641,
+      "source": "old_common_0_20",
+      "source_event_id": 89
+    },
+    {
+      "na": 6,
+      "start_frame": 703,
+      "end_frame": 713,
+      "source": "old_common_0_20",
+      "source_event_id": 90
+    },
+    {
+      "na": 6,
+      "start_frame": 829,
+      "end_frame": 839,
+      "source": "old_common_0_20",
+      "source_event_id": 91
+    },
+    {
+      "na": 7,
+      "start_frame": 57,
+      "end_frame": 69,
+      "source": "old_common_0_20",
+      "source_event_id": 92
+    },
+    {
+      "na": 7,
+      "start_frame": 86,
+      "end_frame": 96,
+      "source": "old_common_0_20",
+      "source_event_id": 93
+    },
+    {
+      "na": 7,
+      "start_frame": 220,
+      "end_frame": 243,
+      "source": "old_common_0_20",
+      "source_event_id": 94
+    },
+    {
+      "na": 7,
+      "start_frame": 248,
+      "end_frame": 264,
+      "source": "old_common_0_20",
+      "source_event_id": 95
+    },
+    {
+      "na": 7,
+      "start_frame": 304,
+      "end_frame": 327,
+      "source": "old_common_0_20",
+      "source_event_id": 96
+    },
+    {
+      "na": 7,
+      "start_frame": 407,
+      "end_frame": 419,
+      "source": "old_common_0_20",
+      "source_event_id": 97
+    },
+    {
+      "na": 7,
+      "start_frame": 481,
+      "end_frame": 495,
+      "source": "old_common_0_20",
+      "source_event_id": 98
+    },
+    {
+      "na": 7,
+      "start_frame": 528,
+      "end_frame": 543,
+      "source": "old_common_0_20",
+      "source_event_id": 99
+    },
+    {
+      "na": 7,
+      "start_frame": 570,
+      "end_frame": 597,
+      "source": "old_common_0_20",
+      "source_event_id": 100
+    },
+    {
+      "na": 7,
+      "start_frame": 609,
+      "end_frame": 625,
+      "source": "old_common_0_20",
+      "source_event_id": 101
+    },
+    {
+      "na": 7,
+      "start_frame": 641,
+      "end_frame": 656,
+      "source": "old_common_0_20",
+      "source_event_id": 102
+    },
+    {
+      "na": 7,
+      "start_frame": 722,
+      "end_frame": 753,
+      "source": "old_common_0_20",
+      "source_event_id": 103
+    },
+    {
+      "na": 7,
+      "start_frame": 771,
+      "end_frame": 793,
+      "source": "old_common_0_20",
+      "source_event_id": 104
+    },
+    {
+      "na": 7,
+      "start_frame": 896,
+      "end_frame": 906,
+      "source": "old_common_0_20",
+      "source_event_id": 105
+    },
+    {
+      "na": 7,
+      "start_frame": 931,
+      "end_frame": 943,
+      "source": "old_common_0_20",
+      "source_event_id": 106
+    },
+    {
+      "na": 7,
+      "start_frame": 984,
+      "end_frame": 995,
+      "source": "old_common_0_20",
+      "source_event_id": 107
+    },
+    {
+      "na": 8,
+      "start_frame": 48,
+      "end_frame": 72,
+      "source": "old_common_0_20",
+      "source_event_id": 108
+    },
+    {
+      "na": 8,
+      "start_frame": 237,
+      "end_frame": 248,
+      "source": "old_common_0_20",
+      "source_event_id": 109
+    },
+    {
+      "na": 8,
+      "start_frame": 263,
+      "end_frame": 279,
+      "source": "old_common_0_20",
+      "source_event_id": 110
+    },
+    {
+      "na": 8,
+      "start_frame": 300,
+      "end_frame": 312,
+      "source": "old_common_0_20",
+      "source_event_id": 111
+    },
+    {
+      "na": 8,
+      "start_frame": 457,
+      "end_frame": 470,
+      "source": "old_common_0_20",
+      "source_event_id": 112
+    },
+    {
+      "na": 8,
+      "start_frame": 516,
+      "end_frame": 526,
+      "source": "old_common_0_20",
+      "source_event_id": 113
+    },
+    {
+      "na": 8,
+      "start_frame": 571,
+      "end_frame": 592,
+      "source": "old_common_0_20",
+      "source_event_id": 114
+    },
+    {
+      "na": 8,
+      "start_frame": 644,
+      "end_frame": 667,
+      "source": "old_common_0_20",
+      "source_event_id": 115
+    },
+    {
+      "na": 8,
+      "start_frame": 702,
+      "end_frame": 714,
+      "source": "old_common_0_20",
+      "source_event_id": 116
+    },
+    {
+      "na": 8,
+      "start_frame": 715,
+      "end_frame": 725,
+      "source": "old_common_0_20",
+      "source_event_id": 117
+    },
+    {
+      "na": 8,
+      "start_frame": 777,
+      "end_frame": 789,
+      "source": "old_common_0_20",
+      "source_event_id": 118
+    },
+    {
+      "na": 8,
+      "start_frame": 809,
+      "end_frame": 822,
+      "source": "old_common_0_20",
+      "source_event_id": 119
+    },
+    {
+      "na": 8,
+      "start_frame": 863,
+      "end_frame": 879,
+      "source": "old_common_0_20",
+      "source_event_id": 120
+    },
+    {
+      "na": 8,
+      "start_frame": 905,
+      "end_frame": 915,
+      "source": "old_common_0_20",
+      "source_event_id": 121
+    },
+    {
+      "na": 9,
+      "start_frame": 53,
+      "end_frame": 63,
+      "source": "old_common_0_20",
+      "source_event_id": 122
+    },
+    {
+      "na": 9,
+      "start_frame": 110,
+      "end_frame": 126,
+      "source": "old_common_0_20",
+      "source_event_id": 123
+    },
+    {
+      "na": 9,
+      "start_frame": 214,
+      "end_frame": 228,
+      "source": "old_common_0_20",
+      "source_event_id": 124
+    },
+    {
+      "na": 9,
+      "start_frame": 314,
+      "end_frame": 325,
+      "source": "old_common_0_20",
+      "source_event_id": 125
+    },
+    {
+      "na": 9,
+      "start_frame": 379,
+      "end_frame": 391,
+      "source": "old_common_0_20",
+      "source_event_id": 126
+    },
+    {
+      "na": 9,
+      "start_frame": 406,
+      "end_frame": 419,
+      "source": "old_common_0_20",
+      "source_event_id": 127
+    },
+    {
+      "na": 9,
+      "start_frame": 428,
+      "end_frame": 438,
+      "source": "old_common_0_20",
+      "source_event_id": 128
+    },
+    {
+      "na": 9,
+      "start_frame": 467,
+      "end_frame": 477,
+      "source": "old_common_0_20",
+      "source_event_id": 129
+    },
+    {
+      "na": 9,
+      "start_frame": 486,
+      "end_frame": 513,
+      "source": "old_common_0_20",
+      "source_event_id": 130
+    },
+    {
+      "na": 9,
+      "start_frame": 641,
+      "end_frame": 674,
+      "source": "old_common_0_20",
+      "source_event_id": 131
+    },
+    {
+      "na": 9,
+      "start_frame": 934,
+      "end_frame": 945,
+      "source": "old_common_0_20",
+      "source_event_id": 132
+    },
+    {
+      "na": 10,
+      "start_frame": 4,
+      "end_frame": 48,
+      "source": "old_common_0_20",
+      "source_event_id": 133
+    },
+    {
+      "na": 10,
+      "start_frame": 98,
+      "end_frame": 109,
+      "source": "old_common_0_20",
+      "source_event_id": 134
+    },
+    {
+      "na": 10,
+      "start_frame": 162,
+      "end_frame": 172,
+      "source": "old_common_0_20",
+      "source_event_id": 135
+    },
+    {
+      "na": 10,
+      "start_frame": 241,
+      "end_frame": 253,
+      "source": "old_common_0_20",
+      "source_event_id": 136
+    },
+    {
+      "na": 10,
+      "start_frame": 389,
+      "end_frame": 399,
+      "source": "old_common_0_20",
+      "source_event_id": 137
+    },
+    {
+      "na": 10,
+      "start_frame": 408,
+      "end_frame": 418,
+      "source": "old_common_0_20",
+      "source_event_id": 138
+    },
+    {
+      "na": 10,
+      "start_frame": 561,
+      "end_frame": 572,
+      "source": "old_common_0_20",
+      "source_event_id": 139
+    },
+    {
+      "na": 10,
+      "start_frame": 886,
+      "end_frame": 896,
+      "source": "old_common_0_20",
+      "source_event_id": 140
+    },
+    {
+      "na": 10,
+      "start_frame": 969,
+      "end_frame": 980,
+      "source": "old_common_0_20",
+      "source_event_id": 141
+    },
+    {
+      "na": 11,
+      "start_frame": 5,
+      "end_frame": 17,
+      "source": "old_common_0_20",
+      "source_event_id": 142
+    },
+    {
+      "na": 11,
+      "start_frame": 156,
+      "end_frame": 167,
+      "source": "old_common_0_20",
+      "source_event_id": 143
+    },
+    {
+      "na": 11,
+      "start_frame": 286,
+      "end_frame": 298,
+      "source": "old_common_0_20",
+      "source_event_id": 144
+    },
+    {
+      "na": 11,
+      "start_frame": 468,
+      "end_frame": 478,
+      "source": "old_common_0_20",
+      "source_event_id": 145
+    },
+    {
+      "na": 11,
+      "start_frame": 550,
+      "end_frame": 560,
+      "source": "old_common_0_20",
+      "source_event_id": 146
+    },
+    {
+      "na": 11,
+      "start_frame": 654,
+      "end_frame": 664,
+      "source": "old_common_0_20",
+      "source_event_id": 147
+    },
+    {
+      "na": 11,
+      "start_frame": 914,
+      "end_frame": 937,
+      "source": "old_common_0_20",
+      "source_event_id": 148
+    },
+    {
+      "na": 11,
+      "start_frame": 968,
+      "end_frame": 981,
+      "source": "old_common_0_20",
+      "source_event_id": 149
+    },
+    {
+      "na": 12,
+      "start_frame": 62,
+      "end_frame": 74,
+      "source": "old_common_0_20",
+      "source_event_id": 150
+    },
+    {
+      "na": 12,
+      "start_frame": 98,
+      "end_frame": 121,
+      "source": "old_common_0_20",
+      "source_event_id": 151
+    },
+    {
+      "na": 12,
+      "start_frame": 193,
+      "end_frame": 212,
+      "source": "old_common_0_20",
+      "source_event_id": 152
+    },
+    {
+      "na": 12,
+      "start_frame": 258,
+      "end_frame": 271,
+      "source": "old_common_0_20",
+      "source_event_id": 153
+    },
+    {
+      "na": 12,
+      "start_frame": 443,
+      "end_frame": 463,
+      "source": "old_common_0_20",
+      "source_event_id": 154
+    },
+    {
+      "na": 12,
+      "start_frame": 472,
+      "end_frame": 482,
+      "source": "old_common_0_20",
+      "source_event_id": 155
+    },
+    {
+      "na": 12,
+      "start_frame": 569,
+      "end_frame": 580,
+      "source": "old_common_0_20",
+      "source_event_id": 156
+    },
+    {
+      "na": 12,
+      "start_frame": 614,
+      "end_frame": 638,
+      "source": "old_common_0_20",
+      "source_event_id": 157
+    },
+    {
+      "na": 12,
+      "start_frame": 725,
+      "end_frame": 736,
+      "source": "old_common_0_20",
+      "source_event_id": 158
+    },
+    {
+      "na": 12,
+      "start_frame": 788,
+      "end_frame": 798,
+      "source": "old_common_0_20",
+      "source_event_id": 159
+    },
+    {
+      "na": 12,
+      "start_frame": 843,
+      "end_frame": 853,
+      "source": "old_common_0_20",
+      "source_event_id": 160
+    },
+    {
+      "na": 12,
+      "start_frame": 918,
+      "end_frame": 928,
+      "source": "old_common_0_20",
+      "source_event_id": 161
+    },
+    {
+      "na": 13,
+      "start_frame": 51,
+      "end_frame": 62,
+      "source": "old_common_0_20",
+      "source_event_id": 162
+    },
+    {
+      "na": 13,
+      "start_frame": 113,
+      "end_frame": 126,
+      "source": "old_common_0_20",
+      "source_event_id": 163
+    },
+    {
+      "na": 13,
+      "start_frame": 234,
+      "end_frame": 246,
+      "source": "old_common_0_20",
+      "source_event_id": 164
+    },
+    {
+      "na": 13,
+      "start_frame": 304,
+      "end_frame": 322,
+      "source": "old_common_0_20",
+      "source_event_id": 165
+    },
+    {
+      "na": 13,
+      "start_frame": 445,
+      "end_frame": 468,
+      "source": "old_common_0_20",
+      "source_event_id": 166
+    },
+    {
+      "na": 13,
+      "start_frame": 515,
+      "end_frame": 525,
+      "source": "old_common_0_20",
+      "source_event_id": 167
+    },
+    {
+      "na": 13,
+      "start_frame": 721,
+      "end_frame": 733,
+      "source": "old_common_0_20",
+      "source_event_id": 168
+    },
+    {
+      "na": 13,
+      "start_frame": 798,
+      "end_frame": 810,
+      "source": "old_common_0_20",
+      "source_event_id": 169
+    },
+    {
+      "na": 14,
+      "start_frame": 18,
+      "end_frame": 40,
+      "source": "old_common_0_20",
+      "source_event_id": 170
+    },
+    {
+      "na": 14,
+      "start_frame": 82,
+      "end_frame": 93,
+      "source": "old_common_0_20",
+      "source_event_id": 171
+    },
+    {
+      "na": 14,
+      "start_frame": 113,
+      "end_frame": 124,
+      "source": "old_common_0_20",
+      "source_event_id": 172
+    },
+    {
+      "na": 14,
+      "start_frame": 133,
+      "end_frame": 153,
+      "source": "old_common_0_20",
+      "source_event_id": 173
+    },
+    {
+      "na": 14,
+      "start_frame": 204,
+      "end_frame": 214,
+      "source": "old_common_0_20",
+      "source_event_id": 174
+    },
+    {
+      "na": 14,
+      "start_frame": 320,
+      "end_frame": 343,
+      "source": "old_common_0_20",
+      "source_event_id": 175
+    },
+    {
+      "na": 14,
+      "start_frame": 389,
+      "end_frame": 402,
+      "source": "old_common_0_20",
+      "source_event_id": 176
+    },
+    {
+      "na": 14,
+      "start_frame": 439,
+      "end_frame": 449,
+      "source": "old_common_0_20",
+      "source_event_id": 177
+    },
+    {
+      "na": 14,
+      "start_frame": 452,
+      "end_frame": 462,
+      "source": "old_common_0_20",
+      "source_event_id": 178
+    },
+    {
+      "na": 14,
+      "start_frame": 517,
+      "end_frame": 528,
+      "source": "old_common_0_20",
+      "source_event_id": 179
+    },
+    {
+      "na": 14,
+      "start_frame": 615,
+      "end_frame": 629,
+      "source": "old_common_0_20",
+      "source_event_id": 180
+    },
+    {
+      "na": 14,
+      "start_frame": 688,
+      "end_frame": 708,
+      "source": "old_common_0_20",
+      "source_event_id": 181
+    },
+    {
+      "na": 14,
+      "start_frame": 726,
+      "end_frame": 748,
+      "source": "old_common_0_20",
+      "source_event_id": 182
+    },
+    {
+      "na": 14,
+      "start_frame": 786,
+      "end_frame": 800,
+      "source": "old_common_0_20",
+      "source_event_id": 183
+    },
+    {
+      "na": 15,
+      "start_frame": 212,
+      "end_frame": 222,
+      "source": "old_common_0_20",
+      "source_event_id": 184
+    },
+    {
+      "na": 15,
+      "start_frame": 232,
+      "end_frame": 244,
+      "source": "old_common_0_20",
+      "source_event_id": 185
+    },
+    {
+      "na": 15,
+      "start_frame": 271,
+      "end_frame": 283,
+      "source": "old_common_0_20",
+      "source_event_id": 186
+    },
+    {
+      "na": 15,
+      "start_frame": 358,
+      "end_frame": 368,
+      "source": "old_common_0_20",
+      "source_event_id": 187
+    },
+    {
+      "na": 15,
+      "start_frame": 501,
+      "end_frame": 514,
+      "source": "old_common_0_20",
+      "source_event_id": 188
+    },
+    {
+      "na": 15,
+      "start_frame": 523,
+      "end_frame": 535,
+      "source": "old_common_0_20",
+      "source_event_id": 189
+    },
+    {
+      "na": 15,
+      "start_frame": 568,
+      "end_frame": 583,
+      "source": "old_common_0_20",
+      "source_event_id": 190
+    },
+    {
+      "na": 15,
+      "start_frame": 615,
+      "end_frame": 626,
+      "source": "old_common_0_20",
+      "source_event_id": 191
+    },
+    {
+      "na": 15,
+      "start_frame": 638,
+      "end_frame": 657,
+      "source": "old_common_0_20",
+      "source_event_id": 192
+    },
+    {
+      "na": 15,
+      "start_frame": 800,
+      "end_frame": 811,
+      "source": "old_common_0_20",
+      "source_event_id": 193
+    },
+    {
+      "na": 15,
+      "start_frame": 822,
+      "end_frame": 834,
+      "source": "old_common_0_20",
+      "source_event_id": 194
+    },
+    {
+      "na": 15,
+      "start_frame": 837,
+      "end_frame": 849,
+      "source": "old_common_0_20",
+      "source_event_id": 195
+    },
+    {
+      "na": 15,
+      "start_frame": 872,
+      "end_frame": 882,
+      "source": "old_common_0_20",
+      "source_event_id": 196
+    },
+    {
+      "na": 15,
+      "start_frame": 894,
+      "end_frame": 911,
+      "source": "old_common_0_20",
+      "source_event_id": 197
+    },
+    {
+      "na": 16,
+      "start_frame": 47,
+      "end_frame": 62,
+      "source": "old_common_0_20",
+      "source_event_id": 198
+    },
+    {
+      "na": 16,
+      "start_frame": 64,
+      "end_frame": 84,
+      "source": "old_common_0_20",
+      "source_event_id": 199
+    },
+    {
+      "na": 16,
+      "start_frame": 92,
+      "end_frame": 104,
+      "source": "old_common_0_20",
+      "source_event_id": 200
+    },
+    {
+      "na": 16,
+      "start_frame": 111,
+      "end_frame": 128,
+      "source": "old_common_0_20",
+      "source_event_id": 201
+    },
+    {
+      "na": 16,
+      "start_frame": 160,
+      "end_frame": 174,
+      "source": "old_common_0_20",
+      "source_event_id": 202
+    },
+    {
+      "na": 16,
+      "start_frame": 196,
+      "end_frame": 209,
+      "source": "old_common_0_20",
+      "source_event_id": 203
+    },
+    {
+      "na": 16,
+      "start_frame": 265,
+      "end_frame": 276,
+      "source": "old_common_0_20",
+      "source_event_id": 204
+    },
+    {
+      "na": 16,
+      "start_frame": 290,
+      "end_frame": 306,
+      "source": "old_common_0_20",
+      "source_event_id": 205
+    },
+    {
+      "na": 16,
+      "start_frame": 312,
+      "end_frame": 326,
+      "source": "old_common_0_20",
+      "source_event_id": 206
+    },
+    {
+      "na": 16,
+      "start_frame": 357,
+      "end_frame": 368,
+      "source": "old_common_0_20",
+      "source_event_id": 207
+    },
+    {
+      "na": 16,
+      "start_frame": 371,
+      "end_frame": 394,
+      "source": "old_common_0_20",
+      "source_event_id": 208
+    },
+    {
+      "na": 16,
+      "start_frame": 443,
+      "end_frame": 455,
+      "source": "old_common_0_20",
+      "source_event_id": 209
+    },
+    {
+      "na": 16,
+      "start_frame": 462,
+      "end_frame": 482,
+      "source": "old_common_0_20",
+      "source_event_id": 210
+    },
+    {
+      "na": 16,
+      "start_frame": 517,
+      "end_frame": 528,
+      "source": "old_common_0_20",
+      "source_event_id": 211
+    },
+    {
+      "na": 16,
+      "start_frame": 533,
+      "end_frame": 561,
+      "source": "old_common_0_20",
+      "source_event_id": 212
+    },
+    {
+      "na": 16,
+      "start_frame": 613,
+      "end_frame": 626,
+      "source": "old_common_0_20",
+      "source_event_id": 213
+    },
+    {
+      "na": 16,
+      "start_frame": 628,
+      "end_frame": 643,
+      "source": "old_common_0_20",
+      "source_event_id": 214
+    },
+    {
+      "na": 16,
+      "start_frame": 680,
+      "end_frame": 691,
+      "source": "old_common_0_20",
+      "source_event_id": 215
+    },
+    {
+      "na": 16,
+      "start_frame": 779,
+      "end_frame": 789,
+      "source": "old_common_0_20",
+      "source_event_id": 216
+    },
+    {
+      "na": 16,
+      "start_frame": 793,
+      "end_frame": 805,
+      "source": "old_common_0_20",
+      "source_event_id": 217
+    },
+    {
+      "na": 16,
+      "start_frame": 818,
+      "end_frame": 833,
+      "source": "old_common_0_20",
+      "source_event_id": 218
+    },
+    {
+      "na": 16,
+      "start_frame": 890,
+      "end_frame": 903,
+      "source": "old_common_0_20",
+      "source_event_id": 219
+    },
+    {
+      "na": 17,
+      "start_frame": 330,
+      "end_frame": 341,
+      "source": "old_common_0_20",
+      "source_event_id": 220
+    },
+    {
+      "na": 17,
+      "start_frame": 389,
+      "end_frame": 400,
+      "source": "old_common_0_20",
+      "source_event_id": 221
+    },
+    {
+      "na": 17,
+      "start_frame": 446,
+      "end_frame": 459,
+      "source": "old_common_0_20",
+      "source_event_id": 222
+    },
+    {
+      "na": 17,
+      "start_frame": 470,
+      "end_frame": 508,
+      "source": "old_common_0_20",
+      "source_event_id": 223
+    },
+    {
+      "na": 17,
+      "start_frame": 522,
+      "end_frame": 536,
+      "source": "old_common_0_20",
+      "source_event_id": 224
+    },
+    {
+      "na": 17,
+      "start_frame": 559,
+      "end_frame": 569,
+      "source": "old_common_0_20",
+      "source_event_id": 225
+    },
+    {
+      "na": 17,
+      "start_frame": 608,
+      "end_frame": 627,
+      "source": "old_common_0_20",
+      "source_event_id": 226
+    },
+    {
+      "na": 17,
+      "start_frame": 635,
+      "end_frame": 649,
+      "source": "old_common_0_20",
+      "source_event_id": 227
+    },
+    {
+      "na": 17,
+      "start_frame": 689,
+      "end_frame": 702,
+      "source": "old_common_0_20",
+      "source_event_id": 228
+    },
+    {
+      "na": 17,
+      "start_frame": 731,
+      "end_frame": 742,
+      "source": "old_common_0_20",
+      "source_event_id": 229
+    },
+    {
+      "na": 17,
+      "start_frame": 838,
+      "end_frame": 852,
+      "source": "old_common_0_20",
+      "source_event_id": 230
+    },
+    {
+      "na": 17,
+      "start_frame": 959,
+      "end_frame": 974,
+      "source": "old_common_0_20",
+      "source_event_id": 231
+    },
+    {
+      "na": 17,
+      "start_frame": 978,
+      "end_frame": 990,
+      "source": "old_common_0_20",
+      "source_event_id": 232
+    },
+    {
+      "na": 18,
+      "start_frame": 17,
+      "end_frame": 30,
+      "source": "old_common_0_20",
+      "source_event_id": 233
+    },
+    {
+      "na": 18,
+      "start_frame": 59,
+      "end_frame": 71,
+      "source": "old_common_0_20",
+      "source_event_id": 234
+    },
+    {
+      "na": 18,
+      "start_frame": 77,
+      "end_frame": 90,
+      "source": "old_common_0_20",
+      "source_event_id": 235
+    },
+    {
+      "na": 18,
+      "start_frame": 165,
+      "end_frame": 178,
+      "source": "old_common_0_20",
+      "source_event_id": 236
+    },
+    {
+      "na": 18,
+      "start_frame": 184,
+      "end_frame": 216,
+      "source": "old_common_0_20",
+      "source_event_id": 237
+    },
+    {
+      "na": 18,
+      "start_frame": 217,
+      "end_frame": 227,
+      "source": "old_common_0_20",
+      "source_event_id": 238
+    },
+    {
+      "na": 18,
+      "start_frame": 288,
+      "end_frame": 304,
+      "source": "old_common_0_20",
+      "source_event_id": 239
+    },
+    {
+      "na": 18,
+      "start_frame": 530,
+      "end_frame": 545,
+      "source": "old_common_0_20",
+      "source_event_id": 240
+    },
+    {
+      "na": 18,
+      "start_frame": 560,
+      "end_frame": 580,
+      "source": "old_common_0_20",
+      "source_event_id": 241
+    },
+    {
+      "na": 18,
+      "start_frame": 624,
+      "end_frame": 641,
+      "source": "old_common_0_20",
+      "source_event_id": 242
+    },
+    {
+      "na": 18,
+      "start_frame": 646,
+      "end_frame": 669,
+      "source": "old_common_0_20",
+      "source_event_id": 243
+    },
+    {
+      "na": 18,
+      "start_frame": 681,
+      "end_frame": 708,
+      "source": "old_common_0_20",
+      "source_event_id": 244
+    },
+    {
+      "na": 18,
+      "start_frame": 822,
+      "end_frame": 838,
+      "source": "old_common_0_20",
+      "source_event_id": 245
+    },
+    {
+      "na": 18,
+      "start_frame": 922,
+      "end_frame": 933,
+      "source": "old_common_0_20",
+      "source_event_id": 246
+    },
+    {
+      "na": 18,
+      "start_frame": 949,
+      "end_frame": 974,
+      "source": "old_common_0_20",
+      "source_event_id": 247
+    },
+    {
+      "na": 19,
+      "start_frame": 4,
+      "end_frame": 14,
+      "source": "old_common_0_20",
+      "source_event_id": 248
+    },
+    {
+      "na": 19,
+      "start_frame": 28,
+      "end_frame": 39,
+      "source": "old_common_0_20",
+      "source_event_id": 249
+    },
+    {
+      "na": 19,
+      "start_frame": 87,
+      "end_frame": 97,
+      "source": "old_common_0_20",
+      "source_event_id": 250
+    },
+    {
+      "na": 19,
+      "start_frame": 121,
+      "end_frame": 138,
+      "source": "old_common_0_20",
+      "source_event_id": 251
+    },
+    {
+      "na": 19,
+      "start_frame": 173,
+      "end_frame": 187,
+      "source": "old_common_0_20",
+      "source_event_id": 252
+    },
+    {
+      "na": 19,
+      "start_frame": 232,
+      "end_frame": 248,
+      "source": "old_common_0_20",
+      "source_event_id": 253
+    },
+    {
+      "na": 19,
+      "start_frame": 275,
+      "end_frame": 291,
+      "source": "old_common_0_20",
+      "source_event_id": 254
+    },
+    {
+      "na": 19,
+      "start_frame": 300,
+      "end_frame": 313,
+      "source": "old_common_0_20",
+      "source_event_id": 255
+    },
+    {
+      "na": 19,
+      "start_frame": 348,
+      "end_frame": 361,
+      "source": "old_common_0_20",
+      "source_event_id": 256
+    },
+    {
+      "na": 19,
+      "start_frame": 372,
+      "end_frame": 383,
+      "source": "old_common_0_20",
+      "source_event_id": 257
+    },
+    {
+      "na": 19,
+      "start_frame": 486,
+      "end_frame": 500,
+      "source": "old_common_0_20",
+      "source_event_id": 258
+    },
+    {
+      "na": 19,
+      "start_frame": 505,
+      "end_frame": 518,
+      "source": "old_common_0_20",
+      "source_event_id": 259
+    },
+    {
+      "na": 19,
+      "start_frame": 541,
+      "end_frame": 555,
+      "source": "old_common_0_20",
+      "source_event_id": 260
+    },
+    {
+      "na": 19,
+      "start_frame": 561,
+      "end_frame": 576,
+      "source": "old_common_0_20",
+      "source_event_id": 261
+    },
+    {
+      "na": 19,
+      "start_frame": 756,
+      "end_frame": 766,
+      "source": "old_common_0_20",
+      "source_event_id": 262
+    },
+    {
+      "na": 19,
+      "start_frame": 824,
+      "end_frame": 835,
+      "source": "old_common_0_20",
+      "source_event_id": 263
+    },
+    {
+      "na": 19,
+      "start_frame": 843,
+      "end_frame": 873,
+      "source": "old_common_0_20",
+      "source_event_id": 264
+    },
+    {
+      "na": 19,
+      "start_frame": 901,
+      "end_frame": 915,
+      "source": "old_common_0_20",
+      "source_event_id": 265
+    },
+    {
+      "na": 19,
+      "start_frame": 982,
+      "end_frame": 994,
+      "source": "old_common_0_20",
+      "source_event_id": 266
+    },
+    {
+      "na": 20,
+      "start_frame": 14,
+      "end_frame": 26,
+      "source": "old_common_0_20",
+      "source_event_id": 267
+    },
+    {
+      "na": 20,
+      "start_frame": 32,
+      "end_frame": 78,
+      "source": "old_common_0_20",
+      "source_event_id": 268
+    },
+    {
+      "na": 20,
+      "start_frame": 96,
+      "end_frame": 109,
+      "source": "old_common_0_20",
+      "source_event_id": 269
+    },
+    {
+      "na": 20,
+      "start_frame": 126,
+      "end_frame": 138,
+      "source": "old_common_0_20",
+      "source_event_id": 270
+    },
+    {
+      "na": 20,
+      "start_frame": 253,
+      "end_frame": 265,
+      "source": "old_common_0_20",
+      "source_event_id": 271
+    },
+    {
+      "na": 20,
+      "start_frame": 285,
+      "end_frame": 317,
+      "source": "old_common_0_20",
+      "source_event_id": 272
+    },
+    {
+      "na": 20,
+      "start_frame": 364,
+      "end_frame": 375,
+      "source": "old_common_0_20",
+      "source_event_id": 273
+    },
+    {
+      "na": 20,
+      "start_frame": 470,
+      "end_frame": 481,
+      "source": "old_common_0_20",
+      "source_event_id": 274
+    },
+    {
+      "na": 20,
+      "start_frame": 519,
+      "end_frame": 533,
+      "source": "old_common_0_20",
+      "source_event_id": 275
+    },
+    {
+      "na": 20,
+      "start_frame": 554,
+      "end_frame": 566,
+      "source": "old_common_0_20",
+      "source_event_id": 276
+    },
+    {
+      "na": 20,
+      "start_frame": 632,
+      "end_frame": 643,
+      "source": "old_common_0_20",
+      "source_event_id": 277
+    },
+    {
+      "na": 20,
+      "start_frame": 691,
+      "end_frame": 711,
+      "source": "old_common_0_20",
+      "source_event_id": 278
+    },
+    {
+      "na": 20,
+      "start_frame": 884,
+      "end_frame": 897,
+      "source": "old_common_0_20",
+      "source_event_id": 279
+    },
+    {
+      "na": 20,
+      "start_frame": 947,
+      "end_frame": 961,
+      "source": "old_common_0_20",
+      "source_event_id": 280
+    },
+    {
+      "na": 21,
+      "start_frame": 58,
+      "end_frame": 70,
+      "source": "old_common_0_20",
+      "source_event_id": 281
+    },
+    {
+      "na": 21,
+      "start_frame": 158,
+      "end_frame": 171,
+      "source": "old_common_0_20",
+      "source_event_id": 282
+    },
+    {
+      "na": 21,
+      "start_frame": 188,
+      "end_frame": 202,
+      "source": "old_common_0_20",
+      "source_event_id": 283
+    },
+    {
+      "na": 21,
+      "start_frame": 220,
+      "end_frame": 233,
+      "source": "old_common_0_20",
+      "source_event_id": 284
+    },
+    {
+      "na": 21,
+      "start_frame": 369,
+      "end_frame": 404,
+      "source": "old_common_0_20",
+      "source_event_id": 285
+    },
+    {
+      "na": 21,
+      "start_frame": 428,
+      "end_frame": 480,
+      "source": "old_common_0_20",
+      "source_event_id": 286
+    },
+    {
+      "na": 21,
+      "start_frame": 535,
+      "end_frame": 546,
+      "source": "old_common_0_20",
+      "source_event_id": 287
+    },
+    {
+      "na": 21,
+      "start_frame": 596,
+      "end_frame": 609,
+      "source": "old_common_0_20",
+      "source_event_id": 288
+    },
+    {
+      "na": 21,
+      "start_frame": 696,
+      "end_frame": 706,
+      "source": "old_common_0_20",
+      "source_event_id": 289
+    },
+    {
+      "na": 21,
+      "start_frame": 762,
+      "end_frame": 773,
+      "source": "old_common_0_20",
+      "source_event_id": 290
+    },
+    {
+      "na": 21,
+      "start_frame": 816,
+      "end_frame": 831,
+      "source": "old_common_0_20",
+      "source_event_id": 291
+    },
+    {
+      "na": 21,
+      "start_frame": 868,
+      "end_frame": 879,
+      "source": "old_common_0_20",
+      "source_event_id": 292
+    },
+    {
+      "na": 21,
+      "start_frame": 889,
+      "end_frame": 907,
+      "source": "old_common_0_20",
+      "source_event_id": 293
+    },
+    {
+      "na": 21,
+      "start_frame": 944,
+      "end_frame": 956,
+      "source": "old_common_0_20",
+      "source_event_id": 294
+    },
+    {
+      "na": 21,
+      "start_frame": 961,
+      "end_frame": 973,
+      "source": "old_common_0_20",
+      "source_event_id": 295
+    },
+    {
+      "na": 22,
+      "start_frame": 13,
+      "end_frame": 36,
+      "source": "old_common_0_20",
+      "source_event_id": 296
+    },
+    {
+      "na": 22,
+      "start_frame": 92,
+      "end_frame": 103,
+      "source": "old_common_0_20",
+      "source_event_id": 297
+    },
+    {
+      "na": 22,
+      "start_frame": 198,
+      "end_frame": 208,
+      "source": "old_common_0_20",
+      "source_event_id": 298
+    },
+    {
+      "na": 22,
+      "start_frame": 229,
+      "end_frame": 241,
+      "source": "old_common_0_20",
+      "source_event_id": 299
+    },
+    {
+      "na": 22,
+      "start_frame": 267,
+      "end_frame": 278,
+      "source": "old_common_0_20",
+      "source_event_id": 300
+    },
+    {
+      "na": 22,
+      "start_frame": 337,
+      "end_frame": 350,
+      "source": "old_common_0_20",
+      "source_event_id": 301
+    },
+    {
+      "na": 22,
+      "start_frame": 400,
+      "end_frame": 411,
+      "source": "old_common_0_20",
+      "source_event_id": 302
+    },
+    {
+      "na": 22,
+      "start_frame": 602,
+      "end_frame": 627,
+      "source": "old_common_0_20",
+      "source_event_id": 303
+    },
+    {
+      "na": 22,
+      "start_frame": 641,
+      "end_frame": 652,
+      "source": "old_common_0_20",
+      "source_event_id": 304
+    },
+    {
+      "na": 22,
+      "start_frame": 686,
+      "end_frame": 700,
+      "source": "old_common_0_20",
+      "source_event_id": 305
+    },
+    {
+      "na": 22,
+      "start_frame": 733,
+      "end_frame": 745,
+      "source": "old_common_0_20",
+      "source_event_id": 306
+    },
+    {
+      "na": 22,
+      "start_frame": 747,
+      "end_frame": 759,
+      "source": "old_common_0_20",
+      "source_event_id": 307
+    },
+    {
+      "na": 22,
+      "start_frame": 780,
+      "end_frame": 790,
+      "source": "old_common_0_20",
+      "source_event_id": 308
+    },
+    {
+      "na": 22,
+      "start_frame": 814,
+      "end_frame": 837,
+      "source": "old_common_0_20",
+      "source_event_id": 309
+    },
+    {
+      "na": 22,
+      "start_frame": 902,
+      "end_frame": 924,
+      "source": "old_common_0_20",
+      "source_event_id": 310
+    },
+    {
+      "na": 23,
+      "start_frame": 100,
+      "end_frame": 111,
+      "source": "old_common_0_20",
+      "source_event_id": 311
+    },
+    {
+      "na": 23,
+      "start_frame": 257,
+      "end_frame": 268,
+      "source": "old_common_0_20",
+      "source_event_id": 312
+    },
+    {
+      "na": 23,
+      "start_frame": 293,
+      "end_frame": 303,
+      "source": "old_common_0_20",
+      "source_event_id": 313
+    },
+    {
+      "na": 23,
+      "start_frame": 311,
+      "end_frame": 322,
+      "source": "old_common_0_20",
+      "source_event_id": 314
+    },
+    {
+      "na": 23,
+      "start_frame": 368,
+      "end_frame": 379,
+      "source": "old_common_0_20",
+      "source_event_id": 315
+    },
+    {
+      "na": 23,
+      "start_frame": 429,
+      "end_frame": 441,
+      "source": "old_common_0_20",
+      "source_event_id": 316
+    },
+    {
+      "na": 23,
+      "start_frame": 447,
+      "end_frame": 469,
+      "source": "old_common_0_20",
+      "source_event_id": 317
+    },
+    {
+      "na": 23,
+      "start_frame": 527,
+      "end_frame": 539,
+      "source": "old_common_0_20",
+      "source_event_id": 318
+    },
+    {
+      "na": 23,
+      "start_frame": 574,
+      "end_frame": 585,
+      "source": "old_common_0_20",
+      "source_event_id": 319
+    },
+    {
+      "na": 23,
+      "start_frame": 643,
+      "end_frame": 664,
+      "source": "old_common_0_20",
+      "source_event_id": 320
+    },
+    {
+      "na": 23,
+      "start_frame": 695,
+      "end_frame": 709,
+      "source": "old_common_0_20",
+      "source_event_id": 321
+    },
+    {
+      "na": 23,
+      "start_frame": 710,
+      "end_frame": 723,
+      "source": "old_common_0_20",
+      "source_event_id": 322
+    },
+    {
+      "na": 23,
+      "start_frame": 873,
+      "end_frame": 883,
+      "source": "old_common_0_20",
+      "source_event_id": 323
+    },
+    {
+      "na": 23,
+      "start_frame": 889,
+      "end_frame": 901,
+      "source": "old_common_0_20",
+      "source_event_id": 324
+    },
+    {
+      "na": 0,
+      "start_frame": 30,
+      "end_frame": 52,
+      "source": "new_strict1000",
+      "source_event_id": 0
+    },
+    {
+      "na": 0,
+      "start_frame": 60,
+      "end_frame": 71,
+      "source": "new_strict1000",
+      "source_event_id": 1
+    },
+    {
+      "na": 0,
+      "start_frame": 80,
+      "end_frame": 90,
+      "source": "new_strict1000",
+      "source_event_id": 2
+    },
+    {
+      "na": 0,
+      "start_frame": 119,
+      "end_frame": 132,
+      "source": "new_strict1000",
+      "source_event_id": 3
+    },
+    {
+      "na": 0,
+      "start_frame": 154,
+      "end_frame": 164,
+      "source": "new_strict1000",
+      "source_event_id": 4
+    },
+    {
+      "na": 0,
+      "start_frame": 170,
+      "end_frame": 181,
+      "source": "new_strict1000",
+      "source_event_id": 5
+    },
+    {
+      "na": 0,
+      "start_frame": 279,
+      "end_frame": 289,
+      "source": "new_strict1000",
+      "source_event_id": 6
+    },
+    {
+      "na": 0,
+      "start_frame": 318,
+      "end_frame": 330,
+      "source": "new_strict1000",
+      "source_event_id": 7
+    },
+    {
+      "na": 0,
+      "start_frame": 353,
+      "end_frame": 375,
+      "source": "new_strict1000",
+      "source_event_id": 8
+    },
+    {
+      "na": 0,
+      "start_frame": 447,
+      "end_frame": 460,
+      "source": "new_strict1000",
+      "source_event_id": 9
+    },
+    {
+      "na": 0,
+      "start_frame": 606,
+      "end_frame": 616,
+      "source": "new_strict1000",
+      "source_event_id": 10
+    },
+    {
+      "na": 0,
+      "start_frame": 687,
+      "end_frame": 699,
+      "source": "new_strict1000",
+      "source_event_id": 11
+    },
+    {
+      "na": 0,
+      "start_frame": 710,
+      "end_frame": 720,
+      "source": "new_strict1000",
+      "source_event_id": 12
+    },
+    {
+      "na": 0,
+      "start_frame": 837,
+      "end_frame": 849,
+      "source": "new_strict1000",
+      "source_event_id": 13
+    },
+    {
+      "na": 0,
+      "start_frame": 859,
+      "end_frame": 875,
+      "source": "new_strict1000",
+      "source_event_id": 14
+    },
+    {
+      "na": 0,
+      "start_frame": 881,
+      "end_frame": 892,
+      "source": "new_strict1000",
+      "source_event_id": 15
+    },
+    {
+      "na": 0,
+      "start_frame": 945,
+      "end_frame": 957,
+      "source": "new_strict1000",
+      "source_event_id": 16
+    },
+    {
+      "na": 0,
+      "start_frame": 989,
+      "end_frame": 999,
+      "source": "new_strict1000",
+      "source_event_id": 17
+    },
+    {
+      "na": 1,
+      "start_frame": 361,
+      "end_frame": 371,
+      "source": "new_strict1000",
+      "source_event_id": 18
+    },
+    {
+      "na": 1,
+      "start_frame": 428,
+      "end_frame": 438,
+      "source": "new_strict1000",
+      "source_event_id": 19
+    },
+    {
+      "na": 1,
+      "start_frame": 450,
+      "end_frame": 469,
+      "source": "new_strict1000",
+      "source_event_id": 20
+    },
+    {
+      "na": 1,
+      "start_frame": 504,
+      "end_frame": 514,
+      "source": "new_strict1000",
+      "source_event_id": 21
+    },
+    {
+      "na": 1,
+      "start_frame": 532,
+      "end_frame": 545,
+      "source": "new_strict1000",
+      "source_event_id": 22
+    },
+    {
+      "na": 1,
+      "start_frame": 575,
+      "end_frame": 587,
+      "source": "new_strict1000",
+      "source_event_id": 23
+    },
+    {
+      "na": 1,
+      "start_frame": 633,
+      "end_frame": 643,
+      "source": "new_strict1000",
+      "source_event_id": 24
+    },
+    {
+      "na": 1,
+      "start_frame": 914,
+      "end_frame": 929,
+      "source": "new_strict1000",
+      "source_event_id": 25
+    },
+    {
+      "na": 1,
+      "start_frame": 981,
+      "end_frame": 994,
+      "source": "new_strict1000",
+      "source_event_id": 26
+    },
+    {
+      "na": 2,
+      "start_frame": 5,
+      "end_frame": 52,
+      "source": "new_strict1000",
+      "source_event_id": 27
+    },
+    {
+      "na": 2,
+      "start_frame": 99,
+      "end_frame": 111,
+      "source": "new_strict1000",
+      "source_event_id": 28
+    },
+    {
+      "na": 2,
+      "start_frame": 113,
+      "end_frame": 123,
+      "source": "new_strict1000",
+      "source_event_id": 29
+    },
+    {
+      "na": 2,
+      "start_frame": 238,
+      "end_frame": 248,
+      "source": "new_strict1000",
+      "source_event_id": 30
+    },
+    {
+      "na": 2,
+      "start_frame": 295,
+      "end_frame": 306,
+      "source": "new_strict1000",
+      "source_event_id": 31
+    },
+    {
+      "na": 2,
+      "start_frame": 362,
+      "end_frame": 372,
+      "source": "new_strict1000",
+      "source_event_id": 32
+    },
+    {
+      "na": 2,
+      "start_frame": 385,
+      "end_frame": 399,
+      "source": "new_strict1000",
+      "source_event_id": 33
+    },
+    {
+      "na": 2,
+      "start_frame": 410,
+      "end_frame": 421,
+      "source": "new_strict1000",
+      "source_event_id": 34
+    },
+    {
+      "na": 2,
+      "start_frame": 486,
+      "end_frame": 496,
+      "source": "new_strict1000",
+      "source_event_id": 35
+    },
+    {
+      "na": 2,
+      "start_frame": 528,
+      "end_frame": 541,
+      "source": "new_strict1000",
+      "source_event_id": 36
+    },
+    {
+      "na": 2,
+      "start_frame": 548,
+      "end_frame": 559,
+      "source": "new_strict1000",
+      "source_event_id": 37
+    },
+    {
+      "na": 2,
+      "start_frame": 607,
+      "end_frame": 624,
+      "source": "new_strict1000",
+      "source_event_id": 38
+    },
+    {
+      "na": 2,
+      "start_frame": 632,
+      "end_frame": 644,
+      "source": "new_strict1000",
+      "source_event_id": 39
+    },
+    {
+      "na": 2,
+      "start_frame": 647,
+      "end_frame": 657,
+      "source": "new_strict1000",
+      "source_event_id": 40
+    },
+    {
+      "na": 2,
+      "start_frame": 745,
+      "end_frame": 756,
+      "source": "new_strict1000",
+      "source_event_id": 41
+    },
+    {
+      "na": 2,
+      "start_frame": 770,
+      "end_frame": 786,
+      "source": "new_strict1000",
+      "source_event_id": 42
+    },
+    {
+      "na": 2,
+      "start_frame": 886,
+      "end_frame": 898,
+      "source": "new_strict1000",
+      "source_event_id": 43
+    },
+    {
+      "na": 2,
+      "start_frame": 919,
+      "end_frame": 937,
+      "source": "new_strict1000",
+      "source_event_id": 44
+    },
+    {
+      "na": 2,
+      "start_frame": 952,
+      "end_frame": 962,
+      "source": "new_strict1000",
+      "source_event_id": 45
+    },
+    {
+      "na": 2,
+      "start_frame": 982,
+      "end_frame": 993,
+      "source": "new_strict1000",
+      "source_event_id": 46
+    },
+    {
+      "na": 3,
+      "start_frame": 4,
+      "end_frame": 18,
+      "source": "new_strict1000",
+      "source_event_id": 47
+    },
+    {
+      "na": 3,
+      "start_frame": 26,
+      "end_frame": 37,
+      "source": "new_strict1000",
+      "source_event_id": 48
+    },
+    {
+      "na": 3,
+      "start_frame": 42,
+      "end_frame": 53,
+      "source": "new_strict1000",
+      "source_event_id": 49
+    },
+    {
+      "na": 3,
+      "start_frame": 54,
+      "end_frame": 67,
+      "source": "new_strict1000",
+      "source_event_id": 50
+    },
+    {
+      "na": 3,
+      "start_frame": 73,
+      "end_frame": 101,
+      "source": "new_strict1000",
+      "source_event_id": 51
+    },
+    {
+      "na": 3,
+      "start_frame": 106,
+      "end_frame": 121,
+      "source": "new_strict1000",
+      "source_event_id": 52
+    },
+    {
+      "na": 3,
+      "start_frame": 262,
+      "end_frame": 275,
+      "source": "new_strict1000",
+      "source_event_id": 53
+    },
+    {
+      "na": 3,
+      "start_frame": 306,
+      "end_frame": 375,
+      "source": "new_strict1000",
+      "source_event_id": 54
+    },
+    {
+      "na": 3,
+      "start_frame": 433,
+      "end_frame": 444,
+      "source": "new_strict1000",
+      "source_event_id": 55
+    },
+    {
+      "na": 3,
+      "start_frame": 445,
+      "end_frame": 456,
+      "source": "new_strict1000",
+      "source_event_id": 56
+    },
+    {
+      "na": 3,
+      "start_frame": 465,
+      "end_frame": 489,
+      "source": "new_strict1000",
+      "source_event_id": 57
+    },
+    {
+      "na": 3,
+      "start_frame": 554,
+      "end_frame": 566,
+      "source": "new_strict1000",
+      "source_event_id": 58
+    },
+    {
+      "na": 3,
+      "start_frame": 592,
+      "end_frame": 610,
+      "source": "new_strict1000",
+      "source_event_id": 59
+    },
+    {
+      "na": 3,
+      "start_frame": 733,
+      "end_frame": 743,
+      "source": "new_strict1000",
+      "source_event_id": 60
+    },
+    {
+      "na": 3,
+      "start_frame": 788,
+      "end_frame": 808,
+      "source": "new_strict1000",
+      "source_event_id": 61
+    },
+    {
+      "na": 3,
+      "start_frame": 905,
+      "end_frame": 917,
+      "source": "new_strict1000",
+      "source_event_id": 62
+    },
+    {
+      "na": 3,
+      "start_frame": 943,
+      "end_frame": 955,
+      "source": "new_strict1000",
+      "source_event_id": 63
+    },
+    {
+      "na": 3,
+      "start_frame": 956,
+      "end_frame": 971,
+      "source": "new_strict1000",
+      "source_event_id": 64
+    },
+    {
+      "na": 4,
+      "start_frame": 4,
+      "end_frame": 38,
+      "source": "new_strict1000",
+      "source_event_id": 65
+    },
+    {
+      "na": 4,
+      "start_frame": 61,
+      "end_frame": 73,
+      "source": "new_strict1000",
+      "source_event_id": 66
+    },
+    {
+      "na": 4,
+      "start_frame": 132,
+      "end_frame": 142,
+      "source": "new_strict1000",
+      "source_event_id": 67
+    },
+    {
+      "na": 4,
+      "start_frame": 155,
+      "end_frame": 166,
+      "source": "new_strict1000",
+      "source_event_id": 68
+    },
+    {
+      "na": 4,
+      "start_frame": 251,
+      "end_frame": 261,
+      "source": "new_strict1000",
+      "source_event_id": 69
+    },
+    {
+      "na": 4,
+      "start_frame": 395,
+      "end_frame": 405,
+      "source": "new_strict1000",
+      "source_event_id": 70
+    },
+    {
+      "na": 4,
+      "start_frame": 456,
+      "end_frame": 468,
+      "source": "new_strict1000",
+      "source_event_id": 71
+    },
+    {
+      "na": 4,
+      "start_frame": 666,
+      "end_frame": 676,
+      "source": "new_strict1000",
+      "source_event_id": 72
+    },
+    {
+      "na": 4,
+      "start_frame": 933,
+      "end_frame": 943,
+      "source": "new_strict1000",
+      "source_event_id": 73
+    },
+    {
+      "na": 5,
+      "start_frame": 5,
+      "end_frame": 15,
+      "source": "new_strict1000",
+      "source_event_id": 74
+    },
+    {
+      "na": 5,
+      "start_frame": 307,
+      "end_frame": 317,
+      "source": "new_strict1000",
+      "source_event_id": 75
+    },
+    {
+      "na": 5,
+      "start_frame": 489,
+      "end_frame": 500,
+      "source": "new_strict1000",
+      "source_event_id": 76
+    },
+    {
+      "na": 5,
+      "start_frame": 556,
+      "end_frame": 567,
+      "source": "new_strict1000",
+      "source_event_id": 77
+    },
+    {
+      "na": 5,
+      "start_frame": 645,
+      "end_frame": 656,
+      "source": "new_strict1000",
+      "source_event_id": 78
+    },
+    {
+      "na": 5,
+      "start_frame": 780,
+      "end_frame": 791,
+      "source": "new_strict1000",
+      "source_event_id": 79
+    },
+    {
+      "na": 5,
+      "start_frame": 941,
+      "end_frame": 952,
+      "source": "new_strict1000",
+      "source_event_id": 80
+    },
+    {
+      "na": 6,
+      "start_frame": 16,
+      "end_frame": 28,
+      "source": "new_strict1000",
+      "source_event_id": 81
+    },
+    {
+      "na": 6,
+      "start_frame": 74,
+      "end_frame": 97,
+      "source": "new_strict1000",
+      "source_event_id": 82
+    },
+    {
+      "na": 6,
+      "start_frame": 123,
+      "end_frame": 135,
+      "source": "new_strict1000",
+      "source_event_id": 83
+    },
+    {
+      "na": 6,
+      "start_frame": 139,
+      "end_frame": 152,
+      "source": "new_strict1000",
+      "source_event_id": 84
+    },
+    {
+      "na": 6,
+      "start_frame": 180,
+      "end_frame": 213,
+      "source": "new_strict1000",
+      "source_event_id": 85
+    },
+    {
+      "na": 6,
+      "start_frame": 221,
+      "end_frame": 255,
+      "source": "new_strict1000",
+      "source_event_id": 86
+    },
+    {
+      "na": 6,
+      "start_frame": 305,
+      "end_frame": 334,
+      "source": "new_strict1000",
+      "source_event_id": 87
+    },
+    {
+      "na": 6,
+      "start_frame": 364,
+      "end_frame": 374,
+      "source": "new_strict1000",
+      "source_event_id": 88
+    },
+    {
+      "na": 6,
+      "start_frame": 615,
+      "end_frame": 641,
+      "source": "new_strict1000",
+      "source_event_id": 89
+    },
+    {
+      "na": 6,
+      "start_frame": 703,
+      "end_frame": 713,
+      "source": "new_strict1000",
+      "source_event_id": 90
+    },
+    {
+      "na": 6,
+      "start_frame": 829,
+      "end_frame": 839,
+      "source": "new_strict1000",
+      "source_event_id": 91
+    },
+    {
+      "na": 7,
+      "start_frame": 57,
+      "end_frame": 69,
+      "source": "new_strict1000",
+      "source_event_id": 92
+    },
+    {
+      "na": 7,
+      "start_frame": 86,
+      "end_frame": 96,
+      "source": "new_strict1000",
+      "source_event_id": 93
+    },
+    {
+      "na": 7,
+      "start_frame": 220,
+      "end_frame": 243,
+      "source": "new_strict1000",
+      "source_event_id": 94
+    },
+    {
+      "na": 7,
+      "start_frame": 248,
+      "end_frame": 264,
+      "source": "new_strict1000",
+      "source_event_id": 95
+    },
+    {
+      "na": 7,
+      "start_frame": 304,
+      "end_frame": 327,
+      "source": "new_strict1000",
+      "source_event_id": 96
+    },
+    {
+      "na": 7,
+      "start_frame": 407,
+      "end_frame": 419,
+      "source": "new_strict1000",
+      "source_event_id": 97
+    },
+    {
+      "na": 7,
+      "start_frame": 481,
+      "end_frame": 495,
+      "source": "new_strict1000",
+      "source_event_id": 98
+    },
+    {
+      "na": 7,
+      "start_frame": 528,
+      "end_frame": 543,
+      "source": "new_strict1000",
+      "source_event_id": 99
+    },
+    {
+      "na": 7,
+      "start_frame": 570,
+      "end_frame": 597,
+      "source": "new_strict1000",
+      "source_event_id": 100
+    },
+    {
+      "na": 7,
+      "start_frame": 609,
+      "end_frame": 625,
+      "source": "new_strict1000",
+      "source_event_id": 101
+    },
+    {
+      "na": 7,
+      "start_frame": 641,
+      "end_frame": 656,
+      "source": "new_strict1000",
+      "source_event_id": 102
+    },
+    {
+      "na": 7,
+      "start_frame": 722,
+      "end_frame": 753,
+      "source": "new_strict1000",
+      "source_event_id": 103
+    },
+    {
+      "na": 7,
+      "start_frame": 771,
+      "end_frame": 793,
+      "source": "new_strict1000",
+      "source_event_id": 104
+    },
+    {
+      "na": 7,
+      "start_frame": 896,
+      "end_frame": 906,
+      "source": "new_strict1000",
+      "source_event_id": 105
+    },
+    {
+      "na": 7,
+      "start_frame": 931,
+      "end_frame": 943,
+      "source": "new_strict1000",
+      "source_event_id": 106
+    },
+    {
+      "na": 7,
+      "start_frame": 984,
+      "end_frame": 995,
+      "source": "new_strict1000",
+      "source_event_id": 107
+    },
+    {
+      "na": 8,
+      "start_frame": 48,
+      "end_frame": 72,
+      "source": "new_strict1000",
+      "source_event_id": 108
+    },
+    {
+      "na": 8,
+      "start_frame": 237,
+      "end_frame": 248,
+      "source": "new_strict1000",
+      "source_event_id": 109
+    },
+    {
+      "na": 8,
+      "start_frame": 263,
+      "end_frame": 279,
+      "source": "new_strict1000",
+      "source_event_id": 110
+    },
+    {
+      "na": 8,
+      "start_frame": 300,
+      "end_frame": 312,
+      "source": "new_strict1000",
+      "source_event_id": 111
+    },
+    {
+      "na": 8,
+      "start_frame": 457,
+      "end_frame": 470,
+      "source": "new_strict1000",
+      "source_event_id": 112
+    },
+    {
+      "na": 8,
+      "start_frame": 516,
+      "end_frame": 526,
+      "source": "new_strict1000",
+      "source_event_id": 113
+    },
+    {
+      "na": 8,
+      "start_frame": 571,
+      "end_frame": 592,
+      "source": "new_strict1000",
+      "source_event_id": 114
+    },
+    {
+      "na": 8,
+      "start_frame": 644,
+      "end_frame": 667,
+      "source": "new_strict1000",
+      "source_event_id": 115
+    },
+    {
+      "na": 8,
+      "start_frame": 702,
+      "end_frame": 714,
+      "source": "new_strict1000",
+      "source_event_id": 116
+    },
+    {
+      "na": 8,
+      "start_frame": 715,
+      "end_frame": 725,
+      "source": "new_strict1000",
+      "source_event_id": 117
+    },
+    {
+      "na": 8,
+      "start_frame": 777,
+      "end_frame": 789,
+      "source": "new_strict1000",
+      "source_event_id": 118
+    },
+    {
+      "na": 8,
+      "start_frame": 809,
+      "end_frame": 822,
+      "source": "new_strict1000",
+      "source_event_id": 119
+    },
+    {
+      "na": 8,
+      "start_frame": 863,
+      "end_frame": 879,
+      "source": "new_strict1000",
+      "source_event_id": 120
+    },
+    {
+      "na": 8,
+      "start_frame": 905,
+      "end_frame": 915,
+      "source": "new_strict1000",
+      "source_event_id": 121
+    },
+    {
+      "na": 9,
+      "start_frame": 53,
+      "end_frame": 63,
+      "source": "new_strict1000",
+      "source_event_id": 122
+    },
+    {
+      "na": 9,
+      "start_frame": 110,
+      "end_frame": 126,
+      "source": "new_strict1000",
+      "source_event_id": 123
+    },
+    {
+      "na": 9,
+      "start_frame": 214,
+      "end_frame": 228,
+      "source": "new_strict1000",
+      "source_event_id": 124
+    },
+    {
+      "na": 9,
+      "start_frame": 314,
+      "end_frame": 325,
+      "source": "new_strict1000",
+      "source_event_id": 125
+    },
+    {
+      "na": 9,
+      "start_frame": 379,
+      "end_frame": 391,
+      "source": "new_strict1000",
+      "source_event_id": 126
+    },
+    {
+      "na": 9,
+      "start_frame": 406,
+      "end_frame": 419,
+      "source": "new_strict1000",
+      "source_event_id": 127
+    },
+    {
+      "na": 9,
+      "start_frame": 428,
+      "end_frame": 438,
+      "source": "new_strict1000",
+      "source_event_id": 128
+    },
+    {
+      "na": 9,
+      "start_frame": 467,
+      "end_frame": 477,
+      "source": "new_strict1000",
+      "source_event_id": 129
+    },
+    {
+      "na": 9,
+      "start_frame": 486,
+      "end_frame": 513,
+      "source": "new_strict1000",
+      "source_event_id": 130
+    },
+    {
+      "na": 9,
+      "start_frame": 641,
+      "end_frame": 674,
+      "source": "new_strict1000",
+      "source_event_id": 131
+    },
+    {
+      "na": 9,
+      "start_frame": 934,
+      "end_frame": 945,
+      "source": "new_strict1000",
+      "source_event_id": 132
+    },
+    {
+      "na": 10,
+      "start_frame": 4,
+      "end_frame": 48,
+      "source": "new_strict1000",
+      "source_event_id": 133
+    },
+    {
+      "na": 10,
+      "start_frame": 98,
+      "end_frame": 109,
+      "source": "new_strict1000",
+      "source_event_id": 134
+    },
+    {
+      "na": 10,
+      "start_frame": 162,
+      "end_frame": 172,
+      "source": "new_strict1000",
+      "source_event_id": 135
+    },
+    {
+      "na": 10,
+      "start_frame": 241,
+      "end_frame": 253,
+      "source": "new_strict1000",
+      "source_event_id": 136
+    },
+    {
+      "na": 10,
+      "start_frame": 389,
+      "end_frame": 399,
+      "source": "new_strict1000",
+      "source_event_id": 137
+    },
+    {
+      "na": 10,
+      "start_frame": 408,
+      "end_frame": 418,
+      "source": "new_strict1000",
+      "source_event_id": 138
+    },
+    {
+      "na": 10,
+      "start_frame": 561,
+      "end_frame": 572,
+      "source": "new_strict1000",
+      "source_event_id": 139
+    },
+    {
+      "na": 10,
+      "start_frame": 886,
+      "end_frame": 896,
+      "source": "new_strict1000",
+      "source_event_id": 140
+    },
+    {
+      "na": 10,
+      "start_frame": 969,
+      "end_frame": 980,
+      "source": "new_strict1000",
+      "source_event_id": 141
+    },
+    {
+      "na": 11,
+      "start_frame": 5,
+      "end_frame": 17,
+      "source": "new_strict1000",
+      "source_event_id": 142
+    },
+    {
+      "na": 11,
+      "start_frame": 156,
+      "end_frame": 167,
+      "source": "new_strict1000",
+      "source_event_id": 143
+    },
+    {
+      "na": 11,
+      "start_frame": 286,
+      "end_frame": 298,
+      "source": "new_strict1000",
+      "source_event_id": 144
+    },
+    {
+      "na": 11,
+      "start_frame": 468,
+      "end_frame": 478,
+      "source": "new_strict1000",
+      "source_event_id": 145
+    },
+    {
+      "na": 11,
+      "start_frame": 550,
+      "end_frame": 560,
+      "source": "new_strict1000",
+      "source_event_id": 146
+    },
+    {
+      "na": 11,
+      "start_frame": 654,
+      "end_frame": 664,
+      "source": "new_strict1000",
+      "source_event_id": 147
+    },
+    {
+      "na": 11,
+      "start_frame": 914,
+      "end_frame": 937,
+      "source": "new_strict1000",
+      "source_event_id": 148
+    },
+    {
+      "na": 11,
+      "start_frame": 968,
+      "end_frame": 981,
+      "source": "new_strict1000",
+      "source_event_id": 149
+    },
+    {
+      "na": 12,
+      "start_frame": 62,
+      "end_frame": 74,
+      "source": "new_strict1000",
+      "source_event_id": 150
+    },
+    {
+      "na": 12,
+      "start_frame": 98,
+      "end_frame": 121,
+      "source": "new_strict1000",
+      "source_event_id": 151
+    },
+    {
+      "na": 12,
+      "start_frame": 193,
+      "end_frame": 212,
+      "source": "new_strict1000",
+      "source_event_id": 152
+    },
+    {
+      "na": 12,
+      "start_frame": 258,
+      "end_frame": 271,
+      "source": "new_strict1000",
+      "source_event_id": 153
+    },
+    {
+      "na": 12,
+      "start_frame": 443,
+      "end_frame": 463,
+      "source": "new_strict1000",
+      "source_event_id": 154
+    },
+    {
+      "na": 12,
+      "start_frame": 472,
+      "end_frame": 482,
+      "source": "new_strict1000",
+      "source_event_id": 155
+    },
+    {
+      "na": 12,
+      "start_frame": 569,
+      "end_frame": 580,
+      "source": "new_strict1000",
+      "source_event_id": 156
+    },
+    {
+      "na": 12,
+      "start_frame": 614,
+      "end_frame": 638,
+      "source": "new_strict1000",
+      "source_event_id": 157
+    },
+    {
+      "na": 12,
+      "start_frame": 725,
+      "end_frame": 736,
+      "source": "new_strict1000",
+      "source_event_id": 158
+    },
+    {
+      "na": 12,
+      "start_frame": 788,
+      "end_frame": 798,
+      "source": "new_strict1000",
+      "source_event_id": 159
+    },
+    {
+      "na": 12,
+      "start_frame": 843,
+      "end_frame": 853,
+      "source": "new_strict1000",
+      "source_event_id": 160
+    },
+    {
+      "na": 12,
+      "start_frame": 918,
+      "end_frame": 928,
+      "source": "new_strict1000",
+      "source_event_id": 161
+    },
+    {
+      "na": 13,
+      "start_frame": 51,
+      "end_frame": 62,
+      "source": "new_strict1000",
+      "source_event_id": 162
+    },
+    {
+      "na": 13,
+      "start_frame": 113,
+      "end_frame": 126,
+      "source": "new_strict1000",
+      "source_event_id": 163
+    },
+    {
+      "na": 13,
+      "start_frame": 234,
+      "end_frame": 246,
+      "source": "new_strict1000",
+      "source_event_id": 164
+    },
+    {
+      "na": 13,
+      "start_frame": 304,
+      "end_frame": 322,
+      "source": "new_strict1000",
+      "source_event_id": 165
+    },
+    {
+      "na": 13,
+      "start_frame": 445,
+      "end_frame": 468,
+      "source": "new_strict1000",
+      "source_event_id": 166
+    },
+    {
+      "na": 13,
+      "start_frame": 515,
+      "end_frame": 525,
+      "source": "new_strict1000",
+      "source_event_id": 167
+    },
+    {
+      "na": 13,
+      "start_frame": 721,
+      "end_frame": 733,
+      "source": "new_strict1000",
+      "source_event_id": 168
+    },
+    {
+      "na": 13,
+      "start_frame": 798,
+      "end_frame": 810,
+      "source": "new_strict1000",
+      "source_event_id": 169
+    },
+    {
+      "na": 14,
+      "start_frame": 18,
+      "end_frame": 40,
+      "source": "new_strict1000",
+      "source_event_id": 170
+    },
+    {
+      "na": 14,
+      "start_frame": 82,
+      "end_frame": 93,
+      "source": "new_strict1000",
+      "source_event_id": 171
+    },
+    {
+      "na": 14,
+      "start_frame": 113,
+      "end_frame": 124,
+      "source": "new_strict1000",
+      "source_event_id": 172
+    },
+    {
+      "na": 14,
+      "start_frame": 133,
+      "end_frame": 153,
+      "source": "new_strict1000",
+      "source_event_id": 173
+    },
+    {
+      "na": 14,
+      "start_frame": 204,
+      "end_frame": 214,
+      "source": "new_strict1000",
+      "source_event_id": 174
+    },
+    {
+      "na": 14,
+      "start_frame": 320,
+      "end_frame": 343,
+      "source": "new_strict1000",
+      "source_event_id": 175
+    },
+    {
+      "na": 14,
+      "start_frame": 389,
+      "end_frame": 402,
+      "source": "new_strict1000",
+      "source_event_id": 176
+    },
+    {
+      "na": 14,
+      "start_frame": 439,
+      "end_frame": 449,
+      "source": "new_strict1000",
+      "source_event_id": 177
+    },
+    {
+      "na": 14,
+      "start_frame": 452,
+      "end_frame": 462,
+      "source": "new_strict1000",
+      "source_event_id": 178
+    },
+    {
+      "na": 14,
+      "start_frame": 517,
+      "end_frame": 528,
+      "source": "new_strict1000",
+      "source_event_id": 179
+    },
+    {
+      "na": 14,
+      "start_frame": 615,
+      "end_frame": 629,
+      "source": "new_strict1000",
+      "source_event_id": 180
+    },
+    {
+      "na": 14,
+      "start_frame": 688,
+      "end_frame": 708,
+      "source": "new_strict1000",
+      "source_event_id": 181
+    },
+    {
+      "na": 14,
+      "start_frame": 726,
+      "end_frame": 748,
+      "source": "new_strict1000",
+      "source_event_id": 182
+    },
+    {
+      "na": 14,
+      "start_frame": 786,
+      "end_frame": 800,
+      "source": "new_strict1000",
+      "source_event_id": 183
+    },
+    {
+      "na": 15,
+      "start_frame": 212,
+      "end_frame": 222,
+      "source": "new_strict1000",
+      "source_event_id": 184
+    },
+    {
+      "na": 15,
+      "start_frame": 232,
+      "end_frame": 244,
+      "source": "new_strict1000",
+      "source_event_id": 185
+    },
+    {
+      "na": 15,
+      "start_frame": 271,
+      "end_frame": 283,
+      "source": "new_strict1000",
+      "source_event_id": 186
+    },
+    {
+      "na": 15,
+      "start_frame": 358,
+      "end_frame": 368,
+      "source": "new_strict1000",
+      "source_event_id": 187
+    },
+    {
+      "na": 15,
+      "start_frame": 501,
+      "end_frame": 514,
+      "source": "new_strict1000",
+      "source_event_id": 188
+    },
+    {
+      "na": 15,
+      "start_frame": 523,
+      "end_frame": 535,
+      "source": "new_strict1000",
+      "source_event_id": 189
+    },
+    {
+      "na": 15,
+      "start_frame": 568,
+      "end_frame": 583,
+      "source": "new_strict1000",
+      "source_event_id": 190
+    },
+    {
+      "na": 15,
+      "start_frame": 615,
+      "end_frame": 626,
+      "source": "new_strict1000",
+      "source_event_id": 191
+    },
+    {
+      "na": 15,
+      "start_frame": 638,
+      "end_frame": 657,
+      "source": "new_strict1000",
+      "source_event_id": 192
+    },
+    {
+      "na": 15,
+      "start_frame": 800,
+      "end_frame": 811,
+      "source": "new_strict1000",
+      "source_event_id": 193
+    },
+    {
+      "na": 15,
+      "start_frame": 822,
+      "end_frame": 834,
+      "source": "new_strict1000",
+      "source_event_id": 194
+    },
+    {
+      "na": 15,
+      "start_frame": 837,
+      "end_frame": 849,
+      "source": "new_strict1000",
+      "source_event_id": 195
+    },
+    {
+      "na": 15,
+      "start_frame": 872,
+      "end_frame": 882,
+      "source": "new_strict1000",
+      "source_event_id": 196
+    },
+    {
+      "na": 15,
+      "start_frame": 894,
+      "end_frame": 911,
+      "source": "new_strict1000",
+      "source_event_id": 197
+    },
+    {
+      "na": 16,
+      "start_frame": 47,
+      "end_frame": 62,
+      "source": "new_strict1000",
+      "source_event_id": 198
+    },
+    {
+      "na": 16,
+      "start_frame": 64,
+      "end_frame": 84,
+      "source": "new_strict1000",
+      "source_event_id": 199
+    },
+    {
+      "na": 16,
+      "start_frame": 92,
+      "end_frame": 104,
+      "source": "new_strict1000",
+      "source_event_id": 200
+    },
+    {
+      "na": 16,
+      "start_frame": 111,
+      "end_frame": 128,
+      "source": "new_strict1000",
+      "source_event_id": 201
+    },
+    {
+      "na": 16,
+      "start_frame": 160,
+      "end_frame": 174,
+      "source": "new_strict1000",
+      "source_event_id": 202
+    },
+    {
+      "na": 16,
+      "start_frame": 196,
+      "end_frame": 209,
+      "source": "new_strict1000",
+      "source_event_id": 203
+    },
+    {
+      "na": 16,
+      "start_frame": 265,
+      "end_frame": 276,
+      "source": "new_strict1000",
+      "source_event_id": 204
+    },
+    {
+      "na": 16,
+      "start_frame": 290,
+      "end_frame": 306,
+      "source": "new_strict1000",
+      "source_event_id": 205
+    },
+    {
+      "na": 16,
+      "start_frame": 312,
+      "end_frame": 326,
+      "source": "new_strict1000",
+      "source_event_id": 206
+    },
+    {
+      "na": 16,
+      "start_frame": 357,
+      "end_frame": 368,
+      "source": "new_strict1000",
+      "source_event_id": 207
+    },
+    {
+      "na": 16,
+      "start_frame": 371,
+      "end_frame": 394,
+      "source": "new_strict1000",
+      "source_event_id": 208
+    },
+    {
+      "na": 16,
+      "start_frame": 443,
+      "end_frame": 455,
+      "source": "new_strict1000",
+      "source_event_id": 209
+    },
+    {
+      "na": 16,
+      "start_frame": 462,
+      "end_frame": 482,
+      "source": "new_strict1000",
+      "source_event_id": 210
+    },
+    {
+      "na": 16,
+      "start_frame": 517,
+      "end_frame": 528,
+      "source": "new_strict1000",
+      "source_event_id": 211
+    },
+    {
+      "na": 16,
+      "start_frame": 533,
+      "end_frame": 561,
+      "source": "new_strict1000",
+      "source_event_id": 212
+    },
+    {
+      "na": 16,
+      "start_frame": 613,
+      "end_frame": 626,
+      "source": "new_strict1000",
+      "source_event_id": 213
+    },
+    {
+      "na": 16,
+      "start_frame": 628,
+      "end_frame": 643,
+      "source": "new_strict1000",
+      "source_event_id": 214
+    },
+    {
+      "na": 16,
+      "start_frame": 680,
+      "end_frame": 691,
+      "source": "new_strict1000",
+      "source_event_id": 215
+    },
+    {
+      "na": 16,
+      "start_frame": 779,
+      "end_frame": 789,
+      "source": "new_strict1000",
+      "source_event_id": 216
+    },
+    {
+      "na": 16,
+      "start_frame": 793,
+      "end_frame": 805,
+      "source": "new_strict1000",
+      "source_event_id": 217
+    },
+    {
+      "na": 16,
+      "start_frame": 818,
+      "end_frame": 833,
+      "source": "new_strict1000",
+      "source_event_id": 218
+    },
+    {
+      "na": 16,
+      "start_frame": 890,
+      "end_frame": 903,
+      "source": "new_strict1000",
+      "source_event_id": 219
+    },
+    {
+      "na": 17,
+      "start_frame": 330,
+      "end_frame": 341,
+      "source": "new_strict1000",
+      "source_event_id": 220
+    },
+    {
+      "na": 17,
+      "start_frame": 389,
+      "end_frame": 400,
+      "source": "new_strict1000",
+      "source_event_id": 221
+    },
+    {
+      "na": 17,
+      "start_frame": 446,
+      "end_frame": 459,
+      "source": "new_strict1000",
+      "source_event_id": 222
+    },
+    {
+      "na": 17,
+      "start_frame": 470,
+      "end_frame": 508,
+      "source": "new_strict1000",
+      "source_event_id": 223
+    },
+    {
+      "na": 17,
+      "start_frame": 522,
+      "end_frame": 536,
+      "source": "new_strict1000",
+      "source_event_id": 224
+    },
+    {
+      "na": 17,
+      "start_frame": 559,
+      "end_frame": 569,
+      "source": "new_strict1000",
+      "source_event_id": 225
+    },
+    {
+      "na": 17,
+      "start_frame": 608,
+      "end_frame": 627,
+      "source": "new_strict1000",
+      "source_event_id": 226
+    },
+    {
+      "na": 17,
+      "start_frame": 635,
+      "end_frame": 649,
+      "source": "new_strict1000",
+      "source_event_id": 227
+    },
+    {
+      "na": 17,
+      "start_frame": 689,
+      "end_frame": 702,
+      "source": "new_strict1000",
+      "source_event_id": 228
+    },
+    {
+      "na": 17,
+      "start_frame": 731,
+      "end_frame": 742,
+      "source": "new_strict1000",
+      "source_event_id": 229
+    },
+    {
+      "na": 17,
+      "start_frame": 838,
+      "end_frame": 852,
+      "source": "new_strict1000",
+      "source_event_id": 230
+    },
+    {
+      "na": 17,
+      "start_frame": 959,
+      "end_frame": 974,
+      "source": "new_strict1000",
+      "source_event_id": 231
+    },
+    {
+      "na": 17,
+      "start_frame": 978,
+      "end_frame": 990,
+      "source": "new_strict1000",
+      "source_event_id": 232
+    },
+    {
+      "na": 18,
+      "start_frame": 17,
+      "end_frame": 30,
+      "source": "new_strict1000",
+      "source_event_id": 233
+    },
+    {
+      "na": 18,
+      "start_frame": 59,
+      "end_frame": 71,
+      "source": "new_strict1000",
+      "source_event_id": 234
+    },
+    {
+      "na": 18,
+      "start_frame": 77,
+      "end_frame": 90,
+      "source": "new_strict1000",
+      "source_event_id": 235
+    },
+    {
+      "na": 18,
+      "start_frame": 165,
+      "end_frame": 178,
+      "source": "new_strict1000",
+      "source_event_id": 236
+    },
+    {
+      "na": 18,
+      "start_frame": 184,
+      "end_frame": 216,
+      "source": "new_strict1000",
+      "source_event_id": 237
+    },
+    {
+      "na": 18,
+      "start_frame": 217,
+      "end_frame": 227,
+      "source": "new_strict1000",
+      "source_event_id": 238
+    },
+    {
+      "na": 18,
+      "start_frame": 288,
+      "end_frame": 304,
+      "source": "new_strict1000",
+      "source_event_id": 239
+    },
+    {
+      "na": 18,
+      "start_frame": 530,
+      "end_frame": 545,
+      "source": "new_strict1000",
+      "source_event_id": 240
+    },
+    {
+      "na": 18,
+      "start_frame": 560,
+      "end_frame": 580,
+      "source": "new_strict1000",
+      "source_event_id": 241
+    },
+    {
+      "na": 18,
+      "start_frame": 624,
+      "end_frame": 641,
+      "source": "new_strict1000",
+      "source_event_id": 242
+    },
+    {
+      "na": 18,
+      "start_frame": 646,
+      "end_frame": 669,
+      "source": "new_strict1000",
+      "source_event_id": 243
+    },
+    {
+      "na": 18,
+      "start_frame": 681,
+      "end_frame": 708,
+      "source": "new_strict1000",
+      "source_event_id": 244
+    },
+    {
+      "na": 18,
+      "start_frame": 822,
+      "end_frame": 838,
+      "source": "new_strict1000",
+      "source_event_id": 245
+    },
+    {
+      "na": 18,
+      "start_frame": 922,
+      "end_frame": 933,
+      "source": "new_strict1000",
+      "source_event_id": 246
+    },
+    {
+      "na": 18,
+      "start_frame": 949,
+      "end_frame": 974,
+      "source": "new_strict1000",
+      "source_event_id": 247
+    },
+    {
+      "na": 19,
+      "start_frame": 4,
+      "end_frame": 14,
+      "source": "new_strict1000",
+      "source_event_id": 248
+    },
+    {
+      "na": 19,
+      "start_frame": 28,
+      "end_frame": 39,
+      "source": "new_strict1000",
+      "source_event_id": 249
+    },
+    {
+      "na": 19,
+      "start_frame": 87,
+      "end_frame": 97,
+      "source": "new_strict1000",
+      "source_event_id": 250
+    },
+    {
+      "na": 19,
+      "start_frame": 121,
+      "end_frame": 138,
+      "source": "new_strict1000",
+      "source_event_id": 251
+    },
+    {
+      "na": 19,
+      "start_frame": 173,
+      "end_frame": 187,
+      "source": "new_strict1000",
+      "source_event_id": 252
+    },
+    {
+      "na": 19,
+      "start_frame": 232,
+      "end_frame": 248,
+      "source": "new_strict1000",
+      "source_event_id": 253
+    },
+    {
+      "na": 19,
+      "start_frame": 275,
+      "end_frame": 291,
+      "source": "new_strict1000",
+      "source_event_id": 254
+    },
+    {
+      "na": 19,
+      "start_frame": 300,
+      "end_frame": 313,
+      "source": "new_strict1000",
+      "source_event_id": 255
+    },
+    {
+      "na": 19,
+      "start_frame": 348,
+      "end_frame": 361,
+      "source": "new_strict1000",
+      "source_event_id": 256
+    },
+    {
+      "na": 19,
+      "start_frame": 372,
+      "end_frame": 383,
+      "source": "new_strict1000",
+      "source_event_id": 257
+    },
+    {
+      "na": 19,
+      "start_frame": 486,
+      "end_frame": 500,
+      "source": "new_strict1000",
+      "source_event_id": 258
+    },
+    {
+      "na": 19,
+      "start_frame": 505,
+      "end_frame": 518,
+      "source": "new_strict1000",
+      "source_event_id": 259
+    },
+    {
+      "na": 19,
+      "start_frame": 541,
+      "end_frame": 555,
+      "source": "new_strict1000",
+      "source_event_id": 260
+    },
+    {
+      "na": 19,
+      "start_frame": 561,
+      "end_frame": 576,
+      "source": "new_strict1000",
+      "source_event_id": 261
+    },
+    {
+      "na": 19,
+      "start_frame": 756,
+      "end_frame": 766,
+      "source": "new_strict1000",
+      "source_event_id": 262
+    },
+    {
+      "na": 19,
+      "start_frame": 824,
+      "end_frame": 835,
+      "source": "new_strict1000",
+      "source_event_id": 263
+    },
+    {
+      "na": 19,
+      "start_frame": 843,
+      "end_frame": 873,
+      "source": "new_strict1000",
+      "source_event_id": 264
+    },
+    {
+      "na": 19,
+      "start_frame": 901,
+      "end_frame": 915,
+      "source": "new_strict1000",
+      "source_event_id": 265
+    },
+    {
+      "na": 19,
+      "start_frame": 982,
+      "end_frame": 994,
+      "source": "new_strict1000",
+      "source_event_id": 266
+    },
+    {
+      "na": 20,
+      "start_frame": 14,
+      "end_frame": 26,
+      "source": "new_strict1000",
+      "source_event_id": 267
+    },
+    {
+      "na": 20,
+      "start_frame": 32,
+      "end_frame": 78,
+      "source": "new_strict1000",
+      "source_event_id": 268
+    },
+    {
+      "na": 20,
+      "start_frame": 96,
+      "end_frame": 109,
+      "source": "new_strict1000",
+      "source_event_id": 269
+    },
+    {
+      "na": 20,
+      "start_frame": 126,
+      "end_frame": 138,
+      "source": "new_strict1000",
+      "source_event_id": 270
+    },
+    {
+      "na": 20,
+      "start_frame": 253,
+      "end_frame": 265,
+      "source": "new_strict1000",
+      "source_event_id": 271
+    },
+    {
+      "na": 20,
+      "start_frame": 285,
+      "end_frame": 317,
+      "source": "new_strict1000",
+      "source_event_id": 272
+    },
+    {
+      "na": 20,
+      "start_frame": 364,
+      "end_frame": 375,
+      "source": "new_strict1000",
+      "source_event_id": 273
+    },
+    {
+      "na": 20,
+      "start_frame": 470,
+      "end_frame": 481,
+      "source": "new_strict1000",
+      "source_event_id": 274
+    },
+    {
+      "na": 20,
+      "start_frame": 519,
+      "end_frame": 533,
+      "source": "new_strict1000",
+      "source_event_id": 275
+    },
+    {
+      "na": 20,
+      "start_frame": 554,
+      "end_frame": 566,
+      "source": "new_strict1000",
+      "source_event_id": 276
+    },
+    {
+      "na": 20,
+      "start_frame": 632,
+      "end_frame": 643,
+      "source": "new_strict1000",
+      "source_event_id": 277
+    },
+    {
+      "na": 20,
+      "start_frame": 691,
+      "end_frame": 711,
+      "source": "new_strict1000",
+      "source_event_id": 278
+    },
+    {
+      "na": 20,
+      "start_frame": 884,
+      "end_frame": 897,
+      "source": "new_strict1000",
+      "source_event_id": 279
+    },
+    {
+      "na": 20,
+      "start_frame": 947,
+      "end_frame": 961,
+      "source": "new_strict1000",
+      "source_event_id": 280
+    },
+    {
+      "na": 21,
+      "start_frame": 58,
+      "end_frame": 70,
+      "source": "new_strict1000",
+      "source_event_id": 281
+    },
+    {
+      "na": 21,
+      "start_frame": 158,
+      "end_frame": 171,
+      "source": "new_strict1000",
+      "source_event_id": 282
+    },
+    {
+      "na": 21,
+      "start_frame": 188,
+      "end_frame": 202,
+      "source": "new_strict1000",
+      "source_event_id": 283
+    },
+    {
+      "na": 21,
+      "start_frame": 220,
+      "end_frame": 233,
+      "source": "new_strict1000",
+      "source_event_id": 284
+    },
+    {
+      "na": 21,
+      "start_frame": 369,
+      "end_frame": 404,
+      "source": "new_strict1000",
+      "source_event_id": 285
+    },
+    {
+      "na": 21,
+      "start_frame": 428,
+      "end_frame": 480,
+      "source": "new_strict1000",
+      "source_event_id": 286
+    },
+    {
+      "na": 21,
+      "start_frame": 535,
+      "end_frame": 546,
+      "source": "new_strict1000",
+      "source_event_id": 287
+    },
+    {
+      "na": 21,
+      "start_frame": 596,
+      "end_frame": 609,
+      "source": "new_strict1000",
+      "source_event_id": 288
+    },
+    {
+      "na": 21,
+      "start_frame": 696,
+      "end_frame": 706,
+      "source": "new_strict1000",
+      "source_event_id": 289
+    },
+    {
+      "na": 21,
+      "start_frame": 762,
+      "end_frame": 773,
+      "source": "new_strict1000",
+      "source_event_id": 290
+    },
+    {
+      "na": 21,
+      "start_frame": 816,
+      "end_frame": 831,
+      "source": "new_strict1000",
+      "source_event_id": 291
+    },
+    {
+      "na": 21,
+      "start_frame": 868,
+      "end_frame": 879,
+      "source": "new_strict1000",
+      "source_event_id": 292
+    },
+    {
+      "na": 21,
+      "start_frame": 889,
+      "end_frame": 907,
+      "source": "new_strict1000",
+      "source_event_id": 293
+    },
+    {
+      "na": 21,
+      "start_frame": 944,
+      "end_frame": 956,
+      "source": "new_strict1000",
+      "source_event_id": 294
+    },
+    {
+      "na": 21,
+      "start_frame": 961,
+      "end_frame": 973,
+      "source": "new_strict1000",
+      "source_event_id": 295
+    },
+    {
+      "na": 22,
+      "start_frame": 13,
+      "end_frame": 36,
+      "source": "new_strict1000",
+      "source_event_id": 296
+    },
+    {
+      "na": 22,
+      "start_frame": 92,
+      "end_frame": 103,
+      "source": "new_strict1000",
+      "source_event_id": 297
+    },
+    {
+      "na": 22,
+      "start_frame": 198,
+      "end_frame": 208,
+      "source": "new_strict1000",
+      "source_event_id": 298
+    },
+    {
+      "na": 22,
+      "start_frame": 229,
+      "end_frame": 241,
+      "source": "new_strict1000",
+      "source_event_id": 299
+    },
+    {
+      "na": 22,
+      "start_frame": 267,
+      "end_frame": 278,
+      "source": "new_strict1000",
+      "source_event_id": 300
+    },
+    {
+      "na": 22,
+      "start_frame": 337,
+      "end_frame": 350,
+      "source": "new_strict1000",
+      "source_event_id": 301
+    },
+    {
+      "na": 22,
+      "start_frame": 400,
+      "end_frame": 411,
+      "source": "new_strict1000",
+      "source_event_id": 302
+    },
+    {
+      "na": 22,
+      "start_frame": 602,
+      "end_frame": 627,
+      "source": "new_strict1000",
+      "source_event_id": 303
+    },
+    {
+      "na": 22,
+      "start_frame": 641,
+      "end_frame": 652,
+      "source": "new_strict1000",
+      "source_event_id": 304
+    },
+    {
+      "na": 22,
+      "start_frame": 686,
+      "end_frame": 700,
+      "source": "new_strict1000",
+      "source_event_id": 305
+    },
+    {
+      "na": 22,
+      "start_frame": 733,
+      "end_frame": 745,
+      "source": "new_strict1000",
+      "source_event_id": 306
+    },
+    {
+      "na": 22,
+      "start_frame": 747,
+      "end_frame": 759,
+      "source": "new_strict1000",
+      "source_event_id": 307
+    },
+    {
+      "na": 22,
+      "start_frame": 780,
+      "end_frame": 790,
+      "source": "new_strict1000",
+      "source_event_id": 308
+    },
+    {
+      "na": 22,
+      "start_frame": 814,
+      "end_frame": 837,
+      "source": "new_strict1000",
+      "source_event_id": 309
+    },
+    {
+      "na": 22,
+      "start_frame": 902,
+      "end_frame": 924,
+      "source": "new_strict1000",
+      "source_event_id": 310
+    },
+    {
+      "na": 23,
+      "start_frame": 100,
+      "end_frame": 111,
+      "source": "new_strict1000",
+      "source_event_id": 311
+    },
+    {
+      "na": 23,
+      "start_frame": 257,
+      "end_frame": 268,
+      "source": "new_strict1000",
+      "source_event_id": 312
+    },
+    {
+      "na": 23,
+      "start_frame": 293,
+      "end_frame": 303,
+      "source": "new_strict1000",
+      "source_event_id": 313
+    },
+    {
+      "na": 23,
+      "start_frame": 311,
+      "end_frame": 322,
+      "source": "new_strict1000",
+      "source_event_id": 314
+    },
+    {
+      "na": 23,
+      "start_frame": 368,
+      "end_frame": 379,
+      "source": "new_strict1000",
+      "source_event_id": 315
+    },
+    {
+      "na": 23,
+      "start_frame": 429,
+      "end_frame": 441,
+      "source": "new_strict1000",
+      "source_event_id": 316
+    },
+    {
+      "na": 23,
+      "start_frame": 447,
+      "end_frame": 469,
+      "source": "new_strict1000",
+      "source_event_id": 317
+    },
+    {
+      "na": 23,
+      "start_frame": 527,
+      "end_frame": 539,
+      "source": "new_strict1000",
+      "source_event_id": 318
+    },
+    {
+      "na": 23,
+      "start_frame": 574,
+      "end_frame": 585,
+      "source": "new_strict1000",
+      "source_event_id": 319
+    },
+    {
+      "na": 23,
+      "start_frame": 643,
+      "end_frame": 664,
+      "source": "new_strict1000",
+      "source_event_id": 320
+    },
+    {
+      "na": 23,
+      "start_frame": 695,
+      "end_frame": 709,
+      "source": "new_strict1000",
+      "source_event_id": 321
+    },
+    {
+      "na": 23,
+      "start_frame": 710,
+      "end_frame": 723,
+      "source": "new_strict1000",
+      "source_event_id": 322
+    },
+    {
+      "na": 23,
+      "start_frame": 873,
+      "end_frame": 883,
+      "source": "new_strict1000",
+      "source_event_id": 323
+    },
+    {
+      "na": 23,
+      "start_frame": 889,
+      "end_frame": 901,
+      "source": "new_strict1000",
+      "source_event_id": 324
+    }
+  ],
+  "sameNa_padding_frames": 10,
+  "closed": true,
+  "historical_post20_events_used_only_as_exclusion_metadata": true
+}

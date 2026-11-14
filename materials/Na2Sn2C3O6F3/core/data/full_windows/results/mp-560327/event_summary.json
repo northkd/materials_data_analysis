@@ -1,0 +1,192 @@
+{
+  "summaries": [
+    {
+      "window": "full",
+      "events": 223,
+      "outcomes": {
+        "persistent": 168,
+        "transient": 50,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 223,
+      "full_event_phases": 220,
+      "fixed200_complete": 220
+    },
+    {
+      "window": "common0to20_available",
+      "events": 223,
+      "outcomes": {
+        "persistent": 168,
+        "transient": 50,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 223,
+      "full_event_phases": 220,
+      "fixed200_complete": 220
+    },
+    {
+      "window": "after4",
+      "events": 181,
+      "outcomes": {
+        "persistent": 135,
+        "transient": 41,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 181,
+      "full_event_phases": 177,
+      "fixed200_complete": 177
+    },
+    {
+      "window": "late10",
+      "events": 109,
+      "outcomes": {
+        "persistent": 79,
+        "transient": 25,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 109,
+      "full_event_phases": 103,
+      "fixed200_complete": 103
+    }
+  ],
+  "threshold_sensitivity": [
+    {
+      "window": "full",
+      "threshold_A": 1.2,
+      "n_events": 293,
+      "outcomes": {
+        "persistent": 237,
+        "transient": 52,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.5,
+      "n_events": 223,
+      "outcomes": {
+        "persistent": 168,
+        "transient": 50,
+        "right_censored": 3,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.8,
+      "n_events": 124,
+      "outcomes": {
+        "persistent": 93,
+        "transient": 29,
+        "right_censored": 2
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.2,
+      "n_events": 293,
+      "outcomes": {
+        "persistent": 237,
+        "transient": 52,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.5,
+      "n_events": 223,
+      "outcomes": {
+        "persistent": 168,
+        "transient": 50,
+        "right_censored": 3,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.8,
+      "n_events": 124,
+      "outcomes": {
+        "persistent": 93,
+        "transient": 29,
+        "right_censored": 2
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.2,
+      "n_events": 241,
+      "outcomes": {
+        "persistent": 195,
+        "transient": 42,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.5,
+      "n_events": 181,
+      "outcomes": {
+        "persistent": 135,
+        "transient": 41,
+        "right_censored": 3,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.8,
+      "n_events": 101,
+      "outcomes": {
+        "persistent": 76,
+        "transient": 23,
+        "right_censored": 2
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.2,
+      "n_events": 154,
+      "outcomes": {
+        "persistent": 121,
+        "transient": 29,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.5,
+      "n_events": 109,
+      "outcomes": {
+        "persistent": 79,
+        "transient": 25,
+        "right_censored": 3,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.8,
+      "n_events": 56,
+      "outcomes": {
+        "transient": 13,
+        "persistent": 41,
+        "right_censored": 2
+      }
+    }
+  ],
+  "inherited_code_sha256": "cb67b183d51158d20a1715f21d79c0d1ea12d7adf81d641be3d4ab9c9b139b58",
+  "threshold": {
+    "net_A": 1.5,
+    "span_fs": 200,
+    "straightness_min": 0.7,
+    "post_fs": 200,
+    "pair_gap_fs": 800,
+    "pair_tol_A": 0.35
+  },
+  "rule_events_are_not_true_hop_counts": true
+}

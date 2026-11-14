@@ -1,0 +1,237 @@
+{
+  "schema": "msd22.mo.environment.v1",
+  "frames": 1000,
+  "interval_ps": 0.02,
+  "center_elements": {
+    "Na": 54,
+    "Mo": 18
+  },
+  "CN": {
+    "Na": {
+      "CN_total": {
+        "n": 54000,
+        "mean": 4.521055555555556,
+        "min": 0.0,
+        "median": 5.0,
+        "max": 9.0
+      },
+      "CN_O": {
+        "n": 54000,
+        "mean": 2.1040555555555556,
+        "min": 0.0,
+        "median": 2.0,
+        "max": 6.0
+      },
+      "CN_F": {
+        "n": 54000,
+        "mean": 2.417,
+        "min": 0.0,
+        "median": 2.0,
+        "max": 7.0
+      }
+    },
+    "Mo": {
+      "CN_total": {
+        "n": 18000,
+        "mean": 5.714666666666667,
+        "min": 4.0,
+        "median": 6.0,
+        "max": 6.0
+      },
+      "CN_O": {
+        "n": 18000,
+        "mean": 3.0,
+        "min": 3.0,
+        "median": 3.0,
+        "max": 3.0
+      },
+      "CN_F": {
+        "n": 18000,
+        "mean": 2.7146666666666666,
+        "min": 1.0,
+        "median": 3.0,
+        "max": 3.0
+      }
+    }
+  },
+  "CN_hist": {
+    "Na": {
+      "6": 9604,
+      "3": 7648,
+      "2": 1762,
+      "1": 182,
+      "4": 15820,
+      "5": 18153,
+      "7": 791,
+      "8": 34,
+      "0": 5,
+      "9": 1
+    },
+    "Mo": {
+      "6": 13128,
+      "5": 4608,
+      "4": 264
+    }
+  },
+  "retained_initial_ligand_atom_ID": {
+    "Na": {
+      "n": 54000,
+      "mean": 0.34424691358024695,
+      "min": 0.0,
+      "median": 0.3333333333333333,
+      "max": 1.0
+    },
+    "Mo": {
+      "n": 18000,
+      "mean": 0.9524444444444444,
+      "min": 0.6666666666666666,
+      "median": 1.0,
+      "max": 1.0
+    }
+  },
+  "bond_distortion": {
+    "Na": {
+      "n": 53995,
+      "mean": 0.05124478912093599,
+      "min": 0.0,
+      "median": 0.05054719320599709,
+      "max": 0.158293034345659
+    },
+    "Mo": {
+      "n": 18000,
+      "mean": 0.08484145931992541,
+      "min": 0.013608424886979976,
+      "median": 0.08523617432119271,
+      "max": 0.14204459309704495
+    }
+  },
+  "periodic_rank_frame_hist": {
+    "Mo_shared": {
+      "0": 1000
+    },
+    "nonNa_cation_ligand_bipartite": {
+      "0": 1000
+    },
+    "Na_shared": {
+      "3": 989,
+      "2": 11
+    }
+  },
+  "Mo_is_all_nonNa_cation": true,
+  "nonNa_bipartite_includes_O_F_vertices": true,
+  "segments": {
+    "Mo_ligand_contacts": {
+      "n_segments": 2964,
+      "n_duration_ge200fs": 1511,
+      "longest_ps": 19.98,
+      "all_frames_contiguous": true,
+      "interval_ps": 0.02
+    },
+    "Mo_shared_contacts": {
+      "n_segments": 0,
+      "n_duration_ge200fs": 0,
+      "longest_ps": 0.0,
+      "all_frames_contiguous": true,
+      "interval_ps": 0.02
+    },
+    "Mo_shared_geometry": {
+      "n_segments": 0,
+      "n_duration_ge200fs": 0,
+      "longest_ps": 0.0,
+      "all_frames_contiguous": true,
+      "interval_ps": 0.02
+    }
+  },
+  "cutoff_sensitivity_100fs": {
+    "-0.1": {
+      "Na_CN": {
+        "n": 10854,
+        "mean": 3.7876358946010686,
+        "min": 0.0,
+        "median": 4.0,
+        "max": 7.0
+      },
+      "Mo_CN": {
+        "n": 3618,
+        "mean": 5.31232725262576,
+        "min": 3.0,
+        "median": 5.0,
+        "max": 6.0
+      },
+      "Mo_rank": {
+        "n": 201,
+        "mean": 0.0,
+        "min": 0.0,
+        "median": 0.0,
+        "max": 0.0
+      }
+    },
+    "0.1": {
+      "Na_CN": {
+        "n": 10854,
+        "mean": 5.14713469688594,
+        "min": 1.0,
+        "median": 5.0,
+        "max": 9.0
+      },
+      "Mo_CN": {
+        "n": 3618,
+        "mean": 5.8969043670536205,
+        "min": 4.0,
+        "median": 6.0,
+        "max": 6.0
+      },
+      "Mo_rank": {
+        "n": 201,
+        "mean": 0.0,
+        "min": 0.0,
+        "median": 0.0,
+        "max": 0.0
+      }
+    }
+  },
+  "geometry_low_dimension_limit": "3D hull unresolved for fewer than four/nonspatial ligand points; shared identities still saved",
+  "phase_environment_rows": 6903,
+  "host_endpoint": {
+    "frame": 999,
+    "absolute_ps": 20.0,
+    "host_rigid": {
+      "rotation": [
+        [
+          0.9997218532155803,
+          0.010764814466287739,
+          -0.020984160043038026
+        ],
+        [
+          -0.009982513680552599,
+          0.9992640957022031,
+          0.03703534070419101
+        ],
+        [
+          0.021367396280853043,
+          -0.03681556477855956,
+          0.999093613514876
+        ]
+      ],
+      "translation": [
+        0.09104784418509304,
+        0.15408847777660029,
+        -0.01177016586936741
+      ],
+      "rms_nonrigid_A": 2.3819610758557097,
+      "rotation_identifiable": true,
+      "rotation_angle_deg": 2.5110622925607977
+    },
+    "Mo_RMS_A": 0.5167621136392566,
+    "O_RMS_A": 2.5734024647801625,
+    "F_RMS_A": 2.573858418448192
+  },
+  "fixed_Mo_nonrigid_RMS_A": {
+    "n": 3618,
+    "mean": 0.21909614209277603,
+    "min": 3.300171788787641e-16,
+    "median": 0.21229504484460532,
+    "max": 0.5877020384163653
+  },
+  "scientific_acceptance": "UNVERIFIED"
+}

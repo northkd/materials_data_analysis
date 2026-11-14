@@ -1,0 +1,199 @@
+{
+  "summaries": [
+    {
+      "window": "full",
+      "events": 259,
+      "outcomes": {
+        "persistent": 196,
+        "back_forth": 8,
+        "transient": 52,
+        "right_censored": 3
+      },
+      "clean_sameNa_controls": 259,
+      "full_event_phases": 244,
+      "fixed200_complete": 244
+    },
+    {
+      "window": "common0to20_available",
+      "events": 259,
+      "outcomes": {
+        "persistent": 196,
+        "back_forth": 8,
+        "transient": 52,
+        "right_censored": 3
+      },
+      "clean_sameNa_controls": 259,
+      "full_event_phases": 244,
+      "fixed200_complete": 244
+    },
+    {
+      "window": "after4",
+      "events": 167,
+      "outcomes": {
+        "back_forth": 6,
+        "transient": 45,
+        "persistent": 113,
+        "right_censored": 3
+      },
+      "clean_sameNa_controls": 167,
+      "full_event_phases": 161,
+      "fixed200_complete": 161
+    },
+    {
+      "window": "late10",
+      "events": 103,
+      "outcomes": {
+        "transient": 31,
+        "persistent": 67,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 103,
+      "full_event_phases": 97,
+      "fixed200_complete": 97
+    }
+  ],
+  "threshold_sensitivity": [
+    {
+      "window": "full",
+      "threshold_A": 1.2,
+      "n_events": 313,
+      "outcomes": {
+        "persistent": 238,
+        "back_forth": 14,
+        "transient": 58,
+        "right_censored": 3
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.5,
+      "n_events": 259,
+      "outcomes": {
+        "persistent": 196,
+        "back_forth": 8,
+        "transient": 52,
+        "right_censored": 3
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.8,
+      "n_events": 196,
+      "outcomes": {
+        "persistent": 153,
+        "transient": 40,
+        "back_forth": 2,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.2,
+      "n_events": 313,
+      "outcomes": {
+        "persistent": 238,
+        "back_forth": 14,
+        "transient": 58,
+        "right_censored": 3
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.5,
+      "n_events": 259,
+      "outcomes": {
+        "persistent": 196,
+        "back_forth": 8,
+        "transient": 52,
+        "right_censored": 3
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.8,
+      "n_events": 196,
+      "outcomes": {
+        "persistent": 153,
+        "transient": 40,
+        "back_forth": 2,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.2,
+      "n_events": 211,
+      "outcomes": {
+        "back_forth": 8,
+        "persistent": 151,
+        "transient": 49,
+        "right_censored": 3
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.5,
+      "n_events": 167,
+      "outcomes": {
+        "back_forth": 6,
+        "transient": 45,
+        "persistent": 113,
+        "right_censored": 3
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.8,
+      "n_events": 114,
+      "outcomes": {
+        "transient": 30,
+        "persistent": 81,
+        "back_forth": 2,
+        "right_censored": 1
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.2,
+      "n_events": 131,
+      "outcomes": {
+        "persistent": 91,
+        "back_forth": 4,
+        "transient": 33,
+        "right_censored": 3
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.5,
+      "n_events": 103,
+      "outcomes": {
+        "transient": 31,
+        "persistent": 67,
+        "right_censored": 3,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.8,
+      "n_events": 69,
+      "outcomes": {
+        "transient": 23,
+        "persistent": 45,
+        "right_censored": 1
+      }
+    }
+  ],
+  "inherited_code_sha256": "cb67b183d51158d20a1715f21d79c0d1ea12d7adf81d641be3d4ab9c9b139b58",
+  "threshold": {
+    "net_A": 1.5,
+    "span_fs": 200,
+    "straightness_min": 0.7,
+    "post_fs": 200,
+    "pair_gap_fs": 800,
+    "pair_tol_A": 0.35
+  },
+  "rule_events_are_not_true_hop_counts": true
+}

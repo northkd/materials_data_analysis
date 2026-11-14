@@ -1,0 +1,283 @@
+{
+  "summaries": [
+    {
+      "window": "full",
+      "events": 406,
+      "outcomes": {
+        "transient": 152,
+        "persistent": 245,
+        "back_forth": 2,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 406,
+      "full_event_phases": 399,
+      "fixed200_complete": 399
+    },
+    {
+      "window": "common0to20_available",
+      "events": 406,
+      "outcomes": {
+        "transient": 152,
+        "persistent": 245,
+        "back_forth": 2,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 406,
+      "full_event_phases": 399,
+      "fixed200_complete": 399
+    },
+    {
+      "window": "after4",
+      "events": 344,
+      "outcomes": {
+        "persistent": 212,
+        "transient": 123,
+        "back_forth": 2,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 344,
+      "full_event_phases": 332,
+      "fixed200_complete": 332
+    },
+    {
+      "window": "fixed4to14",
+      "events": 200,
+      "outcomes": {
+        "persistent": 118,
+        "transient": 76,
+        "right_censored": 4,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 200,
+      "full_event_phases": 191,
+      "fixed200_complete": 191
+    },
+    {
+      "window": "tail10",
+      "events": 230,
+      "outcomes": {
+        "persistent": 150,
+        "transient": 71,
+        "back_forth": 2,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 230,
+      "full_event_phases": 218,
+      "fixed200_complete": 218
+    },
+    {
+      "window": "tail5",
+      "events": 119,
+      "outcomes": {
+        "persistent": 76,
+        "transient": 36,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 110,
+      "full_event_phases": 104,
+      "fixed200_complete": 104
+    }
+  ],
+  "threshold_sensitivity": [
+    {
+      "window": "full",
+      "threshold_A": 1.2,
+      "n_events": 631,
+      "outcomes": {
+        "transient": 184,
+        "persistent": 433,
+        "back_forth": 2,
+        "right_censored": 12
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.5,
+      "n_events": 406,
+      "outcomes": {
+        "transient": 152,
+        "persistent": 245,
+        "back_forth": 2,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.8,
+      "n_events": 242,
+      "outcomes": {
+        "transient": 105,
+        "persistent": 132,
+        "right_censored": 5
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.2,
+      "n_events": 631,
+      "outcomes": {
+        "transient": 184,
+        "persistent": 433,
+        "back_forth": 2,
+        "right_censored": 12
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.5,
+      "n_events": 406,
+      "outcomes": {
+        "transient": 152,
+        "persistent": 245,
+        "back_forth": 2,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.8,
+      "n_events": 242,
+      "outcomes": {
+        "transient": 105,
+        "persistent": 132,
+        "right_censored": 5
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.2,
+      "n_events": 528,
+      "outcomes": {
+        "transient": 151,
+        "persistent": 363,
+        "back_forth": 2,
+        "right_censored": 12
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.5,
+      "n_events": 344,
+      "outcomes": {
+        "persistent": 212,
+        "transient": 123,
+        "back_forth": 2,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.8,
+      "n_events": 213,
+      "outcomes": {
+        "persistent": 118,
+        "transient": 90,
+        "right_censored": 5
+      }
+    },
+    {
+      "window": "fixed4to14",
+      "threshold_A": 1.2,
+      "n_events": 311,
+      "outcomes": {
+        "transient": 91,
+        "persistent": 212,
+        "right_censored": 6,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "fixed4to14",
+      "threshold_A": 1.5,
+      "n_events": 200,
+      "outcomes": {
+        "persistent": 118,
+        "transient": 76,
+        "right_censored": 4,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "fixed4to14",
+      "threshold_A": 1.8,
+      "n_events": 124,
+      "outcomes": {
+        "transient": 58,
+        "persistent": 63,
+        "right_censored": 3
+      }
+    },
+    {
+      "window": "tail10",
+      "threshold_A": 1.2,
+      "n_events": 356,
+      "outcomes": {
+        "persistent": 244,
+        "transient": 98,
+        "back_forth": 2,
+        "right_censored": 12
+      }
+    },
+    {
+      "window": "tail10",
+      "threshold_A": 1.5,
+      "n_events": 230,
+      "outcomes": {
+        "persistent": 150,
+        "transient": 71,
+        "back_forth": 2,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "tail10",
+      "threshold_A": 1.8,
+      "n_events": 146,
+      "outcomes": {
+        "persistent": 93,
+        "transient": 48,
+        "right_censored": 5
+      }
+    },
+    {
+      "window": "tail5",
+      "threshold_A": 1.2,
+      "n_events": 180,
+      "outcomes": {
+        "persistent": 125,
+        "transient": 43,
+        "right_censored": 12
+      }
+    },
+    {
+      "window": "tail5",
+      "threshold_A": 1.5,
+      "n_events": 119,
+      "outcomes": {
+        "persistent": 76,
+        "transient": 36,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "tail5",
+      "threshold_A": 1.8,
+      "n_events": 79,
+      "outcomes": {
+        "persistent": 47,
+        "transient": 27,
+        "right_censored": 5
+      }
+    }
+  ],
+  "inherited_code_sha256": "cb67b183d51158d20a1715f21d79c0d1ea12d7adf81d641be3d4ab9c9b139b58",
+  "threshold": {
+    "net_A": 1.5,
+    "span_fs": 200,
+    "straightness_min": 0.7,
+    "post_fs": 200,
+    "pair_gap_fs": 800,
+    "pair_tol_A": 0.35
+  },
+  "rule_events_are_not_true_hop_counts": true
+}

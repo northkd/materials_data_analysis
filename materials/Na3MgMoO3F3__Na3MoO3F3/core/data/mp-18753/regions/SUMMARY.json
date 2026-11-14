@@ -1,0 +1,117 @@
+{
+  "schema": "msd22.mo.regions-space.v1",
+  "reference_definition": "54 first-saved occupied Na positions; global nonNa translation or fixed nearest-four-Mo mean translation",
+  "radii_A": [
+    0.6,
+    0.8,
+    1.0
+  ],
+  "minimum_residence_ps": 0.2,
+  "continuous_duration": "(last-first) saved-time; singleton zero, no interpolation",
+  "complete_site_universe": false,
+  "reference_summary": {
+    "global_host_0.6": {
+      "assigned_atom_fraction": 0.473,
+      "unassigned_atom_fraction": 0.527,
+      "ambiguous_atom_fraction": 0.0,
+      "mean_uncovered_initial_references": 28.458,
+      "mean_multiple_occupied_initial_references": 0.0,
+      "foreign_visits_ge200fs": 0,
+      "foreign_Na_ge200fs": [],
+      "initial_reference_capacity_known": false
+    },
+    "global_host_0.8": {
+      "assigned_atom_fraction": 0.6972777777777778,
+      "unassigned_atom_fraction": 0.3027222222222222,
+      "ambiguous_atom_fraction": 0.0,
+      "mean_uncovered_initial_references": 16.347,
+      "mean_multiple_occupied_initial_references": 0.0,
+      "foreign_visits_ge200fs": 0,
+      "foreign_Na_ge200fs": [],
+      "initial_reference_capacity_known": false
+    },
+    "global_host_1.0": {
+      "assigned_atom_fraction": 0.8568333333333333,
+      "unassigned_atom_fraction": 0.14316666666666666,
+      "ambiguous_atom_fraction": 0.0,
+      "mean_uncovered_initial_references": 7.731,
+      "mean_multiple_occupied_initial_references": 0.0,
+      "foreign_visits_ge200fs": 0,
+      "foreign_Na_ge200fs": [],
+      "initial_reference_capacity_known": false
+    },
+    "local_four_Mo_0.6": {
+      "assigned_atom_fraction": 0.5912407407407407,
+      "unassigned_atom_fraction": 0.40875925925925927,
+      "ambiguous_atom_fraction": 0.0,
+      "mean_uncovered_initial_references": 22.073,
+      "mean_multiple_occupied_initial_references": 0.0,
+      "foreign_visits_ge200fs": 0,
+      "foreign_Na_ge200fs": [],
+      "initial_reference_capacity_known": false
+    },
+    "local_four_Mo_0.8": {
+      "assigned_atom_fraction": 0.8112962962962963,
+      "unassigned_atom_fraction": 0.1887037037037037,
+      "ambiguous_atom_fraction": 0.0,
+      "mean_uncovered_initial_references": 10.19,
+      "mean_multiple_occupied_initial_references": 0.0,
+      "foreign_visits_ge200fs": 0,
+      "foreign_Na_ge200fs": [],
+      "initial_reference_capacity_known": false
+    },
+    "local_four_Mo_1.0": {
+      "assigned_atom_fraction": 0.9332777777777778,
+      "unassigned_atom_fraction": 0.06672222222222222,
+      "ambiguous_atom_fraction": 0.0,
+      "mean_uncovered_initial_references": 3.603,
+      "mean_multiple_occupied_initial_references": 0.0,
+      "foreign_visits_ge200fs": 0,
+      "foreign_Na_ge200fs": [],
+      "initial_reference_capacity_known": false
+    }
+  },
+  "transition_count": 0,
+  "primary_transition_count": 0,
+  "space_frame_count": 41,
+  "space_frame_spacing_ps": 0.5,
+  "space_open_fraction": {
+    "1.2": {
+      "n": 41,
+      "mean": 0.6228545618789522,
+      "min": 0.5925925925925926,
+      "median": 0.6234567901234568,
+      "max": 0.6358024691358025
+    },
+    "1.5": {
+      "n": 41,
+      "mean": 0.3615753287162501,
+      "min": 0.3469650205761317,
+      "median": 0.3626543209876543,
+      "max": 0.3683127572016461
+    },
+    "1.8": {
+      "n": 41,
+      "mean": 0.11942938873833184,
+      "min": 0.07407407407407407,
+      "median": 0.12114197530864197,
+      "max": 0.13271604938271606
+    }
+  },
+  "space_periodic_rank_hist": {
+    "1.2": {
+      "3": 41
+    },
+    "1.5": {
+      "0": 1,
+      "3": 40
+    },
+    "1.8": {
+      "0": 41
+    }
+  },
+  "density_Na_A-3": 0.023116684790185835,
+  "volume_per_Na_A3": 43.258798096539735,
+  "density_constant": true,
+  "scientific_acceptance": "UNVERIFIED"
+}

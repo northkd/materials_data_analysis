@@ -1,0 +1,354 @@
+{
+  "formula": "Na2Sn2C3O6F3",
+  "mp_id": "mp-560327",
+  "frames": 1000,
+  "atoms": 128,
+  "Na_n": 16,
+  "dt_ps": 0.02,
+  "first_absolute_ps": 0.02,
+  "last_absolute_ps": 20.0,
+  "span_ps": 19.98,
+  "cell_A": [
+    [
+      12.235536,
+      0.0,
+      0.0
+    ],
+    [
+      2.227732,
+      17.721462,
+      0.0
+    ],
+    [
+      1.279118,
+      2.994931,
+      8.778186
+    ]
+  ],
+  "volume_A3": 1903.3879949849875,
+  "Na_density_Aminus3": 0.008406063315601713,
+  "volume_per_Na_A3": 118.96174968656172,
+  "max_saved_increment_A": 1.1060312970458002,
+  "half_sigma_min_A": 4.292244029357013,
+  "saved_image_sufficient_certificate": true,
+  "motion_windows": [
+    {
+      "window": "full",
+      "start_frame": 0,
+      "end_frame": 999,
+      "start_absolute_ps": 0.02,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 19.98,
+      "endpoint_MSD_A2": 66.41272005949672,
+      "Na_gt2A": 15,
+      "mean_r90_A": 7.4811984564689915,
+      "top1_share": 0.1688002712965902,
+      "top3_share": 0.40635619408542134,
+      "top3_Na_1based": [
+        9,
+        7,
+        12
+      ],
+      "departures": 53,
+      "returns": 37
+    },
+    {
+      "window": "common0to20_available",
+      "start_frame": 0,
+      "end_frame": 999,
+      "start_absolute_ps": 0.02,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 19.98,
+      "endpoint_MSD_A2": 66.41272005949672,
+      "Na_gt2A": 15,
+      "mean_r90_A": 7.4811984564689915,
+      "top1_share": 0.1688002712965902,
+      "top3_share": 0.40635619408542134,
+      "top3_Na_1based": [
+        9,
+        7,
+        12
+      ],
+      "departures": 53,
+      "returns": 37
+    },
+    {
+      "window": "after4",
+      "start_frame": 199,
+      "end_frame": 999,
+      "start_absolute_ps": 4.0,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 16.0,
+      "endpoint_MSD_A2": 40.47986648951296,
+      "Na_gt2A": 15,
+      "mean_r90_A": 6.069222895978605,
+      "top1_share": 0.14868681455887056,
+      "top3_share": 0.401482570154628,
+      "top3_Na_1based": [
+        7,
+        8,
+        3
+      ],
+      "departures": 34,
+      "returns": 18
+    },
+    {
+      "window": "fixed4to14",
+      "start_frame": 199,
+      "end_frame": 699,
+      "start_absolute_ps": 4.0,
+      "end_absolute_ps": 14.0,
+      "observed_span_ps": 10.0,
+      "endpoint_MSD_A2": 23.81792946501956,
+      "Na_gt2A": 15,
+      "mean_r90_A": 4.753378503625073,
+      "top1_share": 0.13591308063025323,
+      "top3_share": 0.3615396128462057,
+      "top3_Na_1based": [
+        3,
+        8,
+        12
+      ],
+      "departures": 33,
+      "returns": 17
+    },
+    {
+      "window": "late10",
+      "start_frame": 499,
+      "end_frame": 999,
+      "start_absolute_ps": 10.0,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 10.0,
+      "endpoint_MSD_A2": 25.15410475296295,
+      "Na_gt2A": 15,
+      "mean_r90_A": 5.017575739580916,
+      "top1_share": 0.17595149305649974,
+      "top3_share": 0.45566500725592823,
+      "top3_Na_1based": [
+        9,
+        8,
+        3
+      ],
+      "departures": 33,
+      "returns": 18
+    },
+    {
+      "window": "late15",
+      "start_frame": 749,
+      "end_frame": 999,
+      "start_absolute_ps": 15.0,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 5.0,
+      "endpoint_MSD_A2": 13.813449703278119,
+      "Na_gt2A": 16,
+      "mean_r90_A": 3.862798226849761,
+      "top1_share": 0.16377937535345685,
+      "top3_share": 0.3390556522403854,
+      "top3_Na_1based": [
+        7,
+        2,
+        8
+      ],
+      "departures": 26,
+      "returns": 10
+    }
+  ],
+  "events": [
+    {
+      "window": "full",
+      "events": 223,
+      "outcomes": {
+        "persistent": 168,
+        "transient": 50,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 223,
+      "full_event_phases": 220,
+      "fixed200_complete": 220
+    },
+    {
+      "window": "common0to20_available",
+      "events": 223,
+      "outcomes": {
+        "persistent": 168,
+        "transient": 50,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 223,
+      "full_event_phases": 220,
+      "fixed200_complete": 220
+    },
+    {
+      "window": "after4",
+      "events": 181,
+      "outcomes": {
+        "persistent": 135,
+        "transient": 41,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 181,
+      "full_event_phases": 177,
+      "fixed200_complete": 177
+    },
+    {
+      "window": "late10",
+      "events": 109,
+      "outcomes": {
+        "persistent": 79,
+        "transient": 25,
+        "right_censored": 3,
+        "back_forth": 2
+      },
+      "clean_sameNa_controls": 109,
+      "full_event_phases": 103,
+      "fixed200_complete": 103
+    }
+  ],
+  "temperature_blocks": [
+    {
+      "absolute_interval_ps": [
+        0,
+        0.2
+      ],
+      "n_steps": 100,
+      "mean_T_K": 1205.63,
+      "min": {
+        "md_step": 1,
+        "absolute_ps": 0.002,
+        "T_K": 0.0,
+        "E_eV": -802.56224
+      },
+      "max": {
+        "md_step": 36,
+        "absolute_ps": 0.072,
+        "T_K": 13383.0,
+        "E_eV": -827.67315
+      },
+      "E_last_minus_first_eV": -13.105580000000032
+    },
+    {
+      "absolute_interval_ps": [
+        0.2,
+        2
+      ],
+      "n_steps": 900,
+      "mean_T_K": 1195.4388888888889,
+      "min": {
+        "md_step": 162,
+        "absolute_ps": 0.324,
+        "T_K": 753.0,
+        "E_eV": -815.62691
+      },
+      "max": {
+        "md_step": 182,
+        "absolute_ps": 0.364,
+        "T_K": 2101.0,
+        "E_eV": -815.75251
+      },
+      "E_last_minus_first_eV": 0.04934000000002925
+    },
+    {
+      "absolute_interval_ps": [
+        2,
+        4
+      ],
+      "n_steps": 1000,
+      "mean_T_K": 1200.669,
+      "min": {
+        "md_step": 1960,
+        "absolute_ps": 3.92,
+        "T_K": 924.0,
+        "E_eV": -815.59151
+      },
+      "max": {
+        "md_step": 1241,
+        "absolute_ps": 2.482,
+        "T_K": 1430.0,
+        "E_eV": -815.71766
+      },
+      "E_last_minus_first_eV": 0.07974999999999
+    },
+    {
+      "absolute_interval_ps": [
+        4,
+        10
+      ],
+      "n_steps": 3000,
+      "mean_T_K": 1199.985,
+      "min": {
+        "md_step": 2020,
+        "absolute_ps": 4.04,
+        "T_K": 930.0,
+        "E_eV": -815.56074
+      },
+      "max": {
+        "md_step": 4360,
+        "absolute_ps": 8.72,
+        "T_K": 1501.0,
+        "E_eV": -815.59074
+      },
+      "E_last_minus_first_eV": 0.10339999999996508
+    },
+    {
+      "absolute_interval_ps": [
+        10,
+        15
+      ],
+      "n_steps": 2500,
+      "mean_T_K": 1199.8436,
+      "min": {
+        "md_step": 6852,
+        "absolute_ps": 13.704,
+        "T_K": 971.0,
+        "E_eV": -815.43946
+      },
+      "max": {
+        "md_step": 5215,
+        "absolute_ps": 10.43,
+        "T_K": 1518.0,
+        "E_eV": -815.65484
+      },
+      "E_last_minus_first_eV": 0.02438999999992575
+    },
+    {
+      "absolute_interval_ps": [
+        15,
+        20
+      ],
+      "n_steps": 2500,
+      "mean_T_K": 1200.3284,
+      "min": {
+        "md_step": 9557,
+        "absolute_ps": 19.114,
+        "T_K": 899.0,
+        "E_eV": -815.44653
+      },
+      "max": {
+        "md_step": 8398,
+        "absolute_ps": 16.796,
+        "T_K": 1471.0,
+        "E_eV": -815.55441
+      },
+      "E_last_minus_first_eV": -0.017769999999927677
+    }
+  ],
+  "carbon_pair_analysis": {
+    "nearest_rows": 24000,
+    "contacts_lt1p9A_rows": 11978,
+    "definition": "Geometric C-C contact, not measured bond order or oxidation state"
+  },
+  "original_SHA_unchanged": true,
+  "runtime_s": 313.2397183050052,
+  "scientific_state": "UNVERIFIED",
+  "publication_authorized": false,
+  "limits": [
+    "one exact mp/run not independent seeds",
+    "reference balls are not complete site universe",
+    "Sn/C/O/F geometry not oxidation state or barrier",
+    "local_ZrSi_translation inherited field actually four nearest Sn IDs",
+    "no energy/force/new dynamics/room-temperature qualification"
+  ]
+}

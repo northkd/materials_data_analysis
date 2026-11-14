@@ -1,0 +1,422 @@
+{
+  "schema": "namnf3-existing-explanation.v1",
+  "science_recomputed": false,
+  "numbering": "Na/F正文1-based；保存CSV列名保原0/1-based",
+  "records": [
+    {
+      "id": "NMF-C01",
+      "statement": "全程少数Na后段远移，严格共同窗更短",
+      "support": "已支持",
+      "source": "results/motion_windows.csv",
+      "location": "reference=host_equal; all8windows",
+      "conditions": "same single 1200K run; endpoints not path lengths",
+      "saved_rows": [
+        {
+          "window": "full",
+          "reference": "host_equal",
+          "requested_ps": "[0.0, 30.0]",
+          "available_absolute_ps": "[0.02, 30.0]",
+          "n_frames": "1500",
+          "span_ps": "29.98",
+          "endpoint_mean_A": "1.1708565161194935",
+          "endpoint_median_A": "0.7723431990117391",
+          "endpoint_max_A": "6.244874126755878",
+          "endpoint_MSD_A2": "2.6968857443892134",
+          "n_Na_endpoint_ge1p5A": "8",
+          "n_Na_endpoint_ge3A": "3",
+          "top1_Na_0based": "5",
+          "top1_squared_displacement_fraction": "0.3012614715275454",
+          "top3_squared_displacement_fraction": "0.5538312798664932"
+        },
+        {
+          "window": "absolute0to20_available",
+          "reference": "host_equal",
+          "requested_ps": "[0.0, 20.0]",
+          "available_absolute_ps": "[0.02, 20.0]",
+          "n_frames": "1000",
+          "span_ps": "19.98",
+          "endpoint_mean_A": "0.656036092267576",
+          "endpoint_median_A": "0.5582578999586807",
+          "endpoint_max_A": "2.6659274447799897",
+          "endpoint_MSD_A2": "0.6054103909457648",
+          "n_Na_endpoint_ge1p5A": "1",
+          "n_Na_endpoint_ge3A": "0",
+          "top1_Na_0based": "5",
+          "top1_squared_displacement_fraction": "0.24457132877420384",
+          "top3_squared_displacement_fraction": "0.3679743312291838"
+        },
+        {
+          "window": "post4",
+          "reference": "host_equal",
+          "requested_ps": "[4.0, 30.0]",
+          "available_absolute_ps": "[4.0, 30.0]",
+          "n_frames": "1301",
+          "span_ps": "26.0",
+          "endpoint_mean_A": "1.1803519882669458",
+          "endpoint_median_A": "0.7420989450085926",
+          "endpoint_max_A": "5.993703059132384",
+          "endpoint_MSD_A2": "2.868181802518002",
+          "n_Na_endpoint_ge1p5A": "8",
+          "n_Na_endpoint_ge3A": "4",
+          "top1_Na_0based": "5",
+          "top1_squared_displacement_fraction": "0.26094112660439395",
+          "top3_squared_displacement_fraction": "0.5623424078097128"
+        },
+        {
+          "window": "post10",
+          "reference": "host_equal",
+          "requested_ps": "[10.0, 30.0]",
+          "available_absolute_ps": "[10.0, 30.0]",
+          "n_frames": "1001",
+          "span_ps": "20.0",
+          "endpoint_mean_A": "1.1960684740433134",
+          "endpoint_median_A": "0.8405290071189035",
+          "endpoint_max_A": "5.797940044162657",
+          "endpoint_MSD_A2": "2.6386743873042118",
+          "n_Na_endpoint_ge1p5A": "10",
+          "n_Na_endpoint_ge3A": "3",
+          "top1_Na_0based": "5",
+          "top1_squared_displacement_fraction": "0.2654119062385258",
+          "top3_squared_displacement_fraction": "0.5217969431041831"
+        },
+        {
+          "window": "post15",
+          "reference": "host_equal",
+          "requested_ps": "[15.0, 30.0]",
+          "available_absolute_ps": "[15.0, 30.0]",
+          "n_frames": "751",
+          "span_ps": "15.0",
+          "endpoint_mean_A": "1.240648073458634",
+          "endpoint_median_A": "0.853679886623704",
+          "endpoint_max_A": "5.72420852663314",
+          "endpoint_MSD_A2": "2.874131992895936",
+          "n_Na_endpoint_ge1p5A": "10",
+          "n_Na_endpoint_ge3A": "3",
+          "top1_Na_0based": "5",
+          "top1_squared_displacement_fraction": "0.23751057230328929",
+          "top3_squared_displacement_fraction": "0.5038960290313523"
+        },
+        {
+          "window": "post20",
+          "reference": "host_equal",
+          "requested_ps": "[20.0, 30.0]",
+          "available_absolute_ps": "[20.0, 30.0]",
+          "n_frames": "501",
+          "span_ps": "10.0",
+          "endpoint_mean_A": "1.1779780253195007",
+          "endpoint_median_A": "0.7738518113194108",
+          "endpoint_max_A": "4.53998671813637",
+          "endpoint_MSD_A2": "2.6091631658185857",
+          "n_Na_endpoint_ge1p5A": "8",
+          "n_Na_endpoint_ge3A": "4",
+          "top1_Na_0based": "33",
+          "top1_squared_displacement_fraction": "0.16457607039551275",
+          "top3_squared_displacement_fraction": "0.46008524679423685"
+        },
+        {
+          "window": "post25",
+          "reference": "host_equal",
+          "requested_ps": "[25.0, 30.0]",
+          "available_absolute_ps": "[25.0, 30.0]",
+          "n_frames": "251",
+          "span_ps": "5.0",
+          "endpoint_mean_A": "1.1518508748871819",
+          "endpoint_median_A": "0.9209949282241213",
+          "endpoint_max_A": "3.6135464251832685",
+          "endpoint_MSD_A2": "2.069887482616633",
+          "n_Na_endpoint_ge1p5A": "9",
+          "n_Na_endpoint_ge3A": "4",
+          "top1_Na_0based": "15",
+          "top1_squared_displacement_fraction": "0.13142539828670582",
+          "top3_squared_displacement_fraction": "0.36082789162240536"
+        },
+        {
+          "window": "post28",
+          "reference": "host_equal",
+          "requested_ps": "[28.0, 30.0]",
+          "available_absolute_ps": "[28.0, 30.0]",
+          "n_frames": "101",
+          "span_ps": "2.0",
+          "endpoint_mean_A": "1.0832100038357722",
+          "endpoint_median_A": "0.8303399388882161",
+          "endpoint_max_A": "3.5991002909310494",
+          "endpoint_MSD_A2": "1.9029768516849448",
+          "n_Na_endpoint_ge1p5A": "9",
+          "n_Na_endpoint_ge3A": "3",
+          "top1_Na_0based": "15",
+          "top1_squared_displacement_fraction": "0.14181205633941568",
+          "top3_squared_displacement_fraction": "0.3874268786695926"
+        }
+      ]
+    },
+    {
+      "id": "NMF-C02",
+      "statement": "换F不是持续远移的充分条件，Na44为本材反例",
+      "support": "已支持",
+      "source": "results/Na_motion_environment.csv.gz",
+      "location": "Na_0based in [5,43]; frames0,999,1499",
+      "conditions": "sameNa sameabsoluteTime; fixed2.8A and initialshell CN kept separate",
+      "saved_rows": [
+        {
+          "frame": "0",
+          "absolute_ps": "0.02",
+          "Na_0based": "5",
+          "distance_from_first_equal_A": "0.0",
+          "initial_shell_CN_F": "12",
+          "fixed2p8A_CN_F": "8",
+          "fixed3p2A_CN_F": "8",
+          "nearest_F6_atom0": "[101, 127, 233, 173, 185, 220]",
+          "nearest_F6_distance_A": "[2.1723653629737405, 2.2516378303099627, 2.4787545563285924, 2.6268303049219903, 2.6611863579433357, 2.6852255548138224]",
+          "translated_reference0_r0p8A": "5",
+          "rigid_reference0_r0p8A": "5"
+        },
+        {
+          "frame": "0",
+          "absolute_ps": "0.02",
+          "Na_0based": "43",
+          "distance_from_first_equal_A": "0.0",
+          "initial_shell_CN_F": "12",
+          "fixed2p8A_CN_F": "7",
+          "fixed3p2A_CN_F": "9",
+          "nearest_F6_atom0": "[221, 113, 173, 139, 151, 211]",
+          "nearest_F6_distance_A": "[2.0908494942810045, 2.174304121008337, 2.2672711074692904, 2.658046926565819, 2.6696243434986178, 2.725989638260885]",
+          "translated_reference0_r0p8A": "43",
+          "rigid_reference0_r0p8A": "43"
+        },
+        {
+          "frame": "999",
+          "absolute_ps": "20.0",
+          "Na_0based": "5",
+          "distance_from_first_equal_A": "2.6659274447799897",
+          "initial_shell_CN_F": "8",
+          "fixed2p8A_CN_F": "7",
+          "fixed3p2A_CN_F": "7",
+          "nearest_F6_atom0": "[169, 123, 211, 185, 113, 173]",
+          "nearest_F6_distance_A": "[2.2096393720041565, 2.223342172103396, 2.2700696447964974, 2.3270898910623097, 2.381053583235036, 2.438303642799703]",
+          "translated_reference0_r0p8A": "-1",
+          "rigid_reference0_r0p8A": "-1"
+        },
+        {
+          "frame": "999",
+          "absolute_ps": "20.0",
+          "Na_0based": "43",
+          "distance_from_first_equal_A": "0.8181975531498163",
+          "initial_shell_CN_F": "10",
+          "fixed2p8A_CN_F": "6",
+          "fixed3p2A_CN_F": "8",
+          "nearest_F6_atom0": "[137, 162, 211, 113, 232, 151]",
+          "nearest_F6_distance_A": "[1.9744728037891777, 2.2092794741811366, 2.284991649378295, 2.438829490201102, 2.4936363523956917, 2.515822425820019]",
+          "translated_reference0_r0p8A": "-1",
+          "rigid_reference0_r0p8A": "-1"
+        },
+        {
+          "frame": "1499",
+          "absolute_ps": "30.0",
+          "Na_0based": "5",
+          "distance_from_first_equal_A": "6.244874126755878",
+          "initial_shell_CN_F": "12",
+          "fixed2p8A_CN_F": "5",
+          "fixed3p2A_CN_F": "10",
+          "nearest_F6_atom0": "[113, 187, 234, 195, 135, 171]",
+          "nearest_F6_distance_A": "[2.2593534971700953, 2.2700612051367295, 2.3320104301542046, 2.611345864726956, 2.6216200692385825, 2.804562143183355]",
+          "translated_reference0_r0p8A": "15",
+          "rigid_reference0_r0p8A": "15"
+        },
+        {
+          "frame": "1499",
+          "absolute_ps": "30.0",
+          "Na_0based": "43",
+          "distance_from_first_equal_A": "0.7771622332301134",
+          "initial_shell_CN_F": "9",
+          "fixed2p8A_CN_F": "4",
+          "fixed3p2A_CN_F": "7",
+          "nearest_F6_atom0": "[199, 232, 113, 162, 173, 211]",
+          "nearest_F6_distance_A": "[2.156220174633421, 2.559077119094749, 2.6195085469872406, 2.687016593781914, 2.8606230877943446, 2.8774191832567944]",
+          "translated_reference0_r0p8A": "43",
+          "rigid_reference0_r0p8A": "43"
+        }
+      ]
+    },
+    {
+      "id": "NMF-C03",
+      "statement": "Na6相对选定F组位移仍保留，F组也有转动/形变；未识别MnF驱动",
+      "support": "部分支持",
+      "source": "results/events_full_reused.csv.gz",
+      "location": "event_id17,18,128",
+      "conditions": "fixed200fs center vs rigid endpoint are different quantities; F6 not guaranteed complete MnF unit",
+      "saved_rows": [
+        {
+          "event_id": "17",
+          "Na_0based": "5",
+          "Na_1based": "6",
+          "start_absolute_ps": "17.1",
+          "end_absolute_ps": "17.36",
+          "start_frame": "854",
+          "end_frame": "867",
+          "merged_net_A": "3.1769561068729595",
+          "outcome_rule": "persistent",
+          "local_200fs_center_separation_A": "2.72800640300883",
+          "global_200fs_center_separation_A": "2.8617398458893115",
+          "local_returned": "False",
+          "local_followup": "no_observed_return_right_censored",
+          "local_first_return_absolute_ps": "",
+          "local_rigid_endpoint_A": "3.09357938746006",
+          "ligand_rotation_deg": "8.97207554636717",
+          "ligand_nonrigid_A": "0.6757679113112168",
+          "control_id": "Na5:888:901",
+          "same_Na_full_phase_verified": "True",
+          "post_full": "True",
+          "fixed200_missing": "False",
+          "widest_local_fs": "400.0"
+        },
+        {
+          "event_id": "18",
+          "Na_0based": "5",
+          "Na_1based": "6",
+          "start_absolute_ps": "29.12",
+          "end_absolute_ps": "29.4",
+          "start_frame": "1455",
+          "end_frame": "1469",
+          "merged_net_A": "2.337941256936597",
+          "outcome_rule": "persistent",
+          "local_200fs_center_separation_A": "1.9068968047708441",
+          "global_200fs_center_separation_A": "1.7957975916778455",
+          "local_returned": "False",
+          "local_followup": "no_observed_return_right_censored",
+          "local_first_return_absolute_ps": "",
+          "local_rigid_endpoint_A": "2.0673621005719447",
+          "ligand_rotation_deg": "9.791364598859936",
+          "ligand_nonrigid_A": "0.8564457009906776",
+          "control_id": "Na5:1420:1434",
+          "same_Na_full_phase_verified": "True",
+          "post_full": "True",
+          "fixed200_missing": "False",
+          "widest_local_fs": "400.0"
+        },
+        {
+          "event_id": "128",
+          "Na_0based": "33",
+          "Na_1based": "34",
+          "start_absolute_ps": "22.2",
+          "end_absolute_ps": "22.44",
+          "start_frame": "1109",
+          "end_frame": "1121",
+          "merged_net_A": "1.903163307193008",
+          "outcome_rule": "persistent",
+          "local_200fs_center_separation_A": "1.9960287187667676",
+          "global_200fs_center_separation_A": "2.0711569126449745",
+          "local_returned": "False",
+          "local_followup": "no_observed_return_right_censored",
+          "local_first_return_absolute_ps": "",
+          "local_rigid_endpoint_A": "1.9051898850369748",
+          "ligand_rotation_deg": "11.031808964386236",
+          "ligand_nonrigid_A": "0.5098583463277221",
+          "control_id": "Na33:1142:1154",
+          "same_Na_full_phase_verified": "True",
+          "post_full": "True",
+          "fixed200_missing": "False",
+          "widest_local_fs": "400.0"
+        }
+      ]
+    },
+    {
+      "id": "NMF-C04",
+      "statement": "179返回/10右删失/8缺同档；Na44八事件均返回",
+      "support": "已支持",
+      "source": "results/events_full_reused.csv.gz",
+      "location": "local_followup; Na_1based44",
+      "conditions": "197 rule events, not lattice jumps or independent materials",
+      "saved_label_counts": {
+        "observed_return": 179,
+        "no_observed_return_right_censored": 10,
+        "missing_same_window_pre_or_post": 8
+      },
+      "Na44_rows": [
+        {
+          "event_id": "170",
+          "followup": "observed_return"
+        },
+        {
+          "event_id": "171",
+          "followup": "observed_return"
+        },
+        {
+          "event_id": "172",
+          "followup": "observed_return"
+        },
+        {
+          "event_id": "173",
+          "followup": "observed_return"
+        },
+        {
+          "event_id": "174",
+          "followup": "observed_return"
+        },
+        {
+          "event_id": "175",
+          "followup": "observed_return"
+        },
+        {
+          "event_id": "176",
+          "followup": "observed_return"
+        },
+        {
+          "event_id": "177",
+          "followup": "observed_return"
+        }
+      ]
+    },
+    {
+      "id": "NMF-C05",
+      "statement": "Mn共享F三维几何连通不能确定事件级MnF运动或低能通过",
+      "support": "部分支持",
+      "source": "results/S3_REUSED_REDUCTION.json",
+      "location": "all_frame_rank_counts; old_summary",
+      "conditions": "geometric contact threshold; no new unit motion attribution or energy",
+      "saved_rank_counts": {
+        "-0.1:strong_network": {
+          "3": 1487,
+          "1": 1,
+          "2": 12
+        },
+        "-0.1:nonNa_network": {
+          "3": 1487,
+          "1": 1,
+          "2": 12
+        },
+        "-0.1:Na_F_network": {
+          "3": 1500
+        },
+        "0.0:strong_network": {
+          "3": 1500
+        },
+        "0.0:nonNa_network": {
+          "3": 1500
+        },
+        "0.0:Na_F_network": {
+          "3": 1500
+        },
+        "0.1:strong_network": {
+          "3": 1500
+        },
+        "0.1:nonNa_network": {
+          "3": 1500
+        },
+        "0.1:Na_F_network": {
+          "3": 1500
+        }
+      }
+    },
+    {
+      "id": "NMF-C06",
+      "statement": "参考访问不等持续位点交换；B06及H/室温资格仍缺依据",
+      "support": "不足",
+      "source": "results/SUMMARY.json;A_B_H.csv;REPORT.md",
+      "location": "sustained_ge200fs_changes; B06,H01-H03; sections2-4",
+      "conditions": "initially occupied reference balls not full site universe; no new simulation",
+      "saved_sustained_ge200fs_changes": {}
+    }
+  ],
+  "scientific_status": "UNVERIFIED",
+  "publication_authorized": false
+}

@@ -1,0 +1,103 @@
+{
+  "schema": "mnv-strict-absolute-window.v1",
+  "formula": "Na2MnVF7",
+  "mp_id": "mp-1221472",
+  "run": "aimd_1200K",
+  "frames": 1000,
+  "Na": 24,
+  "absolute_start_ps": 0.02,
+  "absolute_end_ps": 20.0,
+  "saved_span_ps": 19.98,
+  "saved_dt_fs": 20,
+  "independent_material_n": 1,
+  "reference": "Saved unwrapped all-nonNa-translation-subtracted Na cart_A",
+  "motion": {
+    "endpoint_A": {
+      "mean": 1.8149257408643902,
+      "min": 0.17402540715292572,
+      "max": 4.201639238427257,
+      "median": 1.160996689752328
+    },
+    "max_A": {
+      "mean": 2.8709605731180807,
+      "min": 1.5911124165390198,
+      "max": 4.972286785979872,
+      "median": 2.0946729288045773
+    },
+    "r90_A": {
+      "mean": 2.089812364402157,
+      "min": 1.0485776096078578,
+      "max": 4.276587720037968,
+      "median": 1.2527557636550117
+    },
+    "path_A": {
+      "mean": 206.0580550144804,
+      "min": 188.75433917766657,
+      "max": 219.33919544796993,
+      "median": 205.73427082545234
+    }
+  },
+  "leave_return_pairs": 565,
+  "unreturned_leaves": 20,
+  "n_events": 280,
+  "outcomes": {
+    "persistent": 94,
+    "transient": 183,
+    "right_censored": 3
+  },
+  "clean_controls": 280,
+  "full_event_phases": 271,
+  "exact_saved_local_events": 279,
+  "paired_full_environment": 271,
+  "pair_statistics": {
+    "event_F_jaccard": {
+      "mean": 0.5567642689413909,
+      "min": 0.09090909090909091,
+      "max": 1.0,
+      "median": 0.5
+    },
+    "control_F_jaccard": {
+      "mean": 0.5871768707482994,
+      "min": 0.2,
+      "max": 1.0,
+      "median": 0.5
+    },
+    "host_center200_A": {
+      "mean": 0.7635241084936029,
+      "min": 0.09547908512132533,
+      "max": 4.166021605407312,
+      "median": 0.6544510759889351
+    },
+    "local_center200_A": {
+      "mean": 0.6901132635059156,
+      "min": 0.0362959472067032,
+      "max": 4.105346184292575,
+      "median": 0.5870978693774408
+    }
+  },
+  "endpoint_MSD_A2": 5.300276663410677,
+  "old_relative_window": {
+    "frames": 1001,
+    "absolute_start_ps": 0.02,
+    "absolute_end_ps": 20.02,
+    "events": 280
+  },
+  "full_reuse": {
+    "frames": 1500,
+    "start_abs_ps": 0.02,
+    "end_abs_ps": 30.0,
+    "events": 427,
+    "new_full_run_executed": false
+  },
+  "local_geometry_recalculated": false,
+  "raw_files_read": 0,
+  "scientific_acceptance": "UNVERIFIED",
+  "publication_authorized": false,
+  "definitions": {
+    "event": "1.5A/10 intervals=200fs; straightness>=0.7; original merge/outcome/control algorithms",
+    "control": "same-Na all strict-window events including current, +/-10 frames; union closed; full pre/mid/post clean",
+    "center": "fixed 200fs time-bin center=10 samples, exactly original [ts-10:ts),[te:te+10); not widest available",
+    "contact": "historical 10 sampled contacts span 180fs first-to-last; not event threshold",
+    "return": "all followup ends at frame999/20.00ps; no later return is imported"
+  }
+}

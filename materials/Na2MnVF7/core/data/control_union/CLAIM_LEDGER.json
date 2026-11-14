@@ -1,0 +1,55 @@
+{
+  "schema": "mnv-union2-claims.v1",
+  "scientific_acceptance": "UNVERIFIED",
+  "publication_authorized": false,
+  "claims": [
+    {
+      "id": "MNV-U2-C1",
+      "statement": "280个已选控制均避开full/oldcommon/strict同Na事件联合闭禁区，污染0、控制缺失0。",
+      "status": "已支持",
+      "source": "audit/control_audit.json",
+      "location": "全部event_id0至279；audit/summary.json::control_partition",
+      "conditions": "Na2MnVF7/mp-1221472；strict绝对0.02至20.00ps/1000帧，完整闭pre/body/post与每事件±10帧，端点触碰也相交；仅保存区间审计。"
+    },
+    {
+      "id": "MNV-U2-C2",
+      "statement": "987来源按同Na精确起止帧键去重为428事件键，保所有来源。",
+      "status": "已支持",
+      "source": "audit/normalized_events.json",
+      "location": "audit/summary.json::source_records_before_dedup/exact_unique_events/duplicate_source_records_collapsed",
+      "conditions": "strict280/full427/oldcommon280；三个窗原起点均0.02ps，Na局部/全局0至23；旧1001窗保留20.02ps标签。"
+    },
+    {
+      "id": "MNV-U2-C3",
+      "statement": "271个既有事件及控制双完整相位保持可比较；9个事件缺完整相位，配对差值不补造。",
+      "status": "已支持",
+      "source": "audit/control_audit.json",
+      "location": "event_full_phase/event_saved_phase_complete/paired_environment_usable/invalid_fields",
+      "conditions": "只确认既有比较的区间与相位适用性，不重新计算环境、均值或配对效应。"
+    },
+    {
+      "id": "MNV-U2-C4",
+      "statement": "Na0基3事件43缺精确旧局部记录，固定F/局部中心/刚体相位仍null。",
+      "status": "已支持",
+      "source": "audit/control_audit.json",
+      "location": "event_id43；audit/summary.json::exact_local_missing_ids；audit/CHECK.json::Na3 event43 exact local missing remains null",
+      "conditions": "截断到strict末帧999，未补坐标、未导入20ps以后返回。"
+    },
+    {
+      "id": "MNV-U2-C5",
+      "statement": "已选控制全部合格能够证明禁区集合全等或骨架驱动Na迁移。",
+      "status": "不足",
+      "source": "audit/summary.json",
+      "location": "ban_set_global_equality；REPORT.md第二节",
+      "conditions": "本任务只检查已选控制的适用性，既无全局集合等价声明，也无因果实验或能量证据。"
+    },
+    {
+      "id": "MNV-U2-C6",
+      "statement": "原运动、条件改造与用途解释沿用原四节作者，本次不改变数值或扩为用途合格。",
+      "status": "部分支持",
+      "source": "../Na2MnVF7_serial1/REPORT.md",
+      "location": "原第一至四节；本叶REPORT.md四节影响说明",
+      "conditions": "原科学独立接受UNVERIFIED；本次新增支持只限C1至C4的保存控制义务，H/B06/外发/发表未执行。"
+    }
+  ]
+}

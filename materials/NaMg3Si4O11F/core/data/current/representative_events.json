@@ -1,0 +1,186 @@
+{
+  "schema": "fof-namg-saved-representative-events.v1",
+  "selection": "已保存的具体个体与反例；非独立样本；摘录未重新筛选或计算事件",
+  "sources_relative_to_this_file": {
+    "S03": "../../control/ANALYSIS_COMPLETION_1/namg_completion/results/mp-1173560",
+    "S04": "../../materials/NaMg3Si4O11F/results/mp-1173631",
+    "C04": "../../control/ANALYSIS_COMPLETION_1/namg_completion/results/mp-1173631_common_absolute"
+  },
+  "examples": [
+    {
+      "id": "R03E0",
+      "mp_id": "mp-1173560",
+      "source": "S03/events.json",
+      "selector": {
+        "window": "full",
+        "Na_1based": 1,
+        "event_id": 0
+      },
+      "start_ps": 1.68,
+      "end_ps": 1.92,
+      "net_A": 2.769966211374798,
+      "merged_straightness": 0.6665408592551296,
+      "outcome": "persistent",
+      "fixed200_separation_A": 1.7696957653246694,
+      "first_return_global_frame": 105,
+      "first_return_absolute_ps": 2.12,
+      "control_start_relative_frame": 50,
+      "control_start_ps": 1.02,
+      "control_end_ps": 1.26,
+      "control200_separation_A": 0.5738526597182051,
+      "full_event_phase": true,
+      "control_full_phase": true,
+      "phases": [
+        {
+          "phase": "pre",
+          "frame": 73,
+          "absolute_ps": 1.48,
+          "O_CN": 6,
+          "F_CN": 0,
+          "mixed6_1based": [
+            133,
+            139,
+            157,
+            97,
+            169,
+            215
+          ]
+        },
+        {
+          "phase": "start",
+          "frame": 83,
+          "absolute_ps": 1.68,
+          "O_CN": 5,
+          "F_CN": 0,
+          "mixed6_1based": [
+            133,
+            169,
+            157,
+            215,
+            139,
+            227
+          ]
+        },
+        {
+          "phase": "mid",
+          "frame": 89,
+          "absolute_ps": 1.8,
+          "O_CN": 5,
+          "F_CN": 0,
+          "mixed6_1based": [
+            97,
+            215,
+            133,
+            173,
+            167,
+            139
+          ]
+        },
+        {
+          "phase": "end",
+          "frame": 95,
+          "absolute_ps": 1.92,
+          "O_CN": 6,
+          "F_CN": 1,
+          "mixed6_1based": [
+            109,
+            191,
+            173,
+            239,
+            137,
+            133
+          ]
+        },
+        {
+          "phase": "post",
+          "frame": 105,
+          "absolute_ps": 2.12,
+          "O_CN": 6,
+          "F_CN": 0,
+          "mixed6_1based": [
+            173,
+            133,
+            227,
+            109,
+            97,
+            139
+          ]
+        }
+      ],
+      "control_O_CN_by_phase": [
+        6,
+        5,
+        7,
+        5,
+        6
+      ],
+      "control_F_CN_by_phase": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "scope": "跨六窗同Na全部候选的联合闭禁区对照；五相位；未重算事件固定配体局部运动",
+      "interpretation": "配体身份和CN改变伴短时远离，随后返回；对照本身也有CN波动，不能据CN变化断因果"
+    },
+    {
+      "id": "R04M3",
+      "mp_id": "mp-1173631",
+      "source": "C04/per_Na_motion_environment.csv;S04/per_Na_motion.csv",
+      "selector": {
+        "Na_1based": 3
+      },
+      "common_endpoint_A": 2.528347805841505,
+      "common_mean_O_CN": 5.412,
+      "common_mean_F_CN": 1.763,
+      "full_endpoint_A": 1.0439455005254132,
+      "full_max_A": 3.1212181369089973,
+      "interpretation": "20ps时还远离，30ps末距离缩小；有限窗未返不等永不返，不按末点大小分稳定位置类型"
+    },
+    {
+      "id": "R03M9",
+      "mp_id": "mp-1173560",
+      "source": "S03/same_Na_environment_motion.csv;S03/per_Na_motion.csv",
+      "selector": {
+        "window": "full",
+        "Na_1based": 9
+      },
+      "endpoint_A": 0.31916173893074445,
+      "r90_A": 0.5923738565891304,
+      "mean_O_CN": 5.476,
+      "mean_F_CN": 0.0,
+      "interpretation": "短壳无F仍局部，反对F少必更快；编号不是可靠稳定晶格位点名"
+    },
+    {
+      "id": "R04E0C",
+      "mp_id": "mp-1173631",
+      "source": "C04/events.json",
+      "selector": {
+        "window": "common0to20_available",
+        "Na_1based": 1,
+        "event_id": 0
+      },
+      "start_ps": 0.06,
+      "end_ps": 0.28,
+      "net_A": 1.7859495959462968,
+      "outcome": "transient",
+      "full_event_phase": false,
+      "pre_global_frame": -8,
+      "pre_absolute_ps": null,
+      "pre_missing": true,
+      "fixed200_separation_A": null,
+      "control_start_relative_frame": 73,
+      "control_full_phase": true,
+      "interpretation": "事件前200fs落在轨迹外；干净对照存在也不能补造事件pre或dwell值"
+    }
+  ],
+  "limitations": [
+    "固定200fs前后中心分离与后单点persistent不同定义",
+    "返回对象为前中心附近，不是已证晶格位点",
+    "原04全程和后窗对照未在本叶复核跨窗联合禁区；新共同窗与03采用跨窗联合禁区",
+    "本叶不重跑检测、raw或固定配体诊断"
+  ],
+  "scientific_state": "UNVERIFIED",
+  "publication_authorized": false
+}

@@ -1,0 +1,205 @@
+{
+  "formula": "NaCa2TiSi2O8F",
+  "mp_id": "mp-1263670",
+  "directory": "30_NaCa2TiSi2O8F_mp-1263670",
+  "run": "aimd_1200K",
+  "n_frames": 1000,
+  "n_atoms": 240,
+  "counts": {
+    "Na": 16,
+    "Ca": 32,
+    "Ti": 16,
+    "Si": 32,
+    "O": 128,
+    "F": 16
+  },
+  "absolute_first_ps": 0.02,
+  "absolute_last_ps": 20.0,
+  "saved_span_ps": 19.98,
+  "dt_fs": 20.0,
+  "step0_added": false,
+  "volume_A3": 3329.44463409348,
+  "cell_A": [
+    [
+      11.632423,
+      0.0,
+      0.0
+    ],
+    [
+      0.014339,
+      15.135438,
+      0.0
+    ],
+    [
+      0.746204,
+      -3.795326,
+      18.910657
+    ]
+  ],
+  "Na_number_density_A3_inverse": 0.0048056062672315256,
+  "volume_per_Na_A3": 208.0902896308425,
+  "unwrap_audit": {
+    "complete_enumeration": true,
+    "vector_count": 239760,
+    "fast_sufficient_count": 239760,
+    "enumerated_vector_count": 0,
+    "enumerated_candidates": 0,
+    "tie_vector_count": 0,
+    "singular_min_lattice_lower_bound_A": 11.61603719817851,
+    "max_saved_increment_A": 1.8088538654494961,
+    "saved_increment_sufficient_certificate": true,
+    "note": "Saved-step shortest image geometry; unresolved interframe paths remain unknown"
+  },
+  "motion_windows": {
+    "full_saved": {
+      "first_ps": 0.02,
+      "last_ps": 20.0,
+      "n_frames": 1000,
+      "fit": {
+        "slope_A2_ps": 0.10602492044659384,
+        "intercept_A2": 0.9427021069327384,
+        "R2": 0.8815655687124537,
+        "exploratory_D_cm2_s": 1.7670820074432308e-06,
+        "n_lags": 490,
+        "first_lag_ps": 0.2,
+        "last_lag_ps": 9.98,
+        "transport_validated": false
+      },
+      "late_lag_fit": {
+        "slope_A2_ps": 0.06212776990113375,
+        "intercept_A2": 1.254460426290958,
+        "R2": 0.9073165890807091,
+        "exploratory_D_cm2_s": 1.0354628316855625e-06,
+        "n_lags": 250,
+        "first_lag_ps": 5.0,
+        "last_lag_ps": 9.98,
+        "transport_validated": false
+      },
+      "first_origin_last_MSD_A2": 2.2341683049643883
+    },
+    "absolute_0_20_available": {
+      "first_ps": 0.02,
+      "last_ps": 20.0,
+      "n_frames": 1000,
+      "fit": {
+        "slope_A2_ps": 0.10602492044659384,
+        "intercept_A2": 0.9427021069327384,
+        "R2": 0.8815655687124537,
+        "exploratory_D_cm2_s": 1.7670820074432308e-06,
+        "n_lags": 490,
+        "first_lag_ps": 0.2,
+        "last_lag_ps": 9.98,
+        "transport_validated": false
+      },
+      "late_lag_fit": {
+        "slope_A2_ps": 0.06212776990113375,
+        "intercept_A2": 1.254460426290958,
+        "R2": 0.9073165890807091,
+        "exploratory_D_cm2_s": 1.0354628316855625e-06,
+        "n_lags": 250,
+        "first_lag_ps": 5.0,
+        "last_lag_ps": 9.98,
+        "transport_validated": false
+      },
+      "first_origin_last_MSD_A2": 2.2341683049643883
+    },
+    "after_4ps": {
+      "first_ps": 4.0,
+      "last_ps": 20.0,
+      "n_frames": 801,
+      "fit": {
+        "slope_A2_ps": 0.03480056507355758,
+        "intercept_A2": 0.9363509412372525,
+        "R2": 0.5253000123277873,
+        "exploratory_D_cm2_s": 5.800094178926264e-07,
+        "n_lags": 391,
+        "first_lag_ps": 0.2,
+        "last_lag_ps": 8.0,
+        "transport_validated": false
+      },
+      "late_lag_fit": {
+        "slope_A2_ps": 0.012761883690203627,
+        "intercept_A2": 1.0540462813108074,
+        "R2": 0.2139055399319011,
+        "exploratory_D_cm2_s": 2.126980615033938e-07,
+        "n_lags": 201,
+        "first_lag_ps": 4.0,
+        "last_lag_ps": 8.0,
+        "transport_validated": false
+      },
+      "first_origin_last_MSD_A2": 2.0180901884959015
+    },
+    "late_half": {
+      "first_ps": 10.02,
+      "last_ps": 20.0,
+      "n_frames": 500,
+      "fit": {
+        "slope_A2_ps": 0.06391317317054615,
+        "intercept_A2": 0.7917551082320795,
+        "R2": 0.6032234797521625,
+        "exploratory_D_cm2_s": 1.0652195528424359e-06,
+        "n_lags": 240,
+        "first_lag_ps": 0.2,
+        "last_lag_ps": 4.98,
+        "transport_validated": false
+      },
+      "late_lag_fit": {
+        "slope_A2_ps": -0.03742515677691534,
+        "intercept_A2": 1.1767637175875187,
+        "R2": 0.6942484473433496,
+        "exploratory_D_cm2_s": -6.23752612948589e-07,
+        "n_lags": 125,
+        "first_lag_ps": 2.5,
+        "last_lag_ps": 4.98,
+        "transport_validated": false
+      },
+      "first_origin_last_MSD_A2": 0.921635872948239
+    }
+  },
+  "element_motion": {
+    "Ca": {
+      "final_raw_RMS_A": 0.9442389481555945,
+      "final_aligned_RMS_A": 0.9504990444829748
+    },
+    "F": {
+      "final_raw_RMS_A": 2.3449362536890956,
+      "final_aligned_RMS_A": 2.3354953102969707
+    },
+    "Na": {
+      "final_raw_RMS_A": 1.477787598772945,
+      "final_aligned_RMS_A": 1.4947134524598313
+    },
+    "O": {
+      "final_raw_RMS_A": 1.3439133708303557,
+      "final_aligned_RMS_A": 1.3400250902822495
+    },
+    "Si": {
+      "final_raw_RMS_A": 1.058955774193509,
+      "final_aligned_RMS_A": 1.0563762508053745
+    },
+    "Ti": {
+      "final_raw_RMS_A": 1.517225946338489,
+      "final_aligned_RMS_A": 1.5319272763908385
+    }
+  },
+  "host_max_translation_A": 0.10096192891981551,
+  "host_max_rigid_angle_deg": 3.6901233163143163,
+  "host_final_nonrigid_RMS_A": 1.34435226868371,
+  "events_1p5A_200fs_counts": {
+    "full_saved": 95,
+    "absolute_0_20_available": 95,
+    "after_4ps": 77,
+    "late_half": 42
+  },
+  "sameNa_events_control_missing": 0,
+  "environment_rows": 96000,
+  "graph_frames": 201,
+  "complete_site_universe": false,
+  "scientific_status": "UNVERIFIED",
+  "publicationAuthorized": false,
+  "limits": [
+    "No OUTCAR, pressure or DFT force proof",
+    "visited regions are not stable site universe",
+    "geometry does not prove energy barriers, transport, directionality or cause"
+  ]
+}

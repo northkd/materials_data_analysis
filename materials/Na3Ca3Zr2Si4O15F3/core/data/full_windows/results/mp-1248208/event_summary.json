@@ -1,0 +1,188 @@
+{
+  "summaries": [
+    {
+      "window": "full",
+      "events": 315,
+      "outcomes": {
+        "transient": 96,
+        "persistent": 212,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 314,
+      "full_event_phases": 300,
+      "fixed200_complete": 301
+    },
+    {
+      "window": "common0to20_available",
+      "events": 315,
+      "outcomes": {
+        "transient": 96,
+        "persistent": 212,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 314,
+      "full_event_phases": 300,
+      "fixed200_complete": 301
+    },
+    {
+      "window": "after4",
+      "events": 240,
+      "outcomes": {
+        "transient": 71,
+        "persistent": 162,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 239,
+      "full_event_phases": 228,
+      "fixed200_complete": 229
+    },
+    {
+      "window": "late10",
+      "events": 159,
+      "outcomes": {
+        "persistent": 108,
+        "transient": 44,
+        "right_censored": 7
+      },
+      "clean_sameNa_controls": 157,
+      "full_event_phases": 148,
+      "fixed200_complete": 149
+    }
+  ],
+  "threshold_sensitivity": [
+    {
+      "window": "full",
+      "threshold_A": 1.2,
+      "n_events": 406,
+      "outcomes": {
+        "persistent": 300,
+        "transient": 96,
+        "right_censored": 8,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.5,
+      "n_events": 315,
+      "outcomes": {
+        "transient": 96,
+        "persistent": 212,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "full",
+      "threshold_A": 1.8,
+      "n_events": 199,
+      "outcomes": {
+        "transient": 82,
+        "persistent": 113,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.2,
+      "n_events": 406,
+      "outcomes": {
+        "persistent": 300,
+        "transient": 96,
+        "right_censored": 8,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.5,
+      "n_events": 315,
+      "outcomes": {
+        "transient": 96,
+        "persistent": 212,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "common0to20_available",
+      "threshold_A": 1.8,
+      "n_events": 199,
+      "outcomes": {
+        "transient": 82,
+        "persistent": 113,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.2,
+      "n_events": 300,
+      "outcomes": {
+        "persistent": 211,
+        "transient": 79,
+        "right_censored": 8,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.5,
+      "n_events": 240,
+      "outcomes": {
+        "transient": 71,
+        "persistent": 162,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "after4",
+      "threshold_A": 1.8,
+      "n_events": 149,
+      "outcomes": {
+        "transient": 63,
+        "persistent": 82,
+        "right_censored": 4
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.2,
+      "n_events": 198,
+      "outcomes": {
+        "persistent": 137,
+        "transient": 51,
+        "right_censored": 8,
+        "back_forth": 2
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.5,
+      "n_events": 159,
+      "outcomes": {
+        "persistent": 108,
+        "transient": 44,
+        "right_censored": 7
+      }
+    },
+    {
+      "window": "late10",
+      "threshold_A": 1.8,
+      "n_events": 97,
+      "outcomes": {
+        "persistent": 53,
+        "transient": 40,
+        "right_censored": 4
+      }
+    }
+  ],
+  "inherited_code_sha256": "cb67b183d51158d20a1715f21d79c0d1ea12d7adf81d641be3d4ab9c9b139b58",
+  "threshold": {
+    "net_A": 1.5,
+    "span_fs": 200,
+    "straightness_min": 0.7,
+    "post_fs": 200,
+    "pair_gap_fs": 800,
+    "pair_tol_A": 0.35
+  },
+  "rule_events_are_not_true_hop_counts": true
+}

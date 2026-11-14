@@ -1,0 +1,142 @@
+[
+  {
+    "reference": "host_relative",
+    "lag_window_ps": [
+      0.1,
+      1.0
+    ],
+    "n_lags": 46,
+    "slope_A2_ps": 1.1796557296698964,
+    "intercept_A2": 0.8096634652326337,
+    "r2": 0.9704400763236174,
+    "D_slope_A2_ps": 0.19660928827831606,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "host_relative",
+    "lag_window_ps": [
+      0.5,
+      2.0
+    ],
+    "n_lags": 76,
+    "slope_A2_ps": 1.093727170101388,
+    "intercept_A2": 0.8718786187256785,
+    "r2": 0.9976397501265737,
+    "D_slope_A2_ps": 0.18228786168356467,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "host_relative",
+    "lag_window_ps": [
+      1.0,
+      5.0
+    ],
+    "n_lags": 201,
+    "slope_A2_ps": 1.0561408039556501,
+    "intercept_A2": 0.9140797549427425,
+    "r2": 0.9991894678236258,
+    "D_slope_A2_ps": 0.17602346732594168,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "host_relative",
+    "lag_window_ps": [
+      2.0,
+      10.0
+    ],
+    "n_lags": 401,
+    "slope_A2_ps": 1.3927347645111925,
+    "intercept_A2": -0.40171388601267055,
+    "r2": 0.9881254706363582,
+    "D_slope_A2_ps": 0.2321224607518654,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "host_relative",
+    "lag_window_ps": [
+      10.0,
+      19.98
+    ],
+    "n_lags": 500,
+    "slope_A2_ps": 1.6424455613156534,
+    "intercept_A2": -3.0377536798981475,
+    "r2": 0.9694264461535552,
+    "D_slope_A2_ps": 0.27374092688594226,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "raw",
+    "lag_window_ps": [
+      0.1,
+      1.0
+    ],
+    "n_lags": 46,
+    "slope_A2_ps": 1.150842015675472,
+    "intercept_A2": 0.7995036097897528,
+    "r2": 0.9699075340240196,
+    "D_slope_A2_ps": 0.19180700261257866,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "raw",
+    "lag_window_ps": [
+      0.5,
+      2.0
+    ],
+    "n_lags": 76,
+    "slope_A2_ps": 1.0744459086618694,
+    "intercept_A2": 0.8542426045498204,
+    "r2": 0.9975367197916488,
+    "D_slope_A2_ps": 0.17907431811031158,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "raw",
+    "lag_window_ps": [
+      1.0,
+      5.0
+    ],
+    "n_lags": 201,
+    "slope_A2_ps": 1.040746998599182,
+    "intercept_A2": 0.8899233780984925,
+    "r2": 0.9991483047361661,
+    "D_slope_A2_ps": 0.17345783309986365,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "raw",
+    "lag_window_ps": [
+      2.0,
+      10.0
+    ],
+    "n_lags": 401,
+    "slope_A2_ps": 1.3813143636601144,
+    "intercept_A2": -0.4386570050994113,
+    "r2": 0.9879518729830541,
+    "D_slope_A2_ps": 0.23021906061001907,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  },
+  {
+    "reference": "raw",
+    "lag_window_ps": [
+      10.0,
+      19.98
+    ],
+    "n_lags": 500,
+    "slope_A2_ps": 1.6364008226986382,
+    "intercept_A2": -3.128556478614703,
+    "r2": 0.9700288907440178,
+    "D_slope_A2_ps": 0.27273347044977303,
+    "formal_transport_qualification": false,
+    "correlated_lags_origins": true
+  }
+]

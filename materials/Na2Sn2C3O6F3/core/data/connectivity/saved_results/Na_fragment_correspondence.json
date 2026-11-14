@@ -1,0 +1,1831 @@
+{
+  "events": [
+    {
+      "event": "Na1_293_305",
+      "source_window": "after4",
+      "source_event_id": 0,
+      "start_global_frame": 293,
+      "end_global_frame": 305,
+      "separation200_A": 2.3645138744422547,
+      "return_frame_within_window": null,
+      "return_global_frame": null,
+      "return_absolute_ps": null,
+      "return_followup_ps": 13.88,
+      "right_censored_no_return": true,
+      "rule_outcome": "persistent",
+      "sameNa_closed_control_phase_checked_from_saved_bans": true,
+      "control_is_independent_sample": false
+    },
+    {
+      "event": "Na1_318_343",
+      "source_window": "after4",
+      "source_event_id": 1,
+      "start_global_frame": 318,
+      "end_global_frame": 343,
+      "separation200_A": 0.3882422348636715,
+      "return_frame_within_window": 144,
+      "return_global_frame": 343,
+      "return_absolute_ps": 6.88,
+      "return_followup_ps": 13.120000000000001,
+      "right_censored_no_return": false,
+      "rule_outcome": "persistent",
+      "sameNa_closed_control_phase_checked_from_saved_bans": true,
+      "control_is_independent_sample": false
+    }
+  ],
+  "phases": [
+    {
+      "event": "Na1_318_343",
+      "phase": "control_pre",
+      "frame": 237,
+      "absolute_ps": 4.76,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 6.824833215563768,
+        "y_A": 4.68832065772299,
+        "z_A": 8.671472152579737,
+        "radius_from_first_A": 4.725072698098582
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 68,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.4579973510338737,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 48,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                -1
+              ],
+              "distance_host_ligand_A": 1.259027544088573
+            }
+          ]
+        },
+        {
+          "ligand_1based": 71,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            1
+          ],
+          "distance_Na_ligand_A": 2.0734185327682373,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 43,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2629528345326018
+            }
+          ]
+        },
+        {
+          "ligand_1based": 113,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.172111594693978,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.004729884901962
+            }
+          ]
+        },
+        {
+          "ligand_1based": 117,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.1681520372457577,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.462358325956096
+            },
+            {
+              "center_1based": 31,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                -1
+              ],
+              "distance_host_ligand_A": 2.4447929132280737
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.381116421404962,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                1,
+                -1
+              ],
+              "distance_host_ligand_A": 2.130581326362147
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_293_305",
+      "phase": "control_pre",
+      "frame": 250,
+      "absolute_ps": 5.02,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 6.372455877895862,
+        "y_A": 4.76812154750549,
+        "z_A": 8.336937719422103,
+        "radius_from_first_A": 4.372960503671343
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 66,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            1
+          ],
+          "distance_Na_ligand_A": 2.6439377312925934,
+          "initial_C2O4_unit": "C41_C46",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                1,
+                0
+              ],
+              "distance_host_ligand_A": 2.5194906090572333
+            },
+            {
+              "center_1based": 46,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.3051624168819056
+            }
+          ]
+        },
+        {
+          "ligand_1based": 68,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.4440087647133852,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 19,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.46656150200177
+            },
+            {
+              "center_1based": 48,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                -1
+              ],
+              "distance_host_ligand_A": 1.2903763597016589
+            }
+          ]
+        },
+        {
+          "ligand_1based": 113,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.3069447402156196,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.0041547047773856
+            }
+          ]
+        },
+        {
+          "ligand_1based": 117,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.473212335356404,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.4111473222463653
+            },
+            {
+              "center_1based": 29,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.1608438223184536
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.004456350393,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                1,
+                -1
+              ],
+              "distance_host_ligand_A": 2.1235779050672625
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_293_305",
+      "phase": "control_post",
+      "frame": 282,
+      "absolute_ps": 5.66,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 5.842685846738053,
+        "y_A": 4.502671516722106,
+        "z_A": 7.635861016980125,
+        "radius_from_first_A": 3.5612232213636132
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 57,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.2679458556546135,
+          "initial_C2O4_unit": "C37_C49",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 49,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.229294198471034
+            }
+          ]
+        },
+        {
+          "ligand_1based": 113,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.642901425830999,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.0858951917631834
+            }
+          ]
+        },
+        {
+          "ligand_1based": 117,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.4212825066320334,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.3055018835649848
+            },
+            {
+              "center_1based": 29,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.2831168503011203
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.134977499000046,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                -1
+              ],
+              "distance_host_ligand_A": 2.261435810013858
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_318_343",
+      "phase": "control_post",
+      "frame": 282,
+      "absolute_ps": 5.66,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 5.842685846738053,
+        "y_A": 4.502671516722106,
+        "z_A": 7.635861016980125,
+        "radius_from_first_A": 3.5612232213636132
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 57,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.2679458556546135,
+          "initial_C2O4_unit": "C37_C49",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 49,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.229294198471034
+            }
+          ]
+        },
+        {
+          "ligand_1based": 113,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.642901425830999,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.0858951917631834
+            }
+          ]
+        },
+        {
+          "ligand_1based": 117,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.4212825066320334,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.3055018835649848
+            },
+            {
+              "center_1based": 29,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.2831168503011203
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.134977499000046,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                -1
+              ],
+              "distance_host_ligand_A": 2.261435810013858
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_293_305",
+      "phase": "pre",
+      "frame": 283,
+      "absolute_ps": 5.68,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 5.957339742834836,
+        "y_A": 4.555796377908109,
+        "z_A": 7.684329832896687,
+        "radius_from_first_A": 3.656223017187329
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 57,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.4553464231549293,
+          "initial_C2O4_unit": "C37_C49",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 49,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2346559961046397
+            }
+          ]
+        },
+        {
+          "ligand_1based": 68,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.408783443106445,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 48,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.3131163991510102
+            }
+          ]
+        },
+        {
+          "ligand_1based": 117,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.3606041732444685,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.3223180692198016
+            },
+            {
+              "center_1based": 29,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.081689412009315
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.386174677742907,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                -1
+              ],
+              "distance_host_ligand_A": 2.094544315273802
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_293_305",
+      "phase": "start",
+      "frame": 293,
+      "absolute_ps": 5.88,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 6.374356054264644,
+        "y_A": 4.964598652375563,
+        "z_A": 8.787775146173345,
+        "radius_from_first_A": 4.830273963540136
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 68,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.042119444349235,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 48,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.221861215450218
+            }
+          ]
+        },
+        {
+          "ligand_1based": 71,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            1
+          ],
+          "distance_Na_ligand_A": 2.548794847374548,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 43,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.291018643156286
+            }
+          ]
+        },
+        {
+          "ligand_1based": 117,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.5648925271410525,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.439443635901704
+            },
+            {
+              "center_1based": 29,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.1619099472239576
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            1
+          ],
+          "distance_Na_ligand_A": 2.152720248349125,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.222386271924278
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_293_305",
+      "phase": "end",
+      "frame": 305,
+      "absolute_ps": 6.12,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 5.547002644063746,
+        "y_A": 4.2289324020409795,
+        "z_A": 10.23482520252992,
+        "radius_from_first_A": 5.570712196381318
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 71,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.2697765453684613,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 43,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.3115422366037977
+            }
+          ]
+        },
+        {
+          "ligand_1based": 74,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.6627775921770667,
+          "initial_C2O4_unit": "C41_C46",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 29,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                -1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                1
+              ],
+              "distance_host_ligand_A": 2.453132107949009
+            },
+            {
+              "center_1based": 46,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.3689048970906772
+            }
+          ]
+        },
+        {
+          "ligand_1based": 110,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.4952852227140823,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.093721686334931
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            -1
+          ],
+          "distance_Na_ligand_A": 2.0465813050613226,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                1,
+                -1
+              ],
+              "distance_host_ligand_A": 2.0457209502363853
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_318_343",
+      "phase": "pre",
+      "frame": 308,
+      "absolute_ps": 6.18,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 5.451222064188331,
+        "y_A": 4.78679508897145,
+        "z_A": 10.499290637663407,
+        "radius_from_first_A": 6.034846215012262
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 71,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            -1
+          ],
+          "distance_Na_ligand_A": 2.320330421519779,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                -1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.1511038122856596
+            },
+            {
+              "center_1based": 43,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                -1
+              ],
+              "distance_host_ligand_A": 1.2628002752538106
+            }
+          ]
+        },
+        {
+          "ligand_1based": 74,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.496128619855719,
+          "initial_C2O4_unit": "C41_C46",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 29,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                -1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                1
+              ],
+              "distance_host_ligand_A": 2.211943605168746
+            },
+            {
+              "center_1based": 46,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.308863980636391
+            }
+          ]
+        },
+        {
+          "ligand_1based": 117,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            -1
+          ],
+          "distance_Na_ligand_A": 2.328654584930833,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 17,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                -1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.11555509849402
+            },
+            {
+              "center_1based": 29,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                -1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.587399701291152
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_293_305",
+      "phase": "post",
+      "frame": 315,
+      "absolute_ps": 6.32,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 5.268567168035196,
+        "y_A": 4.722474079082427,
+        "z_A": 10.961249366145164,
+        "radius_from_first_A": 6.417916849460734
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 71,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.098795267006886,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 43,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2460781473888227
+            }
+          ]
+        },
+        {
+          "ligand_1based": 74,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.5321260197392332,
+          "initial_C2O4_unit": "C41_C46",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 29,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                -1
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                1
+              ],
+              "distance_host_ligand_A": 2.4697989329465617
+            },
+            {
+              "center_1based": 46,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.271220826757448
+            }
+          ]
+        },
+        {
+          "ligand_1based": 85,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.177724721888868,
+          "initial_C2O4_unit": "C41_C46",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 41,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.212559019584637
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_318_343",
+      "phase": "start",
+      "frame": 318,
+      "absolute_ps": 6.38,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 4.771919319079066,
+        "y_A": 4.542000122559614,
+        "z_A": 11.046206543833287,
+        "radius_from_first_A": 6.4322578151599075
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 71,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.2151570357834953,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 43,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2423922412245982
+            }
+          ]
+        },
+        {
+          "ligand_1based": 74,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.2881227567169513,
+          "initial_C2O4_unit": "C41_C46",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 29,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                -1,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                1,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.639051615413711
+            },
+            {
+              "center_1based": 46,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2918748609331345
+            }
+          ]
+        },
+        {
+          "ligand_1based": 85,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.4977060353279175,
+          "initial_C2O4_unit": "C41_C46",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 41,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2142213556720622
+            }
+          ]
+        },
+        {
+          "ligand_1based": 101,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.5192821051639593,
+          "initial_C2O4_unit": "C37_C49",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 21,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.2074633486575825
+            },
+            {
+              "center_1based": 49,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.3142513295679163
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.6651110343150757,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.2127487387060474
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_318_343",
+      "phase": "end",
+      "frame": 343,
+      "absolute_ps": 6.88,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 5.116121448252937,
+        "y_A": 5.111848494468643,
+        "z_A": 10.198076404520005,
+        "radius_from_first_A": 5.915172602218641
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 76,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.555038126896431,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 48,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2615534987643262
+            }
+          ]
+        },
+        {
+          "ligand_1based": 93,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.3033421992705363,
+          "initial_C2O4_unit": "C33_C53",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 53,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.3304792898989044
+            }
+          ]
+        },
+        {
+          "ligand_1based": 118,
+          "type": "Na-F",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.604832383992597,
+          "initial_C2O4_unit": null,
+          "actual_host_neighbors": [
+            {
+              "center_1based": 20,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.1895145147702535
+            },
+            {
+              "center_1based": 26,
+              "type": "Sn-F",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.248808975570874
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    },
+    {
+      "event": "Na1_318_343",
+      "phase": "post",
+      "frame": 353,
+      "absolute_ps": 7.08,
+      "Na_1based": 1,
+      "actual_saved_host_equal_coordinates": {
+        "x_A": 5.925332420432887,
+        "y_A": 5.0310597815621,
+        "z_A": 11.486859947123897,
+        "radius_from_first_A": 7.068941059144964
+      },
+      "Na_ligand_host_links": [
+        {
+          "ligand_1based": 76,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.06891039849193,
+          "initial_C2O4_unit": "C43_C48",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 48,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2718262073266877
+            }
+          ]
+        },
+        {
+          "ligand_1based": 94,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            -1,
+            0
+          ],
+          "distance_Na_ligand_A": 2.4804271662704305,
+          "initial_C2O4_unit": "C34_C54",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 26,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.5985638005646114
+            },
+            {
+              "center_1based": 28,
+              "type": "Sn-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 2.4522969001896118
+            },
+            {
+              "center_1based": 54,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                -1,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.2947244897266108
+            }
+          ]
+        },
+        {
+          "ligand_1based": 101,
+          "type": "Na-O",
+          "image_Na_to_ligand": [
+            0,
+            0,
+            0
+          ],
+          "distance_Na_ligand_A": 2.2317328491748083,
+          "initial_C2O4_unit": "C37_C49",
+          "actual_host_neighbors": [
+            {
+              "center_1based": 49,
+              "type": "C-O",
+              "image_Na_to_center_via_ligand": [
+                0,
+                0,
+                0
+              ],
+              "host_to_ligand_image": [
+                0,
+                0,
+                0
+              ],
+              "distance_host_ligand_A": 1.347069708524668
+            }
+          ]
+        }
+      ],
+      "physical_passage_along_nonNa_edge": null,
+      "barrier_eV": null
+    }
+  ],
+  "definition": "saved phase endpoint frames start-10/end+10, not mean environmental structures; saved Na coordinates only",
+  "positions_of_host_atoms": null,
+  "energy_or_physical_passage": null
+}

@@ -1,0 +1,95 @@
+{
+  "schema": "vni-input2-claims.v1",
+  "scientific_acceptance": "UNVERIFIED",
+  "publication_authorized": false,
+  "claims": [
+    {
+      "id": "C01",
+      "statement": "严格1000帧时标物种索引匹配；轨迹自身cell与旧identity精确一致",
+      "support": "已支持",
+      "source": "recovered_input/DIAGNOSTICS.json;INPUT_VALIDATION.json;IDENTITY_DECISION.json",
+      "location": "time_axis/source_expanded_labels/source_element_indices_zero_based/XDATCAR_cell_A",
+      "conditions": "仅mp1191842 aimd1200K；POSCAR差4.3e-7Å和原strict false保留；不改容差"
+    },
+    {
+      "id": "C02",
+      "statement": "32Na严格向量和周期展开锚匹配旧保存前缀",
+      "support": "已支持",
+      "source": "results/ANCHOR_CHECK.json;results/UNWRAP_AUDIT.json;results/per_na_vectors_20fs.csv",
+      "location": "32000 radial/1000 first_origin/259 event vector checks",
+      "conditions": "host_equal第一保存帧0.02ps参考；MIC保存步几何；未解析20fs内路径"
+    },
+    {
+      "id": "C03",
+      "statement": "宿主等权参考末端均1.7282682115163657Å，MSD5.536915155450616Å²，20fs折线路径均206.7593714901675Å",
+      "support": "已支持",
+      "source": "results/SUMMARY.json;results/per_na_vector_motion.csv",
+      "location": "endpoint_mean_A/first_origin_endpoint_MSD_A2/saved_step_path_mean_A",
+      "conditions": "路径累计热振动和往返，不是跨位点输运距离"
+    },
+    {
+      "id": "C04",
+      "statement": "五参考各999 lag多原点MSD和32Na逐Na曲线已计算",
+      "support": "已支持",
+      "source": "results/msd_strict1000.csv;results/per_na_multi_origin_msd.csv;results/fit_diagnostics.csv",
+      "location": "4995 MSD rows/31968 perNa rows/15 fit rows",
+      "conditions": "相关origins/lags和lag依赖；formal_D与conductivity为null"
+    },
+    {
+      "id": "C05",
+      "statement": "259既选对照完整前中后区间避开同Na所有保存窗加strict事件联合闭禁区",
+      "support": "已支持",
+      "source": "results/CONTROL_UNION_AUDIT.json;../Na2VNiF7/results/UNION_BANS.json;../Na2VNiF7/results/PREFIX_CERTIFICATE.json",
+      "location": "259 controls/invalid_ids empty/source_union_equals_saved",
+      "conditions": "±10frame闭区间；不重检测/重选；控制可重复且非独立样本"
+    },
+    {
+      "id": "C06",
+      "statement": "固定F6与事件控制前中后同帧几何已补，旧F6 ID和局部位移锚无冲突",
+      "support": "已支持",
+      "source": "results/event_control_phase_geometry.csv;results/event_control_sameframe_geometry.csv;results/event_control_vector_geometry.csv;results/ANCHOR_CHECK.json",
+      "location": "1554 phase rows/19047 sameframe rows/518 role rows",
+      "conditions": "不足相位null；中心10样本180fs和相位10间隔200fs分开"
+    },
+    {
+      "id": "C07",
+      "statement": "事件中心宿主234进入18删失7缺中心，固定F6参考235进入17删失7缺中心",
+      "support": "已支持",
+      "source": "results/fixed200_centers_and_returns.json;../Na2VNiF7/results/dwell200.json",
+      "location": "event roles per reference",
+      "conditions": "252完整中心；event_end已在球内单列；仅20ps内随访"
+    },
+    {
+      "id": "C08",
+      "statement": "V-F较保留而Ni/F较易变，与Na个体行为形成可核对应",
+      "support": "部分支持",
+      "source": "../Na2VNiF7/REPORT.md;results/event_control_sameframe_geometry.csv;../../materials/Na2VNiF7/results/host_motion.csv",
+      "location": "旧全程宿主/本次同Na同帧几何",
+      "conditions": "几何相关不是驱动因果；不把全程量全部归于strict20ps"
+    },
+    {
+      "id": "C09",
+      "statement": "周期连接与参考球支持局部几何描述，不建立能垒或完整位点容量",
+      "support": "部分支持",
+      "source": "results/reused_periodic_graphs_100fs.csv;results/reused_reference_occupancy_100fs.csv;results/reused_open_space_1ps.csv",
+      "location": "保存frame<1000前缀",
+      "conditions": "图秩不等实际通道穿越或扩散维数；已占Na球非位置全集"
+    },
+    {
+      "id": "C10",
+      "statement": "具体掺杂元素优选与电解质包覆电极资格",
+      "support": "不足",
+      "source": "REPORT.md;../../materials/Na2VNiF7/DESIGN_CONDITIONS.md",
+      "location": "第三四节",
+      "conditions": "真实价态/占位/补偿/能量/电子输运/电位/多温长时未提供；H01-H03未启动"
+    },
+    {
+      "id": "C11",
+      "statement": "新保存结果核验41879项通过，旧4213未重跑，原始文件无第三读",
+      "support": "已支持",
+      "source": "CHECK_REPORT.json;delivery_check_1/manifest.json;recover_diagnostic_1/manifest.json",
+      "location": "status PASS/checks41879/failures0/raw_reads0和两文件receipt",
+      "conditions": "执行核验不等独立科学接受或发表授权"
+    }
+  ]
+}

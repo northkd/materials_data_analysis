@@ -1,0 +1,512 @@
+{
+  "formula": "NaMg3Si4O11F",
+  "mp_id": "mp-1173560",
+  "directory": "03_NaMg3Si4O11F_mp-1173560",
+  "run": "aimd_1200K",
+  "counts": {
+    "Na": 12,
+    "Mg": 36,
+    "Si": 48,
+    "O": 132,
+    "F": 12
+  },
+  "frames": 1500,
+  "atoms": 240,
+  "configuration_first_last": [
+    10,
+    15000
+  ],
+  "first_absolute_ps": 0.02,
+  "last_absolute_ps": 30.0,
+  "observed_span_ps": 29.98,
+  "frame_dt_ps": 0.02,
+  "cell_A": [
+    [
+      16.066743,
+      0.0,
+      0.0
+    ],
+    [
+      4.123472,
+      19.125631,
+      0.0
+    ],
+    [
+      1.030919,
+      4.777112,
+      9.043418
+    ]
+  ],
+  "input_settings": {
+    "SYSTEM": "NaMg3Si4O11F_AIMD_1200K",
+    "ENCUT": "410",
+    "LREAL": "A",
+    "PREC": "Normal",
+    "EDIFF": "1E-5",
+    "ISMEAR": "0",
+    "SIGMA": "0.1",
+    "ALGO": "Fast",
+    "MAXMIX": "40",
+    "ISYM": "0",
+    "NELMIN": "4",
+    "LASPH": ".TRUE.",
+    "IBRION": "0",
+    "NSW": "15000",
+    "POTIM": "2.0",
+    "TEBEG": "1200",
+    "TEEND": "1200",
+    "SMASS": "0",
+    "NBLOCK": "10",
+    "NWRITE": "0",
+    "LCHARG": ".FALSE.",
+    "LWAVE": ".FALSE.",
+    "NCORE": "8",
+    "LPLANE": ".TRUE.",
+    "LSCALU": ".FALSE."
+  },
+  "source_inventory": [
+    {
+      "path": "[本机路径已移除]",
+      "bytes": 28471,
+      "sha256": "6b0f1c0a6faad05420854af42a70492aad2b5c611973001e0bd18cbf772195bd"
+    },
+    {
+      "path": "[本机路径已移除]",
+      "bytes": 465,
+      "sha256": "4793fd4931fdc31644643f6f9750a09f0dac3477adb5fe5982c6e69670d3e430"
+    },
+    {
+      "path": "[本机路径已移除]",
+      "bytes": 13722225,
+      "sha256": "df159696aa94e5f645196161235eac827ef2227814343b3b5206931ed630f76f"
+    },
+    {
+      "path": "[本机路径已移除]",
+      "bytes": 14834528,
+      "sha256": "7bfc14f9f3533a40fb76b0e34c74f0765c9fbd0b5b29dd2b050f5f4a573158bd"
+    },
+    {
+      "path": "[本机路径已移除]",
+      "bytes": 72037,
+      "sha256": "17d2bf0f3e35abd683f80ce8ad6fb53912cf143074c9866a78f3d84b57b1f827"
+    }
+  ],
+  "CIF_mapping_available": false,
+  "relax_is_independent_MD": false,
+  "operator": "parent-scoped-local-completion; not former native worker",
+  "scientific_state": "UNVERIFIED",
+  "publication_authorized": false,
+  "n_Na": 12,
+  "temperature_blocks": {
+    "blocks": [
+      {
+        "absolute_interval_ps": [
+          0,
+          0.2
+        ],
+        "n_steps": 100,
+        "mean_T_K": 1195.13,
+        "min": {
+          "source_line": 21,
+          "md_step": 1,
+          "absolute_ps": 0.002,
+          "T_K": 0.0,
+          "E_eV": -1684.5298
+        },
+        "max": {
+          "source_line": 287,
+          "md_step": 36,
+          "absolute_ps": 0.072,
+          "T_K": 13061.0,
+          "E_eV": -1731.1766
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          0.2,
+          2
+        ],
+        "n_steps": 900,
+        "mean_T_K": 1197.4977777777779,
+        "min": {
+          "source_line": 1084,
+          "md_step": 116,
+          "absolute_ps": 0.232,
+          "T_K": 565.0,
+          "E_eV": -1714.1739
+        },
+        "max": {
+          "source_line": 1302,
+          "md_step": 138,
+          "absolute_ps": 0.276,
+          "T_K": 2045.0,
+          "E_eV": -1714.1602
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          2,
+          4
+        ],
+        "n_steps": 1000,
+        "mean_T_K": 1199.71,
+        "min": {
+          "source_line": 15003,
+          "md_step": 1443,
+          "absolute_ps": 2.886,
+          "T_K": 1017.0,
+          "E_eV": -1714.0404
+        },
+        "max": {
+          "source_line": 16145,
+          "md_step": 1551,
+          "absolute_ps": 3.102,
+          "T_K": 1411.0,
+          "E_eV": -1714.1869
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          4,
+          10
+        ],
+        "n_steps": 3000,
+        "mean_T_K": 1200.013,
+        "min": {
+          "source_line": 34409,
+          "md_step": 3279,
+          "absolute_ps": 6.558,
+          "T_K": 1007.0,
+          "E_eV": -1714.0365
+        },
+        "max": {
+          "source_line": 52283,
+          "md_step": 4977,
+          "absolute_ps": 9.954,
+          "T_K": 1452.0,
+          "E_eV": -1714.0796
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          10,
+          15
+        ],
+        "n_steps": 2500,
+        "mean_T_K": 1200.0832,
+        "min": {
+          "source_line": 67205,
+          "md_step": 6392,
+          "absolute_ps": 12.784,
+          "T_K": 1028.0,
+          "E_eV": -1713.9064
+        },
+        "max": {
+          "source_line": 74478,
+          "md_step": 7081,
+          "absolute_ps": 14.162,
+          "T_K": 1405.0,
+          "E_eV": -1713.9897
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          15,
+          20
+        ],
+        "n_steps": 2500,
+        "mean_T_K": 1199.7436,
+        "min": {
+          "source_line": 101761,
+          "md_step": 9667,
+          "absolute_ps": 19.334,
+          "T_K": 1025.0,
+          "E_eV": -1713.7784
+        },
+        "max": {
+          "source_line": 93190,
+          "md_step": 8856,
+          "absolute_ps": 17.712,
+          "T_K": 1417.0,
+          "E_eV": -1713.8844
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          20,
+          25
+        ],
+        "n_steps": 2500,
+        "mean_T_K": 1200.3712,
+        "min": {
+          "source_line": 115044,
+          "md_step": 10924,
+          "absolute_ps": 21.848,
+          "T_K": 1021.0,
+          "E_eV": -1713.7657
+        },
+        "max": {
+          "source_line": 111001,
+          "md_step": 10542,
+          "absolute_ps": 21.084,
+          "T_K": 1409.0,
+          "E_eV": -1713.8429
+        }
+      },
+      {
+        "absolute_interval_ps": [
+          25,
+          30
+        ],
+        "n_steps": 2500,
+        "mean_T_K": 1199.5592,
+        "min": {
+          "source_line": 156038,
+          "md_step": 14808,
+          "absolute_ps": 29.616,
+          "T_K": 1016.0,
+          "E_eV": -1713.6408
+        },
+        "max": {
+          "source_line": 140979,
+          "md_step": 13383,
+          "absolute_ps": 26.766,
+          "T_K": 1413.0,
+          "E_eV": -1713.8095
+        }
+      }
+    ],
+    "n_steps": 15000,
+    "first_md_step": 1,
+    "last_md_step": 15000,
+    "all_max": {
+      "source_line": 287,
+      "md_step": 36,
+      "absolute_ps": 0.072,
+      "T_K": 13061.0,
+      "E_eV": -1731.1766
+    },
+    "all_min": {
+      "source_line": 21,
+      "md_step": 1,
+      "absolute_ps": 0.002,
+      "T_K": 0.0,
+      "E_eV": -1684.5298
+    },
+    "restart_or_reset": false
+  },
+  "motion_windows": [
+    {
+      "window": "full",
+      "start_frame": 0,
+      "end_frame": 1499,
+      "start_absolute_ps": 0.02,
+      "end_absolute_ps": 30.0,
+      "observed_span_ps": 29.98,
+      "endpoint_MSD_A2": 0.5406622422600502,
+      "Na_gt2A": 0,
+      "mean_r90_A": 0.9079399190092601,
+      "top1_share": 0.1431126085499505,
+      "top3_share": 0.3870946303511423,
+      "top3_Na_1based": [
+        1,
+        3,
+        12
+      ],
+      "departures": 331,
+      "returns": 328
+    },
+    {
+      "window": "common0to20_available",
+      "start_frame": 0,
+      "end_frame": 999,
+      "start_absolute_ps": 0.02,
+      "end_absolute_ps": 20.0,
+      "observed_span_ps": 19.98,
+      "endpoint_MSD_A2": 0.36132936014305056,
+      "Na_gt2A": 0,
+      "mean_r90_A": 0.9026718803828094,
+      "top1_share": 0.3706154212515704,
+      "top3_share": 0.6827005466548967,
+      "top3_Na_1based": [
+        3,
+        2,
+        5
+      ],
+      "departures": 210,
+      "returns": 208
+    },
+    {
+      "window": "after4",
+      "start_frame": 199,
+      "end_frame": 1499,
+      "start_absolute_ps": 4.0,
+      "end_absolute_ps": 30.0,
+      "observed_span_ps": 26.0,
+      "endpoint_MSD_A2": 0.6411015203860176,
+      "Na_gt2A": 0,
+      "mean_r90_A": 1.2529291577906008,
+      "top1_share": 0.18727106909648067,
+      "top3_share": 0.5281865343252943,
+      "top3_Na_1based": [
+        6,
+        4,
+        7
+      ],
+      "departures": 294,
+      "returns": 289
+    },
+    {
+      "window": "fixed4to14",
+      "start_frame": 199,
+      "end_frame": 699,
+      "start_absolute_ps": 4.0,
+      "end_absolute_ps": 14.0,
+      "observed_span_ps": 10.0,
+      "endpoint_MSD_A2": 0.8540741556580599,
+      "Na_gt2A": 1,
+      "mean_r90_A": 1.2538523723318613,
+      "top1_share": 0.4297623810033459,
+      "top3_share": 0.7382487342642076,
+      "top3_Na_1based": [
+        3,
+        6,
+        5
+      ],
+      "departures": 116,
+      "returns": 112
+    },
+    {
+      "window": "tail10",
+      "start_frame": 999,
+      "end_frame": 1499,
+      "start_absolute_ps": 20.0,
+      "end_absolute_ps": 30.0,
+      "observed_span_ps": 10.0,
+      "endpoint_MSD_A2": 1.2410493243885172,
+      "Na_gt2A": 1,
+      "mean_r90_A": 1.211025607135097,
+      "top1_share": 0.30602996316061976,
+      "top3_share": 0.6320445751323366,
+      "top3_Na_1based": [
+        3,
+        2,
+        11
+      ],
+      "departures": 129,
+      "returns": 123
+    },
+    {
+      "window": "tail5",
+      "start_frame": 1249,
+      "end_frame": 1499,
+      "start_absolute_ps": 25.0,
+      "end_absolute_ps": 30.0,
+      "observed_span_ps": 5.0,
+      "endpoint_MSD_A2": 0.9243295433442085,
+      "Na_gt2A": 0,
+      "mean_r90_A": 1.2756600984435866,
+      "top1_share": 0.25424606457816207,
+      "top3_share": 0.5570813898620465,
+      "top3_Na_1based": [
+        12,
+        3,
+        11
+      ],
+      "departures": 69,
+      "returns": 63
+    }
+  ],
+  "events": [
+    {
+      "window": "full",
+      "events": 156,
+      "outcomes": {
+        "persistent": 81,
+        "transient": 72,
+        "right_censored": 3
+      },
+      "clean_sameNa_controls": 156,
+      "full_event_phases": 151,
+      "fixed200_complete": 151,
+      "returned_in_available_followup": 150
+    },
+    {
+      "window": "common0to20_available",
+      "events": 95,
+      "outcomes": {
+        "persistent": 47,
+        "transient": 47,
+        "right_censored": 1
+      },
+      "clean_sameNa_controls": 95,
+      "full_event_phases": 92,
+      "fixed200_complete": 93,
+      "returned_in_available_followup": 91
+    },
+    {
+      "window": "after4",
+      "events": 138,
+      "outcomes": {
+        "transient": 59,
+        "persistent": 76,
+        "right_censored": 3
+      },
+      "clean_sameNa_controls": 137,
+      "full_event_phases": 130,
+      "fixed200_complete": 130,
+      "returned_in_available_followup": 129
+    },
+    {
+      "window": "fixed4to14",
+      "events": 52,
+      "outcomes": {
+        "transient": 22,
+        "persistent": 29,
+        "right_censored": 1
+      },
+      "clean_sameNa_controls": 52,
+      "full_event_phases": 46,
+      "fixed200_complete": 46,
+      "returned_in_available_followup": 46
+    },
+    {
+      "window": "tail10",
+      "events": 61,
+      "outcomes": {
+        "persistent": 33,
+        "transient": 25,
+        "right_censored": 3
+      },
+      "clean_sameNa_controls": 58,
+      "full_event_phases": 56,
+      "fixed200_complete": 56,
+      "returned_in_available_followup": 55
+    },
+    {
+      "window": "tail5",
+      "events": 28,
+      "outcomes": {
+        "persistent": 17,
+        "transient": 8,
+        "right_censored": 3
+      },
+      "clean_sameNa_controls": 27,
+      "full_event_phases": 24,
+      "fixed200_complete": 24,
+      "returned_in_available_followup": 23
+    }
+  ],
+  "volume_A3": 2778.9211514200174,
+  "Na_density_Aminus3": 0.004318222556932949,
+  "full_host_rigid_residual_A": 0.27284791084108756,
+  "max_saved_increment_A": 2.0754762742408395,
+  "new_simulation": false,
+  "local_fixed_ligand_event_recomputation": false,
+  "limitations": [
+    "single1200K run",
+    "initial reference balls not complete site universe",
+    "no CIF-to-MD mapping in MD-only scope",
+    "geometry not barrier or causal force"
+  ]
+}

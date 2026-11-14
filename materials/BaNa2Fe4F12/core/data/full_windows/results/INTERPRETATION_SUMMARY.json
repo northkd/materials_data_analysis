@@ -1,0 +1,158 @@
+{
+  "formula": "BaNa2Fe4F12",
+  "mp_id": "mp-1227924",
+  "science_status": "UNVERIFIED",
+  "independent_materials": 1,
+  "new_scientific_trajectory": false,
+  "source_summary_frames": 1500,
+  "common_frames": 1000,
+  "common_events": 177,
+  "common_threshold_counts": {
+    "1.2": 280,
+    "1.5": 177,
+    "1.8": 79
+  },
+  "common_missing_control": 0,
+  "full_events_excluded_control_union": [],
+  "full_local200_followup_counts": {
+    "observed_return": 259,
+    "missing_same_window_pre_or_post": 8,
+    "no_observed_return_right_censored": 2
+  },
+  "common_local200_followup_counts": {
+    "observed_return": 167,
+    "missing_same_window_pre_or_post": 10
+  },
+  "major_event_and_return_counterexample": [
+    {
+      "event_id": "170",
+      "Na_global0": "17",
+      "start_absolute_ps": "19.8",
+      "end_absolute_ps": "20.46",
+      "merged_net_A": "4.017854543497238",
+      "local_200fs_center_separation_A": "3.846298092726516",
+      "global_200fs_center_separation_A": "3.890229445504146",
+      "local_rigid_endpoint_A": "4.177326472509394",
+      "ligand_rotation_deg": "4.999790531401092",
+      "ligand_nonrigid_A": "0.6582746658823678",
+      "local_returned": "False",
+      "local_followup": "no_observed_return_right_censored",
+      "control_union_exclusion": ""
+    },
+    {
+      "event_id": "261",
+      "Na_global0": "23",
+      "start_absolute_ps": "21.92",
+      "end_absolute_ps": "22.64",
+      "merged_net_A": "4.555134404409113",
+      "local_200fs_center_separation_A": "3.9389053368151816",
+      "global_200fs_center_separation_A": "3.7840247189423746",
+      "local_rigid_endpoint_A": "4.4085635840832635",
+      "ligand_rotation_deg": "8.924144822618706",
+      "ligand_nonrigid_A": "0.678173391143552",
+      "local_returned": "False",
+      "local_followup": "no_observed_return_right_censored",
+      "control_union_exclusion": ""
+    },
+    {
+      "event_id": "55",
+      "Na_global0": "11",
+      "start_absolute_ps": "10.2",
+      "end_absolute_ps": "10.42",
+      "merged_net_A": "1.5297991867871226",
+      "local_200fs_center_separation_A": "0.9175856336119116",
+      "global_200fs_center_separation_A": "0.9093943460179031",
+      "local_rigid_endpoint_A": "1.2308161955139558",
+      "ligand_rotation_deg": "4.823761777929357",
+      "ligand_nonrigid_A": "0.4703350310025132",
+      "local_returned": "True",
+      "local_followup": "observed_return",
+      "control_union_exclusion": ""
+    }
+  ],
+  "workbook_errors": [
+    {
+      "window": "post4",
+      "reference": "raw",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.002556486449319717,
+      "max_abs_error_A2": 0.009237862846065426
+    },
+    {
+      "window": "post4",
+      "reference": "host_equal",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.027277285594520154,
+      "max_abs_error_A2": 0.044600343837896794
+    },
+    {
+      "window": "post4",
+      "reference": "host_mass",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.029406794003880687,
+      "max_abs_error_A2": 0.046900314080817296
+    },
+    {
+      "window": "post4",
+      "reference": "host_rigid",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.02746588183822657,
+      "max_abs_error_A2": 0.044706838526901826
+    },
+    {
+      "window": "post4",
+      "reference": "all_equal",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.015222347764166458,
+      "max_abs_error_A2": 0.023678491881079733
+    },
+    {
+      "window": "post4p02",
+      "reference": "raw",
+      "n_matched_cells": 25,
+      "RMSE_A2": 3.9471512357794177e-16,
+      "max_abs_error_A2": 8.881784197001252e-16
+    },
+    {
+      "window": "post4p02",
+      "reference": "host_equal",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.027683593583649184,
+      "max_abs_error_A2": 0.03883921318768113
+    },
+    {
+      "window": "post4p02",
+      "reference": "host_mass",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.02983986142222507,
+      "max_abs_error_A2": 0.04162663557993218
+    },
+    {
+      "window": "post4p02",
+      "reference": "host_rigid",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.027927229703959687,
+      "max_abs_error_A2": 0.03916835556411691
+    },
+    {
+      "window": "post4p02",
+      "reference": "all_equal",
+      "n_matched_cells": 25,
+      "RMSE_A2": 0.014539806543466918,
+      "max_abs_error_A2": 0.022151922113820888
+    }
+  ],
+  "candidate_reference_changes": {},
+  "host_motion": {
+    "rotation_mean_deg": 0.4909758846867045,
+    "rotation_max_deg": 1.353510865365567,
+    "nonrigid_RMS_mean_A": 0.5168658582432945,
+    "nonrigid_RMS_max_A": 0.6576501615149027
+  },
+  "interpretation_boundary": [
+    "Same-Na phase summaries are descriptive and do not estimate causality",
+    "Initial occupied references omit unvisited regions and are not a stable-site universe",
+    "Reference middle-plane correspondence is not a barrier or physical-path proof",
+    "Lag time is not absolute simulation time and origins are not independent materials"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "schema": "mnv-control-union-audit.v1",
+  "status": "completed_saved_interval_audit",
+  "source_events": {
+    "strict1000": 280,
+    "full": 427,
+    "common_0_20ps": 280
+  },
+  "source_mapping": [
+    {
+      "source": "strict1000",
+      "events": 280,
+      "frames": 1000,
+      "start_abs_ps": 0.02,
+      "end_abs_ps": 20.0,
+      "target_frame_offset": 0,
+      "absolute_time_formula": "origin_ps + local_frame*0.02",
+      "na_index_space": "same saved 0based local Na index, inherited analysis.event_run input ni order"
+    },
+    {
+      "source": "full",
+      "events": 427,
+      "frames": 1500,
+      "start_abs_ps": 0.02,
+      "end_abs_ps": 30.0,
+      "target_frame_offset": 0,
+      "absolute_time_formula": "origin_ps + local_frame*0.02",
+      "na_index_space": "same saved 0based local Na index, inherited analysis.event_run input ni order"
+    },
+    {
+      "source": "common_0_20ps",
+      "events": 280,
+      "frames": 1001,
+      "start_abs_ps": 0.02,
+      "end_abs_ps": 20.02,
+      "target_frame_offset": 0,
+      "absolute_time_formula": "origin_ps + local_frame*0.02",
+      "na_index_space": "same saved 0based local Na index, inherited analysis.event_run input ni order"
+    }
+  ],
+  "source_records_before_dedup": 987,
+  "exact_unique_events": 428,
+  "duplicate_source_records_collapsed": 559,
+  "Na_local_to_global_indices_0based": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "target": {
+    "formula": "Na2MnVF7",
+    "mp_id": "mp-1221472",
+    "frames": 1000,
+    "Na": 24,
+    "start_abs_ps": 0.02,
+    "end_abs_ps": 20.0,
+    "dt_fs": 20
+  },
+  "definition": {
+    "ban": "same-Na full+oldcommon+strict events, each closed +/-10 frames; clipped only to target domain",
+    "control": "whole closed [control_start-10, control_start+event_width+10]",
+    "touching_is_contamination": true,
+    "all_events_include_current": true,
+    "threshold_10_intervals_fs": 200,
+    "center_10_sample_first_last_span_fs": 180
+  },
+  "controls": 280,
+  "control_complete": 280,
+  "control_incomplete_ids": [],
+  "missing_controls": 0,
+  "control_partition": {
+    "contaminated": 0,
+    "missing_without_contamination": 0,
+    "clean": 280
+  },
+  "contaminated_controls": 0,
+  "contaminated_control_ids": [],
+  "expanded_union_clean_controls": 280,
+  "complete_event_phases": 271,
+  "usable_paired_environment": 271,
+  "earliest_counterexample_order": "control whole pre-start frame, Na index, strict event id",
+  "earliest_counterexample": null,
+  "exact_local_missing_ids": [
+    43
+  ],
+  "old_only_unique_events": 148,
+  "old_only_source_records": 149,
+  "old_only_reaching_strict_source_records": 6,
+  "ban_set_global_equality": "NOT_CLAIMED; selected controls checked only",
+  "control_definition_obligation": "supported_for_selected_controls",
+  "aggregate_control_or_paired_numeric_values": null,
+  "aggregate_status": "source numbers unchanged; control-use eligibility confirmed",
+  "raw_read": false,
+  "event_detection_run": false,
+  "environment_recomputed": false,
+  "old_checker_run": false,
+  "scientific_acceptance": "UNVERIFIED",
+  "publication_authorized": false
+}

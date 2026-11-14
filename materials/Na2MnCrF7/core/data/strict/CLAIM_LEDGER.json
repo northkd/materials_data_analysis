@@ -1,0 +1,74 @@
+{
+  "schema": "mncr-strict-claims.v1",
+  "previous_claims_preserved_by_reference": {
+    "path": "research/tasks/fof-dynamics-family-ml-20261105/priority_msd_1200k_v1/completion_22_current/Na2MnCrF7/CLAIM_LEDGER.json",
+    "sha256": "cf18167484bbb1f38081d1a5f2059b76b47c5f364cdb4e19c085e71c9063a15c",
+    "n_claims": 21
+  },
+  "claims": [
+    {
+      "id": "MNCR_STRICT01",
+      "support": "已支持",
+      "statement": "本次严格输入为绝对0.02至20.00ps的1000帧，保存跨度19.98ps，无0ps补帧。",
+      "evidence": [
+        "derived/PROVENANCE.json",
+        "derived/DIAGNOSTICS.json"
+      ],
+      "conditions": "mp-14718同一run、四文件各一次授权单流读取",
+      "scientific_acceptance": "UNVERIFIED",
+      "publication_authorized": false
+    },
+    {
+      "id": "MNCR_STRICT02",
+      "support": "已支持",
+      "statement": "本窗端点MSD为30.58788549Å²，18/24个Na端点超过2Å；逐Na差异、路径和探索半径独立保存。",
+      "evidence": [
+        "strict/per_na.csv",
+        "strict/first_origin_msd.csv"
+      ],
+      "conditions": "首保存帧参考，108非Na等权平移扣除；Na非独立材料",
+      "scientific_acceptance": "UNVERIFIED",
+      "publication_authorized": false
+    },
+    {
+      "id": "MNCR_STRICT03",
+      "support": "已支持",
+      "statement": "严格窗检测325个规则候选，325个有合法同Na联合闭禁区完整控制，312个事件相位完整。",
+      "evidence": [
+        "strict/events.json",
+        "strict/CONTROL_BAN_UNION.json",
+        "strict/full_phases_environment.csv"
+      ],
+      "conditions": "历史full＋旧1001＋新strict全部事件±10帧；候选不等真实跳跃",
+      "scientific_acceptance": "UNVERIFIED",
+      "publication_authorized": false
+    },
+    {
+      "id": "MNCR_STRICT04",
+      "support": "已支持",
+      "statement": "新坐标、周期像、旧同帧MSD锚和保存Na环境的身份/距离匹配单独核验；局部F6去平移与端点旋转残差分列。",
+      "evidence": [
+        "derived/ANCHOR_CHECK.json",
+        "strict/ENVIRONMENT_BINDING.json",
+        "strict/fixed_ligand_phase_coordinates.jsonl.gz"
+      ],
+      "conditions": "同Na同frame，旧全程环境只复用匹配部分",
+      "scientific_acceptance": "UNVERIFIED",
+      "publication_authorized": false
+    },
+    {
+      "id": "MNCR_STRICT05",
+      "support": "不足",
+      "statement": "有限窗MSD斜率、几何连接及候选返回不足以确认收敛扩散、完整晶格位点交换或室温用途资格。",
+      "evidence": [
+        "strict/MSD_FITS.json",
+        "../Na2MnCrF7/CLAIM_LEDGER.json"
+      ],
+      "conditions": "1200K一个短run；完整位点全集、能垒、多温与用途证据仍缺",
+      "scientific_acceptance": "UNVERIFIED",
+      "publication_authorized": false
+    }
+  ],
+  "scientific_acceptance": "UNVERIFIED",
+  "publication_authorized": false
+}

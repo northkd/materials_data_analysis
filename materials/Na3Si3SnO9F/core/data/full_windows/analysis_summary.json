@@ -1,0 +1,200 @@
+{
+  "formula": "Na3Si3SnO9F",
+  "mp_id": "mp-560937",
+  "n_frames": 1000,
+  "n_atoms": 136,
+  "actual_counts": {
+    "Na": 24,
+    "Si": 24,
+    "Sn": 8,
+    "O": 72,
+    "F": 8
+  },
+  "absolute_first_ps": 0.02,
+  "absolute_last_ps": 20.0,
+  "saved_span_ps": 19.98,
+  "dt_fs": 20.0,
+  "no_step0_added": true,
+  "common_absolute_0_20_frames": 1000,
+  "common_available_first_ps": 0.02,
+  "common_available_last_ps": 20.0,
+  "cell_A": [
+    [
+      8.753818,
+      0.0,
+      0.0
+    ],
+    [
+      -4.789343,
+      16.839819,
+      0.0
+    ],
+    [
+      2.919784,
+      3.865978,
+      12.108944
+    ]
+  ],
+  "volume_A3": 1785.0122584995104,
+  "Na_number_density_A3_inverse": 0.013445285815669698,
+  "volume_per_Na_A3": 74.37551077081294,
+  "unwrap_audit": {
+    "complete_enumeration": true,
+    "vector_count": 135864,
+    "fast_sufficient_count": 135864,
+    "enumerated_vector_count": 0,
+    "enumerated_candidates": 0,
+    "tie_vector_count": 0,
+    "singular_min_lattice_lower_bound_A": 7.618793467626629,
+    "max_saved_increment_A": 1.117635300158444,
+    "saved_increment_sufficient_certificate": true,
+    "note": "Saved-step shortest image geometry; unresolved interframe paths remain unknown"
+  },
+  "motion_windows": {
+    "full_saved": {
+      "first_ps": 0.02,
+      "last_ps": 20.0,
+      "frames": 1000,
+      "all_origin_fit": {
+        "slope_A2_ps": 0.16283823845272452,
+        "intercept_A2": 1.199251050939813,
+        "R2": 0.8803963773704951,
+        "exploratory_D_cm2_s": 2.713970640878742e-06,
+        "n_timepoints": 490,
+        "first_lag_ps": 0.2,
+        "last_lag_ps": 9.98,
+        "transport_validated": false
+      },
+      "all_origin_late_fit": {
+        "slope_A2_ps": 0.08935980039882317,
+        "intercept_A2": 1.7259433282864605,
+        "R2": 0.9107461669770864,
+        "exploratory_D_cm2_s": 1.489330006647053e-06,
+        "n_timepoints": 250,
+        "first_lag_ps": 5.0,
+        "last_lag_ps": 9.98,
+        "transport_validated": false
+      },
+      "first_origin_last_MSD_A2": 4.259776674161997,
+      "all_origin_last_MSD_A2": 4.259776674161997
+    },
+    "absolute_0_20_available": {
+      "first_ps": 0.02,
+      "last_ps": 20.0,
+      "frames": 1000,
+      "all_origin_fit": {
+        "slope_A2_ps": 0.16283823845272452,
+        "intercept_A2": 1.199251050939813,
+        "R2": 0.8803963773704951,
+        "exploratory_D_cm2_s": 2.713970640878742e-06,
+        "n_timepoints": 490,
+        "first_lag_ps": 0.2,
+        "last_lag_ps": 9.98,
+        "transport_validated": false
+      },
+      "all_origin_late_fit": {
+        "slope_A2_ps": 0.08935980039882317,
+        "intercept_A2": 1.7259433282864605,
+        "R2": 0.9107461669770864,
+        "exploratory_D_cm2_s": 1.489330006647053e-06,
+        "n_timepoints": 250,
+        "first_lag_ps": 5.0,
+        "last_lag_ps": 9.98,
+        "transport_validated": false
+      },
+      "first_origin_last_MSD_A2": 4.259776674161997,
+      "all_origin_last_MSD_A2": 4.259776674161997
+    },
+    "after_4ps": {
+      "first_ps": 4.0,
+      "last_ps": 20.0,
+      "frames": 801,
+      "all_origin_fit": {
+        "slope_A2_ps": 0.2486040164635409,
+        "intercept_A2": 1.0607049707460974,
+        "R2": 0.9112037931639079,
+        "exploratory_D_cm2_s": 4.143400274392348e-06,
+        "n_timepoints": 391,
+        "first_lag_ps": 0.2,
+        "last_lag_ps": 8.0,
+        "transport_validated": false
+      },
+      "all_origin_late_fit": {
+        "slope_A2_ps": 0.10140231654715927,
+        "intercept_A2": 1.9488560667362542,
+        "R2": 0.8826483623608155,
+        "exploratory_D_cm2_s": 1.6900386091193214e-06,
+        "n_timepoints": 201,
+        "first_lag_ps": 4.0,
+        "last_lag_ps": 8.0,
+        "transport_validated": false
+      },
+      "first_origin_last_MSD_A2": 5.530522149200206,
+      "all_origin_last_MSD_A2": 5.530522149200206
+    },
+    "late_half": {
+      "first_ps": 10.02,
+      "last_ps": 20.0,
+      "frames": 500,
+      "all_origin_fit": {
+        "slope_A2_ps": 0.6843490528053495,
+        "intercept_A2": 0.4639599157827583,
+        "R2": 0.9940574832326625,
+        "exploratory_D_cm2_s": 1.1405817546755825e-05,
+        "n_timepoints": 240,
+        "first_lag_ps": 0.2,
+        "last_lag_ps": 4.98,
+        "transport_validated": false
+      },
+      "all_origin_late_fit": {
+        "slope_A2_ps": 0.7476324482761558,
+        "intercept_A2": 0.23504741726623177,
+        "R2": 0.997438315475914,
+        "exploratory_D_cm2_s": 1.2460540804602598e-05,
+        "n_timepoints": 125,
+        "first_lag_ps": 2.5,
+        "last_lag_ps": 4.98,
+        "transport_validated": false
+      },
+      "first_origin_last_MSD_A2": 5.385376250089071,
+      "all_origin_last_MSD_A2": 5.385376250089071
+    }
+  },
+  "element_motion": {
+    "F": {
+      "final_RMS_A": 0.40608310261812136,
+      "final_aligned_RMS_A": 0.42919003598183963
+    },
+    "Na": {
+      "final_RMS_A": 2.0338925498461955,
+      "final_aligned_RMS_A": 2.063922642484935
+    },
+    "O": {
+      "final_RMS_A": 0.39717518558031617,
+      "final_aligned_RMS_A": 0.3772697125903382
+    },
+    "Si": {
+      "final_RMS_A": 0.27960558681344183,
+      "final_aligned_RMS_A": 0.2589771641748007
+    },
+    "Sn": {
+      "final_RMS_A": 0.21118474319012712,
+      "final_aligned_RMS_A": 0.19555878340867097
+    }
+  },
+  "host_max_translation_A": 0.13632311612369086,
+  "host_max_rigid_angle_deg": 2.16003424164676,
+  "host_final_nonrigid_RMS_A": 0.3455598983194609,
+  "events_1p5A_200fs_counts": {
+    "full_saved": 174,
+    "absolute_0_20_available": 174,
+    "after_4ps": 129,
+    "late_half": 85
+  },
+  "n_graph_frames": 201,
+  "graph_sampling_ps": 0.1,
+  "environment_sampling_ps": 0.02,
+  "complete_site_universe": false,
+  "scientific_status": "UNVERIFIED",
+  "publicationAuthorized": false
+}

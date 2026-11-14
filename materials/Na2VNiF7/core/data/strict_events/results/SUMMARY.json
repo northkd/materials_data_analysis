@@ -1,0 +1,279 @@
+{
+  "formula": "Na2VNiF7",
+  "mp_id": "mp-1191842",
+  "run": "aimd_1200K",
+  "state": "executed_saved_prefix_partial_input",
+  "scientific_acceptance": "UNVERIFIED",
+  "publication_authorized": false,
+  "raw_reads": 0,
+  "coordinate_redetection": false,
+  "window": {
+    "frame_bounds": [
+      0,
+      999
+    ],
+    "absolute_ps_bounds": [
+      0.02,
+      20
+    ],
+    "n_frames": 1000,
+    "dt_fs": 20,
+    "span_ps": 19.98,
+    "n_Na": 32,
+    "reference": "host_equal"
+  },
+  "endpoint_mean_A": 1.7282682115163657,
+  "endpoint_max_A": 6.697382315474935,
+  "n_endpoint_gt2_A": 10,
+  "r90_mean_A": 2.0314681873566944,
+  "max_exploration_mean_A": 3.163696778231376,
+  "first_origin_endpoint_MSD_A2": 5.536915155450616,
+  "top4_endpoint_MSD_share": 0.5595849816852109,
+  "initial_region_departures": 635,
+  "initial_region_observed_returns": 614,
+  "initial_region_right_censored": 21,
+  "event_count": 259,
+  "outcomes": {
+    "persistent": 134,
+    "transient": 123,
+    "right_censored": 2
+  },
+  "events_full_phases": 252,
+  "controls": 259,
+  "controls_changed_from_legacy": 0,
+  "dwell200": {
+    "host_equal": {
+      "complete_centers": 252,
+      "center_separation_gt1_A": 117,
+      "observed_return_in_window": 234,
+      "already_inside_at_event_end": 51,
+      "return_right_censored": 18,
+      "missing_centers": 7
+    },
+    "fixed_F6_translation": {
+      "complete_centers": 252,
+      "center_separation_gt1_A": 106,
+      "observed_return_in_window": 235,
+      "already_inside_at_event_end": 79,
+      "return_right_censored": 17,
+      "missing_centers": 7
+    }
+  },
+  "host_at_absolute20ps": {
+    "frame": "999",
+    "ps": "19.98",
+    "absolute_ps": "20.0",
+    "host_equal_drift_A": "0.06336704111098544",
+    "host_mass_drift_A": "0.08997135566920718",
+    "Na_RMS_from_first_host_equal_A": "2.3530650555075217",
+    "Na_RMS_from_first_raw_A": "2.3470352016378655",
+    "V_RMS_from_first_host_equal_A": "0.5785087947325517",
+    "V_RMS_from_first_raw_A": "0.5880854265482681",
+    "Ni_RMS_from_first_host_equal_A": "3.156887243546289",
+    "Ni_RMS_from_first_raw_A": "3.1532973504432777",
+    "F_RMS_from_first_host_equal_A": "2.8440420164909854",
+    "F_RMS_from_first_raw_A": "2.8452377310384143"
+  },
+  "selected_sameNa_examples": [
+    {
+      "na": 1,
+      "frame_bounds": [
+        900,
+        999
+      ],
+      "absolute_ps_bounds": [
+        18.02,
+        20.0
+      ],
+      "r_from_initial_first_A": 0.4228932858611752,
+      "r_from_initial_last_A": 0.5521743316414619,
+      "vector_net_A": null,
+      "CN_mean": 7.73,
+      "F6_first": [
+        153,
+        121,
+        105,
+        90,
+        75,
+        138
+      ],
+      "F6_last": [
+        90,
+        138,
+        131,
+        153,
+        75,
+        121
+      ]
+    },
+    {
+      "na": 1,
+      "frame_bounds": [
+        0,
+        999
+      ],
+      "absolute_ps_bounds": [
+        0.02,
+        20.0
+      ],
+      "r_from_initial_first_A": 0.0,
+      "r_from_initial_last_A": 0.5521743316414619,
+      "vector_net_A": null,
+      "CN_mean": 7.621,
+      "F6_first": [
+        139,
+        113,
+        105,
+        98,
+        81,
+        90
+      ],
+      "F6_last": [
+        90,
+        138,
+        131,
+        153,
+        75,
+        121
+      ]
+    },
+    {
+      "na": 3,
+      "frame_bounds": [
+        900,
+        999
+      ],
+      "absolute_ps_bounds": [
+        18.02,
+        20.0
+      ],
+      "r_from_initial_first_A": 1.000587623228154,
+      "r_from_initial_last_A": 0.9923240198189219,
+      "vector_net_A": null,
+      "CN_mean": 7.33,
+      "F6_first": [
+        155,
+        73,
+        129,
+        115,
+        170,
+        137
+      ],
+      "F6_last": [
+        170,
+        156,
+        129,
+        155,
+        137,
+        144
+      ]
+    },
+    {
+      "na": 3,
+      "frame_bounds": [
+        0,
+        999
+      ],
+      "absolute_ps_bounds": [
+        0.02,
+        20.0
+      ],
+      "r_from_initial_first_A": 0.0,
+      "r_from_initial_last_A": 0.9923240198189219,
+      "vector_net_A": null,
+      "CN_mean": 7.623,
+      "F6_first": [
+        96,
+        170,
+        83,
+        115,
+        88,
+        107
+      ],
+      "F6_last": [
+        170,
+        156,
+        129,
+        155,
+        137,
+        144
+      ]
+    }
+  ],
+  "legacy_common1001": {
+    "n_frames": 1001,
+    "span_ps": 20.0,
+    "events": 259,
+    "outcomes": {
+      "persistent": 134,
+      "transient": 123,
+      "right_censored": 2
+    },
+    "controls": 259,
+    "event_full_phases": 252,
+    "endpoint_mean_A": 1.748839521095944,
+    "endpoint_max_A": 6.786531310462179,
+    "r90_mean_A": 2.0419852113561903,
+    "threshold_sensitivity": {
+      "1.2": {
+        "n": 400,
+        "outcomes": {
+          "persistent": 253,
+          "transient": 141,
+          "back_forth": 2,
+          "right_censored": 4
+        }
+      },
+      "1.8": {
+        "n": 129,
+        "outcomes": {
+          "transient": 62,
+          "persistent": 67
+        }
+      }
+    }
+  },
+  "reused_full1500": {
+    "n_frames": 1500,
+    "span_ps": 29.98,
+    "events": 379,
+    "outcomes": {
+      "persistent": 204,
+      "transient": 171,
+      "right_censored": 2,
+      "back_forth": 2
+    },
+    "controls": 379,
+    "event_full_phases": 372,
+    "endpoint_mean_A": 2.6013683239875487,
+    "endpoint_max_A": 7.781038001922241,
+    "r90_mean_A": 2.795356128919746,
+    "threshold_sensitivity": {
+      "1.2": {
+        "n": 601,
+        "outcomes": {
+          "persistent": 381,
+          "transient": 211,
+          "right_censored": 5,
+          "back_forth": 4
+        }
+      },
+      "1.8": {
+        "n": 191,
+        "outcomes": {
+          "transient": 91,
+          "right_censored": 2,
+          "persistent": 98
+        }
+      }
+    }
+  },
+  "multi_origin_MSD_A2": null,
+  "vector_path_A": null,
+  "formal_D": null,
+  "unresolved": [
+    "full vector stream not saved: strict multi-origin MSD/vector path/new local cage geometry unavailable",
+    "true oxidation states/site capacity/reference parent/energies/low-temperature dynamics unavailable"
+  ],
+  "execution_is_not_full_strict_goal_acceptance": true
+}

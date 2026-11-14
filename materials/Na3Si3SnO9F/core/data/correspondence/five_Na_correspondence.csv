@@ -1,0 +1,6 @@
+Na_id_1based,frames,first_ps,last_ps,endpoint_A,r90_A,max_exploration_A,leave_return_pairs_first_reference,unreturned_start_frame,right_censored_first_reference,CN_min_variable_fixed_shell,CN_max_variable_fixed_shell,fixed6_initial_ids,full_saved_rule_event_count,source_id,source_location
+6,1000,0.02,20.0,6.0576054119543326,5.064944703720396,6.639457113281272,2,758,True,0,5,"[130, 106, 65, 77, 94, 85]",9,summary_data,per_Na.6
+13,1000,0.02,20.0,0.31251069666820375,0.7854036321300562,1.3814605213505682,10,,False,6,11,"[134, 129, 81, 85, 89, 109]",1,summary_data,per_Na.13
+17,1000,0.02,20.0,2.867214530839493,2.53731641335157,3.9685383730664823,7,679,True,1,6,"[133, 113, 122, 94, 77, 90]",11,summary_data,per_Na.17
+21,1000,0.02,20.0,4.715575118234777,4.825226980876485,5.463158292115403,7,768,True,1,6,"[133, 75, 72, 58, 119, 110]",10,summary_data,per_Na.21
+24,1000,0.02,20.0,4.709698187270297,4.215073856672933,5.216327524735029,6,845,True,1,6,"[136, 74, 69, 59, 118, 111]",5,summary_data,per_Na.24
