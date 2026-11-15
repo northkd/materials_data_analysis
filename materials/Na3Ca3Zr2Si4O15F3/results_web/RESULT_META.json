@@ -334,12 +334,16 @@
     "result_root": "materials/Na3Ca3Zr2Si4O15F3/results_web",
     "actual_relative_path": "materials/Na3Ca3Zr2Si4O15F3/results_web",
     "root_preexistence_at_initial_check": false,
-    "push_status": "prepared_for_main_commit",
-    "verification_status": "three_data_blobs_uploaded_and_hash_matched; no_branch_ref_updated_yet",
+    "push_status": "pushed_to_main",
+    "verification_status": "main directory reread; four filenames, byte sizes and Git blob hashes match local artifacts; ANALYSIS text reread",
     "commit_sha": null,
-    "note": "提交前快照；不填写自身提交SHA。提交后重新读取远端并更新归档状态，真实提交SHA在最终回执。",
+    "note": "verified_content_commit是已核对的首次结果提交，不是本元数据更新的自身SHA；最终更新提交SHA与再读结果在交付回执。",
     "write_permission_checked": true,
-    "preexisting_results_preserved": true
+    "preexisting_results_preserved": true,
+    "verified_content_commit": "ec9b27d37c6003f80305d3a59a3cdb2000788f7c",
+    "verified_at_utc": "2026-11-15T11:31:13Z",
+    "changed_paths_verified": "only the four required result files were added; no source or other-material files modified",
+    "write_attempt_note": "首次非强制更新遇到并发主分支变化并返回错误；重新读取并保留新提交后，以最新基线重建提交，非强制更新成功。"
   },
   "outputs": {
     "INPUT_COVERAGE.csv": {
