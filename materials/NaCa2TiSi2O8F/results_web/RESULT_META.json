@@ -1,0 +1,515 @@
+{
+  "schema": "nacati-upload-review.v1",
+  "material_group": "NaCa2TiSi2O8F",
+  "formula": "NaCa2TiSi2O8F",
+  "mp_ids": [
+    "mp-1263670",
+    "mp-647450",
+    "mp-667200"
+  ],
+  "runs": {
+    "mp-1263670": "aimd_1200K",
+    "mp-647450": "aimd_1200K",
+    "mp-667200": "aimd_1200K"
+  },
+  "first_recorded_analysis_utc": "2026-11-15T10:43:24.342332Z",
+  "analysis_completed_utc": "2026-11-15T11:02:53.944200Z",
+  "interface_model_display": null,
+  "interface_model_verification": "UI型号未在当前对话获得可核实证据；不以模型自报代替界面显示",
+  "scientific_status": "UNVERIFIED",
+  "publicationAuthorized": false,
+  "independent_acceptance_performed": false,
+  "input_file_count": 43,
+  "input_csv_data_rows": 351420,
+  "inputs": [
+    {
+      "file": "core__REPORT.md",
+      "sha256": "3357f33aca27d32c19b51b62843610cb5b240ca9948d97eeccd6ca8b8b7f4a53",
+      "bytes": 22496,
+      "read_status": "read_full_text",
+      "data_rows": 160
+    },
+    {
+      "file": "core__data__full_windows__mp-1263670__analysis_summary.json",
+      "sha256": "56242b2dfe13d8d461dcce84e69f7a6ebafe8f70139b017ed63a53b98fd191e8",
+      "bytes": 5772,
+      "read_status": "parsed_complete_json",
+      "data_rows": null
+    },
+    {
+      "file": "core__data__full_windows__mp-1263670__event_phase_environment.csv",
+      "sha256": "3ab1d746cc6b7e8de045255f5656e18d83585d1fa244bd86f19a5a6844a8396d",
+      "bytes": 693040,
+      "read_status": "parsed_all_rows",
+      "data_rows": 1854
+    },
+    {
+      "file": "core__data__full_windows__mp-1263670__geometric_space.csv",
+      "sha256": "4ff15d232af8b4b0ea34c89776a8ea9554153fc7317c35c8a3f60258e4afa098",
+      "bytes": 1680,
+      "read_status": "parsed_all_rows",
+      "data_rows": 15
+    },
+    {
+      "file": "core__data__full_windows__mp-1263670__motion_per_Na.csv",
+      "sha256": "a2bab40264c8be8619fb445df3eab7f13e4fe091179e77c73ec947fddf38940e",
+      "bytes": 7397,
+      "read_status": "parsed_all_rows",
+      "data_rows": 64
+    },
+    {
+      "file": "core__data__full_windows__mp-1263670__msd_absolute_0_20_available.csv",
+      "sha256": "76274bfaec46bb688d73750825e242fba63e28febc0ad319f05267b87ca73962",
+      "bytes": 27851,
+      "read_status": "parsed_all_rows",
+      "data_rows": 1000
+    },
+    {
+      "file": "core__data__full_windows__mp-1263670__msd_after_4ps.csv",
+      "sha256": "716b4251ebafaf462463f1791f1403b510268e80f83fb5e3f5398d49fca8573d",
+      "bytes": 22256,
+      "read_status": "parsed_all_rows",
+      "data_rows": 801
+    },
+    {
+      "file": "core__data__full_windows__mp-1263670__msd_late_half.csv",
+      "sha256": "5b71fb41fa06129cc5fb68b00e98c1d5be11512f3dff5c2123c4166cd3f20134",
+      "bytes": 13721,
+      "read_status": "parsed_all_rows",
+      "data_rows": 500
+    },
+    {
+      "file": "core__data__full_windows__mp-647450__analysis_summary.json",
+      "sha256": "22f8ebeb1f1fc3dcd8eb057eb92ead68d48c337d15196e03597e724c2268f8d4",
+      "bytes": 5764,
+      "read_status": "parsed_complete_json",
+      "data_rows": null
+    },
+    {
+      "file": "core__data__full_windows__mp-647450__event_phase_environment.csv",
+      "sha256": "f7c0e9ab6ed7cd541e71c5f0e70fd7ee2e9e90b3fb8668d309c5185b08267349",
+      "bytes": 628937,
+      "read_status": "parsed_all_rows",
+      "data_rows": 1872
+    },
+    {
+      "file": "core__data__full_windows__mp-647450__geometric_space.csv",
+      "sha256": "4204256b76901bd39f59df014e4f83ea27b2851a33d4b3eac8fa9aede60dc689",
+      "bytes": 1626,
+      "read_status": "parsed_all_rows",
+      "data_rows": 15
+    },
+    {
+      "file": "core__data__full_windows__mp-647450__motion_per_Na.csv",
+      "sha256": "74a6bc4f17ae50e2dd765fbc2b8d281e84669626bfeccc6b0ca513429818041f",
+      "bytes": 7419,
+      "read_status": "parsed_all_rows",
+      "data_rows": 64
+    },
+    {
+      "file": "core__data__full_windows__mp-647450__msd_absolute_0_20_available.csv",
+      "sha256": "f511af978e5941f9088937777f1f47e2082d7ff6c9dd74d4482d2a704460a783",
+      "bytes": 27787,
+      "read_status": "parsed_all_rows",
+      "data_rows": 1000
+    },
+    {
+      "file": "core__data__full_windows__mp-647450__msd_after_4ps.csv",
+      "sha256": "31621ec720d1215db8c5318ec5fd68758c6d92c5685557f49433a8722f1a52c6",
+      "bytes": 22139,
+      "read_status": "parsed_all_rows",
+      "data_rows": 801
+    },
+    {
+      "file": "core__data__full_windows__mp-647450__msd_late_half.csv",
+      "sha256": "cb7418acc25b49c4a4188bf1c64ca51743d2f674386ffe09d47e35a933cbbc91",
+      "bytes": 13567,
+      "read_status": "parsed_all_rows",
+      "data_rows": 500
+    },
+    {
+      "file": "core__data__full_windows__mp-667200__analysis_summary.json",
+      "sha256": "14b5d2bec005e8b4d820ea682ebad02a69e5d228a6fb3e60ab82b3e4f2e2feeb",
+      "bytes": 5761,
+      "read_status": "parsed_complete_json",
+      "data_rows": null
+    },
+    {
+      "file": "core__data__full_windows__mp-667200__event_phase_environment.csv",
+      "sha256": "d54a0b4225d1c8cc65a67bb7af7b0c95fcbb220de43fffb71ec52fda9244f7f3",
+      "bytes": 922345,
+      "read_status": "parsed_all_rows",
+      "data_rows": 2382
+    },
+    {
+      "file": "core__data__full_windows__mp-667200__geometric_space.csv",
+      "sha256": "72d2431cbaa9a1db4b1e4893eeab49d17707454626b5393eeb82d079a67a59e2",
+      "bytes": 1658,
+      "read_status": "parsed_all_rows",
+      "data_rows": 15
+    },
+    {
+      "file": "core__data__full_windows__mp-667200__motion_per_Na.csv",
+      "sha256": "08df99de5834648b88b642f41ff3242d301b4aa1cf1a4ada6231726ddd62304b",
+      "bytes": 7420,
+      "read_status": "parsed_all_rows",
+      "data_rows": 64
+    },
+    {
+      "file": "core__data__full_windows__mp-667200__msd_absolute_0_20_available.csv",
+      "sha256": "a6f3a97376f1105c6ab1b4d11acac127fa905cda609ba7098071efbd5bd4a7ff",
+      "bytes": 28029,
+      "read_status": "parsed_all_rows",
+      "data_rows": 1000
+    },
+    {
+      "file": "core__data__full_windows__mp-667200__msd_after_4ps.csv",
+      "sha256": "494291c4526271c50a785c56f341b73220bc19ca27ab51b63ff227df826bdd69",
+      "bytes": 22321,
+      "read_status": "parsed_all_rows",
+      "data_rows": 801
+    },
+    {
+      "file": "core__data__full_windows__mp-667200__msd_late_half.csv",
+      "sha256": "2ea5f71e8348e15fcf64a2ed05f727d4aefb5f27da4d6a3c44f04ad29341cf6f",
+      "bytes": 13746,
+      "read_status": "parsed_all_rows",
+      "data_rows": 500
+    },
+    {
+      "file": "core__figures__full_windows__mp-1263670__MSD_diagnostics.png",
+      "sha256": "7c34336f1d36b23280ae346cd55bf77177ab33be156b983c6f7b5788644b8da4",
+      "bytes": 52087,
+      "read_status": "image_visible_in_conversation",
+      "data_rows": null
+    },
+    {
+      "file": "core__figures__full_windows__mp-1263670__Na10_motion_environment.png",
+      "sha256": "d9bcbdd435e2a726418f028b37f41a79c33417aeb28d0aa7145a64b42340fb66",
+      "bytes": 68211,
+      "read_status": "image_visible_in_conversation",
+      "data_rows": null
+    },
+    {
+      "file": "core__figures__full_windows__mp-647450__MSD_diagnostics.png",
+      "sha256": "2c52e7493010b0c763ff06aee26627b86f07a746bd16c06efb2d8099db678070",
+      "bytes": 50319,
+      "read_status": "image_visible_in_conversation",
+      "data_rows": null
+    },
+    {
+      "file": "core__figures__full_windows__mp-647450__Na2_motion_environment.png",
+      "sha256": "14734009143595874ce7eef45fe56360c7198bfa6dc4cb8eed6fb2789d89267a",
+      "bytes": 69746,
+      "read_status": "image_visible_in_conversation",
+      "data_rows": null
+    },
+    {
+      "file": "core__figures__full_windows__mp-667200__MSD_diagnostics.png",
+      "sha256": "5f62bc54b7c387811b69884f4ef6a384c18cdd7b8caaf6a1122760fc6231b7e6",
+      "bytes": 53166,
+      "read_status": "image_visible_in_conversation",
+      "data_rows": null
+    },
+    {
+      "file": "core__figures__full_windows__mp-667200__Na1_motion_environment.png",
+      "sha256": "ba0790446e804959607b7e7ea8d50f40266cdae61b104a8fff2a295103e37f19",
+      "bytes": 69271,
+      "read_status": "image_visible_in_conversation",
+      "data_rows": null
+    },
+    {
+      "file": "core__figures__full_windows__three_runs_MSD_temperature.png",
+      "sha256": "eb93589dfd3c2afaf79f197d12adfef0c36b77de50085f062e85a3d39c4f3314",
+      "bytes": 49253,
+      "read_status": "image_visible_in_conversation",
+      "data_rows": null
+    },
+    {
+      "file": "core__methods__full_windows__METHODS.md",
+      "sha256": "ae2d76defe81a94bcdbb6e5c7cc3be62008288fd8568dbc3326bf877b81265d3",
+      "bytes": 3130,
+      "read_status": "read_full_text",
+      "data_rows": 21
+    },
+    {
+      "file": "details__data__full_windows__CONTROL_GLOBAL_AUDIT.json",
+      "sha256": "b947be10392636bbfe90c9fb7303986c41b1d44d9d50adcf864956c4da736f1e",
+      "bytes": 1631161,
+      "read_status": "parsed_complete_json",
+      "data_rows": null
+    },
+    {
+      "file": "details__data__full_windows__mp-1263670__environment_20fs.csv",
+      "sha256": "e338ec3befc4fe0de587495b24b30603141df6b64260186100f57c65601c1a07",
+      "bytes": 23739564,
+      "read_status": "parsed_all_rows",
+      "data_rows": 96000
+    },
+    {
+      "file": "details__data__full_windows__mp-1263670__events_controls_dwell.json",
+      "sha256": "73c6d570a009afdff99b3619cef4a1fa771b4da34255bd3b661f616f7741cec0",
+      "bytes": 2366782,
+      "read_status": "parsed_complete_json",
+      "data_rows": 309
+    },
+    {
+      "file": "details__data__full_windows__mp-1263670__leave_return_records.csv",
+      "sha256": "db530142d16fe73b32e3e1c2dc91964b4842b5602b042ef7a6dbf6eff61f5ac9",
+      "bytes": 26218,
+      "read_status": "parsed_all_rows",
+      "data_rows": 648
+    },
+    {
+      "file": "details__data__full_windows__mp-1263670__same_Na_environment_motion.csv",
+      "sha256": "32d8b94b5e1f5342b538efac0ae91830d5d049b42b50da78e2179b216fa7af4b",
+      "bytes": 4059609,
+      "read_status": "parsed_all_rows",
+      "data_rows": 16000
+    },
+    {
+      "file": "details__data__full_windows__mp-647450__environment_20fs.csv",
+      "sha256": "2cc270b8a0800d70ecb9ffb39a4ee130419de0a18c27660ba482bc00d9e99c45",
+      "bytes": 23615887,
+      "read_status": "parsed_all_rows",
+      "data_rows": 96000
+    },
+    {
+      "file": "details__data__full_windows__mp-647450__events_controls_dwell.json",
+      "sha256": "ad7bc2d6daa4bb0f605f21147d7ce1ac45faffb37ee6d18ebf2c571a62ceabac",
+      "bytes": 2333729,
+      "read_status": "parsed_complete_json",
+      "data_rows": 312
+    },
+    {
+      "file": "details__data__full_windows__mp-647450__leave_return_records.csv",
+      "sha256": "ea062a5a20dc5ea9ab50d11f1f573a1910bf1c28175badbb3cc4f482d7a648f0",
+      "bytes": 32828,
+      "read_status": "parsed_all_rows",
+      "data_rows": 815
+    },
+    {
+      "file": "details__data__full_windows__mp-647450__same_Na_environment_motion.csv",
+      "sha256": "1006c4db01be6edc2942d962303688199d1c62180aba6829e03e5e445094c31d",
+      "bytes": 3840802,
+      "read_status": "parsed_all_rows",
+      "data_rows": 16000
+    },
+    {
+      "file": "details__data__full_windows__mp-667200__environment_20fs.csv",
+      "sha256": "1eba6747de5250d221a7e847aa80e7e0fb76a21b6237172cfc34edc54cc158c3",
+      "bytes": 23801103,
+      "read_status": "parsed_all_rows",
+      "data_rows": 96000
+    },
+    {
+      "file": "details__data__full_windows__mp-667200__events_controls_dwell.json",
+      "sha256": "1c3c1d48a7632a475db94cc02bb4c51d587fcdec79a05e1470431b4edaa4bd71",
+      "bytes": 3032012,
+      "read_status": "parsed_complete_json",
+      "data_rows": 397
+    },
+    {
+      "file": "details__data__full_windows__mp-667200__leave_return_records.csv",
+      "sha256": "431cebdb7135aa63511a6207d9b4034a3e0bd7016ff6b384d61ea6a0d5df89ec",
+      "bytes": 28060,
+      "read_status": "parsed_all_rows",
+      "data_rows": 709
+    },
+    {
+      "file": "details__data__full_windows__mp-667200__same_Na_environment_motion.csv",
+      "sha256": "f985da90ed1130b93e8e264f4d297b8cb926b7ee836cd231ff9b10e64f5d3939",
+      "bytes": 4222117,
+      "read_status": "parsed_all_rows",
+      "data_rows": 16000
+    }
+  ],
+  "new_calculations": [
+    {
+      "id": "CALC-01",
+      "method": "SHA256 over original uploaded bytes; csv.DictReader enumeration",
+      "inputs": "43 actual uploaded attachments",
+      "result": "43 hashes; 27 CSVs, 351420 data rows"
+    },
+    {
+      "id": "CALC-02",
+      "method": "frame/time checks; sameNa vs environment exact CN/O/F/ligand comparison; det(cell),16/V",
+      "inputs": "3 summary + 3 environment + 3 sameNa",
+      "identity_limits": "CSV多无内嵌mp/run，用summary身份和组内数值交叉核对；原始结构/输入未读取",
+      "verification": "3x1000 saved frames; CN/O/F/ligand mismatches=0; max time error 3.552713678800501e-15 ps; det(cell) and 16/V checked."
+    },
+    {
+      "id": "CALC-03",
+      "method": "OLS y=a*lag+b; fit ranges exactly from summary; n_origins=N-k",
+      "inputs": "9 MSD CSVs + 3 summaries",
+      "limit": "fitting supplied all-origin MSD, not regenerated from coordinates; correlated origins",
+      "verification": "18 OLS fits (3mp x3windows x main/late lag) reproduce summaries; full=0.2..9.98ps, after4=0.2..8ps, late=0.2..4.98ps; original lag bounds retained in claim ledger."
+    },
+    {
+      "id": "CALC-04",
+      "method": "MSD_end=mean(endpoint_A^2); p_i=endpoint_i^2/sum(endpoint_j^2); full max/r90 from sameNa scalar distances",
+      "inputs": "motion_per_Na + same_Na_environment_motion",
+      "verification": "Full-window endpoint/max/r90 and leave-return counts matched; endpoint MSD contributions for all three windows in ANALYSIS.md and CLAIM_EVIDENCE.csv."
+    },
+    {
+      "id": "CALC-05",
+      "method": "classify fixed_dwell/200 null/end_inside/later_return/no_return_followup separately; preserve censored fields",
+      "inputs": "3 events_controls_dwell JSONs",
+      "verification": "9 distinct mp/window classifications in ANALYSIS.md section3.3; full/common are identical observations, not summed."
+    },
+    {
+      "id": "CALC-06",
+      "method": "rebuild full same-Na forbidden closed intervals [max(0,start-10),min(999,end+10)]; compare all audit zones and complete phases; exclude 3 Na12 records",
+      "inputs": "CONTROL_GLOBAL_AUDIT.json + 3 event JSONs",
+      "result": {
+        "accepted_no_overlap": 1015,
+        "excluded_null": 3,
+        "zone_mismatches": 0,
+        "unique_global_complete_ranges": 334
+      },
+      "limit": "audit existing candidates only; no original-coordinate event redetection"
+    },
+    {
+      "id": "CALC-07",
+      "method": "same-frame arithmetic means for specified event/control phases; all element-window CN, cutoffs and 2.4Å contacts; paired complete phase descriptions",
+      "inputs": "3 environment + event_phase + sameNa tables",
+      "phase_CN_max_discrepancy": 0,
+      "limit": "no significance testing; reused/correlated controls",
+      "verification": "11 named event cases; all Na/Ca/Ti/Si full and post4 window means; event/control matching and selected short-contact/distance checks described in report/ledger."
+    },
+    {
+      "id": "CALC-08",
+      "method": "shared ligand atom IDs; partner image translation=image_Na-image_partner; group by partner and translation",
+      "inputs": "environment_20fs lists at selected observed event endpoints",
+      "limit": "topological incidence of recorded contacts only; no coordinates invented; no convex-face/edge test, actual traversal, stable-site graph or barriers",
+      "verification": "9 selected endpoint joins; exact mp/event/frame, atom IDs and images in CLAIM_EVIDENCE.csv; no coordinates constructed."
+    },
+    {
+      "id": "CALC-09",
+      "method": "non-overlapping block means of initial ligand retention and fixed-initial6 nonrigid RMS",
+      "inputs": "sameNa + environment",
+      "limit": "Na movement can itself change retention; not causal host mechanism",
+      "verification": "647450 initial ligand retention 0.60155,0.54888,0.46939 and initial-fixed6 nonrigid means 1.02963,1.33104,1.34338 A in blocks4.02-10,10.02-15,15.02-20ps."
+    },
+    {
+      "id": "CALC-10",
+      "method": "formal charge balance; Q=96485.33212331/(3.6*M) for one electron per formula; film R_A=L/sigma with user target sigma",
+      "inputs": "formula; CIAAW masses; explicitly assumed thicknesses; user targets",
+      "capacity_example": {
+        "molar_mass_g_mol": 354.173,
+        "one_electron_mAh_g": 75.67341707403979,
+        "assumed_electrons_per_formula": 1
+      },
+      "limit": "no actual valence/capacity/conductivity claim"
+    }
+  ],
+  "known_missing_inputs": [
+    "raw coordinates/XDATCAR",
+    "CIF/POSCAR",
+    "INCAR/OUTCAR/OSZICAR/temperature CSV",
+    "source algorithms",
+    "SOURCE_AUDIT",
+    "workbook",
+    "periodic_graphs_100fs",
+    "shared_geometry_100fs",
+    "reference_region_segments",
+    "visited_candidate_regions",
+    "contact_edge_lifetimes"
+  ],
+  "limitations": [
+    "only one nominal1200K run per mp, not independent equivalent repeats",
+    "1000 saved frames 0.02–20ps; no1001/step0 branch supplied",
+    "raw data unavailable; cannot independently verify drift/rigid fit/unwrapping/temperature/DFT settings",
+    "Na12 excluded effective controls/control dwell/separations remain null; own event fields retained",
+    "rule candidates and reference balls are not stable lattice sites or vacancy concentration",
+    "no new AIMD/DFT/NEB/model training/coordinate construction",
+    "no room-temperature Arrhenius extrapolation or device certification"
+  ],
+  "external_sources": [
+    {
+      "id": "R1",
+      "doi": "10.1107/S0567739476001551",
+      "url": "https://doi.org/10.1107/S0567739476001551",
+      "scope": "ionic-radius table pp752–753 visually checked"
+    },
+    {
+      "id": "R2",
+      "doi": "10.1038/ncomms15893",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5482052/",
+      "scope": "general mechanism and transport distinctions, not this material"
+    },
+    {
+      "id": "R3",
+      "doi": "10.1021/cm202076g",
+      "url": "https://pubs.acs.org/doi/10.1021/cm202076g",
+      "scope": "publisher search entry only; other-titanate insertion precedent; full text restricted"
+    },
+    {
+      "id": "R4",
+      "url": "https://www.ciaaw.org/abridged-atomic-weights.htm",
+      "scope": "Na,Ca,Ti,Si,O,F mass table"
+    }
+  ],
+  "repository": "northkd/materials_data_analysis",
+  "target_branch": "main",
+  "allowed_result_root": "materials/NaCa2TiSi2O8F/results_web",
+  "archive_path": "materials/NaCa2TiSi2O8F/results_web",
+  "push_status": "PUSHED_TO_MAIN",
+  "remote_verification": {
+    "verified_utc": "2026-11-15T11:13:24.947151Z",
+    "verified_content_commit_sha": "52c77596b89b7796a08477ed19e292ff1c2635e8",
+    "branch": "main",
+    "method": "GitHub connector directory+file readback; local full-byte Git blob hashes equal remote blob SHAs; names and byte sizes match; text headers/opening ranges checked",
+    "files": [
+      {
+        "file": "ANALYSIS.md",
+        "bytes": 52030,
+        "git_blob_sha": "eedf0d918fb7d6afe904fd34d1cd1a4e3eaea42a",
+        "sha256": "46878565b5d1aa86e024c9c2955a97d2a04986ee92cd51c2919672b619452713",
+        "local_full_bytes_git_hash_matches_remote": true
+      },
+      {
+        "file": "CLAIM_EVIDENCE.csv",
+        "bytes": 57436,
+        "git_blob_sha": "06425a9d045622e80503d92a0708b2aa8e94890e",
+        "sha256": "26479fabd6a506c7dcf8fda10815ddde59b23bd609578e2a5a4e35fcd047ff9d",
+        "local_full_bytes_git_hash_matches_remote": true
+      },
+      {
+        "file": "INPUT_COVERAGE.csv",
+        "bytes": 21110,
+        "git_blob_sha": "3d7942deb5ebe93b108b588cb57348714e34c1e5",
+        "sha256": "6891003d4e69442d5a9804884924b5fee3ec72e3142748e8d886bbc3655c510a",
+        "local_full_bytes_git_hash_matches_remote": true
+      }
+    ],
+    "metadata_self_commit_sha": null,
+    "metadata_self_verification": "最终回执给出，不在自身提交前编造。"
+  },
+  "self_commit_sha": null,
+  "self_commit_sha_note": "自身commit SHA不在提交前编造；若提交成功在最终回执给出真实SHA",
+  "generated_files": [
+    "ANALYSIS.md",
+    "CLAIM_EVIDENCE.csv",
+    "INPUT_COVERAGE.csv",
+    "RESULT_META.json"
+  ],
+  "github_capability_check": {
+    "read_connected": true,
+    "write_action_available": true,
+    "repo_permissions_push": true,
+    "target_root_existed_at_check": false,
+    "protected_branch_override": false,
+    "no_force_push": true,
+    "main_protected_at_check": false,
+    "initial_base_commit_sha": "949bfe37f483e3f9a89c8463737e60ebd80dcb7b"
+  },
+  "delivery_checks": {
+    "claim_rows": 108,
+    "coverage_rows": 43,
+    "all_input_hashes_computed": true,
+    "no_missing_control_imputation": true
+  },
+  "archival_metadata_utc": "2026-11-15T11:13:24.947151Z",
+  "push_status_scope": "分析正文、证据表、输入覆盖表已提交main并回读；本元数据随其后的归档提交写入，同次交付最终回执核验元数据自身。"
+}
