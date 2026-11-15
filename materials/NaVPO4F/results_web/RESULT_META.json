@@ -1,0 +1,323 @@
+{
+  "schema_version": "1.0",
+  "material_group": "NaVPO4F",
+  "members": [
+    {
+      "formula": "NaVPO4F",
+      "mp_id": "mp-1238774",
+      "run": "aimd_1200K",
+      "identity_basis": "Uploaded report and MSD-figure title; numerical files lack intrinsic mp/run identifiers",
+      "target_temperature_K": 1200,
+      "actual_temperature_series_verified": false
+    }
+  ],
+  "analysis_recorded_at_utc": "2026-11-15T10:50:43Z",
+  "interface_displayed_model": null,
+  "interface_displayed_model_note": "界面实际模型名称未能核实；不以自述模型名代替界面证据",
+  "scientific_status": "UNVERIFIED",
+  "independent_acceptance": false,
+  "publication_authorization": false,
+  "inputs": [
+    {
+      "file": "core__REPORT.md",
+      "sha256": "5256633a7cc8615ad8e1fe15de73821895dd12e6701b038fc1f1e4d4ff482728",
+      "read_status": "read",
+      "physical_lines_read": 107
+    },
+    {
+      "file": "core__data__full_windows__results__INTERPRETATION.json",
+      "sha256": "ee10e8f5fd5a38fc9db309ab9d04a935b6559ec594c6f2ef4ff2ae393dbbf72b",
+      "read_status": "read",
+      "records_read": null,
+      "top_level_fields_read": 11
+    },
+    {
+      "file": "core__data__full_windows__results__SUMMARY.json",
+      "sha256": "8009bb14254702f8cfdff6df35b2efc5ad92ba8b3a8466c330f7c195c14351b8",
+      "read_status": "read",
+      "records_read": null,
+      "top_level_fields_read": 14
+    },
+    {
+      "file": "core__data__full_windows__results__events.json",
+      "sha256": "4404ebd407bb1f361d0ffb1d0445a9ea56fc6083af5fb01b8e6050b026c16d16",
+      "read_status": "read",
+      "records_read": 1246
+    },
+    {
+      "file": "core__data__full_windows__results__initial_ligand_persistence.csv",
+      "sha256": "8741469a84de8a1cd54ab41d18cee9821bfef5d4036b86cd5251bdc6c556f877",
+      "read_status": "read",
+      "records_read": 288
+    },
+    {
+      "file": "core__data__full_windows__results__msd_fits.csv",
+      "sha256": "d422bbd3d18b5f9b6fd9fcb851e54ec3f176ff87081b4e3d5e0d45cb2288f240",
+      "read_status": "read",
+      "records_read": 100
+    },
+    {
+      "file": "core__data__full_windows__results__msd_selected_lags.csv",
+      "sha256": "433b4a5fda5088eba45c54d5bb70d18598db79eef6b6a273df2322fc2fd5eff5",
+      "read_status": "read",
+      "records_read": 155
+    },
+    {
+      "file": "core__data__full_windows__results__paired_event_control.csv",
+      "sha256": "6568cf2ed847c775221740a36391d83acf0d7860a1c8f8d46f11e82064c6d734",
+      "read_status": "read",
+      "records_read": 1920
+    },
+    {
+      "file": "core__data__full_windows__results__per_na_motion.csv",
+      "sha256": "c626a779ddf5bcc83c786cfe58bbdcbc9fd795b4dad0974991336882d59005ce",
+      "read_status": "read",
+      "records_read": 80
+    },
+    {
+      "file": "core__data__full_windows__results__periodic_graphs_100fs.csv",
+      "sha256": "8a2bcb28cf43713324e899af8faf702549df0cd9a8c9cf96e5a0ec02cfbd2481",
+      "read_status": "read",
+      "records_read": 1206
+    },
+    {
+      "file": "core__figures__full_windows__figures__01_msd.png",
+      "sha256": "bb1d48da155542839b062160d0ef43233e9c5b9bd5f67a7c194bfe7ade0203bc",
+      "read_status": "read"
+    },
+    {
+      "file": "core__figures__full_windows__figures__03_same_Na_environment.png",
+      "sha256": "a34adea898d3ba95577314096fa18eff0d3a71d865ac996bd6dfe42456d87834",
+      "read_status": "read"
+    },
+    {
+      "file": "core__figures__full_windows__figures__04_geometry.png",
+      "sha256": "b3a4b5e54a1e7fd40093bc3dadd28c87e371fcf1931cb3b1ce08329f7b766fc3",
+      "read_status": "read"
+    },
+    {
+      "file": "details__data__full_windows__results__dwell_same_window.json",
+      "sha256": "7455439f29201da82fa7c7d2920e61bc03b87911e7f622ea5471f9e269dfa3be",
+      "read_status": "read",
+      "records_read": 3972
+    },
+    {
+      "file": "details__data__full_windows__results__environment_20fs.csv",
+      "sha256": "8671d586356c80f64c5c427029a018aceee4c2dd5ca3763cfd68265817529ffc",
+      "read_status": "read",
+      "records_read": 48000
+    },
+    {
+      "file": "details__data__full_windows__results__event_control_environment.csv",
+      "sha256": "69bb3eba7154a6e83c6027e247f38e5b9a62b3f1052b21d4554b793f452e459e",
+      "read_status": "read",
+      "records_read": 3956
+    },
+    {
+      "file": "details__data__full_windows__results__reference_occupancy_100fs.csv",
+      "sha256": "a0d1d31222d28a865456272e4ae05b33594fbd7d630f1d08bca6eb541b1bc737",
+      "read_status": "read",
+      "records_read": 2412
+    }
+  ],
+  "input_sha256_unchanged_after_analysis": true,
+  "input_coverage_counts": {
+    "files": 17,
+    "markdown": 1,
+    "json": 4,
+    "csv": 9,
+    "png": 3,
+    "archives": 0,
+    "unreadable_uploaded_files": 0
+  },
+  "trajectory_coverage": {
+    "saved_frames": 1000,
+    "sampling_interval_ps": 0.02,
+    "absolute_range_ps": [
+      0.02,
+      20.0
+    ],
+    "relative_range_ps": [
+      0.0,
+      19.98
+    ],
+    "window_frame_ranges": {
+      "full": [
+        0,
+        999
+      ],
+      "common0_20": [
+        0,
+        999
+      ],
+      "absolute4_end": [
+        199,
+        999
+      ],
+      "relative0_10": [
+        0,
+        499
+      ],
+      "relative10_end": [
+        500,
+        999
+      ]
+    },
+    "duplicate_windows": [
+      [
+        "full",
+        "common0_20"
+      ]
+    ],
+    "independent_method_MD_supplied": false,
+    "separate_strict1000_branch_supplied": false,
+    "historical_1001_branch_supplied": false,
+    "environment_control_and_dwell_windows": [
+      "full",
+      "common0_20"
+    ],
+    "note": "full覆盖严格绝对0.02–20.00ps；不另计strict1000重复；后半段绝对10.02–20.00ps"
+  },
+  "new_calculations": [
+    {
+      "id": "N01",
+      "inputs": [
+        "17 uploaded attachments"
+      ],
+      "operation": "SHA-256、CSV字段/记录数/主键、frame时间轴；N=n_origins+round(lag_ps/0.02)；full/common去window标签比较",
+      "result": "17份均可读且前后字节哈希相同；1000帧20fs；full/common非独立重复",
+      "limit": "不验证未上传的原始轨迹/温度/晶型"
+    },
+    {
+      "id": "N02",
+      "inputs": [
+        "core__data__full_windows__results__per_na_motion.csv",
+        "core__data__full_windows__results__INTERPRETATION.json",
+        "core__data__full_windows__results__msd_selected_lags.csv"
+      ],
+      "operation": "端点统计与endpoint_A²/sum(endpoint_A²)；存储逐Na multi_A2均值/份额/去前二贡献",
+      "result": "host_equal Na8+9端点贡献47.3933%；host_mass 10ps top2 Na3/5为30.4987%，生产段34.3735%",
+      "limit": "非坐标重算MSD；无新的回归拟合"
+    },
+    {
+      "id": "N03",
+      "inputs": [
+        "details__data__full_windows__results__environment_20fs.csv",
+        "core__data__full_windows__results__initial_ligand_persistence.csv"
+      ],
+      "operation": "48000行contact身份CN/初始保留；J=交集/并集，frame与max(0,frame−10)比较；288接触存在比例",
+      "result": "与保存CN/J/初始保留/接触比例数值一致；P最近4 O身份不变",
+      "limit": "距离生成算法/周期展开未独立重算；null未补"
+    },
+    {
+      "id": "N04",
+      "inputs": [
+        "core__data__full_windows__results__events.json",
+        "details__data__full_windows__results__event_control_environment.csv",
+        "core__data__full_windows__results__paired_event_control.csv"
+      ],
+      "operation": "norm(disp)、net/path代数；EC差值重算；同Na等权；控制复用及全部同Na事件±10帧禁区",
+      "result": "full331候选；327有控制但仅117同Na起点；控制禁区相交0；中段J差−0.154315，按Na等权−0.152135",
+      "limit": "控制复用、同Na相关、重叠区间不算独立重复；无因果或显著性结论"
+    },
+    {
+      "id": "N05",
+      "inputs": [
+        "details__data__full_windows__results__dwell_same_window.json",
+        "core__data__full_windows__results__events.json"
+      ],
+      "operation": "按window/reference/window_fs归约完整相位、返回、结束已在前球、中心距<=2*1Å；保留null和随访删失",
+      "result": "200fs host_equal完整310/返回265；persistent完整220/返回177；Na9 E202在0.74ps后返回",
+      "limit": "仅full/common；不等同稳定晶格位点或不可逆跳跃"
+    },
+    {
+      "id": "N06",
+      "inputs": [
+        "details__data__full_windows__results__environment_20fs.csv",
+        "details__data__full_windows__results__event_control_environment.csv"
+      ],
+      "operation": "按E78/E202/E88实际相位及非重叠10帧窗口聚合身份/CN/最近O/F距离/CV；固定V18/V30和P32/P34/P40对照",
+      "result": "Na3 E78支持伴随的富O/少F邻域变化；控制低F亦存在；不能证明F先行触发",
+      "limit": "原子距离/畸变沿用存值；缺逐事件固定笼明细和完整Na–Na排列"
+    },
+    {
+      "id": "N07",
+      "inputs": [
+        "details__data__full_windows__results__reference_occupancy_100fs.csv",
+        "core__data__full_windows__results__INTERPRETATION.json"
+      ],
+      "operation": "host_equal/radius1Å连续同标签片段；last_time−first_time>=0.2−1e−9ps；合格片段间不同标签访问；null保持",
+      "result": "103合格片段；12Na共19次跨参考访问；I十个示例时刻复现",
+      "limit": "非完整位点容量；缺每次访问周期像；没有重算球赋值和全部初始共享边"
+    },
+    {
+      "id": "N08",
+      "inputs": [
+        "core__data__full_windows__results__periodic_graphs_100fs.csv"
+      ],
+      "operation": "对201几何帧、6层存图统计max_rank和geometry_counts",
+      "result": "Na共享图192帧秩3及9帧秩2；VP共棱核验146为边×帧累计",
+      "limit": "无坐标/完整边表；未重算连通图或扩散维数/能垒"
+    },
+    {
+      "id": "N09",
+      "inputs": [
+        "NaVPO4F formal stoichiometry",
+        "user application conductivity targets",
+        "external primary sources listed below"
+      ],
+      "operation": "形式价态/补偿配平；固定其他条件σ=nqμ；假设膜厚R_A=t/σ",
+      "result": "Al3+等价替V3+不要求Na缺失；Na_(1−δ)VPO4F平均形式V=3+δ；δ1/16需μ>16/15抵消Na数量减少",
+      "limit": "条件代数，不是实测价态、相稳定、掺杂成功或器件性能预测"
+    }
+  ],
+  "limitations": [
+    "单run、单一目标温度、最长19.98ps保存跨度；无独立重复。",
+    "原始轨迹/晶胞/CIF/温度日志/分析源码/旧Excel/旧指标CSV未上传，未读取报告本机路径。",
+    "MSD/拟合、刚体和固定笼统计、周期图和几何边、空隙代理为保存结果；只在说明范围内归约或交叉核对。",
+    "缺完整位点集合、每次访问的周期像、全部逐边数据、同窗逐Na排列及集体电荷相关。",
+    "返回未观测保持右删失；缺相位、null未填补；控制复用/同Na相关/重叠原点不当独立重复。",
+    "无室温电导、实际价态、电压、可逆容量、电子输运、界面反应或机械/压力稳定实测。",
+    "外部KTP-NaVPO4F与mp-1238774晶型对应未验证；2026文献只读取公开摘要/片段，全文403，未读SI。",
+    "没有执行新AIMD/DFT/NEB/模型训练，也没有构造未经验证的坐标；没有新生成图像。"
+  ],
+  "external_primary_sources": [
+    {
+      "id": "L1",
+      "doi": "10.1002/aenm.201801064",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.201801064",
+      "read_scope": "出版商公开摘要；相身份和混相警示"
+    },
+    {
+      "id": "L2",
+      "doi": "10.1038/s41467-022-31768-5",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9283384/",
+      "read_scope": "开放HTML全文；KTP型NaVPO4F结构/价态/电极证据；不转移为本mp实测"
+    },
+    {
+      "id": "L3",
+      "doi": "10.1016/j.cej.2026.176562",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1385894726040234",
+      "read_scope": "出版商公开索引摘要/章节片段；直接全文请求403；未读取补充信息"
+    }
+  ],
+  "archive": {
+    "repository": "northkd/materials_data_analysis",
+    "branch": "main",
+    "relative_path": "materials/NaVPO4F/results_web",
+    "directory_url": "https://github.com/northkd/materials_data_analysis/tree/main/materials/NaVPO4F/results_web",
+    "root_existed_before_this_review": false,
+    "write_method": "connected authorized GitHub contents API; normal commits; no force push",
+    "push_status": "pushed_to_main",
+    "files": [
+      "ANALYSIS.md",
+      "CLAIM_EVIDENCE.csv",
+      "INPUT_COVERAGE.csv",
+      "RESULT_META.json"
+    ],
+    "scope": "Only these newly generated results for NaVPO4F; existing inputs/report/other materials left unchanged",
+    "own_commit_sha": null,
+    "own_commit_sha_note": "不在元数据中编造自身提交SHA；真实最终SHA及远端回读核对在最终回执给出"
+  },
+  "claim_evidence_records": 57
+}
