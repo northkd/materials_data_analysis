@@ -1,0 +1,589 @@
+{
+  "schema": "materials-results-web-review.v1",
+  "material_group": "Na3MgMoO3F3__Na3MoO3F3",
+  "members": [
+    {
+      "formula": "Na3MgMoO3F3",
+      "mp_id": "mp-2240200",
+      "source_label": "32",
+      "Na_n": 36,
+      "atoms": 132
+    },
+    {
+      "formula": "Na3MgMoO3F3",
+      "mp_id": "mp-2240370",
+      "source_label": "33",
+      "user_label": "34",
+      "Na_n": 24,
+      "atoms": 88
+    },
+    {
+      "formula": "Na3MoO3F3",
+      "mp_id": "mp-18753",
+      "role": "different-composition reference, not a same-composition replicate",
+      "Na_n": 54,
+      "atoms": 180
+    }
+  ],
+  "analysis_started_utc": "2026-11-15T10:59:19.778961+00:00",
+  "analysis_completed_utc": "2026-11-15T11:24:54.505023+00:00",
+  "interface_displayed_model": null,
+  "model_verification": "The interface model label was not independently observable; no inferred model label is recorded.",
+  "scientific_status": "UNVERIFIED",
+  "independent_scientific_acceptance": false,
+  "publication_authorized": false,
+  "run_label": "aimd_1200K",
+  "run_label_basis": "Uploaded methods; original run UID, seed and raw simulation headers were not available.",
+  "common_time_basis": {
+    "saved_frames": 1000,
+    "first_absolute_ps": 0.02,
+    "last_absolute_ps": 20.0,
+    "span_ps": 19.98,
+    "save_interval_ps": 0.02,
+    "physical_zero_frame_saved": false,
+    "strict1000_separate_branch_present": false,
+    "historical1001_file_present": false,
+    "full_and_common_are_same_exposure": true
+  },
+  "input_coverage": {
+    "unique_runtime_files": 48,
+    "csv_including_gzip": 23,
+    "gzip_csv": 2,
+    "json": 14,
+    "markdown": 5,
+    "png": 6,
+    "csv_data_records_excluding_headers": 158886,
+    "current_file_bytes_hashed": 48,
+    "duplicate_name_reuploads": 7,
+    "duplicate_version_limit": "One current runtime file per basename. Re-upload versions were not independently compared and are not treated as extra evidence."
+  },
+  "inputs": [
+    {
+      "file": "core__REPORT.md",
+      "sha256": "abed5e2155bc69008b675405df8068f6840faa0fcc45f12d092e8cf6af2b7c62",
+      "bytes": 39521
+    },
+    {
+      "file": "core__data__MgMo_comparison__THREE_STRUCTURE_COMPARISON.csv",
+      "sha256": "598ed764a04b1c8cafdab62645e91b9fa3c2ba28ce985dc7d64643c648b6ba31",
+      "bytes": 2150
+    },
+    {
+      "file": "core__data__MgMo_comparison__THREE_STRUCTURE_COMPARISON.md",
+      "sha256": "bc2515adfbd96bd3456f2339ebdb945d3d3407520b50eb26998ad2c68a3bb65b",
+      "bytes": 9931
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__MSD_curves.csv",
+      "sha256": "a0207b1c0faf770d82f42f6749468d1bb48ff9a0805ce2a5cce69d6048e8fa32",
+      "bytes": 474165
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__MSD_fits.json",
+      "sha256": "1963f36b1e3811ccc6acd0a14e9f3ab72f47994665b47888937e49e5df47cc21",
+      "bytes": 24572
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__SUMMARY.json",
+      "sha256": "9df4b8e8d27c165681ee772841800a3e158f7a4237bcf60158b6f71d78b42e16",
+      "bytes": 7814
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__departures_returns.csv",
+      "sha256": "26eb2d5c3ac198587785114969c571ededef65d95121238cdd7ab25cf0eae702",
+      "bytes": 34828
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__event_summary.json",
+      "sha256": "8687f927ea081f9876ec28e7afde96a54989b6c46efac6fae2150042f5d3fe1d",
+      "bytes": 3935
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__geometric_space.csv",
+      "sha256": "659c37597edca99507bef8d37580e331ff8067ebf71e586c6fdea27021ac04d4",
+      "bytes": 23958
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__motion_summary.json",
+      "sha256": "cb638b56853cee391744cb2192a8c4f8d5977a6257d02f8f1a48a54260d33b5f",
+      "bytes": 2685
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__per_Na_motion.csv",
+      "sha256": "5a44a2f20101e316711c6802067351accbde0a7e77db63fc332e68b1833464df",
+      "bytes": 43227
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240200__same_Na_environment_motion.csv",
+      "sha256": "f11aace87c78f9af978a66f8c5a6c394f882cd3a83572a7d113efd91c26411c9",
+      "bytes": 21811
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__MSD_curves.csv",
+      "sha256": "6e0fe5ff5b9c11a24756e7b2a2c20844dba1bdfd63f25ca13281d3ddd60ae9e8",
+      "bytes": 477881
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__MSD_fits.json",
+      "sha256": "8f9644c3dceef160a38323482b63f1cb410098827d940b41e669f228b9c308d0",
+      "bytes": 25292
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__SUMMARY.json",
+      "sha256": "35dbe146f799adb210b0791bba3e311aa080fc4323ed65bd33bc9cf22083c13d",
+      "bytes": 7787
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__departures_returns.csv",
+      "sha256": "7a790e8797da76b12e5bf1e3505ec14109624f941801a05d68eae19961406d6d",
+      "bytes": 84407
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__event_summary.json",
+      "sha256": "63d6db4b5401e95626247d9c58b6de5cd2754e130313d2ce7ae4ea26f432b0d5",
+      "bytes": 3785
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__geometric_space.csv",
+      "sha256": "78b41b9c36c42dd01af6ad0db64099089d9c99017fc8f53d624ab1c4c45dbaf2",
+      "bytes": 25034
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__motion_summary.json",
+      "sha256": "64a7da84bd52959e2481d2ba26f48f1a7d6b4d86b2ab24ba5ae72594c174dcbd",
+      "bytes": 2688
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__per_Na_motion.csv",
+      "sha256": "5f99e16c22916a2068b8fae5e5a7c261bd3171ba492dfadb1ba7ed8503f933d4",
+      "bytes": 29504
+    },
+    {
+      "file": "core__data__MgMo_full_windows__results__mp-2240370__same_Na_environment_motion.csv",
+      "sha256": "bca8734773bf0d2127fdddd4046ece15a7e4d623b700cbf193b9a3c37d678f02",
+      "bytes": 15135
+    },
+    {
+      "file": "core__data__mp-18753__environment__SUMMARY.json",
+      "sha256": "aff72637c47d2953508191b921d237602026f7a4cce81718f39d238bcb37c227",
+      "bytes": 4930
+    },
+    {
+      "file": "core__data__mp-18753__environment__event_phase_summary.csv",
+      "sha256": "bf158c46c2957c25a08f36a97ccee559247a85b10d75d1e2deb60f841d87184c",
+      "bytes": 41258
+    },
+    {
+      "file": "core__data__mp-18753__motion__SUMMARY.json",
+      "sha256": "d44a636e1e68b00dfb20b038865a45f95c9c16fc12f3a9eb4a3fd7c0a5ef319e",
+      "bytes": 450612
+    },
+    {
+      "file": "core__data__mp-18753__motion__endpoint_msd.csv",
+      "sha256": "ecaa4d26eae47df168fe64b9f86f441a86516038f931717e5f08b58b1f08cb92",
+      "bytes": 47609
+    },
+    {
+      "file": "core__data__mp-18753__motion__msd_time_origins.csv",
+      "sha256": "e48cb5583bd8ba0001a0c9f49f1170baf7d721fd65a5f37d65c70135fd80c410",
+      "bytes": 21025
+    },
+    {
+      "file": "core__data__mp-18753__motion__per_na.csv",
+      "sha256": "7815bb769c4e9b7e73b1ac5a94ee9535ade29ec09032b53f9dd46d450366a9ee",
+      "bytes": 174974
+    },
+    {
+      "file": "core__data__mp-18753__regions__SUMMARY.json",
+      "sha256": "86abd294876fed886d11325e3295c50aefc48b8eff097bebc9f60e3a41e2cd55",
+      "bytes": 3741
+    },
+    {
+      "file": "core__data__mp-18753__regions__transitions.csv",
+      "sha256": "07547b5fc9eebc4d5b57ad0a534d071059b47ae7c0ee44424f32959be2e68c8c",
+      "bytes": 267
+    },
+    {
+      "file": "core__figures__MgMo_full_windows__figures__mp-2240200__01_windows.png",
+      "sha256": "ca46e4b1c3a3706deaab065cad5e180c79ba608e0c1960f9709316c17aaf4583",
+      "bytes": 105257
+    },
+    {
+      "file": "core__figures__MgMo_full_windows__figures__mp-2240200__04_stored_connections.png",
+      "sha256": "7f73dcd08ad4f55531935522f3b3ddff8f6f93f8d55f080f4e2a6f8346ea7348",
+      "bytes": 91284
+    },
+    {
+      "file": "core__figures__MgMo_full_windows__figures__mp-2240370__01_windows.png",
+      "sha256": "d221e55ea660802c1774df81d7df115f779aca1ddca6faf335fc5702b755fcc5",
+      "bytes": 129312
+    },
+    {
+      "file": "core__figures__MgMo_full_windows__figures__mp-2240370__04_stored_connections.png",
+      "sha256": "c4310f0bcc7f4072d61a8dbfd32125cf22ee4e8734d825af33c8bc543b892abd",
+      "bytes": 50618
+    },
+    {
+      "file": "core__figures__mp-18753__figures__connections.png",
+      "sha256": "c0dbfec7d75776a49a8955c2d5561eb0284779ba681b8e7fbc728d3991b362bf",
+      "bytes": 254905
+    },
+    {
+      "file": "core__figures__mp-18753__figures__motion.png",
+      "sha256": "777b9db3b6f51c1e4c138ba59cabebf14d5fc2d59b89c08d0d1cca0d8b9f77c5",
+      "bytes": 509954
+    },
+    {
+      "file": "core__methods__MgMo_comparison__METHOD_ALIGNMENT.md",
+      "sha256": "43d9ba85ff5d56796bc88896bcbb015cd7e7f92aa73a6f7813c7b174611ad569",
+      "bytes": 4114
+    },
+    {
+      "file": "core__methods__MgMo_full_windows__METHODS_SPEC.md",
+      "sha256": "f888118ad059566502e87c78a896400ff3160b6577cffbca084ef911914b4024",
+      "bytes": 3615
+    },
+    {
+      "file": "core__methods__mp-18753__METHODS.md",
+      "sha256": "962c6beb4209c4d42b6dcbd599db0549732b092b594490029e4d8093f7355fd2",
+      "bytes": 4817
+    },
+    {
+      "file": "details__data__MgMo_full_windows__results__mp-2240200__after4_event_sameNa_examples.csv",
+      "sha256": "5234e9aae8c7d22fad571db3c066eb98de603ddba7fd63304f2dd490856e5312",
+      "bytes": 173829
+    },
+    {
+      "file": "details__data__MgMo_full_windows__results__mp-2240200__cation_environment.csv.gz",
+      "sha256": "f618d2f7e9cf1425a9c0288b17476807e947afc339168873ca309372becace9e",
+      "bytes": 8519231
+    },
+    {
+      "file": "details__data__MgMo_full_windows__results__mp-2240200__events.json",
+      "sha256": "047670c4e289fccfab696c3011466cf30207075d113a660eecd9981f1389326d",
+      "bytes": 6610677
+    },
+    {
+      "file": "details__data__MgMo_full_windows__results__mp-2240370__after4_event_sameNa_examples.csv",
+      "sha256": "9b74b1d6e1976c1f0a82e86d8f47e2b313ac149bdb98dc2f965a590ee648ea84",
+      "bytes": 31103
+    },
+    {
+      "file": "details__data__MgMo_full_windows__results__mp-2240370__cation_environment.csv.gz",
+      "sha256": "51b7d4bc05cea667997de53d51cf8b58ecbee7d962da4c41eb1063a2fece5b2d",
+      "bytes": 6483372
+    },
+    {
+      "file": "details__data__MgMo_full_windows__results__mp-2240370__events.json",
+      "sha256": "34896439081cf6b397d0e107fcc2488800e2ede90f5c7a27839a7e01841fcf81",
+      "bytes": 1179431
+    },
+    {
+      "file": "details__data__mp-18753__environment__full_phase_environment.csv",
+      "sha256": "dd224df35c3bd481da0c65b42c1714d6831322354fca2f126e0f0220fedf6a61",
+      "bytes": 758361
+    },
+    {
+      "file": "details__data__mp-18753__motion__events.json",
+      "sha256": "dc0847f2acff3a8b2cd0b5ab2d6867fc3b21f262fa559cd9c2a0a5d95741a5e2",
+      "bytes": 2738484
+    },
+    {
+      "file": "details__data__mp-18753__motion__full_phases.csv",
+      "sha256": "44b7bdd2ceb1582a2be9874c773ef135f63474d533fbb18d51b80e31c92a6489",
+      "bytes": 1016248
+    },
+    {
+      "file": "details__data__mp-18753__regions__reference_visits.csv",
+      "sha256": "2746b3edf7bcd04300489f1c6d8c8673e610eaafcbd92accc5eab60e6c24f457",
+      "bytes": 2466777
+    }
+  ],
+  "original_simulation_file_sha256": null,
+  "new_calculations": [
+    {
+      "id": "N01",
+      "inputs": [
+        "MgMo per_Na_motion.csv (both mp members)",
+        "Mo per_na.csv",
+        "Mo motion SUMMARY.json window_sensitivity"
+      ],
+      "method": "For each mp/window/reference, MSD=mean(endpoint_A^2), shares=endpoint_A^2/sum(endpoint_A^2), top3=sum(3 largest shares); check vector norms.",
+      "results": {
+        "full_endpoint_MSD_A2": [
+          32.10527592790707,
+          0.7337062790386687,
+          0.568985961167438
+        ],
+        "full_top3_share": [
+          0.21220518947957978,
+          0.40993376766929246,
+          0.245128372
+        ],
+        "member_order": [
+          "mp-2240200",
+          "mp-2240370",
+          "mp-18753"
+        ]
+      },
+      "limit": "No new raw-trajectory unwrapping or independent trajectories."
+    },
+    {
+      "id": "N02",
+      "inputs": [
+        "both MSD_curves.csv and MSD_fits.json",
+        "Mo msd_time_origins.csv"
+      ],
+      "method": "OLS MSD=a*lag+b with intercept; alpha=OLS(log MSD vs log lag); fit only actually saved lag points.",
+      "results": {
+        "MgMo_fit_intervals": 160,
+        "Mo_fit_intervals": 6,
+        "MgMo_max_slope_difference_A2_per_ps": 1.1102230246251565e-15,
+        "late15_nominal_range_ps": [
+          2,
+          10
+        ],
+        "late15_actual_range_ps": [
+          2,
+          5
+        ],
+        "late15_n_lags": 31,
+        "late15_last_origins": 1
+      },
+      "limit": "Overlapping origins are correlated; no formal conductivity, room-temperature extrapolation or independent-run confidence interval."
+    },
+    {
+      "id": "N03",
+      "inputs": [
+        "events.json for all three members"
+      ],
+      "method": "Separate windows; classify missing 200fs pre/post, endpoint already in pre-region, later observed return and finite-followup non-return; preserve censoring.",
+      "results": {
+        "mp-2240200": {
+          "full": 375,
+          "later": 250,
+          "already_pre": 48,
+          "not_observed": 74,
+          "missing": 3
+        },
+        "mp-2240370": {
+          "full": 72,
+          "later": 35,
+          "already_pre": 26,
+          "not_observed": 0,
+          "missing": 11
+        },
+        "mp-18753": {
+          "full": 106,
+          "later": 64,
+          "already_pre": 40,
+          "not_observed": 0,
+          "missing": 2
+        }
+      },
+      "limit": "Rule candidates and persistent labels are not verified site hops."
+    },
+    {
+      "id": "N04",
+      "inputs": [
+        "events.json for all three members"
+      ],
+      "method": "Check complete control segment plus 10 frames before/after against every same-Na event closed exclusion interval; count distinct (Na,start,end).",
+      "results": {
+        "distinct_control_intervals": [
+          360,
+          68,
+          101
+        ],
+        "out_of_bounds_or_ban_overlap": [
+          0,
+          0,
+          0
+        ],
+        "member_order": [
+          "mp-2240200",
+          "mp-2240370",
+          "mp-18753"
+        ]
+      },
+      "limit": "Distinct control intervals may still overlap; no independent-n or causal inference."
+    },
+    {
+      "id": "N05",
+      "inputs": [
+        "two cation_environment.csv.gz",
+        "two MgMo events.json"
+      ],
+      "method": "Parse all 100000 rows; verify CN/ID/element/image/distance array consistency and frame-time; average by element/window. Compare event start-10/end+10 ligand-ID sets against matched control phase boundaries.",
+      "results": {
+        "mp-2240200": {
+          "complete_pairs": 370,
+          "event_ID_changed": 366,
+          "control_ID_changed": 360
+        },
+        "mp-2240370": {
+          "complete_pairs": 61,
+          "event_ID_changed": 53,
+          "control_ID_changed": 56
+        }
+      },
+      "limit": "Snapshot association is not proof of driving order; six-nearest IDs differ from short-shell IDs."
+    },
+    {
+      "id": "N06",
+      "inputs": [
+        "two cation_environment.csv.gz"
+      ],
+      "method": "At each frame pair centers sharing a ligand atom ID; integer center shift T=image_i-image_j. Deduplicate by center pair and T. Compute cycle-translation rank separately for each connected component, then take maximum. No convex-hull filter.",
+      "results": {
+        "mp-2240200": {
+          "Mo_frames_with_contacts": 692,
+          "Mo_edges_min": 0,
+          "Mo_edges_max": 5,
+          "Mo_edges_mean": 1.174,
+          "Mo_max_component_rank_hist": {
+            "0": 1000
+          },
+          "all_host_max_component_rank_hist": {
+            "0": 244,
+            "1": 390,
+            "2": 276,
+            "3": 90
+          },
+          "Na_max_component_rank_hist": {
+            "1": 1,
+            "3": 999
+          }
+        },
+        "mp-2240370": {
+          "Mo_frames_with_contacts": 0,
+          "Mo_edges_min": 0,
+          "Mo_edges_max": 0,
+          "Mo_max_component_rank_hist": {
+            "0": 1000
+          },
+          "all_host_max_component_rank_hist": {
+            "0": 2,
+            "1": 107,
+            "2": 891
+          },
+          "Na_max_component_rank_hist": {
+            "2": 3,
+            "3": 997
+          }
+        }
+      },
+      "limit": "Shared contacts are not validated corners/edges/faces or migration routes. No energy barriers or continuous same-image geometry lifetimes were computed."
+    },
+    {
+      "id": "N07",
+      "inputs": [
+        "Mo full_phases.csv",
+        "Mo full_phase_environment.csv",
+        "Mo events.json",
+        "Mo event_phase_summary.csv"
+      ],
+      "method": "Use supplied coordinates to rederive event end-start vectors; 200fs pre center=start-10..start-1, post dwell center=end..end+9. Keep phase-table post=end+1..end+10 separate. Reaggregate phase CN/retention.",
+      "results": {
+        "event_vectors_checked": 106,
+        "complete_200fs_center_separations_checked": 104,
+        "phase_summaries_checked": 635,
+        "maximum_difference": 0
+      },
+      "limit": "Only event/control phase coordinates are provided; instantaneous short-shell ligand IDs refer to a missing coordination.jsonl."
+    },
+    {
+      "id": "N08",
+      "inputs": [
+        "Mo reference_visits.csv",
+        "Mo transitions.csv",
+        "MgMo geometric_space.csv (both members)"
+      ],
+      "method": "Recount six Mo reference/radius settings with duration=(last-first)*0.02ps and residence>=0.2ps. Reaggregate MgMo 41-frame grid summaries by exclusion distance.",
+      "results": {
+        "Mo_visit_segments": 31046,
+        "Mo_samples_each_setting": 54000,
+        "Mo_foreign_ge200fs_each_setting": 0,
+        "Mo_transition_rows": 0
+      },
+      "limit": "Initial occupied reference balls are not the complete site universe or vacancy inventory. MgMo region visits have summary-only support; grids differ across compositions."
+    },
+    {
+      "id": "N09",
+      "inputs": [
+        "verified formulas and Na counts",
+        "user conductivity targets"
+      ],
+      "method": "Formal charge balance and illustrative ideal planar area resistance R_A=L/sigma.",
+      "results": {
+        "MgMo_formal_Mo": 4,
+        "Mo_reference_formal_Mo": 6,
+        "Mg_on_Na_candidate": "Na_(3-2x)Mg_(1+x)MoO3F3",
+        "Na_removal_candidate": "Na_(3-y)MgMoO3F3",
+        "ideal_10nm_1e-6_Scm_R_A_ohm_cm2": 1
+      },
+      "limit": "Not actual valence, substitution stability, synthesis, voltage, capacity or device performance."
+    }
+  ],
+  "evidence_limits": [
+    "No full raw trajectory, original POSCAR/CIF or raw temperature/energy log was uploaded.",
+    "MgMo fixed host-unit and validated shared-edge lifetime time series are missing; selected original report numbers remain report-only.",
+    "MgMo reference-region visits/transitions are not uploaded; 26/41 and 0/0 counts remain summary evidence.",
+    "Mo instantaneous ligand_ID_evidence is a pointer to an unprovided coordination.jsonl; fixed six-ligand IDs do not replace instantaneous shells.",
+    "Short-shell references/cutoffs, cells, Na arrangements, composition, formal Mo state, electronic settings and startup history differ.",
+    "Very high startup temperatures need original-log/parser verification; later window resetting cannot undo possible prior structural changes.",
+    "No new AIMD, DFT, NEB, kMC, model training, coordinates, doped structures or original scientific plots were generated.",
+    "No stable-site capacity, vacancy fraction, energy barrier, room-temperature conductivity or battery-device qualification is established."
+  ],
+  "external_primary_sources": [
+    {
+      "doi": "10.1038/s41524-018-0074-y",
+      "scope_read": "publication details and abstract"
+    },
+    {
+      "doi": "10.1038/s41467-020-15245-5",
+      "scope_read": "primary research HTML"
+    },
+    {
+      "doi": "10.1073/pnas.2316493121",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11067015/",
+      "scope_read": "primary research HTML"
+    },
+    {
+      "url": "https://www.cdc.gov/niosh/npg/npgd0434.html",
+      "scope_read": "NIOSH compound-class hazard information; not material-specific classification"
+    },
+    {
+      "url": "https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750030.html",
+      "scope_read": "NIOSH search result hazard context; no inference that this material releases HF"
+    }
+  ],
+  "generated_files": [
+    "ANALYSIS.md",
+    "CLAIM_EVIDENCE.csv",
+    "INPUT_COVERAGE.csv",
+    "RESULT_META.json"
+  ],
+  "generated_content_sha256_excluding_self": {
+    "ANALYSIS.md": "633542283879679adfd2bb5b49cddba9bfd48c7f03e4e577dd63cf5057b0949c",
+    "INPUT_COVERAGE.csv": "e579d79a6c0ba91d1473011d9d559bdaa7d41127cae0a33ebcf875e7815198b1",
+    "CLAIM_EVIDENCE.csv": "4a7eea67e9237425094d34b05b3acacc29ac798bb49f85c1ccdbeb02322068ff"
+  },
+  "archive": {
+    "repository": "northkd/materials_data_analysis",
+    "branch": "main",
+    "actual_path": "materials/Na3MgMoO3F3__Na3MoO3F3/results_web",
+    "root_preexisting_before_this_review": false,
+    "old_results_overwritten": false,
+    "push_status": "pushed_to_main",
+    "write_method": "authorized GitHub connector create_file; no force push",
+    "prior_successful_result_commit_sha": "bb956060d340f92e572ae5f2cfd676cb7ee60107",
+    "self_commit_sha": null,
+    "self_commit_note": "Actual final commit SHA and post-write remote verification are reported in the delivery receipt, not invented inside this file.",
+    "post_write_verification": "See final delivery receipt; metadata itself does not preclaim its own read-back.",
+    "private_paths_or_credentials_included": false,
+    "concurrent_result_directory_seen": "review_20261115T112017Z",
+    "concurrent_result_directory_modified": false,
+    "concurrency_note": "The results root was absent before this review began writing. A separate review subdirectory appeared during archiving; it was preserved and was not read as evidence for this review."
+  }
+}
