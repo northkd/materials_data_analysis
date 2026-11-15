@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "material_group": "NaSbF4",
+  "members": [
+    {
+      "formula": "NaSbF4",
+      "mp_id": "mp-29269",
+      "run_label": "aimd_1200K",
+      "run_uuid": null,
+      "identity_basis": "Uploaded MSD_SUMMARY.json raw_identity and CSV_historical_row, plus uploaded report; individual CSV files do not embed mp/run/temperature identifiers.",
+      "raw_structure_mapping_independently_verified": false,
+      "atom_counts": {"Na": 32, "Sb": 32, "F": 128, "O": 0}
+    }
+  ],
+  "analysis_started_at_utc": "2026-11-15T10:30:04Z",
+  "analysis_completed_at_utc": "2026-11-15T10:51:10Z",
+  "interface_displayed_model": null,
+  "interface_displayed_model_note": "The model label actually shown in the user interface was not independently accessible or verified.",
+  "scientific_status": "UNVERIFIED",
+  "independent_scientific_acceptance": false,
+  "publication_authorization": false,
+  "analysis_basis": "Only the 13 uploaded allowed files for trajectory evidence; external primary literature is separated from this run. This is a review of saved derived tables, not a new coordinate-level simulation or independent scientific acceptance.",
+  "input_files": [
+    {"file": "core__methods__full_windows__METHODS.md", "bytes": 6239, "read_status": "full_text", "sha256": "aba4b635ee27695a10bfb566207e4fd1d4f169702c1b93387b476c2e22936495"},
+    {"file": "core__REPORT.md", "bytes": 28021, "read_status": "full_text_as_claims_to_check", "sha256": "56d9a08381bc78a49d5902dbaeea9843db4b5d85fca7fc50472f54660a9a6845"},
+    {"file": "core__data__full_windows__data__MSD_SUMMARY.json", "bytes": 19685, "read_status": "full_json", "sha256": "a3b52f127a67d758f5f9a7a709b5c32810ee9b121aee50aef20b79e5c5905b71"},
+    {"file": "core__data__full_windows__data__per_Na_windows.csv", "bytes": 79017, "data_rows": 672, "read_status": "full_csv", "sha256": "fdc3cf0b554620dd99de8a0e58f52944ce335e8d2c77e350531525a7e48056d7"},
+    {"file": "core__data__full_windows__data__event_reanalysis.csv", "bytes": 164362, "data_rows": 694, "read_status": "full_csv", "sha256": "382373f740196594c015f87a68385adaf04681ceb43f2f67c4559a5023b0dc52"},
+    {"file": "core__data__full_windows__data__event_control_environment.csv", "bytes": 98211, "data_rows": 1388, "read_status": "full_csv", "sha256": "1629e1163bc9f594bcbecc0ea55da9be6b1965602eb3a5016fde05e50fad9fb9"},
+    {"file": "details__data__full_windows__data__event_control_complete_phases.csv", "bytes": 5001766, "data_rows": 48348, "read_status": "full_csv", "sha256": "f7594bb59b5ef3833be710720beac772a804f17933064d55bbc8305c8bd12b4a"},
+    {"file": "core__data__full_windows__data__local_reference_sensitivity.csv", "bytes": 54198, "data_rows": 384, "read_status": "full_csv", "sha256": "c6e5c060788ec4a15e4c3661c1663b35c2d7cf98e4fdca76dfc9c116383106a3"},
+    {"file": "details__data__full_windows__data__candidate_region_episodes.csv", "bytes": 794139, "data_rows": 15959, "read_status": "full_csv", "sha256": "c89f38987fbd1a13466445ee6be24f3c553d3e461df93ebb8480528afd87ff93"},
+    {"file": "details__data__full_windows__data__candidate_region_anchors.csv", "bytes": 544427, "data_rows": 6863, "read_status": "full_csv", "sha256": "96cb9dac05a586cb504061c0267cd75382051d74eac718164afc55e957d4f342"},
+    {"file": "core__data__full_windows__data__space.csv", "bytes": 9841, "data_rows": 183, "read_status": "full_csv", "sha256": "b4de8a04f0d94a74a25930b9c05d41116a4d10f26df5c925f1239bd46356548f"},
+    {"file": "core__figures__full_windows__figures__01_msd_estimators.png", "bytes": 529181, "read_status": "visual_inspection_no_digitization", "sha256": "01487aa646313a60d4759adadf5d3766a6f852e090b24da7dfa2ee82a82c5927"},
+    {"file": "core__figures__full_windows__figures__03_Na_events_and_regions.png", "bytes": 390157, "read_status": "visual_inspection_no_digitization", "sha256": "d999a407b8c9501bfaab187c8c1b78a7def5613e6f12edd9eb46df3d8eac22b3"}
+  ],
+  "time_and_window_scope": {
+    "temperature_label_K": 1200,
+    "independent_runs": 1,
+    "saved_frame_interval_ps": 0.02,
+    "absolute_minus_relative_ps": 0.02,
+    "full_saved_frames_from_uploaded_summary": 1500,
+    "full_absolute_range_ps": [0.02, 30.0],
+    "full_relative_range_ps": [0.0, 29.98],
+    "historical_common20_frames": 1001,
+    "historical_common20_absolute_range_ps": [0.02, 20.02],
+    "strict1000_available": false,
+    "strict1000_results": null,
+    "available_windows": ["full", "common20", "after4", "early", "middle", "late", "tail_after24"],
+    "raw_trajectory_read_in_this_review": false
+  },
+  "new_calculations": [
+    {
+      "id": "NC01",
+      "inputs": ["core__data__full_windows__data__per_Na_windows.csv", "core__data__full_windows__data__MSD_SUMMARY.json"],
+      "method": "Group by window and reference; calculate endpoint mean/min/max/median, mean(endpoint_A squared), count(endpoint_A>2), and endpoint_A squared divided by the sum across 32 Na; compare with saved JSON.",
+      "scope": "672 rows; seven windows and three references",
+      "maximum_absolute_difference_for_checked_statistics": 1.1102230246251565e-16,
+      "limitation": "Endpoint contributions only; not all-lag MSD decomposition or coordinate-level recalculation. Existing r90/max/path/return fields were read, not regenerated."
+    },
+    {
+      "id": "NC02",
+      "inputs": ["core__data__full_windows__data__event_reanalysis.csv", "details__data__full_windows__data__event_control_complete_phases.csv"],
+      "method": "Count return states; deduplicate control_id; convert times using round(t/0.02) to saved-frame indices and test each control including +/-10 frames against every same-Na candidate expanded closed forbidden interval.",
+      "control_legality_failures": 0,
+      "unique_controls": {"full": 387, "common20": 242},
+      "limitation": "Controls, overlapping phases and windows are not independent repeats; no new event detection or return-rate model."
+    },
+    {
+      "id": "NC03",
+      "inputs": ["details__data__full_windows__data__event_control_complete_phases.csv", "core__data__full_windows__data__event_control_environment.csv", "core__data__full_windows__data__event_reanalysis.csv"],
+      "method": "Check saved-frame coverage of closed +/-200 fs phases; recalculate set Jaccard as intersection size/union size relative to the event/control start; reproduce event/control CN means, endpoint F6 J, nearest-Sb endpoint changes and endpoint distance.",
+      "environment_summary_mismatches": 0,
+      "jaccard_mismatches": 0,
+      "duplicate_same_Na_same_frame_environment_mismatches": 0,
+      "strictly_incomplete_event_phases": {"full": [89, 187, 204, 231, 322, 413], "common20": [138, 204]},
+      "finite_fixed200_but_only_180fs_post_coverage": [{"window": "full", "event_id": 231, "Na0": 17}, {"window": "common20", "event_id": 204, "Na0": 24}],
+      "limitation": "Original six null fixed200 rows and all return labels/right censoring preserved. A sample-count versus closed-endpoint convention remains unresolved; no missing samples filled."
+    },
+    {
+      "id": "NC04",
+      "inputs": ["details__data__full_windows__data__candidate_region_episodes.csv", "details__data__full_windows__data__candidate_region_anchors.csv"],
+      "method": "Join on window/Na0/radius_A/region; verify sum(n_blocks)=observed_200fs_blocks; count regions, residence episodes and repeat episodes; examine radii 0.8/1.0/1.2 A.",
+      "region_block_count_mismatches": 0,
+      "limitation": "Region coordinate reference not independently established; only within-Na label/time comparisons. No cross-Na site universe, vacancy fraction or new coordinates. Nominal block duration is not added observation time."
+    },
+    {
+      "id": "NC05",
+      "inputs": ["core__data__full_windows__data__space.csv"],
+      "method": "Group 183 saved rows by host exclusion radius; calculate mean open_fraction and open_rank frequencies; compare saved times near selected events.",
+      "limitation": "Only saved global geometric summaries; no reconstructed grid, interaction energy, barrier or proof of Na passage."
+    },
+    {
+      "id": "NC06",
+      "inputs": ["The 13 uploaded files listed in input_files"],
+      "method": "Compute SHA-256 of the actual uploaded bytes.",
+      "limitation": "No hashes or reads of missing or restricted inputs; matching derived tables is not independent scientific acceptance."
+    }
+  ],
+  "not_performed": [
+    "Reading, hashing or reconstructing species_displacements.csv, msd_curves.csv, msd_fits_diagnostic.csv, host_motion.csv or equivalent copies",
+    "New AIMD, DFT, NEB, model training or unvalidated coordinate construction",
+    "Strict1000 reconstruction, MSD curve reconstruction, new diffusion-coefficient fitting or room-temperature conductivity extrapolation",
+    "Independent verification of original raw-trajectory generation, complete Sb-F periodic contact graphs or full host-motion statistics",
+    "New plotted figures or new crystal-site models"
+  ],
+  "external_primary_sources": [
+    {"id": "R1", "doi": "10.1016/j.jpowsour.2024.234352", "url": "https://doi.org/10.1016/j.jpowsour.2024.234352", "access_scope": "Publisher-indexed abstract and introduction/conclusion snippets; direct publisher page returned 403. Full text and supporting information not completely read.", "use": "Separate-sample NaSbF4 conversion/composite-electrolyte evidence, not validation of mp-29269/run performance."},
+    {"id": "R2", "doi": "10.1016/j.jallcom.2025.182611", "url": "https://doi.org/10.1016/j.jallcom.2025.182611", "access_scope": "Publisher-indexed abstract and highlights; direct publisher page returned 403. Full text, supporting information and raw electrochemical curves not completely read.", "use": "Separate Na2SbF5/NaSbF4 heterostructure-anode evidence."},
+    {"id": "R3", "doi": "10.1002/ejic.202400144", "url": "https://doi.org/10.1002/ejic.202400144", "access_scope": "Publisher full-text page accessible; abstract, experimental and structure discussion inspected.", "use": "NaBiF4 endmember and water-sensitivity precedent; not proof of Bi substitution stability or enhanced Na transport in NaSbF4."},
+    {"id": "R4", "doi": null, "url": "https://www.cdc.gov/niosh/npg/npgd0036.html", "access_scope": "Official NIOSH chemical-hazard guidance.", "use": "General occupational Sb exposure risk; not NaSbF4-specific toxicology or safety authorization."}
+  ],
+  "limitations": [
+    "One nominal 1200 K run with a reported startup temperature spike; independent thermal histories and low-temperature measurements are absent.",
+    "Individual CSV material/run identity is inherited from uploaded summary/report rather than self-contained identifiers.",
+    "Nearest-F identity changes do not distinguish Na passage from F motion or establish causality; local fixed-F reference changes do not establish true jumps.",
+    "No complete shared Na-site universe, site capacity, actual vacancy density, Na-Na collective exchange sequence or migration free energy.",
+    "Sb main/secondary-contact graph statistics and full-host RMS in the old report remain report-only claims, not newly independently verified data.",
+    "Geometric openness and periodic rank are not diffusion dimensionality or low-energy paths.",
+    "Proposed compositions and balanced reactions are hypotheses; actual valence, occupancy, phase stability, electronic transport and electrochemical reversibility remain unverified."
+  ],
+  "archive": {
+    "repository": "northkd/materials_data_analysis",
+    "branch": "main",
+    "relative_path": "materials/NaSbF4/results_web",
+    "root_existed_before_this_delivery": false,
+    "directory_action": "Created the previously absent results_web root after checking its parent directory.",
+    "files": ["ANALYSIS.md", "CLAIM_EVIDENCE.csv", "INPUT_COVERAGE.csv", "RESULT_META.json"],
+    "push_status": "pushed_to_main",
+    "write_method": "Authorized connected GitHub create_file actions; only these four new material-result files.",
+    "preexisting_inputs_reports_and_other_materials_modified": false,
+    "force_push_used": false,
+    "branch_protection_bypassed": false,
+    "self_commit_sha": null,
+    "commit_receipt": "The actual final commit SHA and post-write remote verification are returned separately in the delivery receipt; no self-referential commit SHA is fabricated in this file."
+  }
+}
