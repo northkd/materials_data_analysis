@@ -1,0 +1,361 @@
+{
+  "material_group": "Na3Ca3Zr2Si4O15F3",
+  "formula": "Na3Ca3Zr2Si4O15F3",
+  "members": [
+    {
+      "mp_id": "mp-1248208",
+      "run": "aimd_1200K",
+      "frames": 1000,
+      "first_absolute_ps": 0.02,
+      "last_absolute_ps": 20.0,
+      "elapsed_span_ps": 19.98
+    },
+    {
+      "mp_id": "mp-705559",
+      "run": "aimd_1200K",
+      "frames": 1000,
+      "first_absolute_ps": 0.02,
+      "last_absolute_ps": 20.0,
+      "elapsed_span_ps": 19.98
+    }
+  ],
+  "analysis_started_utc": "2026-11-15T11:03:45Z",
+  "analysis_generated_utc": "2026-11-15T11:28:17Z",
+  "interface_displayed_model": null,
+  "model_verification_note": "未获得界面实际显示的模型名称；不以自述或推测填充。",
+  "scientific_state": "UNVERIFIED",
+  "publication_authorized": false,
+  "source_policy": "仅两批实际上传附件；未读取报告引用的本机路径或未上传轨迹。外部一手来源单独列示。",
+  "inputs": [
+    {
+      "file": "core__REPORT.md",
+      "sha256": "3bb4d02e39e77e4591a512940becc19506d5d60043a8aa54d81ec8393f6f0d24",
+      "bytes": 26159
+    },
+    {
+      "file": "core__data__connectivity__CONNECTION_SUMMARY.json",
+      "sha256": "61ca907e23a5eff3b125bec7d11eb1b3775305ab1cc48c3a14200a0c8357e67b",
+      "bytes": 16835
+    },
+    {
+      "file": "core__data__connectivity__results__mp-1248208__SUMMARY.json",
+      "sha256": "8ee957896eb527f86713666ce202fb6cd91f07d4bcbf7f5d41064baf48cb7ac8",
+      "bytes": 8020
+    },
+    {
+      "file": "core__data__connectivity__results__mp-1248208__selected_Na_correspondence.csv",
+      "sha256": "3519a6ddf2f6adb712ebd87651327857cab2fce9604d6969d68d63ccdd8883dd",
+      "bytes": 30327
+    },
+    {
+      "file": "core__data__connectivity__results__mp-705559__SUMMARY.json",
+      "sha256": "e40c542fee8df22ed679ce03abfe6c390c9ad5f6fc0ea2106e47c4c6bab83918",
+      "bytes": 7708
+    },
+    {
+      "file": "core__data__connectivity__results__mp-705559__selected_Na_correspondence.csv",
+      "sha256": "ada8a8809c223d4a54356f9dc10a2f784535ee105157a12d74e6c49a10f9e7f2",
+      "bytes": 9888
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__MSD_curves.csv",
+      "sha256": "641d83ada7e7b7fd800bfe528e4d31f2f61af449e340185312a91a0402ad6f24",
+      "bytes": 470790
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__MSD_fits.json",
+      "sha256": "eba97ad85773d3bab137a8c34ff9d45e66ec9b73edd313012754c5bb1c5c337e",
+      "bytes": 24611
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__SUMMARY.json",
+      "sha256": "d569b21af27c5131e9963028970301ecb2f5b227e45e5c470e175cf113cc60f4",
+      "bytes": 7998
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__departures_returns.csv",
+      "sha256": "ca6de3761737d58f8f582235b7f2e1f298ce6d27fffabede5d23ff402aac3014",
+      "bytes": 30476
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__event_summary.json",
+      "sha256": "6b3ff589139f3441a6b9d15075111eb042f0d03e0f222df3b921640ea4a8650d",
+      "bytes": 3928
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__geometric_space.csv",
+      "sha256": "7d847cb8cecb10a0514592ed7ee1d5649880a9f245a64f6ca45bb148f1ac38ce",
+      "bytes": 26181
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__motion_summary.json",
+      "sha256": "13091630b126e388de45a81818f0f523503c9d7f8c7cd485df0e77b21b72b573",
+      "bytes": 2687
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__per_Na_motion.csv",
+      "sha256": "824c9bf618296ad638c19ca770ddfbdb28789b5b8963ad59bd16d746272e1dc5",
+      "bytes": 28997
+    },
+    {
+      "file": "core__data__full_windows__results__mp-1248208__same_Na_environment_motion.csv",
+      "sha256": "3811daa84ea0134e19b13c2cb3d8cf7cca7a06a57328e30feb418e8156a8e818",
+      "bytes": 9999
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__MSD_curves.csv",
+      "sha256": "54b47c6978e6cd938e940431c7e97c9c9bf41e74916f6c7cc7307dff29df70e8",
+      "bytes": 470727
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__MSD_fits.json",
+      "sha256": "e6de69565e58a1a26ac7fb55ec007f462675651ca3ba5cac2eac3e52754a0ee3",
+      "bytes": 24652
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__SUMMARY.json",
+      "sha256": "547515538259c574cd16f0339ec9505f3192038455d683f177e139114fce6eda",
+      "bytes": 7998
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__departures_returns.csv",
+      "sha256": "da2cc61cd341d4dc5aeb6df1f0ff6e461a53796125dc71334adb50f9dd8cb556",
+      "bytes": 48394
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__event_summary.json",
+      "sha256": "1d99327b146029044d1618b47fc6207ed7c37a43181441ee293ed19e0139a856",
+      "bytes": 3827
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__geometric_space.csv",
+      "sha256": "b625f4a9e51f466d601396e002792d419b258eee469ea48dc89cdab5c73cfc4b",
+      "bytes": 26705
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__motion_summary.json",
+      "sha256": "d88e53a7d94b6140408e51d8160244b88ccf1e9c2c75c982e4db5be1d3d55281",
+      "bytes": 2691
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__per_Na_motion.csv",
+      "sha256": "d64e184a987d379f18814ae8d781cf362afe11b0fe66808f7f666586afbfe7d7",
+      "bytes": 29091
+    },
+    {
+      "file": "core__data__full_windows__results__mp-705559__same_Na_environment_motion.csv",
+      "sha256": "6d4afc408ed90299bd03dac43a857b838d8f68eccd940ee3657f09001e0ac3ad",
+      "bytes": 9930
+    },
+    {
+      "file": "core__figures__full_windows__figures__mp-1248208__01_MSD_windows.png",
+      "sha256": "b55232053f09dc1886a4f5c69831b0dd5ecd60adab29641debcd3d20e3ddea70",
+      "bytes": 200275
+    },
+    {
+      "file": "core__figures__full_windows__figures__mp-1248208__04_real_connections.png",
+      "sha256": "dde3d7f98daf21a48f36826735de93208d3d7f2d619e3addfd813a563e2029e8",
+      "bytes": 217708
+    },
+    {
+      "file": "core__figures__full_windows__figures__mp-705559__01_MSD_windows.png",
+      "sha256": "853a8b8301d1c7674af3dff1ace217897d18c3747897978e5066b10fe49f0f92",
+      "bytes": 219632
+    },
+    {
+      "file": "core__figures__full_windows__figures__mp-705559__04_real_connections.png",
+      "sha256": "f35c71c40252f30fea791c70c4735b925d76e5fd8d8b704ec7c80f572d0a69f2",
+      "bytes": 231655
+    },
+    {
+      "file": "core__methods__connectivity__METHODS.md",
+      "sha256": "e3b9beb9a2a66d1b925b6a631e0a8ed278fb5273acfb8787f1872ae51158d5d0",
+      "bytes": 3296
+    },
+    {
+      "file": "core__methods__full_windows__METHODS_SPEC.md",
+      "sha256": "4156538f4f4268252b0ed95596d7339f3d8bd135beecdd619dc7b997de4825ef",
+      "bytes": 4087
+    },
+    {
+      "file": "details__data__connectivity__results__mp-1248208__connection_spells.csv.gz",
+      "sha256": "20d4e75258194abc0cfb79f27aa04b50a20bad8575df45dcd6246dcb487f0c2b",
+      "bytes": 1164989
+    },
+    {
+      "file": "details__data__connectivity__results__mp-1248208__selected_Na_motion.csv",
+      "sha256": "3d727777841b31b2fd44914e3a36e4d5d4bba2b395ee9b484a7cdbaa982dc29e",
+      "bytes": 14618
+    },
+    {
+      "file": "details__data__connectivity__results__mp-705559__connection_spells.csv.gz",
+      "sha256": "9f72589f666bad7ac05809fe965d96ce34896f2f1d895cbbc1cbfdba79c69fc9",
+      "bytes": 1139560
+    },
+    {
+      "file": "details__data__connectivity__results__mp-705559__selected_Na_motion.csv",
+      "sha256": "3f3c1f73550cd1f2e8cd9c180f47549f037645c84992d120b0c6707768609b0a",
+      "bytes": 6312
+    },
+    {
+      "file": "details__data__full_windows__results__mp-1248208__cation_environment.csv.gz",
+      "sha256": "a0c678ea8634d4d9341e2747f35806f088acb294a684f2a70bea2a7458d1308b",
+      "bytes": 18777369
+    },
+    {
+      "file": "details__data__full_windows__results__mp-705559__cation_environment.csv.gz",
+      "sha256": "c20717131441fe0ce0c96895302e51bf5e81c3d0d7a8bc49317f254f84f0a6d9",
+      "bytes": 18431561
+    }
+  ],
+  "input_counts": {
+    "files": 36,
+    "csv_files_including_gzip": 18,
+    "gzip_csv_files": 4,
+    "csv_data_records": 411292,
+    "json_files": 11,
+    "markdown_files": 3,
+    "png_files": 4
+  },
+  "known_upstream_sha": {
+    "event_inherited_code_sha256": "cb67b183d51158d20a1715f21d79c0d1ea12d7adf81d641be3d4ab9c9b139b58",
+    "connectivity_source_before_after_equal": true,
+    "note": "原连接SUMMARY的匿名source_SHA前后记录已读取，仅作上游记录，不据此宣称读取或重新校验未上传原件；上传字节SHA见inputs。"
+  },
+  "new_calculations": [
+    {
+      "id": "N01",
+      "inputs": "per_Na_motion.csv;departures_returns.csv",
+      "method": "norm(endpoint_vector_A),mean(d^2),p_i=d_i^2/sum(d^2),count(d>2),group return/censor counts",
+      "rows": {
+        "per_Na": 288,
+        "departures_returns": 1427
+      },
+      "vector_norm_max_error_A": 0.0
+    },
+    {
+      "id": "N02",
+      "inputs": "MSD_curves.csv;MSD_fits.json",
+      "method": "OLS M=a*lag+b; R2=1-SSE/SST; OLS log(M) vs log(lag); use actual available lag range",
+      "fits": 160,
+      "max_absolute_parameter_difference": 6.661338147750939e-16
+    },
+    {
+      "id": "N03",
+      "inputs": "cation_environment.csv.gz;same_Na_environment_motion.csv",
+      "method": "all-row time/CN/list/cutoff checks; species means; same-Na inclusive-window O/F averages; SiF distance medians",
+      "environment_rows": 192000,
+      "same_Na_windows": 192,
+      "mean_CN_max_error": 0.0
+    },
+    {
+      "id": "N04",
+      "inputs": "connection_spells.csv.gz;connectivity SUMMARY.json",
+      "method": "span=(end-start)*0.02ps; ge100/ge200 integer delta>=5/10; group by network,level,geometry; union continuous geometry frames",
+      "spell_rows": 208215,
+      "invalid_duration_threshold_rows": 0,
+      "geometry_frames": {
+        "mp-1248208": 819,
+        "mp-705559": 774
+      }
+    },
+    {
+      "id": "N05",
+      "inputs": "selected_Na_motion.csv;selected_Na_correspondence.csv;cation_environment.csv.gz;connection_spells.csv.gz",
+      "method": "actual saved coordinate differences and exact ligand/continuous-image timing joins; selected Na20 host C001792 and Si72-F236 checks",
+      "real_crossing_verified": false,
+      "Na_reference_region_residence_ps": null
+    },
+    {
+      "id": "N06",
+      "inputs": "full_windows SUMMARY.json;geometric_space.csv",
+      "method": "abs(det(cell)),cell norms/angles,24/V,V/24; group saved open-space fractions/ranks by exclusion; no new geometry",
+      "space_rows": 246
+    },
+    {
+      "id": "N07",
+      "inputs": "user conductivity targets; explicitly assumed thicknesses; formal valence model; parent formula",
+      "method": "formal charge balances; x=1/8 illustrative atom counts; 24/22 and24/23 nominal mobility-compensation thresholds; R_area=L/sigma",
+      "coordinates_created": false,
+      "predicted_room_temperature_conductivity": null
+    },
+    {
+      "id": "N08",
+      "inputs": "36 actual upload byte streams",
+      "method": "SHA-256 file bytes",
+      "files_hashed": 36
+    }
+  ],
+  "preserved_missingness": {
+    "mp-1248208_radial_distortion_null_CN0": 15,
+    "return_frame_blank_with_overlapping_windows": {
+      "mp-1248208": 135,
+      "mp-705559": 128
+    },
+    "nonNa_nearest_host_fields_blank_per_column_per_mp": 72000,
+    "event_full_right_censored": {
+      "mp-1248208": 7,
+      "mp-705559": 6
+    },
+    "note": "空值、不适用、缺相位和右删失不补零，不合并为独立重复。"
+  },
+  "limitations": [
+    "每mp仅一条1200K短run；不同mp不是独立重复；热历史峰值仅汇总支持，需原日志核实。",
+    "缺全原子/全Na原始连续轨迹、CIF/POSCAR/OSZICAR/INCAR、事件相位/控制表、局部刚体表与逐帧区域驻留表。",
+    "上游PBC证书和凸包几何分类未从原始坐标重做；共享连接不等真实通过。",
+    "Na参考区域不是位点全集，未估空位率、完整驻留寿命、能垒或扩散维数。",
+    "未计算室温电导/活化能、电子电导、电化学窗口、容量或机械/压力稳定性。",
+    "两条成分候选仅形式配平与限制过程假说；未构造坐标或启动AIMD/DFT/NEB/模型训练。",
+    "成本、具体前驱体毒性、成品浸出与制备窗口未核实。"
+  ],
+  "external_primary_sources": [
+    {
+      "id": "E1",
+      "doi": "10.1107/S0567739476001551",
+      "url": "https://doi.org/10.1107/S0567739476001551",
+      "access_scope": "publisher abstract only"
+    },
+    {
+      "id": "E2",
+      "doi": "10.1038/ncomms15893",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5482052/",
+      "access_scope": "open full text"
+    },
+    {
+      "id": "E3",
+      "doi": "10.1039/C8TA10498K",
+      "url": "https://doi.org/10.1039/C8TA10498K",
+      "access_scope": "publisher indexed abstract/excerpts; direct open403"
+    }
+  ],
+  "archive": {
+    "repository": "northkd/materials_data_analysis",
+    "target_branch": "main",
+    "result_root": "materials/Na3Ca3Zr2Si4O15F3/results_web",
+    "actual_relative_path": "materials/Na3Ca3Zr2Si4O15F3/results_web",
+    "root_preexistence_at_initial_check": false,
+    "push_status": "prepared_for_main_commit",
+    "verification_status": "three_data_blobs_uploaded_and_hash_matched; no_branch_ref_updated_yet",
+    "commit_sha": null,
+    "note": "提交前快照；不填写自身提交SHA。提交后重新读取远端并更新归档状态，真实提交SHA在最终回执。",
+    "write_permission_checked": true,
+    "preexisting_results_preserved": true
+  },
+  "outputs": {
+    "INPUT_COVERAGE.csv": {
+      "sha256": "17e9f1d55ec6b8ea7286f23114449ecb6b307ebdf4e5352d4136c6aba588f5dd",
+      "git_blob_sha": "e3e993ca219862c753cefcb58457dbec7e7827fe",
+      "bytes": 17680
+    },
+    "CLAIM_EVIDENCE.csv": {
+      "sha256": "7e818ce02e70f83e76293ad9337309a8f5207897b258f18942e3d7b910846183",
+      "git_blob_sha": "7de45bee676108d552b0445b4f2cd9d5c7c68bf1",
+      "bytes": 23012
+    },
+    "ANALYSIS.md": {
+      "sha256": "05f9e2340a32a768252549d426918f87ea1a30fa8d4166a842684fd73c7c67ac",
+      "git_blob_sha": "b705febbe6a1508cbc57eb18267911444ebb570a",
+      "bytes": 49839
+    }
+  }
+}
