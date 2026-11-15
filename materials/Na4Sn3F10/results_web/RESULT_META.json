@@ -3,6 +3,7 @@
   "material_group": "Na4Sn3F10",
   "materials": [{"formula": "Na4Sn3F10", "mp_id": "mp-27310", "run": "aimd_1200K"}],
   "analysis_timestamp_utc": "2026-11-15T11:06:30Z",
+  "archive_verification_timestamp_utc": "2026-11-15T11:09:15Z",
   "interface_displayed_model": null,
   "interface_displayed_model_verification": "未能核实界面实际显示的模型名称；不由自述或系统名称推定。",
   "scientific_status": "UNVERIFIED",
@@ -77,11 +78,17 @@
     "force_push_used": false,
     "branch_protection_bypassed": false,
     "pull_request": null,
-    "push_status": "IN_PROGRESS",
-    "status_detail": "ANALYSIS.md、CLAIM_EVIDENCE.csv、INPUT_COVERAGE.csv已成功写入main；本元数据创建后继续回读四文件并更新核验状态。",
+    "push_status": "PUSHED_MAIN",
+    "status_detail": "四份结果已成功提交main，并通过已连接GitHub工具回读目录及文件内容；非未合并PR或仅沙盒文件。原输入、原报告与其他材料未改。",
     "files": ["ANALYSIS.md", "CLAIM_EVIDENCE.csv", "INPUT_COVERAGE.csv", "RESULT_META.json"],
+    "verified_content_blob_shas": {
+      "ANALYSIS.md": "579e2b3e59d069c7f757043ba2df5f5aac279e09",
+      "CLAIM_EVIDENCE.csv": "1ae88fdadfdca486ae5cec8ac5480d5a2749c8a1",
+      "INPUT_COVERAGE.csv": "251531277fc0e18f92f07c33ce4afec59d4d1602"
+    },
     "self_commit_sha": null,
     "self_commit_sha_note": "不在提交元数据内编造自身commit SHA；真实最终SHA由成功写入工具返回并在最终回执给出。",
-    "remote_readback_completed": false
+    "remote_readback_completed": true,
+    "remote_readback_scope": "目录中四个准确文件名；正文身份、输入清单、方法定义、核心判断、代表过程、反例、改造、用途、逐Na附录和来源；49条claim；15份输入覆盖；元数据身份、SHA、窗口及执行边界。此状态为归档核验，不是科学独立验收。"
   }
 }
