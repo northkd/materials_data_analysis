@@ -1,0 +1,289 @@
+{
+  "schema": "materials-results-web-review.v1",
+  "material_group": "Na3Si3SnO9F",
+  "members": [
+    {
+      "formula": "Na3Si3SnO9F",
+      "mp_id": "mp-560937",
+      "run_label": "aimd_1200K",
+      "run_label_source": "core__REPORT.md",
+      "run_independently_raw_verified": false
+    }
+  ],
+  "analysis_started_utc": "2026-11-15T10:50:48+00:00",
+  "analysis_completed_utc": "2026-11-15T11:10:53.055210+00:00",
+  "interface_displayed_model": null,
+  "interface_model_verification": "not independently observable; no model name inferred",
+  "scientific_status": "UNVERIFIED",
+  "publicationAuthorized": false,
+  "input_count": 20,
+  "inputs": [
+    {
+      "file": "core__REPORT.md",
+      "sha256": "db65683e24272508227a98b0f9ac0ee74d9669ad4e6457058a24758bd2d67657",
+      "bytes": 28069,
+      "record_count": 196,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__correspondence__CLAIM_LEDGER.json",
+      "sha256": "7a37ba38dfb29bdaa4735c131b5a1ebf574a845c97e7911c52cec7b9af6bcf42",
+      "bytes": 6163,
+      "record_count": null,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__correspondence__event_control_correspondence.csv",
+      "sha256": "be7011e0b09eedfe25e85224fc4f925a3f46c46337cdc411c92348c58c2ea11b",
+      "bytes": 11718,
+      "record_count": 36,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__correspondence__five_Na_correspondence.csv",
+      "sha256": "49824059c9808d489c4155d9af9dd8c8ad1e7138dc0b4e4605028bd5929ce035",
+      "bytes": 1004,
+      "record_count": 5,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__correspondence__phase_coverage.csv",
+      "sha256": "4f79398a339c44cd17f4b80cd3b1e3d4ccb5b4893d437a3f5b41d3e8d61c9396",
+      "bytes": 428,
+      "record_count": 4,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__full_windows__analysis_summary.json",
+      "sha256": "d8a6920248984b1a063f24a50b716f4c516720575bccbff6d849394ecbf51e9b",
+      "bytes": 5787,
+      "record_count": null,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__full_windows__geometric_space.csv",
+      "sha256": "c3ef4b6ff14cdca7a9cd5a114dfe9e93964b1dd1c60ea46d14ffcddad4ac925d",
+      "bytes": 1667,
+      "record_count": 15,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__full_windows__motion_per_Na.csv",
+      "sha256": "82e6f8f2bfd4894e6b0fd3c16aaaaa9de9365eefa7ddf794b8720ac827bb74eb",
+      "bytes": 11820,
+      "record_count": 96,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__full_windows__msd_absolute_0_20_available.csv",
+      "sha256": "5934e54bb64f28f5202346f07c769fa23aae87a9fdf78e108eba32754b0e2daa",
+      "bytes": 29415,
+      "record_count": 1000,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__full_windows__msd_after_4ps.csv",
+      "sha256": "88e14fb08878237b8f580b9ef29205187fb7a34a9c5df17ef4c790341701962d",
+      "bytes": 23486,
+      "record_count": 801,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__data__full_windows__msd_late_half.csv",
+      "sha256": "386792c01aced0c504ce628420968c3d2f2c95149423ef6b468637b647844267",
+      "bytes": 14367,
+      "record_count": 500,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "core__figures__full_windows__MSD_after_4ps.png",
+      "sha256": "6b80b33f942ef056ddb8ddb26e87322d0be2598f922b5e77b117f62ce43bc249",
+      "bytes": 27912,
+      "record_count": null,
+      "read_kind": "visual+bytes"
+    },
+    {
+      "file": "core__figures__full_windows__MSD_full_saved.png",
+      "sha256": "c0c898db237d3d87464e620cc2fca32f3dbefd578bd690c793f9ac94a1d781eb",
+      "bytes": 26640,
+      "record_count": null,
+      "read_kind": "visual+bytes"
+    },
+    {
+      "file": "core__figures__full_windows__Na_shared_actual_first.png",
+      "sha256": "b560babba92eea1a87550a416651b0f61db4a1822f2f28ba9a33fe2c16ea9370",
+      "bytes": 31040,
+      "record_count": null,
+      "read_kind": "visual+bytes"
+    },
+    {
+      "file": "core__methods__full_windows__METHODS.md",
+      "sha256": "305fd00a05dab55be71aadebb1806bda5c475a78d163c3d447260ff096ead39b",
+      "bytes": 4126,
+      "record_count": 35,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "details__data__full_windows__environment_20fs.csv",
+      "sha256": "1cfb08c6b86718a98485edd3fa614253e6f2ef6e6aaf7861a70298968def346b",
+      "bytes": 12368486,
+      "record_count": 56000,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "details__data__full_windows__events_controls_dwell.json",
+      "sha256": "c50726cbda2e4ee1531a490166d94a05acb5fc277a856c28d246c5ba8b44b6a1",
+      "bytes": 5118437,
+      "record_count": 562,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "details__data__full_windows__leave_return_records.csv",
+      "sha256": "214cbf5c545f8f4829d2314283500ca9d09dea620176ee7d998d977077c19ed9",
+      "bytes": 36026,
+      "record_count": 903,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "details__data__full_windows__same_Na_environment_motion.csv",
+      "sha256": "e84e3bb2de597198aa280ef4f5753d72310528ffce5c8ea42aca22d5d496bba0",
+      "bytes": 5658568,
+      "record_count": 24000,
+      "read_kind": "full_parsed"
+    },
+    {
+      "file": "details__data__full_windows__shared_geometry_100fs.json",
+      "sha256": "678f4e42c6f7d544aa668ab59b7df6f3d1fe4908711f78d6339e2a1e57564fbe",
+      "bytes": 15767880,
+      "record_count": 38338,
+      "read_kind": "full_parsed"
+    }
+  ],
+  "identity_limits": [
+    "Most CSV/JSON tables do not self-identify mp/run; linked via uploaded analysis_summary, report label and matching time grids.",
+    "Raw AIMD coordinates, temperature table, workbook, shell definitions and initial reference-region visitation tables not uploaded/read."
+  ],
+  "windows": [
+    {
+      "window": "full_saved",
+      "first_ps": 0.02,
+      "last_ps": 20.0,
+      "frames": 1000
+    },
+    {
+      "window": "absolute_0_20_available",
+      "first_ps": 0.02,
+      "last_ps": 20.0,
+      "frames": 1000
+    },
+    {
+      "window": "after_4ps",
+      "first_ps": 4.0,
+      "last_ps": 20.0,
+      "frames": 801
+    },
+    {
+      "window": "late_half",
+      "first_ps": 10.02,
+      "last_ps": 20.0,
+      "frames": 500
+    }
+  ],
+  "new_calculations": [
+    "All uploaded file SHA-256 and record/schema audit",
+    "24Na and 56-cation frame-grid and primary-shell consistency checks",
+    "24Na endpoints, r90/max check, endpoint-MSD concentration and time anchors",
+    "6 stored MSD OLS refits and 3 common-lag OLS comparisons",
+    "Stored event-return partitions preserving null/censoring",
+    "562 selected 200fs control closed-zone checks and control reuse/overlap counts",
+    "36 event-body CN/Jaccard fidelity checks",
+    "7 selected events x 6 phase/condition aggregates =42 rows",
+    "Snapshot graph-layer count/dedup and selected Na pair sample times (not persistent topology)",
+    "8 selected endpoint primary-ligand atom-ID-to-host joins (periodic host images unresolved)",
+    "Cell determinant and geometric-grid sensitivity summaries"
+  ],
+  "new_coordinate_generation": false,
+  "new_AIMD_DFT_NEB_or_training": false,
+  "raw_restricted_inputs_reopened": false,
+  "limitations": {
+    "initial_NN": null,
+    "half_NN": null,
+    "ABC": null,
+    "complete_secondary_O_F": null,
+    "persistent_topology": null,
+    "site_universe": null,
+    "vacancy_fraction": null,
+    "room_temperature_conductivity": null,
+    "activation_energy": null
+  },
+  "external_sources": [
+    {
+      "id": "E1",
+      "doi": "10.1107/S0567739476001551",
+      "scope": "primary paper Table1 screenshot; ionic radii only"
+    },
+    {
+      "id": "E2",
+      "doi": "10.1016/S1387-7003(02)00574-9",
+      "scope": "publisher abstract only; different hydrated Sn/Zr silicate"
+    },
+    {
+      "id": "E3",
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/niobium-and-tantalum-statistics-and-information",
+      "scope": "official overview, not current price table"
+    },
+    {
+      "id": "E4",
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/zirconium-and-hafnium-statistics-and-information",
+      "scope": "official overview; Zr/Hf source association, not sample impurity measurement"
+    }
+  ],
+  "output_summary": {
+    "claims": 51,
+    "input_coverage": 20,
+    "Na_window_review": 24,
+    "event_phase_review": 42
+  },
+  "repository": "northkd/materials_data_analysis",
+  "target_branch": "main",
+  "requested_result_root": "materials/Na3Si3SnO9F/results_web",
+  "archive_path": "materials/Na3Si3SnO9F/results_web",
+  "remote_existing_result_state": "Absent: results_web GET returned404; parent directory listing confirmed no results_web",
+  "push_status": "pushed_to_main",
+  "github_write_capability": "Connected GitHub create_blob/create_tree/create_commit/update_ref; repository push permission confirmed",
+  "commit_sha": null,
+  "commit_sha_note": "Self-containing commit SHA is intentionally null. The final receipt reports the actual commit including this metadata.",
+  "file_hash_note": "Input hashes are newly calculated SHA-256 of actual upload bytes. Output hashes cover exact UTF-8 bytes except this self-referential metadata.",
+  "output_sha256_excluding_metadata": {
+    "ANALYSIS.md": "8e051a354d567205e78e589fe1e419c7d127a715a589ebb591cf4cef5952e845",
+    "CLAIM_EVIDENCE.csv": "73aadb5e61c8a42729b84c79d2e7e5224d0d148933ec4b5caef720be8d21eb44",
+    "DERIVED_CHECKS.json": "54514b1168de59c7399973a717d0a14a2809e004c86ba69bd3484976a96b63bc",
+    "EVENT_PHASE_REVIEW.csv": "ee19bab5ae3f19a3edbf0896d5e46437296bf31ccf9030dbac5391d46d392402",
+    "INPUT_COVERAGE.csv": "bbe1b6019a0e99d908f064e5ed7f6952f21a9d3d1200de7a8d8a47c5528121ff",
+    "NA_WINDOW_REVIEW.csv": "d36d714101ebb1a594e4ecea43d026a15ee8ed91da4d373e163ad61fc5afd75d"
+  },
+  "derived_csv_precision_note": "NA_WINDOW_REVIEW.csv and EVENT_PHASE_REVIEW.csv numeric display rounded to 6 decimals; no new uncertainty estimates. Source aliases S01-S20 are defined in ANALYSIS.md.",
+  "archive_preparation_utc": "2026-11-15T11:21:44.356371+00:00",
+  "branch_protection_observation": {
+    "branch": "main",
+    "protected": false,
+    "source": "GitHub branches/main read",
+    "force_push_used": false
+  },
+  "archive_status_updated_utc": "2026-11-15T11:23:20.314363+00:00",
+  "remote_verification": {
+    "content_commit_sha": "793a37a49ab312897dbeeb6f51224cdb450bdc4a",
+    "main_directory_readback_completed": true,
+    "content_file_count_verified_before_metadata_creation": 6,
+    "verification_method": "Remote contents listing blob SHAs matched local Git blob hashes; ANALYSIS.md fetched at the content commit; compare confirmed six added paths and zero deletions.",
+    "only_generated_material_result_paths_changed": true,
+    "metadata_commit_sha": null,
+    "metadata_verification_note": "Metadata is created after the six content files were pushed and verified. Its own commit and final seven-file verification are reported in the final receipt."
+  },
+  "write_history": {
+    "concurrent_main_updates_rebased": 1,
+    "force_push_used": false,
+    "preexisting_files_overwritten": false,
+    "preexisting_files_deleted": false
+  }
+}
