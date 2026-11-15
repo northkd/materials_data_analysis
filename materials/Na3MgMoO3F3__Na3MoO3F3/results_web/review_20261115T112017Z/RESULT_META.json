@@ -1,0 +1,442 @@
+{
+  "material_group": "Na3MgMoO3F3__Na3MoO3F3",
+  "members": [
+    {
+      "formula": "Na3MgMoO3F3",
+      "mp_id": "mp-2240200",
+      "source_label": "32"
+    },
+    {
+      "formula": "Na3MgMoO3F3",
+      "mp_id": "mp-2240370",
+      "source_label": "33",
+      "user_label": "34"
+    },
+    {
+      "formula": "Na3MoO3F3",
+      "mp_id": "mp-18753",
+      "role": "different-composition reference"
+    }
+  ],
+  "analysis_generated_at_utc": "2026-11-15T11:18:14.764599+00:00",
+  "interface_displayed_model": null,
+  "model_verification_note": "未取得界面模型选择器的可核实显示；不以自述模型名代填。",
+  "scientific_state": "UNVERIFIED",
+  "independent_scientific_acceptance": false,
+  "publication_authorized": false,
+  "scope_note": "本轮19附件是Cr/P材料包，全部排除Mo物理结论；实际补读指定仓库正确材料保存表，明确标为仓库补充，不冒充上传。",
+  "source_repository": "northkd/materials_data_analysis",
+  "source_snapshot_commit": "b0e38e34fa53f4a2b8d65acb3e10a710b9e7e3c2",
+  "uploaded_inputs": [
+    {
+      "file": "core__REPORT.md",
+      "sha256": "4cfe0b99a8ad14a1e00ee0628237d118f7f9e84ee16a72f2474c7ede422d4d36",
+      "bytes": 31262,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__dependencies__evidence__45b9b04b_CONTROL_VALIDITY.json",
+      "sha256": "3cf75623821ea3b145025b1d79faabeb3346d64467a9953a3f93c635e33c6c61",
+      "bytes": 410290,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__MSD_curves.csv",
+      "sha256": "654c043614b9df097da91d60f1fa46f8d979a19fb54c319b226f145e2c37c4ff",
+      "bytes": 471764,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__MSD_fits.json",
+      "sha256": "d21eccea2f4492857929a16bee466aafd45c3f9fa33fcc46b91b53e69b47bb7d",
+      "bytes": 24707,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__SUMMARY.json",
+      "sha256": "515c70bfc44744e6c99b805f9c6e3bae4d6acbb7c8a74812f933c9c7b118173b",
+      "bytes": 8602,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__departures_returns.csv",
+      "sha256": "218ffb158066d2e89f2cbdabac15642f9fa945627f0a1d41493d5e76b9c44fca",
+      "bytes": 66739,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__event_summary.json",
+      "sha256": "8e228c1de0c7fb55f854bd2ac607d70962d389b6bee2ad6cd8f8bbd256a42215",
+      "bytes": 4236,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__geometric_space.csv",
+      "sha256": "314622b2aca9bf3326dd441eee65a953bdaf4201a8b2aad3f5f370c226b5dccb",
+      "bytes": 32258,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__motion_summary.json",
+      "sha256": "7c1bb75b99d4830fdd30da36c66d2bba2cac49d0f187ec36cdc0e07b5f93d642",
+      "bytes": 2690,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__observed_reference_transitions.json",
+      "sha256": "809481af6071df9196df56cee43e5a6ca5443d655b88ab1efcbbe8fbac7db10b",
+      "bytes": 12225,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__per_Na_motion.csv",
+      "sha256": "56e25924ac8ebe2fed7bd4b9912d7e5a2a6b19353a9444920098f270fdcab403",
+      "bytes": 43630,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__representative_event_cases.json",
+      "sha256": "5ef43a6ee07419181faf82f550dbc189a7e3b000970445012c4cd5b5d3a356b8",
+      "bytes": 48133,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__data__full_windows__results__same_Na_environment_motion.csv",
+      "sha256": "6dc8021102aded670f2f6c88acb4b65dc94438eab28417df2ca59b7988bcf504",
+      "bytes": 20806,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__figures__full_windows__figures__01_MSD_windows.png",
+      "sha256": "68b9a7596a6c67d436066ab6f08b49b6039b154713084e9185d5da6ac1870803",
+      "bytes": 174281,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__figures__full_windows__figures__04_real_periodic_connections.png",
+      "sha256": "f369a90c82ed374a702e4da3ea539b648725ef6416738f53d6ea7306a98aa285",
+      "bytes": 392367,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "core__methods__full_windows__METHODS_SPEC.md",
+      "sha256": "0f8a7404e749233325e3d7bb498aa4718dcbc612149747000c1104250c6443b1",
+      "bytes": 4067,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "details__data__full_windows__results__anisotropy_saved.csv",
+      "sha256": "09ee76555d4f72e642d71703b60dd5e5e12ea29e24ae4a9d3c0f030f0403038d",
+      "bytes": 1989,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "details__data__full_windows__results__cation_environment.csv.gz",
+      "sha256": "47ac0410b4de73976acf0fe3c214d448e1b762065d7f73b3794ce5848d61da12",
+      "bytes": 17953214,
+      "use": "excluded_identity_audit"
+    },
+    {
+      "file": "details__data__full_windows__results__events.json",
+      "sha256": "d2c37778da2045b09cc9d488d8cfd5de9738ffa2404f2af5d206cda394542840",
+      "bytes": 6901460,
+      "use": "excluded_identity_audit"
+    }
+  ],
+  "repository_inputs": [
+    {
+      "path": "README.md",
+      "git_blob_sha": "ca2c732c2f6d8ebbf474994a51f6036b99aafdfc",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "core/data/MgMo_comparison/THREE_STRUCTURE_COMPARISON.csv",
+      "git_blob_sha": "701d73d8c811896b5c979dde60ea924f3dd7cb6c",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "core/methods/MgMo_comparison/METHOD_ALIGNMENT.md",
+      "git_blob_sha": "7db44719a898b7f0e44fbd73559aaf6d11a6f7af",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "core/REPORT.md",
+      "git_blob_sha": "988de6c0b00196aa929f25ba0a06abc1bc6ee9aa",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "core/data/MgMo_comparison/THREE_STRUCTURE_COMPARISON.md",
+      "git_blob_sha": "e940e2303e29ad6c610b804bdce15515b46c3c45",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "core/data/MgMo_full_windows/results/mp-2240200/SUMMARY.json",
+      "git_blob_sha": "a3e17c1e4e2a903dcaf72fe8219a30d69b5b18fd",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "core/data/MgMo_full_windows/results/mp-2240200/per_Na_motion.csv",
+      "git_blob_sha": "818dab203d664fdb3074c2fcb43e8d56a0eaf053",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "core/data/MgMo_full_windows/results/mp-2240370/SUMMARY.json",
+      "git_blob_sha": "91bfe97cf5e7dd32160dcbb5298be34a3228725a",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "core/data/MgMo_full_windows/results/mp-2240370/per_Na_motion.csv",
+      "git_blob_sha": "c01bcc7979edf25e9191f80896d58c8add26c72e",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "details/data/MgMo_full_windows/results/mp-2240200/after4_event_sameNa_examples.csv",
+      "git_blob_sha": "33ac66a53762ca8730e021b947ff8900add2fe23",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "details/data/MgMo_full_windows/results/mp-2240370/after4_event_sameNa_examples.csv",
+      "git_blob_sha": "9ba651a8904ae5131ce49de838a2d0d899c72d15",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "core/methods/MgMo_full_windows/METHODS_SPEC.md",
+      "git_blob_sha": "6f06ce349592ba35404a6f1c1e1376749e193e03",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "core/methods/mp-18753/METHODS.md",
+      "git_blob_sha": "e630c0f6f5f7b4dd609c8b949c5a6a17716d8891",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "core/data/mp-18753/motion/per_na.csv",
+      "git_blob_sha": "36628370fba2ef0880887b6ca1fdeea162310b6f",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "core/data/mp-18753/motion/SUMMARY.json",
+      "git_blob_sha": "77934cef721e1c1ba6bdf8acdf688f99685de3a6",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "core/data/mp-18753/environment/SUMMARY.json",
+      "git_blob_sha": "73fd1d75e8e7ee091ea9725eddde87bb3d0fdff7",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "core/data/mp-18753/environment/event_phase_summary.csv",
+      "git_blob_sha": "6e73ab5155275900c605183815bd9501a14f5d34",
+      "sha256": null,
+      "read_status": "partial_read"
+    },
+    {
+      "path": "core/data/mp-18753/regions/SUMMARY.json",
+      "git_blob_sha": "5643bd97517b87412dfb3c07aa1bf5e57dc3b134",
+      "sha256": null,
+      "read_status": "read"
+    },
+    {
+      "path": "details/data/mp-18753/motion/events.json",
+      "git_blob_sha": "9ce48c942969e08bba7c5c12c5f44d33908a695e",
+      "sha256": null,
+      "read_status": "empty_content_not_read"
+    },
+    {
+      "path": "details/data/MgMo_full_windows/results/mp-2240200/cation_environment.csv.gz",
+      "git_blob_sha": "91550642e93991a5c088b679a71e2dd0659ed1f5",
+      "sha256": null,
+      "read_status": "metadata_only"
+    },
+    {
+      "path": "details/data/MgMo_full_windows/results/mp-2240370/cation_environment.csv.gz",
+      "git_blob_sha": "0ee25ecfd6105de5ca44a760c5c9c9228390a31f",
+      "sha256": null,
+      "read_status": "metadata_only"
+    }
+  ],
+  "external_primary_sources": [
+    {
+      "id": "E1",
+      "doi": "10.1515/pac-2015-1204",
+      "url": "https://iupac.org/recommendation/comprehensive-definition-of-oxidation-state/",
+      "read_scope": "official definition and DOI"
+    },
+    {
+      "id": "E2",
+      "doi": "10.1038/ncomms15893",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5482052/",
+      "read_scope": "HTML text; external mechanism context only"
+    },
+    {
+      "id": "E3",
+      "doi": "10.1039/C5TA08574H",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2016/ta/c5ta08574h",
+      "read_scope": "publication metadata and visible abstract; full text access restricted"
+    }
+  ],
+  "new_calculations": [
+    {
+      "id": "N01",
+      "inputs": "19 uploaded byte streams",
+      "method": "SHA256; JSON parsing; CSV row counts and field inspection; gzip decompression",
+      "limit": "identity audit only; no transfer of Cr/P physics"
+    },
+    {
+      "id": "N02",
+      "inputs": [
+        "core/data/MgMo_full_windows/results/mp-2240200/per_Na_motion.csv source rows 2–37",
+        "core/data/MgMo_full_windows/results/mp-2240370/per_Na_motion.csv source rows 2–25"
+      ],
+      "method": "manually transcribed endpoint_A values from actual connector text; sum(d_i^2)/N; count(d_i>2); d_i^2/sum(d_j^2); remove-largest mean",
+      "results": {
+        "mp-2240200": {
+          "n": 36,
+          "mean_endpoint_A": 5.306303228245775,
+          "median_endpoint_A": 5.44687862871308,
+          "endpoint_MSD_A2": 32.10527592790707,
+          "RMS_endpoint_A": 5.666151774167991,
+          "Na_gt2A": 35,
+          "top1_share": 0.07622653846046529,
+          "top3_share": 0.21220518947957978,
+          "top3_ids": [
+            15,
+            34,
+            5
+          ],
+          "MSD_without_largest_A2": 30.505373359821892,
+          "abs_difference_from_saved_summary_A2": 0.0
+        },
+        "mp-2240370": {
+          "n": 24,
+          "mean_endpoint_A": 0.7513462079532934,
+          "median_endpoint_A": 0.7276443543206387,
+          "endpoint_MSD_A2": 0.7337062790386687,
+          "RMS_endpoint_A": 0.8565665642777966,
+          "Na_gt2A": 0,
+          "top1_share": 0.17539731506441913,
+          "top3_share": 0.4099337676692924,
+          "top3_ids": [
+            5,
+            19,
+            15
+          ],
+          "MSD_without_largest_A2": 0.631321218416745,
+          "abs_difference_from_saved_summary_A2": 0.0
+        }
+      },
+      "limit": "saved scalar table recomputation; not trajectory unwrapping or MD rerun"
+    },
+    {
+      "id": "N03",
+      "inputs": [
+        "core/data/MgMo_full_windows/results/mp-2240200/SUMMARY.json cell_A",
+        "core/data/MgMo_full_windows/results/mp-2240370/SUMMARY.json cell_A"
+      ],
+      "method": "3x3 determinant; N/V; V/N",
+      "limit": "fixed-cell quantities; density and volume per Na are reciprocal"
+    },
+    {
+      "id": "N04",
+      "inputs": [
+        "details/data/MgMo_full_windows/results/mp-2240200/after4_event_sameNa_examples.csv row4",
+        "details/data/MgMo_full_windows/results/mp-2240370/after4_event_sameNa_examples.csv row10",
+        "core/data/mp-18753/motion/per_na.csv row44"
+      ],
+      "method": "absolute time=window start+relative frame*0.02ps; remaining follow-up=20-time",
+      "results_ps": [
+        5.12,
+        8.12,
+        19.88,
+        0.12
+      ]
+    },
+    {
+      "id": "N05",
+      "inputs": [
+        "core/data/mp-18753/motion/per_na.csv rows9/44",
+        "core/data/MgMo_comparison/THREE_STRUCTURE_COMPARISON.csv mp-18753 row"
+      ],
+      "method": "individual endpoint^2/(54*reported full MSD)",
+      "results": {
+        "Na8_share": 0.005877528784450726,
+        "Na43_share": 0.11695338716962858
+      },
+      "limit": "conditional denominator; not full 54-Na contribution spectrum"
+    },
+    {
+      "id": "N06",
+      "inputs": "specified parent formulae and explicit formal-charge assumptions",
+      "method": "Na+1 Mg+2 O-2 F-1 charge balance",
+      "results": "Mo4 vs Mo6; Mg@Na compensated formula Na_(3−2x)Mg_(1+x)MoO3F3; Na deficit Mo=4+delta",
+      "limit": "not measured valence, element preference or substitution stability"
+    }
+  ],
+  "limitations": [
+    "No target Mo trajectory/POSCAR/OSZICAR re-read",
+    "Correct-material environment gzip bytes not obtained; large Mo events returned empty content",
+    "No full same-frame Na-ligand-metal-periodic-edge-region crossing chain",
+    "Mo all-54 individual population not independently reaggregated",
+    "No MSD-curve refit; no complete control-ban revalidation",
+    "No new AIMD/DFT/NEB/model training/coordinates",
+    "No RT extrapolation or conductivity/barrier/vacancy/capacity qualification",
+    "No independent scientific acceptance or publication authorization"
+  ],
+  "archive": {
+    "repository": "northkd/materials_data_analysis",
+    "branch": "main",
+    "path": "materials/Na3MgMoO3F3__Na3MoO3F3/results_web/review_20261115T112017Z",
+    "root_absent_when_checked": true,
+    "existing_files_overwritten": false,
+    "files": [
+      "ANALYSIS.md",
+      "CLAIM_EVIDENCE.csv",
+      "INPUT_COVERAGE.csv",
+      "RESULT_META.json"
+    ],
+    "push_status": "pushed_to_main",
+    "commit_sha": null,
+    "commit_sha_note": "本元数据不预填自身提交SHA；真实SHA由提交后回执给出。",
+    "remote_verification": {
+      "first_three_files": "Git blob SHA matched generated bytes at a1246eb75b57e0a0de7165d67bb9119a16c60135",
+      "metadata_file": "To be verified after this file is committed; actual outcome is provided in the final receipt."
+    },
+    "existing_results_discovered_before_successful_write": true,
+    "first_create_attempt": {
+      "status": 422,
+      "reason": "path now exists; SHA intentionally not supplied; no overwrite performed"
+    },
+    "preserved_existing_results": [
+      {
+        "path": "results_web/ANALYSIS.md",
+        "git_blob_sha": "82bb7d7cbce9a8d02536a180535121c6afb3a583"
+      },
+      {
+        "path": "results_web/CLAIM_EVIDENCE.csv",
+        "git_blob_sha": "b046f938fd1cdbe8278e6effbff8a5e1e8af8679"
+      }
+    ],
+    "metadata_prepared_at_utc": "2026-11-15T11:24:46.311712+00:00",
+    "verified_prior_file_git_blob_sha": {
+      "ANALYSIS.md": "41c09b14b343763a9432f3a25364e560bcfc4e45",
+      "INPUT_COVERAGE.csv": "9c0391affeab70bebb3fd5d4e6405d872e32f942",
+      "CLAIM_EVIDENCE.csv": "0cf4faf92e27ce2b4e146c8f67a806992d9952db"
+    }
+  }
+}
