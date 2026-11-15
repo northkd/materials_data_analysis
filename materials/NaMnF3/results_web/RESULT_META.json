@@ -1,0 +1,288 @@
+{
+  "schema": "namnf3-web-review.v1",
+  "material_group": "NaMnF3",
+  "members": [
+    {
+      "formula": "NaMnF3",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    }
+  ],
+  "analysis_timestamp_utc": "2026-11-15T10:47:47.332723+00:00",
+  "interface_displayed_model": null,
+  "interface_model_verification": "未能读取界面实际显示的模型名；不以自报模型替代界面核实",
+  "scientific_status": "UNVERIFIED",
+  "publication_authorized": false,
+  "independent_acceptance_performed": false,
+  "inputs": [
+    {
+      "file": "core__data__full_windows__results__MSD_first_origin.csv",
+      "bytes": 170246,
+      "sha256": "67c4d9ccc80f3a72e3bacbf775544b5d763a4294bbffa6cbb09e59b4b8f4fd0f",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__data__full_windows__results__MSD_fits.csv",
+      "bytes": 11648,
+      "sha256": "ce8858be5f45325bc28f058e1cdb41de3c453c5d4c7889c4452df2a9aa525cec",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__REPORT.md",
+      "bytes": 15646,
+      "sha256": "083f69788606168805a2fac29b5433a791d7615bf0fd17c084a44e2b50bb2613",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__data__full_windows__results__EVENTS_ABSOLUTE_COMMON.json",
+      "bytes": 2720238,
+      "sha256": "f80350c9cdff17e69f2533c52536d3af881894fbc52d3475e223a659cf81a053",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "details__data__full_windows__results__Na_environment_all_frames.csv.gz",
+      "bytes": 3523541,
+      "sha256": "cd811b677b8c0cff326f1dc5daf40c55a661362a29bb4b79fe63c08e1e1e6d32",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__figures__full_windows__figures__04_actual_local_geometry.png",
+      "bytes": 237524,
+      "sha256": "438105b99d193494904762e714c6ac9cec8755e676371e7f4deeb16342daec15",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__data__current__EXPLANATION_EVIDENCE.json",
+      "bytes": 16051,
+      "sha256": "9abadc143d0964ffdcd63ad10296fa9ed6eb3c9d2dfd1eeec4eb94f0db07ba1b",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__methods__full_windows__METHODS.md",
+      "bytes": 3223,
+      "sha256": "275b9fd5054d07c53647768426539472fd954d85d35b5ea0f9f036cdbb96f5e3",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__data__full_windows__results__SUMMARY.json",
+      "bytes": 31398,
+      "sha256": "b860f8489f3555af8c05616af887db5413bc9f29cea3ae38f6d4d9994f84effb",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__figures__full_windows__figures__01_MSD_references_windows.png",
+      "bytes": 191056,
+      "sha256": "f3225d53aaed42e9c5c97c6e04061f7ecfc466ea263a212ca9b47cbb41e943df",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__data__full_windows__results__reference_region_changes.csv",
+      "bytes": 1796,
+      "sha256": "e1138c5cc71d99bb4f678f15c47acd3b25b3313655f9da4768f69ff959d7feb3",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "details__data__full_windows__results__Na_motion_environment.csv.gz",
+      "bytes": 5756017,
+      "sha256": "8a4800fb040a19c80e0cec093a796ebbdd8c3b250812a25c77144b779e93e453",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "core__data__full_windows__results__per_Na_windows.csv",
+      "bytes": 189162,
+      "sha256": "d67a93c28764b3843b934215bab1e0ea8f95824f8176146586b15c3d590d02f0",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    },
+    {
+      "file": "details__data__full_windows__results__GEOMETRY_SNAPSHOTS.json",
+      "bytes": 4089934,
+      "sha256": "901aadaac379a5eac73cd7236a057fb4a371e985b03e86d9ace2068c926b8463",
+      "sha_source": "本次对上传字节计算",
+      "mp_id": "mp-560242",
+      "run": "aimd_1200K"
+    }
+  ],
+  "identity_limitation": "多数CSV没有mp/run列；通过SUMMARY、METHODS、原子索引、帧时间及数值交叉一致性归属。没有读取Materials Project原结构。",
+  "new_calculations": [
+    {
+      "id": "N01",
+      "input": [
+        "Na_motion_environment.csv.gz",
+        "Na_environment_all_frames.csv.gz"
+      ],
+      "operation": "72,000行全帧/Na组合唯一性、48Na/帧、20fs间隔；配体JSON长度/CN与编号检查",
+      "result": "全部通过"
+    },
+    {
+      "id": "N02",
+      "input": [
+        "Na_motion_environment.csv.gz",
+        "per_Na_windows.csv"
+      ],
+      "operation": "按Na求端点、max、max时间、quantile0.9；末端q_i=d_i²/sum(d_j²)；各窗口聚合",
+      "result": "52条CLAIM_EVIDENCE及ANALYSIS附录A；历史1001取frame1000"
+    },
+    {
+      "id": "N03",
+      "input": [
+        "Na_motion_environment.csv.gz",
+        "MSD_first_origin.csv"
+      ],
+      "operation": "每帧mean(distance_from_first_equal_A²)",
+      "max_abs_difference_A2": 8.881784197001252e-16
+    },
+    {
+      "id": "N04",
+      "input": [
+        "Na_motion_environment.csv.gz"
+      ],
+      "operation": "初始1Å球：d>1连续段后d<=1为观察返回；末端仍球外为右删失；不加驻留滤波",
+      "limitation": "不是事件局部球判据、不是位点跳跃率"
+    },
+    {
+      "id": "N05",
+      "input": [
+        "EVENTS_ABSOLUTE_COMMON.json"
+      ],
+      "operation": "105事件fixed_200fs.local.followup_status计数；控制阶段及同Na禁区、ID去重；F6集合Jaccard",
+      "result": {
+        "observed_return": 97,
+        "right_censored": 2,
+        "missing_same_window": 6,
+        "unique_control_ids": 99
+      }
+    },
+    {
+      "id": "N06",
+      "input": [
+        "GEOMETRY_SNAPSHOTS.json"
+      ],
+      "operation": "u_i=Δr_i−mean_nonNaΔr；host索引48–239；Mn索引48–95；本包正交胞MIC近邻；读取网络分量",
+      "result": "30ps Mn80=5.054237132565156Å；最大秩3而7分量、最大42Mn；未重算1500帧图"
+    },
+    {
+      "id": "N07",
+      "input": [
+        "GEOMETRY_SNAPSHOTS.json",
+        "Na_motion_environment.csv.gz",
+        "per_Na_windows.csv"
+      ],
+      "operation": "8帧全部Na径向，6Na×8帧F6距离，7窗口×2参考×48Na端点校验",
+      "max_endpoint_error_A": 4.440892098500626e-16,
+      "max_F6_distance_error_A": 1.1102230246251565e-14
+    },
+    {
+      "id": "N08",
+      "input": [
+        "Na_motion_environment.csv.gz"
+      ],
+      "operation": "translation/rigid两列0.8Å参考标签同值连续段；跨度t_last−t_first；-1保留",
+      "result": "各5条异己球片段，最大跨度0.16ps；Na6末段右删失"
+    },
+    {
+      "id": "N09",
+      "input": [
+        "MSD_fits.csv",
+        "SUMMARY.json"
+      ],
+      "operation": "请求拟合范围与真实可用跨度/点数核对；未重拟合多原点曲线",
+      "result": "post25请求2–10ps实际2–5ps；post28相应项n=1并缺失"
+    },
+    {
+      "id": "N10",
+      "input": [
+        "NaMnF3形式组成",
+        "用户用途目标"
+      ],
+      "operation": "Q=96485.33212/(3.6*134.923022769)；ASR=L/σ",
+      "result": "一电子上限198.642756mAh/g；包覆10nm/10^-6S/cm=1Ωcm²，主体100μm/10^-4S/cm=100Ωcm²；均非实测"
+    }
+  ],
+  "external_primary_sources": [
+    {
+      "id": "E1",
+      "doi": "10.1016/j.ssi.2015.05.023",
+      "access": "出版商公开摘要/章节节选，未读付费全文全部图表"
+    },
+    {
+      "id": "E2",
+      "doi": "10.1016/j.electacta.2017.05.153",
+      "access": "出版商公开摘要/节选、九州大学作者成果页"
+    },
+    {
+      "id": "E3",
+      "doi": "10.1039/C7TC05416E",
+      "access": "作者机构成果页和接受稿；PDF第3页已截图核查"
+    },
+    {
+      "id": "E4",
+      "doi": "10.1039/D0RA10008K",
+      "access": "PMC开放一手论文；只借作邻近材料缺陷复杂性警示"
+    }
+  ],
+  "limitations": [
+    "没有全1500帧三维坐标；未从头重算全部路径、多原点MSD、局部刚体轨迹或事件识别。",
+    "全程197事件原表未上传；179/10/8与Na44八事件只由解释摘录支持。共同窗105事件实际读取并重计数。",
+    "仅8个Mn/F真实几何快照；不插值事件瞬间坐标，不构造缺陷模型。",
+    "原始温度/压力/力日志、工作簿、空间网格、全程Mn环境原表未上传。",
+    "0.6和1.0Å只有参考变化摘要；不能独立核所有半径最长0.18ps。",
+    "只有一个1200K run；事件、Na、窗口、重用控制和重叠时间原点不是独立材料重复。",
+    "缺室温电导、实际价态/占位、成相与缺陷能、可逆脱嵌、界面/电子/机械性能。",
+    "没有运行新AIMD/DFT/NEB/训练；没有访问原报告本机路径。"
+  ],
+  "repository": "northkd/materials_data_analysis",
+  "target_branch": "main",
+  "result_root": "materials/NaMnF3/results_web",
+  "archive_path": "materials/NaMnF3/results_web",
+  "remote_precheck": {
+    "results_web": "404;父材料目录可读取且未列出results_web",
+    "prior_results_overwritten": false
+  },
+  "push_status": "pushed_to_main",
+  "remote_verification": {
+    "ANALYSIS.md": "remote blob SHA matches local bytes",
+    "CLAIM_EVIDENCE.csv": "remote blob SHA matches local bytes",
+    "INPUT_COVERAGE.csv": "remote blob SHA matches local bytes",
+    "RESULT_META.json": "自身最终提交后的读取核对结果在最终回执给出，避免递归自证"
+  },
+  "self_commit_sha": null,
+  "self_commit_sha_note": "提交自身SHA不写入本元数据；真实SHA在最终回执给出",
+  "generated_files": [
+    "ANALYSIS.md",
+    "CLAIM_EVIDENCE.csv",
+    "INPUT_COVERAGE.csv",
+    "RESULT_META.json"
+  ],
+  "remote_content_blob_sha": {
+    "ANALYSIS.md": "601e0503995edfee9ebead5723f6ac1091fe0c21",
+    "CLAIM_EVIDENCE.csv": "f08b2d900317412575de87aa0ac86e6ed1aeff6c",
+    "INPUT_COVERAGE.csv": "bc418d20156e536d7dfacc739de2c84780fa9269"
+  },
+  "push_status_scope": "前三文件已实际提交main并核对内容；本元数据作为最后文件提交，整体最终成功状态以提交后远端复读和回执为准。"
+}
