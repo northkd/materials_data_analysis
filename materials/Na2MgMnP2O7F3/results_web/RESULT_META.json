@@ -1,0 +1,81 @@
+{
+  "schema": "materials-web-review-result.v1",
+  "material_group": "Na2MgMnP2O7F3",
+  "members": [{"formula":"Na2MgMnP2O7F3","mp_id":"mp-2232789","run":"aimd_1200K"}],
+  "analysis_started_utc": "2026-11-15T11:25:59.880078+00:00",
+  "analysis_completed_utc": "2026-11-15T11:47:31.623125+00:00",
+  "interface_displayed_model": null,
+  "model_verification": "未获得可核验的界面模型标签，保留null；不以模型自称替代界面显示。",
+  "scientific_state": "UNVERIFIED",
+  "publication_authorized": false,
+  "independent_materials": 1,
+  "independent_existing_trajectories": 1,
+  "input_scope": "仅本条消息16份实际上传附件；公开一手来源只用于方法/元素风险/条件容量背景，未补造本材观测。",
+  "inputs": [
+    {"file":"core__data__full_windows__numerics__results__per_Na_motion.csv","bytes":29228,"sha256":"dc54202ba6b71bdd5d843d8fa7568a06bfefb06c7f607144d0652550d83f8755","sha256_scope":"uploaded_bytes","parsed_data_rows":144,"column_count":17},
+    {"file":"core__figures__full_windows__numerics__figures__02_same_Na_environment.png","bytes":565208,"sha256":"1441a99d5d821d259505519898546e106e865057464696ba101f6aa29962ec0a","sha256_scope":"uploaded_bytes","image_size_px":[1800,1440]},
+    {"file":"core__data__full_windows__numerics__results__departures_returns.csv","bytes":40873,"sha256":"590da4cb6698cacf0627b9eb6b246d3fca08facf6f44f5e9ef3e9b1d9b0a6c9a","sha256_scope":"uploaded_bytes","parsed_data_rows":746,"column_count":8},
+    {"file":"core__methods__full_windows__numerics__METHODS.md","bytes":6234,"sha256":"34c90753f29b373322ecdbf164ab12b9d75f650634a43011eba70a56232199da","sha256_scope":"uploaded_bytes","physical_text_lines":49},
+    {"file":"core__data__full_windows__selected_environment_evidence.json","bytes":7324,"sha256":"a8a72967b71924f6c5e682367f062ff43ab186e1a598cbbffa6479b4735baee1","sha256_scope":"uploaded_bytes"},
+    {"file":"core__data__full_windows__numerics__results__event_summary.json","bytes":23465,"sha256":"f72c079a9fe08c3ff572d5e8eaef508b50f622a6b1be88200864c192a58f340f","sha256_scope":"uploaded_bytes"},
+    {"file":"core__figures__full_windows__numerics__figures__01_MSD_windows.png","bytes":247468,"sha256":"e42f6c7b1da7f45e0845bb928057999790c9ed96eaf9a5108783384ef6853b52","sha256_scope":"uploaded_bytes","image_size_px":[1980,720]},
+    {"file":"details__data__full_windows__numerics__results__unit_rigidity.csv.gz","bytes":2075274,"sha256":"e8e8275cba2313aa215a2fb212193130ad8ad0e8168424f39fc23817713f3277","sha256_scope":"uploaded_bytes","parsed_data_rows":48000,"column_count":11,"decompressed_sha256":"f51fa446c9e33817948009ed6bbfce4ff6e91f03c751437aeab78c2511f5518e"},
+    {"file":"core__REPORT.md","bytes":33103,"sha256":"08c8ef29c5a7b11958583221c84e5d932f3e0e095df1c0ec7adc64b741cd6b29","sha256_scope":"uploaded_bytes","physical_text_lines":243},
+    {"file":"core__data__full_windows__numerics__results__motion_summary.json","bytes":2685,"sha256":"16eb1e67419f9ad00f2edc0fe60cb3f7ec6ee7d18800b2e6eb58a5571e15916b","sha256_scope":"uploaded_bytes"},
+    {"file":"core__data__full_windows__numerics__results__MSD_curves.csv","bytes":469841,"sha256":"458305535da7ea3d7a2e8a5875ac252170ce7b0c4568b429ec6ad83b0188f43a","sha256_scope":"uploaded_bytes","parsed_data_rows":4184,"column_count":10},
+    {"file":"core__data__full_windows__numerics__results__same_Na_environment_motion.csv","bytes":16086,"sha256":"ce058e90a8ef9c4c6ac5eb2349d6a215d412bb793ff9dcd580ed43adec03edca","sha256_scope":"uploaded_bytes","parsed_data_rows":96,"column_count":16},
+    {"file":"core__data__full_windows__numerics__results__MSD_fits.json","bytes":24649,"sha256":"febc4dac40d4d4cf133cb524f72c8efefecb072258db9a4869050e32b6177f4f","sha256_scope":"uploaded_bytes"},
+    {"file":"core__data__full_windows__numerics__results__SUMMARY.json","bytes":28137,"sha256":"47f4189d2cd721e5eabb13bb30a0a913bb90d2a44afc398e9020db67e53fa19f","sha256_scope":"uploaded_bytes"},
+    {"file":"details__data__full_windows__numerics__results__cation_environment.csv.gz","bytes":13941358,"sha256":"99a914dc4befc3ba6b66fabce93d2780c95222d86c4215280c59ca88af9301d9","sha256_scope":"uploaded_bytes","parsed_data_rows":72000,"column_count":29,"decompressed_sha256":"9b16a9874ea23d92939c4f96fb956b065f0726be47a945f3151c54b13b4fd221"},
+    {"file":"details__data__full_windows__numerics__results__events_new_windows.json","bytes":10631344,"sha256":"0f23eb169e826117c365e2ebfe6d9adc37f837957a4ff3165d3605ffe94bc4d8","sha256_scope":"uploaded_bytes"}
+  ],
+  "input_hashes_computed_this_review": true,
+  "raw_trajectory_sha256": null,
+  "reported_legacy_event_source_sha256": "9298650f5bf77d02925a8a3cce8f6be3c655598fd2349e9ff2a2a1619347a6b7",
+  "reported_legacy_hash_verified_against_source_bytes": false,
+  "time_and_identity": {
+    "frames":1000,"global_frame_index":[0,999],"absolute_time_ps":[0.02,20.0],"observed_span_ps":19.98,"saved_interval_ps":0.02,
+    "atoms":192,"element_counts":{"Na":24,"Mg":12,"Mn":12,"P":24,"O":84,"F":36},
+    "full_equals_common_available":true,"separate_strict1000_branch_read":false,"historical_1001_frames_read":false,
+    "temperature_K":1200,"temperature_basis":"run与SUMMARY温度块；未重读原OSZICAR",
+    "primary_motion_reference":"non-Na equal-weight translation removed; reset first origin for each window",
+    "MSD_estimators":["first_saved_origin","multiple_overlapping_time_origins"],"MSD_references":["raw","host_equal","host_mass","all_equal"]
+  },
+  "new_calculations": [
+    {"id":"N01","inputs":["per_Na_motion.csv","motion_summary.json","departures_returns.csv"],"operations":"144端点向量范数；6窗mean(endpoint^2)、端点平方贡献、去前三均值；746行离返/右删失重数。","parameters":"每窗24个Na；离开>1A后返回<0.5A沿用保存定义；不重算坐标。","key_results":{"full_endpoint_MSD_A2":16.522186685676235,"full_top3_share":0.6019822679934845,"full_MSD_without_top3_A2":7.515569454,"late15_Na_gt2A":11}},
+    {"id":"N02","inputs":["cation_environment.csv.gz","unit_rigidity.csv.gz","same_Na_environment_motion.csv","selected_environment_evidence.json"],"operations":"72000环境及48000固定单元记录解析；逐帧中心/时间/CN列表一致性；96同Na分段均值与最近金属ID计数；8条旧首末ID加1交叉核对；末段固定单元分元素均值。","parameters":"分段按实际start/end_frame；15-20ps含251帧；不将cutoff壳层冒称最近6身份全集。","key_results":{"tail_unit_residual_A":{"Mg":1.316704,"Mn":1.272018,"P":0.123161},"tail_initial_ligand_retention":{"Mg":0.384794,"Mn":0.717596,"P":0.997634}}},
+    {"id":"N03","inputs":["events_new_windows.json","event_summary.json","cation_environment.csv.gz"],"operations":"626事件相位/停留统计；6220可用相位CN核对，40缺相位保留；同Na上传四窗闭禁区交叠；对照去重/复用计数。","parameters":"ban=[global_start_frame-10,global_end_frame+10]闭区间；完整control pre到post闭区间不得交叠；20fs/帧；旧full明细不在输入内。","key_results":{"excluded_comparison_record_1based":[560,561],"excluded_control_id":"late15:Na4:27:38","valid_comparisons_four_windows":624,"valid_window_prefixed_control_ids":569,"exact_unique_event_intervals":250,"independent_sample_count_inferred":false}},
+    {"id":"N04","inputs":["MSD_curves.csv","MSD_fits.json"],"operations":"4184曲线行原点数检查与80组带截距OLS/log-log OLS复算。","parameters":"origins=M-lag/0.02；在实际存在lag点上拟合；late15名义2-10ps实际2-5ps、31点。","key_results":{"fits_recomputed":80,"max_slope_abs_difference_A2_per_ps":3.9e-16,"room_temperature_extrapolation":false}},
+    {"id":"N05","inputs":["cation_environment.csv.gz","unit_rigidity.csv.gz","events_new_windows.json"],"operations":"P中心在5个已有帧的O/F配位及共享配体身份计数；Na17在18.46/18.66/18.76/18.86/19.06ps环境和最近单元对应；Na11/16/22阈值敏感性。","parameters":"P帧0/199/499/749/999；仅身份交集，不计算新几何网络或电子成键；区域进入及几何边仍为原报告引用。","key_results":{"P_short_shell_cross_center_shared_ligand_ids_at_five_frames":0,"complete_pyrophosphate_unit_proven":false}},
+    {"id":"N06","inputs":["SUMMARY.json","formal_formula","NIST CODATA Faraday constant"],"operations":"条件Mn3@Mg2减Na形式配平；x=1/12名义Na数代价；一电子条件容量及L/sigma假设算例。","parameters":"Na+;Mg2+;Mn3+;P5+;O2-;F-；M=356.158316 g/mol；Q=nF/(3.6M)。","key_results":{"one_electron_stoichiometric_capacity_mAh_g":75.2516,"measured_capacity":false,"nominal_Na_fraction_reduction":0.041666666666666664,"required_mobility_increase_fixed_other_factors":0.043478260869565216}}
+  ],
+  "limitations": [
+    "没有原始轨迹、INCAR/POSCAR/OSZICAR、原分析源码或运行日志，不重新验证PBC、启动积分或独立验收。",
+    "旧full事件明细和原全窗联合禁区审计未上传；只独立重算上传四窗排除，不能声称941比较均本次核净。",
+    "没有独立geometric_space.csv、区域episode/指派表、网络边表或宿主全局刚体表；这些精确结论仅原报告引用。",
+    "没有完整可占位点与容量，不从未指派率或排除球开放分数计算空位率。",
+    "固定初始配体单元残差/相对初始转角不是能垒或驱动力；PO3F/PO4短壳层不是电子成键结论。",
+    "原报告B06近/远缺Na坐标未上传，本次未读取或重建；形式补偿不等价态/占位/相稳定或增导优选。",
+    "同Na、跨窗、复用对照及重叠MSD原点相关；不算独立重复。null、缺相位、右删失未填补。",
+    "单1200K短轨迹不确定室温电导或器件资格；没有新AIMD/DFT/NEB、模型训练或虚构坐标。",
+    "界面模型显示未核实为null；不继承旧42/347检查作为本次独立科学验收。"
+  ],
+  "external_primary_references": [
+    {"id":"R1","doi":"10.1038/s41524-018-0074-y","use":"AIMD统计方差与采样限制"},
+    {"id":"R2","doi":"10.1038/s41524-020-00432-1","use":"自扩散与集体输运的区别；不同材料的原始方法研究"},
+    {"id":"R3","doi":"10.1039/D4DT03027C","use":"不同组成开放框架的高温导电类比，不移植本材性能"},
+    {"id":"R4","url":"https://www.cdc.gov/niosh/npg/npgd0379.html","use":"Mn化合物职业暴露风险，不是本材毒理"},
+    {"id":"R5","url":"https://physics.nist.gov/cuu/Constants/Table/allascii.txt","use":"法拉第常数"},
+    {"id":"R6","doi":"10.1002/anie.201805555","use":"不同氟磷酸盐电极位点活性验证的类比"}
+  ],
+  "archive": {
+    "repository":"northkd/materials_data_analysis","target_branch":"main",
+    "result_root":"materials/Na2MgMnP2O7F3/results_web","actual_path":"materials/Na2MgMnP2O7F3/results_web",
+    "root_preexisting_at_initial_check":false,"connected_write_tool_available":true,"repository_push_permission_reported":true,"branch_protected_at_check":false,
+    "push_status":"three_result_files_created_on_main_metadata_write_in_progress",
+    "created_result_files":["ANALYSIS.md","CLAIM_EVIDENCE.csv","INPUT_COVERAGE.csv","RESULT_META.json"],
+    "preexisting_inputs_and_other_materials_modified":false,"force_push_used":false,"metadata_own_commit_sha":null,
+    "commit_sha_note":"本JSON不预造自身提交SHA；最终真实SHA在交付回执给出。",
+    "remote_verification":"ANALYSIS已开始回读；最终四文件内容核对后更新此字段。"
+  }
+}
