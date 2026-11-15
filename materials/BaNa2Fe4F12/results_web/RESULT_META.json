@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0",
+  "material": {
+    "formula": "BaNa2Fe4F12",
+    "mp_id": "mp-1227924",
+    "run_label_declared": "aimd_1200K",
+    "temperature_K_declared": 1200,
+    "actual_temperature_series_verified": false,
+    "model_composition_declared": "Ba8Na16Fe32F96",
+    "Na_global0": [
+      8,
+      23
+    ],
+    "Na_local0": [
+      0,
+      15
+    ],
+    "independent_runs": 1,
+    "independent_materials": 1
+  },
+  "analysis_started_at_utc": "2026-11-15T11:26:55.478101+00:00",
+  "analysis_completed_at_utc": "2026-11-15T11:55:04.309424+00:00",
+  "actual_displayed_model": null,
+  "model_verification_note": "无法核验用户界面实际显示的模型，保留null；不以系统身份或猜测填写。",
+  "science_status": "UNVERIFIED",
+  "publication_authorized": false,
+  "inputs": [
+    {
+      "filename": "core__REPORT.md",
+      "sha256": "e4ea57a6aa086319ed565d338b9f727247d018f8fee33806ebb905668eb31912",
+      "decompressed_sha256": null,
+      "data_rows": null,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__data__full_windows__results__INTERPRETATION_SUMMARY.json",
+      "sha256": "eee4db7bbf0ba9ec8b9ac18f3d11f753fb71cd839276edf5317a56657c2f1f1f",
+      "decompressed_sha256": null,
+      "data_rows": null,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__data__full_windows__results__MSD_fits.csv",
+      "sha256": "5f682c8c7e66d8c99312c69018b3131cf35afad66ba4a47022fa4a83af738a53",
+      "decompressed_sha256": null,
+      "data_rows": 120,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__data__full_windows__results__MSD_selected_lags.csv",
+      "sha256": "a57d8e97cc1923e67dfa7d7dd8271520be51dc04986d2f7846f1fb73f2274297",
+      "decompressed_sha256": null,
+      "data_rows": 60,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__data__full_windows__results__motion_windows.csv",
+      "sha256": "e2ee68cfdc6fbe75b1301ac5c552df290ecfa78c34bbdbc06c9ff7e6ec1cfb91",
+      "decompressed_sha256": null,
+      "data_rows": 40,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__data__full_windows__results__perNa_environment_windows.csv",
+      "sha256": "4c2668b30594809da3b452481a7cd87d6cc37e39f761d0a346755eecc17972de",
+      "decompressed_sha256": null,
+      "data_rows": 64,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__data__full_windows__results__per_Na_windows.csv",
+      "sha256": "bd287e018cf2e581ab35d744a2e0a7daf25eb2809690e92e36d0f34a6396fd7c",
+      "decompressed_sha256": null,
+      "data_rows": 640,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__data__full_windows__results__representative_sameNa_phases.csv",
+      "sha256": "b512a8f0a0d7fbf24c5b0ce0bc8eacbbb75225e5bdf4881879d9d3eed9c4fe4d",
+      "decompressed_sha256": null,
+      "data_rows": 15,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__figures__full_windows__figures__01_MSD_windows.png",
+      "sha256": "83eec62091ccb10761e6466de788e0e4e5b134c25419c0d1a51566b2fa7fbeda",
+      "decompressed_sha256": null,
+      "data_rows": null,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__figures__full_windows__figures__03_motion_environment_reference.png",
+      "sha256": "94ab2da75410857251387ce967cc9f21dd47a455abc2a8fbd23df84f4b80d17e",
+      "decompressed_sha256": null,
+      "data_rows": null,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "core__methods__full_windows__METHODS.md",
+      "sha256": "b144b0be8c5cfc20fcb5b0b235a7e27f38bba5b464a1b21e7b0a8d433a28a47e",
+      "decompressed_sha256": null,
+      "data_rows": null,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "details__data__full_windows__results__Na_environment_all_frames.csv.gz",
+      "sha256": "475d7c449fc63ae361d2e96a5fe354b45c66a9a44a1e436dfc6d4b6e8f345400",
+      "decompressed_sha256": "cde7fc3f8fca65a2b1dddd898daf7cac9a7e9e1c9e9002e2d5ea3b6fb0412276",
+      "data_rows": 24000,
+      "status": "read_successfully"
+    },
+    {
+      "filename": "details__data__full_windows__results__Na_leave_return_all_windows.json",
+      "sha256": "3b1823d89617deb73cc9094861d778884d92855bdf13c965d58f958adce071dd",
+      "decompressed_sha256": null,
+      "data_rows": null,
+      "status": "read_successfully"
+    }
+  ],
+  "input_bytes_unchanged_after_analysis": true,
+  "windows": {
+    "full": {
+      "absolute_ps": [
+        0.02,
+        30
+      ],
+      "frames": 1500
+    },
+    "strict": {
+      "source_key": "absolute0to20_available",
+      "absolute_ps": [
+        0.02,
+        20
+      ],
+      "frames": 1000
+    },
+    "historical_common": {
+      "absolute_ps_declared": [
+        0.02,
+        20.02
+      ],
+      "frames_declared": 1001,
+      "numeric_table_read": false
+    },
+    "post20": {
+      "absolute_ps": [
+        20,
+        30
+      ],
+      "frames": 501
+    },
+    "post25": {
+      "absolute_ps": [
+        25,
+        30
+      ],
+      "frames": 251
+    }
+  },
+  "new_calculations": [
+    {
+      "id": "N01",
+      "operation": "gzip完整解压、CSV/JSON解析、SHA256及唯一键检查",
+      "result": "13附件读取；G为24000行=1500帧×16Na；原始字节未修改"
+    },
+    {
+      "id": "N02",
+      "operation": "逐Na端点平方均值与贡献复算",
+      "result": "40组与W最大误差4.44e-16Å²；Na17/23 full贡献77.16%；post25贡献6.40%；其他14颗full MSD0.7227Å²"
+    },
+    {
+      "id": "N03",
+      "operation": "编号、时间和离返边界检查",
+      "result": "128条J端点与P host_equal相同；J时间为窗口内frame×0.02；strict7条未完成离返不回填"
+    },
+    {
+      "id": "N04",
+      "operation": "滞后原点数与拟合请求上界检查",
+      "result": "60条n_origins一致；post25标称2–10实际仅2–5；未重新拟合MSD"
+    },
+    {
+      "id": "N05",
+      "operation": "15代表相位的宽壳CN、平均距离、畸变与Jaccard",
+      "definition": "以事件body首帧宽壳为基准；保留atom+image并与atom-only比较；相位边界来自S",
+      "result": "15相位帧数/CN与S一致；两身份口径J均值一致"
+    },
+    {
+      "id": "N06",
+      "operation": "事件附近200fs分箱及全Na相邻帧配体集合变化比例",
+      "result": "Na17/22/19变化比例45.10/46.50/47.43%；不当作跳频或独立样本"
+    },
+    {
+      "id": "N07",
+      "operation": "形式配平、载流Na损失、容量与面积比电阻算术",
+      "result": "形式Fe均价+2；两Na库存84.46mAh/g；去1/16Na需迁移能力约16/15补偿；不是实测输运"
+    }
+  ],
+  "new_AIMD": false,
+  "new_DFT": false,
+  "new_NEB": false,
+  "constructed_coordinates": false,
+  "limitations": [
+    "1200K单run短轨迹；实际温度时间序列、原始结构/坐标/晶胞未上传。",
+    "Fe/Ba局部结构、连接/开放空间、全部事件/控制及参考episode底表未上传。",
+    "工作簿和历史1001帧窗数表未上传；历史作者核验不等于本次独立复现。",
+    "宽壳阈值、distortion公式及J离返迟滞定义源码缺失；不同配位/返回口径不得混用。",
+    "MSD_selected_lags缺reference/estimator列；按跨表数值推定host_equal多原点。",
+    "Na、帧、事件、重叠原点和嵌套相位非独立重复；null、缺相位和右删失保留。",
+    "没有正式D、室温σ、唯一机制、替位稳定性、电压、实际容量或器件合格结论。"
+  ],
+  "external_sources": [
+    {
+      "id": "X1",
+      "doi": "10.1107/S0567739476001551",
+      "scope": "原文Table1六/八配位离子半径；PDF表页已查看"
+    },
+    {
+      "id": "X2",
+      "doi": "10.1002/adfm.201802057",
+      "scope": "出版商摘要；NaFeF3相邻体系，不移植性能"
+    },
+    {
+      "id": "X3",
+      "url": "https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=326&toxid=57",
+      "scope": "可溶Ba风险背景，非本材毒性实测"
+    }
+  ],
+  "local_save": {
+    "status": "saved",
+    "files": [
+      "ANALYSIS.md",
+      "CLAIM_EVIDENCE.csv",
+      "INPUT_COVERAGE.csv",
+      "RESULT_META.json"
+    ],
+    "full_body_file": "ANALYSIS.md",
+    "claim_data_rows": 45,
+    "input_coverage_data_rows": 13,
+    "zip_name": "BaNa2Fe4F12_results_web.zip"
+  },
+  "github": {
+    "repository": "northkd/materials_data_analysis",
+    "branch": "main",
+    "directory": "materials/BaNa2Fe4F12/results_web",
+    "directory_existed_before_this_review": false,
+    "authorized_write_tool": "GitHub",
+    "status": "three_content_files_pushed_and_verified; metadata_submission_pending",
+    "force_push": false,
+    "branch_protection_bypassed": false,
+    "pull_request": null,
+    "input_or_other_material_files_modified": false,
+    "content_commit_sha": "da826b6902483d677ac406a304f48ef3f5d0bbd1",
+    "readback_method": "GitHub.fetch_file回读正文片段及完整CSV/补读尾段；远端完整Git blob SHA与本地逐字节Git blob SHA相同",
+    "verified_content_files": [
+      {
+        "filename": "ANALYSIS.md",
+        "git_blob_sha": "b182872571ca509c727998e2fa9429ba5e52fbab",
+        "sha256": "78141042d877151a84a742796a6ddde7782ac9e6ba386e5c6c3d5d0bd22c0b6b"
+      },
+      {
+        "filename": "CLAIM_EVIDENCE.csv",
+        "git_blob_sha": "44f03c5084fe740cbf569dbd38ee8460f6676326",
+        "sha256": "725c20e7314986913ca4ba1d46d39f8787fbe5f5f2a25512cf9f1eeffe4d9cc4"
+      },
+      {
+        "filename": "INPUT_COVERAGE.csv",
+        "git_blob_sha": "a54dc2a6eb1f49191265c656562399f725ad1dc7",
+        "sha256": "10fb77860dfa640e0a6ccd66f588e954e96dea712aae5771a0057e582833f8f5"
+      }
+    ],
+    "metadata_commit_sha": null,
+    "metadata_readback_verified": false
+  },
+  "execution_notes": [
+    "本地首次写正文因目录权限失败，调整目录权限后重试成功；不将失败写入算作成功。",
+    "未索取或保存PAT/API凭据；不记录报告中的私人路径。"
+  ]
+}
