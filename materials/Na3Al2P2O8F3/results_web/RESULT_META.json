@@ -1,0 +1,306 @@
+{
+  "schema_version": "1.0",
+  "material_group": "Na3Al2P2O8F3",
+  "materials": [
+    {
+      "formula": "Na3Al2P2O8F3",
+      "mp_id": "mp-676467",
+      "run": "aimd_1200K"
+    }
+  ],
+  "analysis_time_utc": "2026-11-15T11:27:28Z",
+  "ui_displayed_model": null,
+  "ui_displayed_model_verification": "未能独立核实界面实际显示的模型；不以系统自述填入",
+  "scientific_state": "UNVERIFIED",
+  "independent_scientific_acceptance": false,
+  "publication_authorized": false,
+  "input_scope": "仅本条上传17份附件；公开一手文献单独列出；未读取原报告本机路径或未上传原始输入",
+  "inputs": [
+    {
+      "id": "I01",
+      "file": "core__REPORT.md",
+      "sha256": "8acdf47731397064194b468804b83788bed5777d13cdeb27a1c6d0acff1c6de4",
+      "bytes": 18310,
+      "physical_lines_read": 105
+    },
+    {
+      "id": "I02",
+      "file": "core__data__full_windows__results__MSD_curves.csv",
+      "sha256": "6a3135b2bd9eed781e0d754c384145d2ebe45854cacc30998f45ac905286bb9a",
+      "bytes": 471429,
+      "data_rows_read": 4184
+    },
+    {
+      "id": "I03",
+      "file": "core__data__full_windows__results__MSD_fits.json",
+      "sha256": "df9bed39bae210099357fc92366230f55ce981cb2aea97df8f5e253821ad353e",
+      "bytes": 24720,
+      "json_records_read": 32
+    },
+    {
+      "id": "I04",
+      "file": "core__data__full_windows__results__SAVED_SYNTHESIS.json",
+      "sha256": "0b24e3edb1f8f0ac5d424868be5cc3d4e95b2286a54da72fd46282711b7d142d",
+      "bytes": 10370
+    },
+    {
+      "id": "I05",
+      "file": "core__data__full_windows__results__SUMMARY.json",
+      "sha256": "e00ff4f80c9604321edbdddee06a847ff937350f99dcfb04e9a28f0a52738d64",
+      "bytes": 8592
+    },
+    {
+      "id": "I06",
+      "file": "core__data__full_windows__results__departures_returns.csv",
+      "sha256": "4110911c137906146a604c8e12daa6137f2e9799fae0aa662b9155725e3fe0c2",
+      "bytes": 43281,
+      "data_rows_read": 777
+    },
+    {
+      "id": "I07",
+      "file": "core__data__full_windows__results__event_summary.json",
+      "sha256": "4ca5bf1697120b692b7f3e6cc232919fec7b044fc87281d38afecb0721e4cfe1",
+      "bytes": 4200
+    },
+    {
+      "id": "I08",
+      "file": "core__data__full_windows__results__geometric_space.csv",
+      "sha256": "f9004403993af60150a240837a1effa571ce31c90362c0555d00025e7b02a769",
+      "bytes": 29695,
+      "data_rows_read": 123
+    },
+    {
+      "id": "I09",
+      "file": "core__data__full_windows__results__motion_summary.json",
+      "sha256": "470691b801b257d92e111afa73445175977b4d2c0ba0edf64f32f61d6587ee22",
+      "bytes": 2689,
+      "json_records_read": 6
+    },
+    {
+      "id": "I10",
+      "file": "core__data__full_windows__results__per_Na_motion.csv",
+      "sha256": "25331f5511b0aab18f951f98a3bc9378af10af9c19e70d3ee8fc506526ecc13c",
+      "bytes": 29103,
+      "data_rows_read": 144
+    },
+    {
+      "id": "I11",
+      "file": "core__data__full_windows__results__same_Na_environment_motion.csv",
+      "sha256": "0ace82c1a84880081df9c33ca26daa266422e33df382098601380693f0903360",
+      "bytes": 13707,
+      "data_rows_read": 96
+    },
+    {
+      "id": "I12",
+      "file": "core__figures__full_windows__figures__01_MSD_windows.png",
+      "sha256": "eabecd3460a6b502ce0a4fd8c3ba651521e7d07d7cbe2b79b538636d00b4f204",
+      "bytes": 183186
+    },
+    {
+      "id": "I13",
+      "file": "core__figures__full_windows__figures__04_real_periodic_connections.png",
+      "sha256": "af82b12696aa8c22e93a5ba1bdfb4f93d6547e7aaaff5fa8837684e0f280b41f",
+      "bytes": 332581
+    },
+    {
+      "id": "I14",
+      "file": "core__methods__full_windows__METHODS_SPEC.md",
+      "sha256": "cfa61de57e43ba4e20a3af3ee887de2c07b67293c9b9eeff8886aa9ba8c0c28d",
+      "bytes": 3922,
+      "physical_lines_read": 33
+    },
+    {
+      "id": "I15",
+      "file": "details__data__full_windows__results__cation_environment.csv.gz",
+      "sha256": "363a4d70f8cc7aaf4be9db6b83cc3b8010c918c18a5d2f81ec870ff6117e32dc",
+      "bytes": 12915597,
+      "data_rows_read": 56000,
+      "hash_representation": "uploaded_compressed_bytes"
+    },
+    {
+      "id": "I16",
+      "file": "details__data__full_windows__results__events.json",
+      "sha256": "0a474eaae6755e4a002c6fd23a235f1bfac9eec2ceac63b0d14498c36c029186",
+      "bytes": 4182946,
+      "json_records_read": 788
+    },
+    {
+      "id": "I17",
+      "file": "details__data__full_windows__results__unit_rigidity.csv.gz",
+      "sha256": "0224980d45504e4305e3e53c998fe183255965bb5074873bb7f3c1f485be1f79",
+      "bytes": 1376069,
+      "data_rows_read": 32000,
+      "hash_representation": "uploaded_compressed_bytes"
+    }
+  ],
+  "run_coverage": {
+    "frames": 1000,
+    "first_absolute_ps": 0.02,
+    "last_absolute_ps": 20.0,
+    "saved_interval_ps": 0.02,
+    "elapsed_span_ps": 19.98,
+    "strict_0p02_to_20_complete": true,
+    "common20_complete_original": false,
+    "independent_strict1000_file_read": false,
+    "historical1001_file_read": false,
+    "temperature_setpoint_K": 1200,
+    "temperature_source": "I05汇总；原OSZICAR未上传",
+    "main_motion_reference": "host_equal；由方法约定及逐Na端点与相应MSD数值一致性确认",
+    "coordinate_level_recalculation": false
+  },
+  "new_calculations": [
+    {
+      "id": "N01",
+      "inputs": [
+        "I01-I17"
+      ],
+      "method": "对实际上传字节计算SHA-256；gzip哈希为压缩字节"
+    },
+    {
+      "id": "N02",
+      "inputs": [
+        "I15",
+        "I17"
+      ],
+      "method": "完整解压；核frame-center键与t_abs=(frame+1)*0.02；配体ID/元素/像/距离列表长度及CN一致性",
+      "result": "56000环境行与32000单元行均覆盖1000帧；检查项无不一致"
+    },
+    {
+      "id": "N03",
+      "inputs": [
+        "I10",
+        "I09",
+        "I04"
+      ],
+      "method": "MSD_end=mean(endpoint_A^2)；share_i=endpoint_i^2/sum(endpoint^2)；端点方向分量平方均值及离返重数",
+      "result": "late10 MSD=11.180119951993428 A2；21/24端点>2A；top3_share=0.20058947950801506"
+    },
+    {
+      "id": "N04",
+      "inputs": [
+        "I11",
+        "I15"
+      ],
+      "method": "按I11实际frame起止重算96行O/F配位及最近Al/P距离均值",
+      "result": "四类均值最大绝对差均为0"
+    },
+    {
+      "id": "N05",
+      "inputs": [
+        "I17",
+        "I15",
+        "I04"
+      ],
+      "method": "按元素与frame>=199统计中位数；逐中心逐原配体检测缺失连续段；span=(end-start)*0.02ps；比较current-initial集合",
+      "result": "32000中心帧没有换入原配体集合之外的短壳配体；Al单配体最长缺失跨度0.10ps；P均孤立保存帧"
+    },
+    {
+      "id": "N06",
+      "inputs": [
+        "I16",
+        "I07",
+        "I04"
+      ],
+      "method": "重数完整200fs相位/返回/删失；norm(disp)与中心差核对；控制完整区间[cs-10;cs+(t_end-t_start)+10]与闭禁区检查；按Na和控制起止去重",
+      "result": "full=259；完整244；球内条件205其中25个在事件末帧已满足；唯一控制246；控制>2A为5；full/common重复"
+    },
+    {
+      "id": "N07",
+      "inputs": [
+        "I15",
+        "I16",
+        "I17"
+      ],
+      "method": "以20fs实际frame连接Na14 full/141和Na17 full/176及其控制；比较保存配体ID/周期像/距离和相关固定单元残差",
+      "result": "F138在Na14规则事件前进入且控制也进入；Na17非事件控制中心距2.118179875A；不构造未保存网络或坐标"
+    },
+    {
+      "id": "N08",
+      "inputs": [
+        "I02",
+        "I03"
+      ],
+      "method": "按实际可用lag做带截距OLS及log(MSD)-log(lag)斜率；核n_origins=N_frames-round(lag/0.02)",
+      "result": "80拟合斜率/R2/alpha最大差约1.11e-15；4184行原点数匹配；不报告可靠D"
+    },
+    {
+      "id": "N09",
+      "inputs": [
+        "I08",
+        "I05"
+      ],
+      "method": "逐统一排除距离重数41几何帧；V=det(cell)；rho_Na=24/V；V_per_Na=V/24",
+      "result": "V=1646.2389990395639 A3；几何连通依阈值变化"
+    },
+    {
+      "id": "N10",
+      "inputs": [
+        "形式价态假设",
+        "用户用途目标"
+      ],
+      "method": "Ga3等价与Ti4异价两种补偿式形式电荷守恒；R_A=L/sigma",
+      "result": "x=0.125去Na路线名义Na数量下降4.1667%；10nm且1e-6S/cm的理想面积电阻1ohm*cm2；非实测"
+    }
+  ],
+  "external_sources": [
+    {
+      "id": "E01",
+      "doi": "10.1016/S0167-2738(98)00169-6",
+      "access": "出版社公开索引摘要和片段；全文403",
+      "use": "同组成已有离子输运研究背景；不转录为本材实测电导"
+    },
+    {
+      "id": "E02",
+      "doi": "10.1006/jssc.1999.8447",
+      "access": "出版社公开索引题名及文献信息；全文403",
+      "use": "Ga组成族先例；不证明本mp固溶或具体相变"
+    },
+    {
+      "id": "E03",
+      "doi": "10.1021/acs.chemmater.6b01989",
+      "access": "作者团队公开PDF及第8-9页截图",
+      "use": "缺陷形成与迁移的竞争解释；不作为本run能量结果"
+    },
+    {
+      "id": "E04",
+      "doi": "10.1021/acs.jpcc.5b12115",
+      "access": "出版社索引和作者机构公开研究页摘要；出版社全文403",
+      "use": "Ti(IV)-P-O-F化学先例；不证明Ti替Al稳定"
+    }
+  ],
+  "limitations": [
+    "单条1200K短轨迹派生资料；启动热历史未由独立运行隔离",
+    "原始坐标/OSZICAR/CIF/POSCAR/工作簿未上传；本次不是原始轨迹独立复现",
+    "网络仅758帧汇总及首末图；没有逐边表和完整网络帧时间轴",
+    "参考区域转换仅19/18次汇总；selected_reference_transitions为空；无完整位点或空位全集",
+    "无逐帧Na-Na排列时序；Na14/17解释链不能补造参考区域访问",
+    "null与缺相位及右删失保持；同Na相关/重用控制/重叠原点和窗口不是独立重复",
+    "候选事件和保存折线路程不是实际跳跃次数或净输运；几何秩不是迁移维数或能垒",
+    "未做新AIMD/DFT/NEB/模型训练或未经验证坐标构造",
+    "无室温电导或Ea外推；无电子输运/界面/电化学/力学/电极资格数据",
+    "Ga/Ti路线均为条件候选；实际价态占位补偿和固溶稳定性未验证；成本/前驱体毒性/SDS待查"
+  ],
+  "outputs": {
+    "files": [
+      "ANALYSIS.md",
+      "CLAIM_EVIDENCE.csv",
+      "INPUT_COVERAGE.csv",
+      "RESULT_META.json"
+    ],
+    "claim_count": 46,
+    "coverage_input_count": 17,
+    "new_figures_created": false
+  },
+  "archive": {
+    "repository": "northkd/materials_data_analysis",
+    "branch": "main",
+    "result_root": "materials/Na3Al2P2O8F3/results_web",
+    "actual_path": "materials/Na3Al2P2O8F3/results_web",
+    "existing_results_before_this_review": false,
+    "preservation_policy": "只新增本材料结果并修正本次新建文件；不改原始附件/旧报告/其他材料；不force push",
+    "push_status": "committed_to_main",
+    "write_tool": "已连接且具push权限的GitHub工具",
+    "commit_sha": null,
+    "commit_sha_note": "不在元数据中编造自身提交SHA；实际提交SHA及提交后远端核验由最终回执报告"
+  }
+}
