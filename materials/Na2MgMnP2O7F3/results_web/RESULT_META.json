@@ -72,10 +72,22 @@
     "repository":"northkd/materials_data_analysis","target_branch":"main",
     "result_root":"materials/Na2MgMnP2O7F3/results_web","actual_path":"materials/Na2MgMnP2O7F3/results_web",
     "root_preexisting_at_initial_check":false,"connected_write_tool_available":true,"repository_push_permission_reported":true,"branch_protected_at_check":false,
-    "push_status":"three_result_files_created_on_main_metadata_write_in_progress",
+    "push_status":"pushed_to_main",
     "created_result_files":["ANALYSIS.md","CLAIM_EVIDENCE.csv","INPUT_COVERAGE.csv","RESULT_META.json"],
     "preexisting_inputs_and_other_materials_modified":false,"force_push_used":false,"metadata_own_commit_sha":null,
     "commit_sha_note":"本JSON不预造自身提交SHA；最终真实SHA在交付回执给出。",
-    "remote_verification":"ANALYSIS已开始回读；最终四文件内容核对后更新此字段。"
-  }
+    "remote_verification":{
+      "checked_utc":"2026-11-15T11:50:47.765240+00:00",
+      "all_four_file_names_present_on_main":true,
+      "analysis_readback":"已通过GitHub重新读取正文，并分段核对运动、Na4排除、Na17环境、改造和用途内容。",
+      "csv_content_verification":"两份CSV的Git blob SHA与本地生成完整字节一致。",
+      "metadata_readback":"已回读材料/run、16输入SHA、计算记录、null模型与UNVERIFIED等字段；本次更新仅完成归档状态。",
+      "verified_blob_sha":{"ANALYSIS.md":"af0fa14f9caee0f8a6a3e27108ede5d7174fe796","CLAIM_EVIDENCE.csv":"7efc029a9ba09688323109f71b902f297006b8ef","INPUT_COVERAGE.csv":"15436bcd6954781a854b75ce928b779e506e7506"},
+      "preexisting_material_entries_unchanged":true,
+      "unchanged_input_tree_sha":{"core":"9bad13783e4f5dd5872f9fcbd4446a3c0dd1c761","details":"1731c1b74b8d583d2aa52b2751d98ad807dbee13"},
+      "metadata_final_revision_readback":"最终修订提交后在交付回执中另行核验；不预填自身commit SHA。"
+    },
+    "verified_result_snapshot_commit":"4e92302173a51deb52a8453a3019399ccbe4abdc"
+  },
+  "original_uploaded_bytes_unchanged_after_review": true
 }
