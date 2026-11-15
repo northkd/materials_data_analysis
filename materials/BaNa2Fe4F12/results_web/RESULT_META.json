@@ -244,7 +244,7 @@
     "directory": "materials/BaNa2Fe4F12/results_web",
     "directory_existed_before_this_review": false,
     "authorized_write_tool": "GitHub",
-    "status": "three_content_files_pushed_and_verified; metadata_submission_pending",
+    "status": "pushed_main_verified",
     "force_push": false,
     "branch_protection_bypassed": false,
     "pull_request": null,
@@ -268,8 +268,10 @@
         "sha256": "10fb77860dfa640e0a6ccd66f588e954e96dea712aae5771a0057e582833f8f5"
       }
     ],
-    "metadata_commit_sha": null,
-    "metadata_readback_verified": false
+    "metadata_commit_sha": "9502dd819ecbbbcc87a7925ec730c9be0fb4ae18",
+    "metadata_readback_verified": true,
+    "metadata_receipt_scope": "metadata_commit_sha指已回读的初次元数据版本；本次提交回执更新自身的最终commit SHA由交付消息提供，避免自引用。",
+    "verified_at_utc": "2026-11-15T11:57:05.080474+00:00"
   },
   "execution_notes": [
     "本地首次写正文因目录权限失败，调整目录权限后重试成功；不将失败写入算作成功。",
