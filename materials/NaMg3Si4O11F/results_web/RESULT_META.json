@@ -1,0 +1,108 @@
+{
+  "schema": "attachment-grounded-material-review.v1",
+  "material_group": "NaMg3Si4O11F",
+  "formula": "NaMg3Si4O11F",
+  "members": [
+    {"mp_id": "mp-1173560", "source_label": "03", "run": "aimd_1200K", "cell_composition": "Na12Mg36Si48O132F12", "atoms": 240, "n_Na": 12, "coverage": "summary, MSD image, two saved representative excerpts; no complete per-Na/environment/event tables"},
+    {"mp_id": "mp-1173631", "source_label": "04", "run": "aimd_1200K", "cell_composition": "Na8Mg24Si32O88F8", "atoms": 160, "n_Na": 8, "coverage": "historical full_windows tables and events, full-frame environment and unit tables, summaries, images, and limited current correction excerpts"}
+  ],
+  "analysis_started_utc": "2026-11-15T10:34:14.110355Z",
+  "analysis_manifest_generated_utc": "2026-11-15T10:54:32Z",
+  "interface_displayed_model": null,
+  "interface_displayed_model_verification": "The actual UI model label was not independently observable; no model identity inferred from self-description.",
+  "scientific_state": "UNVERIFIED",
+  "independent_scientific_acceptance": "UNVERIFIED",
+  "publication_authorized": false,
+  "input_count": 19,
+  "csv_data_rows_parsed": 186120,
+  "input_hash_algorithm": "SHA-256 over exact uploaded file bytes, including compressed bytes for gzip files",
+  "inputs": [
+    {"file": "core__REPORT.md", "bytes": 34227, "sha256": "d4793d3dc85be8c6d1650607ad22d0280ff9a1010b54bfa31fd3d8ef16a3114a", "read_status": "full text", "mp_ids": ["mp-1173560", "mp-1173631"]},
+    {"file": "core__data__current__representative_events.json", "bytes": 5147, "sha256": "b7da546afa32f1ea4d12d1acf51fb0cb2ca44653dd84649cc1033350a59e43ad", "read_status": "full JSON; four examples", "mp_ids": ["mp-1173560", "mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__MSD_curves.csv", "bytes": 625525, "sha256": "7e950fc7ba2b75d339c42b27292daf25d538d3bfec735b4572140c2689ae3500", "data_rows": 5468, "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__MSD_fits.json", "bytes": 24854, "sha256": "30991f71e14d136db5bd8b24b0a41f63dfe2ed132ef2c14021c083c668615f8e", "read_status": "32 groups; 80 fits", "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__SUMMARY.json", "bytes": 10180, "sha256": "7674b3c159c14ead5236e8acc2cf924cb24c4600fb94cd1a56733c7245bc6204", "read_status": "full JSON", "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__departures_returns.csv", "bytes": 23184, "sha256": "dfd172aed3b78c931165b40cf8fef3f79b8cbc6d307b7c76ea702cb6c90f5e37", "data_rows": 373, "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__event_summary.json", "bytes": 5457, "sha256": "ec0d0032b018ebbb99d3a0e8cf45b854973b3c53872f0349c0dbbee1441f0b3e", "read_status": "full JSON; six summaries and 18 sensitivity entries", "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__geometric_space.csv", "bytes": 35106, "sha256": "c7430581403af71296f48aa5009a10d9815a2999e1283232499b682dedfc25d2", "data_rows": 183, "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__motion_summary.json", "bytes": 2660, "sha256": "fd57d7a9b5d1bf56352b7e5c36c0d8084563a6203947e83edc40cc914bd545bc", "read_status": "six window objects", "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__per_Na_motion.csv", "bytes": 9923, "sha256": "bddc17d9010b4537deb6103e3c20508ed6cb46388da27795e31e5d4186817987", "data_rows": 48, "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__full_windows__results__mp-1173631__same_Na_environment_motion.csv", "bytes": 5181, "sha256": "f74c650e29dfad8581207bed11c1e51f36da7af7b70c2028e81a66e6482aa1e1", "data_rows": 48, "mp_ids": ["mp-1173631"]},
+    {"file": "core__data__mp-1173560__SUMMARY.json", "bytes": 11854, "sha256": "33237ebd23ad864ba2707ca9c09f2e3b2f71bcb9bf59cc6e81b77aebd11e857b", "read_status": "full JSON", "mp_ids": ["mp-1173560"]},
+    {"file": "core__figures__full_windows__figures__mp-1173631__01_MSD_windows.png", "bytes": 229512, "sha256": "8d02404aa4381ed5aeef3da886ea3d729727d19945fd1d2f15d4bf68fa2139ae", "read_status": "whole image inspected", "pixels": [1760, 640], "mp_ids": ["mp-1173631"]},
+    {"file": "core__figures__full_windows__figures__mp-1173631__04_real_connections.png", "bytes": 214815, "sha256": "fde1894c4d4763fccebff763650e1f6b8b3d5322f3bcf843f4f20184c907692d", "read_status": "whole image inspected", "pixels": [1920, 800], "mp_ids": ["mp-1173631"]},
+    {"file": "core__figures__mp-1173560__01_MSD_windows.png", "bytes": 256995, "sha256": "78ab5d1475a4d3d89a63ba68b3635d30aff31347e5d6b6af1416b530f9ce2048", "read_status": "whole image inspected", "pixels": [1760, 640], "mp_ids": ["mp-1173560"]},
+    {"file": "core__methods__full_windows__METHODS_SPEC.md", "bytes": 3463, "sha256": "9b6b757e10d122838b7b6e92b505db79b4cd10b74e148d54815f0f7188463629", "read_status": "full text", "mp_ids": ["mp-1173560", "mp-1173631"]},
+    {"file": "details__data__full_windows__results__mp-1173631__cation_environment.csv.gz", "bytes": 17571726, "sha256": "cc1a3dde08bccc5a29ab323dd85205b9e81be13ae7a96821703bacf0fd937789", "read_status": "gzip decompressed and fully parsed", "data_rows": 96000, "mp_ids": ["mp-1173631"]},
+    {"file": "details__data__full_windows__results__mp-1173631__events.json", "bytes": 2007271, "sha256": "31c29fa8060a189193c318a3ffe25aa9861dda0adf2acd80c0036793151705a3", "read_status": "350 event objects parsed", "mp_ids": ["mp-1173631"]},
+    {"file": "details__data__full_windows__results__mp-1173631__unit_rigidity.csv.gz", "bytes": 3594897, "sha256": "081e60fc99dc65dee7e302d6c950cd8453d423fad0ff26727565e7494d2c9ac5", "read_status": "gzip decompressed and fully parsed", "data_rows": 84000, "mp_ids": ["mp-1173631"]}
+  ],
+  "historical_source_hashes": {
+    "policy": "Hashes inside uploaded SUMMARY source_inventory describe historical unuploaded inputs. They were not used as proof of present raw-file access.",
+    "raw_trajectory_sha256_verified_this_review": null,
+    "raw_temperature_log_sha256_verified_this_review": null
+  },
+  "window_identity": {
+    "full": {"start_frame": 0, "end_frame": 1499, "absolute_ps": [0.02, 30.0], "frames": 1500},
+    "strict1000": {"start_frame": 0, "end_frame": 999, "absolute_ps": [0.02, 20.0], "frames": 1000, "mp1173560_support": "uploaded summary", "mp1173631_motion_support": "current final report and saved excerpts only; full corrected motion/event tables absent", "mp1173631_CN_recalculated_from_uploaded_environment": true},
+    "historical1001_mp1173631": {"source_window_label": "common0to20_available", "start_frame": 0, "end_frame": 1000, "absolute_ps": [0.02, 20.02], "frames": 1001, "must_not_replace_strict1000": true},
+    "after4": {"start_frame": 199, "end_frame": 1499, "absolute_ps": [4.0, 30.0], "frames": 1301},
+    "fixed4to14": {"start_frame": 199, "end_frame": 699, "absolute_ps": [4.0, 14.0], "frames": 501},
+    "tail10": {"start_frame": 999, "end_frame": 1499, "absolute_ps": [20.0, 30.0], "frames": 501},
+    "tail5": {"start_frame": 1249, "end_frame": 1499, "absolute_ps": [25.0, 30.0], "frames": 251}
+  },
+  "new_calculations": [
+    {"id": "NC01", "inputs": "both uploaded SUMMARY.json/cell_A and n_Na or counts.Na", "method": "V=abs(det(cell_A)); n_Na/V; relative density ratio", "scope": "two supplied cells", "not_done": "no coordinate construction or relaxation"},
+    {"id": "NC02", "inputs": "mp-1173631 per_Na_motion.csv", "method": "endpoint MSD=mean(endpoint_A^2); share_i=endpoint_A^2/sum(endpoint_A^2)", "scope": "48 saved rows; six original windows", "not_done": "no strict1000 motion reconstruction and no raw trajectory MSD"},
+    {"id": "NC03", "inputs": "mp-1173631 cation_environment.csv.gz and same_Na_environment_motion.csv", "method": "equal-weight means of O_CN/F_CN by element or exact window; strict1000 selects frame<=999", "scope": "96000 rows and 48 window/Na comparisons", "result": "all 48 saved O/F window means matched; strict Na3=5.412 O and 1.763 F"},
+    {"id": "NC04", "inputs": "mp-1173631 cation_environment.csv.gz and events.json", "method": "join frame/Na; compare sets of (ligand atom ID, canonical integer image); count changed sets across adjacent saved frames; inspect exact matched distances and nearby Mg/Si identities", "scope": "Na8 full event109 and control; Na2 event7 and control; Na3 event24 and control; Na6 event82; selected actual same-image local intersections", "not_done": "no new full periodic graph, convex-hull validation, coordinate generation, or energetic inference"},
+    {"id": "NC05", "inputs": "mp-1173631 unit_rigidity.csv.gz", "method": "equal center-frame means in [0.02,4), [4,20), [20,25), [25,30]; retain fixed-initial-ligand reference", "scope": "84000 rows; selected Mg14 and Si48 values", "not_done": "no new rigid fits; accumulated residual is not instantaneous rearrangement rate"},
+    {"id": "NC06", "inputs": "mp-1173631 events.json and departures_returns.csv", "method": "count outcomes, complete phases and recorded returns; t_ps=0.02*(global_frame+1); distinguish first_return_frame>end_global_frame+10", "scope": "350 saved events and 373 departure rows", "result": "45/48 full persistent candidates have recorded 200fs-center returns; 18 occur strictly after end+200fs; null and censoring preserved"},
+    {"id": "NC07", "inputs": "mp-1173631 events.json", "method": "same-Na union of uploaded-window closed event bans [start-10,end+10] clipped to full saved extent; intersect full control phase interval; identify reused controls and window-external phases", "scope": "350 controls; 113 distinct Na/start/end candidate intervals; full controls use 84 distinct Na/control-start pairs", "result": "zero overlaps found for uploaded historical-window union; two nonempty pre-environment fields precede their window and do not fill null dwell.pre", "not_done": "unuploaded strict1000 event branch not audited; no event detector rerun"},
+    {"id": "NC08", "inputs": "mp-1173631 MSD_curves.csv and MSD_fits.json", "method": "OLS y=a+b*lag; R2=1-SSE/SST; alpha from OLS log(y) on log(lag); actual saved lag points only", "scope": "5468 curve rows; 80 saved fits; 32 window/reference groups", "result": "maximum slope difference approximately 3.61e-16 A2/ps; R2 approximately 1.12e-15; alpha approximately 6.67e-16", "not_done": "no diffusion-coefficient acceptance, independent-sample inference, activation energy, or room-temperature conductivity"},
+    {"id": "NC09", "inputs": "formal Na+ Mg2+ Si4+ O2- F- assumptions and supplied cell counts", "method": "Na_(1-2x)Mg_(3+x)Si4O11F charge balance; 12/10 and 8/6 conditional carrier-loss compensation ratios", "scope": "composition algebra only", "not_done": "actual charge states, substitution preference, defect binding and structural stability not established"},
+    {"id": "NC10", "inputs": "user-specified application targets and explicitly hypothetical thickness", "method": "R_A=t/sigma", "scope": "10 nm at 1e-6 S/cm gives 1 ohm cm2; not a measured material property"}
+  ],
+  "precision_notes": [
+    {"location": "ANALYSIS.md section2.2 Na2 full endpoint", "exact_source_value_A": 2.3914173986165954, "six_decimal_value_A": 2.391417, "note": "The displayed 2.391418 has a last-digit transcription discrepancy; use this source value. No scientific interpretation changes."},
+    {"location": "ANALYSIS.md Na6+Na8 tail10 endpoint contribution", "exact_source_fraction": 0.7432687169023628, "percentage_rounded_four_decimals": 74.3269, "note": "The report's 74.3267% is an imprecise display value; the evidence ledger and this manifest retain the recomputed value."}
+  ],
+  "external_sources": [
+    {"id": "E1", "doi": "10.1107/S0567739476001551", "scope": "primary paper abstract/method text on coordination and oxidation-state dependence of effective radii", "access_limit": "PDF table screenshots failed; no exact radius values or material-specific ranking derived from those tables"},
+    {"id": "E2", "doi": "10.1038/ncomms15893", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5482052/", "scope": "public primary full text; correlated migration in other lithium conductors, not proof of this Na material mechanism"},
+    {"id": "E3", "doi": "10.1021/acsami.5b07517", "url": "https://pubmed.ncbi.nlm.nih.gov/26440586/", "scope": "accessible author abstract only; thermodynamic stability and kinetic passivation distinction", "access_limit": "publisher full text unavailable; no material-specific electrochemical window claimed"}
+  ],
+  "limitations": [
+    "No raw trajectories, original temperature logs, CIF/POSCAR, pressure history or full host-alignment table were uploaded.",
+    "03 full per-Na/environment/event verification is not available; saved excerpts are not a complete event corpus.",
+    "04 strict1000 corrected motion/event tables are absent; the final report governs corrected motion values while historical1001 remains separately identified.",
+    "Uploaded derived tables can be checked for internal arithmetic consistency but cannot independently validate all source calculations.",
+    "No complete site universe, vacancy fraction, verified continuous multi-site pathway, free energy or migration barrier is available.",
+    "Same Na, reused controls, overlapping windows and overlapping time origins are not independent repeats.",
+    "Environment change timing and controls do not establish a causal driving mechanism.",
+    "Single-temperature short trajectories do not establish room-temperature conductivity or device qualification.",
+    "No new AIMD, DFT, NEB, model training, synthetic coordinates, defect models or physical simulations were executed.",
+    "Costs, precursor-specific toxicity/SDS and synthesis feasibility were not independently verified.",
+    "No independent scientific acceptance or publication permission is granted by this review or its repository commit."
+  ],
+  "archive": {
+    "repository": "northkd/materials_data_analysis",
+    "branch": "main",
+    "result_root": "materials/NaMg3Si4O11F/results_web",
+    "actual_archive_path": "materials/NaMg3Si4O11F/results_web",
+    "initial_result_root_state": "absent; parent directory verified accessible",
+    "existing_inputs_or_reports_overwritten": false,
+    "other_material_paths_modified": false,
+    "write_authorization": "explicit user request and connected GitHub repository push permission confirmed",
+    "branch_protection_observed_before_writes": false,
+    "force_push_used": false,
+    "pull_request": null,
+    "push_status": "pushed_to_main via GitHub Contents API; this manifest is part of that write sequence",
+    "remote_readback_status_at_manifest_creation": "final four-file readback pending; final response will report the actual verification result",
+    "initial_main_commit": "d9ffb7c89fe988f9cf1b0daf6229b3e23a8921b3",
+    "latest_pre_manifest_commit": "ddb2867f07ede3c57a09814e48a5e4ee5697da24",
+    "self_commit_sha": null,
+    "self_commit_sha_note": "The real resulting commit SHA is supplied in the final receipt, not invented inside its own committed metadata.",
+    "files": ["ANALYSIS.md", "CLAIM_EVIDENCE.csv", "INPUT_COVERAGE.csv", "RESULT_META.json"]
+  }
+}
