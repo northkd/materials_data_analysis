@@ -3,6 +3,7 @@
   "materials": [{"formula": "Na2WO2F4", "aliases": ["Na2W(OF2)2"], "mp_id": "mp-505382", "run": "aimd_1200K"}],
   "analysis_started_at_utc": "2026-11-15T11:07:07Z",
   "data_analysis_as_of_utc": "2026-11-15T11:14:44Z",
+  "archive_verification_as_of_utc": "2026-11-15T11:30:05Z",
   "interface_displayed_model": null,
   "model_verification_note": "当前上下文不能核实界面实际显示的模型名称，故留null。",
   "scientific_status": "UNVERIFIED",
@@ -32,7 +33,7 @@
     {"file":"details__data__full_windows__results__networks_persistent.csv","sha256":"eeb78f47c11b72e7e675111bd0776c62188b33fa7f2d0947c435d7c29f41992f"}
   ],
   "new_calculations": [
-    {"id":"N01","operation":"SHA-256 of uploaded bytes and complete CSV/JSON parsing","inputs":"19 uploaded files","result":"19 readable; gzip environment table 72000 rows"},
+    {"id":"N01","operation":"SHA-256 of uploaded bytes and complete CSV/JSON parsing","inputs":"19 uploaded files","result":"19 readable; gzip environment table 72000 rows; all19 input hashes rechecked at archive verification"},
     {"id":"N02","operation":"t=0.02*(frame+1); count unique frame and center; diff(t)","inputs":"cation_environment.csv.gz","result":{"frames":1000,"unique_frame_center_pairs":72000,"max_dt_error_ps":3.1259717037102064e-15}},
     {"id":"N03","operation":"mean(endpoint_A^2); sum subgroup squares / sum all squares; full vs tail5 join","inputs":"per_Na_motion.csv and motion_summary.json","result":{"full_MSD_A2":5.720215688338652,"far_endpoint_Na":14,"far_endpoint_MSD_share":0.9218072435394893,"tail5_MSD_A2":2.424688279683705}},
     {"id":"N04","operation":"union all same-Na global event closed bans [s-10,e+10]; test control closed [c_global-10,c_global+(e-s)+10] and window bounds","inputs":"events.json and CONTROL_VALIDITY.csv","result":{"valid":1692,"contaminated":4,"missing_original":9,"stored_validity_mismatches":0,"contaminated_index0":[1303,1305,1466,1467],"full_unique_control_intervals":393,"all_unique_valid_control_intervals":452,"exact_event_triples":411}},
@@ -46,6 +47,25 @@
   ],
   "limitations": ["Single existing nominal1200K run with startup spike documented only in saved temperature summary", "No raw trajectory/CIF/INCAR/OSZICAR/OUTCAR/vasprun read", "No per-W rigidity trajectories or candidate-region transition table", "Reported 76 continuous-dwell failures cannot be independently recomputed", "Ten 20fs samples span180fs; 11 are required for200fs closed span", "Null phases, right censoring and control reuse preserved", "Overlapping windows and origins are not independent replicates", "No complete site universe, vacancy fraction, migration barriers, electronic conductivity, room-temperature conductivity or device qualification", "No new simulations, model training or unvalidated coordinates"],
   "external_primary_sources": ["https://doi.org/10.1039/C5CC05446J", "https://doi.org/10.1073/pnas.2316493121", "https://doi.org/10.1038/s41467-026-77273-x", "https://doi.org/10.1016/j.ceramint.2022.11.186", "https://www.cdc.gov/niosh/npg/npgd0334.html", "https://ciaaw.org/atomic-weights.htm"],
-  "archive": {"repository":"northkd/materials_data_analysis","target_branch":"main","relative_path":"materials/Na2WO2F4/results_web","preexisting_result_root":false,"preflight_ref":"2e1465f2bbfc9211229d24266f0c79328fe4649a","write_tool_available":true,"connected_repository_push_permission":true,"push_status":"prepared_not_yet_pushed","remote_readback_verified":false,"self_commit_sha":null,"force_push":false,"existing_inputs_and_other_materials_modified":false},
+  "archive": {
+    "repository":"northkd/materials_data_analysis",
+    "target_branch":"main",
+    "relative_path":"materials/Na2WO2F4/results_web",
+    "preexisting_result_root":false,
+    "preflight_ref":"2e1465f2bbfc9211229d24266f0c79328fe4649a",
+    "rebased_parent_ref":"d51c8bbec1753a7a3af877129a250ecfdff36db3",
+    "write_tool_available":true,
+    "connected_repository_push_permission":true,
+    "push_status":"pushed_to_main",
+    "initial_results_commit_sha":"b108d6767dfac1547e27b6280ed8214722db0c1b",
+    "coverage_finalization_commit_sha":"e62a1cc10cb232cf559a071be080c7e7ea495a10",
+    "remote_readback_verified":true,
+    "readback_scope":"Main directory filenames and content blob SHAs checked; all four files fetched; long analysis/ledger content inspected in returned ranges. This record describes checks completed before this metadata-only finalization; the final metadata revision is re-read in the delivery receipt.",
+    "verified_nonmeta_blobs":{"ANALYSIS.md":"b0b78668fdb95cf51129b93eee72bde3eb9b5771","CLAIM_EVIDENCE.csv":"f0b7f19bd60da266b49df329c36d190f7f289b7b","INPUT_COVERAGE.csv":"841042a0cccbbe16d6ac380a7cde3c8cb6a890ba"},
+    "self_commit_sha":null,
+    "force_push":false,
+    "existing_inputs_and_other_materials_modified":false,
+    "concurrent_main_updates_preserved":true
+  },
   "generated_files": ["ANALYSIS.md","CLAIM_EVIDENCE.csv","INPUT_COVERAGE.csv","RESULT_META.json"]
 }
